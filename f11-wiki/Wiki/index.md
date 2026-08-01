@@ -23,3 +23,27 @@ _No notes yet._
 ## Logs (0)
 
 _No notes yet._
+
+## Components (0)
+
+_No notes yet._
+
+## Features (0)
+
+_No notes yet._
+
+## Decisions (0)
+
+_No notes yet._
+
+## Changes (0)
+
+_No notes yet._
+
+## Patterns (0)
+
+_No notes yet._
+
+## Conventions (0)
+
+_No notes yet._

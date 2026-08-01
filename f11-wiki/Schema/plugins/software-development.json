@@ -1,0 +1,12 @@
+{
+  "name": "software-development",
+  "version": "0.1.0",
+  "note_types": [
+    {"tag": "component",  "folder": "Wiki/Components",  "requires_source": false},
+    {"tag": "feature",    "folder": "Wiki/Features",    "requires_source": false},
+    {"tag": "decision",   "folder": "Wiki/Decisions",   "requires_source": false},
+    {"tag": "change",     "folder": "Wiki/Changes",     "requires_source": false},
+    {"tag": "pattern",    "folder": "Wiki/Patterns",    "requires_source": false},
+    {"tag": "convention", "folder": "Wiki/Conventions", "requires_source": false}
+  ]
+}

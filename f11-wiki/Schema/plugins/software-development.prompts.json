@@ -1,0 +1,22 @@
+{
+  "plugin": "software-development",
+  "version": "0.1.0",
+  "prompts": {
+    "change-discussion.md": {
+      "hash": "ddb3c43394ff58f8bc39a0204c585829913c6d701191b80b1408be80bc9d057a",
+      "version": "0.1.0"
+    },
+    "codebase-map.md": {
+      "hash": "fd84f0d42db61bac67d43d7482de17868c8f080f81e93801ad792497129a5439",
+      "version": "0.1.0"
+    },
+    "decision-record.md": {
+      "hash": "e0b641eca5b509a0dd9be3f2923442678bdbc9ff75c2a71fb942709ee0b85110",
+      "version": "0.1.0"
+    },
+    "feature-intake.md": {
+      "hash": "ac8ee59c8a9cb9e66d73f56a84278d19caebe1c15c7dbe2501302f0e437107af",
+      "version": "0.1.0"
+    }
+  }
+}

@@ -91,3 +91,87 @@ python3 scripts/wiki_tool.py source-lint
 7. Add a log entry if the ingest meaningfully changed the Wiki.
 
 See `Schema/` for frontmatter schema, naming conventions, the lint checklist, the command reference, and `Schema/workflow-examples.md` for worked examples.
+
+## Software Development Plugin
+
+This vault has the **software-development** plugin installed
+(`Schema/plugins/software-development.json`). It turns the wiki into the knowledge base for a
+**specific codebase** — what it's made of, what it does, and why it's built that way. It adds six
+note types:
+
+- **`component`** (`Wiki/Components/`) — a service, module, package or subsystem. The anchor
+  everything else links to.
+- **`feature`** (`Wiki/Features/`) — a user-facing capability, usually spanning several
+  components.
+- **`decision`** (`Wiki/Decisions/`) — an ADR: context → options → decision → consequences.
+- **`change`** (`Wiki/Changes/`) — a discrete change to the code, from `discussing` to `done`.
+- **`pattern`** (`Wiki/Patterns/`) — a reusable approach as this codebase actually does it.
+- **`convention`** (`Wiki/Conventions/`) — a team standard and how it's enforced.
+
+The topology is **change → feature → component**, with `decision` referenced by the change or
+feature that motivated it, and `pattern`/`convention` pointing at the components they apply to.
+All six types are source-exempt (no Raw source needed). See
+`Schema/software-development-frontmatter-schema.md` for the fields.
+
+### Ground every note in real code
+
+These notes carry provenance two ways instead of `sources:`:
+
+- **`**Code:**` lines and `paths:` frontmatter** — repo-relative paths, in backticks. This is what
+  ties a note to the repository.
+- **`**Based on:** [[...]]` wikilinks** — other wiki notes the note draws on, which surface as
+  backlinks on those notes.
+
+**Read the code before writing the note.** Do not invent components, paths, or behaviour that
+aren't in the repo; if you can't find the real path, say so rather than guessing. A wiki that
+describes a codebase that doesn't exist is worse than no wiki.
+
+### Authoring
+
+Notes are scaffolded and maintained by `scripts/dev_tool.py`, which writes them, wires the links,
+keeps counts and managed blocks current, and runs the maintenance gate. Don't hand-author these
+notes when the tool can do it consistently:
+
+```bash
+python3 scripts/dev_tool.py new-component --name "<Name>" --kind service \
+    --repo <repo> --path src/api --path src/api/handlers.py
+python3 scripts/dev_tool.py new-feature --title "<Title>" --state proposed \
+    --component <slug> --summary "..."
+python3 scripts/dev_tool.py new-change --title "<Title>" --feature <slug> \
+    --component <slug> --status discussing --path src/api/handlers.py
+python3 scripts/dev_tool.py new-decision --title "<Title>" --feature <slug> \
+    --context "..." --options "..." --decision "..." --consequences "..." --status accepted
+python3 scripts/dev_tool.py new-pattern --title "<Title>" --component <slug> --path <file>
+python3 scripts/dev_tool.py new-convention --title "<Title>" --scope repo-wide --enforcement lint
+
+python3 scripts/dev_tool.py set-status --note <slug> --status <value>   # move through a lifecycle
+python3 scripts/dev_tool.py list-notes --query "auth" --tag component   # find slugs to link
+python3 scripts/dev_tool.py refresh                                     # rebuild links + counts
+python3 scripts/dev_tool.py status                                      # project rollup
+```
+
+All `new-*` commands are **idempotent on title** — re-run with the same title to update a note in
+place, preserving the prose you've added to unmanaged sections.
+
+### Lifecycles
+
+- `feature.state`: `proposed` → `building` → `shipped` (or `deprecated`)
+- `change.change_status`: `discussing` → `planned` → `in-progress` → `done` (or `abandoned`)
+- `decision.decision_status`: `proposed` → `accepted` (or `rejected`), later `superseded`
+
+**Accepted decisions are immutable.** When thinking changes, write a new decision with
+`--supersedes <old-slug>` — the tool flips the old note to `superseded` and cross-links both.
+Never rewrite history in an accepted ADR; its worth is that it records what was believed then.
+
+### Where things belong
+
+- A *capability* users can ask for → `feature`. A *unit of work* on the code → `change`.
+- A choice with alternatives and lasting consequences → `decision`. If a change's discussion
+  produced an architectural choice, extract it into a decision and link it, rather than leaving it
+  buried in the change's prose.
+- Something the codebase does repeatedly → `pattern`. A rule people must follow → `convention`.
+- General industry knowledge that isn't about *this* codebase belongs in the core `concept` type,
+  not `pattern`.
+
+Reusable prompt templates live in `_prompts/` (`codebase-map.md`, `feature-intake.md`,
+`change-discussion.md`, `decision-record.md`) — tailor them to this project.

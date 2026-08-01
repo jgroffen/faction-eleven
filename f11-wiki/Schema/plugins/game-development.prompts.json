@@ -1,0 +1,22 @@
+{
+  "plugin": "game-development",
+  "version": "0.1.0",
+  "prompts": {
+    "level-design.md": {
+      "hash": "dc4490e24a86b09967c47bdf0da05056cd7afaf1905764fed9125f799d2380d7",
+      "version": "0.1.0"
+    },
+    "mechanic-design.md": {
+      "hash": "242ac8574bd0df951e3aea8855b792d6aa591d323b8d4814066b47c6693fefea",
+      "version": "0.1.0"
+    },
+    "quest-design.md": {
+      "hash": "3b32effc8aec6061dc629b803269f4e8ddfdb486939f02e3c1f6c835ba7b9774",
+      "version": "0.1.0"
+    },
+    "worldbuilding.md": {
+      "hash": "b01d40c8531d27044957ff6f185a07be5cb0d25ed75e5b0ac48551e06e5ec608",
+      "version": "0.1.0"
+    }
+  }
+}

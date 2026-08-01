@@ -176,3 +176,89 @@ Never rewrite history in an accepted ADR; its worth is that it records what was 
 
 Reusable prompt templates live in `_prompts/` (`codebase-map.md`, `feature-intake.md`,
 `change-discussion.md`, `decision-record.md`) — tailor them to this project.
+
+## Game Development Plugin
+
+This vault has the **game-development** plugin installed
+(`Schema/plugins/game-development.json`). It turns the wiki into a living game design document —
+what the game *is*: its design, content and world. It's built to sit **alongside** the
+`software-development` plugin, which covers how the game is *built*. The split:
+**game-development = what it is; software-development = how it's built.** A `game-mechanic` links to
+the `feature`(s) that implement it, so the two compose without overlapping.
+
+It adds eight note types:
+
+- **`game-mechanic`** (`Wiki/GameMechanics/`) — a rule/system the player engages with. Links to the
+  software-development `feature`(s) that implement it.
+- **`lore`** (`Wiki/Lore/`) — worldbuilding & canon, told as in-world truth.
+- **`quest`** (`Wiki/Quests/`) — a structured objective / mission / story beat.
+- **`level`** (`Wiki/Levels/`) — a designed space / area / encounter.
+- **`item`** (`Wiki/Items/`) — items, equipment, collectibles, resources.
+- **`character`** (`Wiki/Characters/`) — characters, NPCs, bosses.
+- **`faction`** (`Wiki/Factions/`) — groups the world is made of.
+- **`location`** (`Wiki/Locations/`) — places in the world (they nest via `parent`).
+
+The topology is a graph: quests link a giver/location/mechanics/rewards/prerequisites; levels
+link a location/mechanics/quests/enemies; characters link a faction/home; factions and locations
+link each other. All eight types are source-exempt. See
+`Schema/game-development-frontmatter-schema.md` for the fields.
+
+### Ground the world in itself
+
+These notes carry provenance as `[[wikilinks]]`, not `sources:`. Link every note to the parts of
+the world it draws on; the tool refuses links to a character, faction, location, quest, mechanic
+or item that doesn't exist, so **author the thing before you reference it.** Keep in-fiction
+things (`character`/`faction`/`location`) separate from the core `entity` type, which is for
+real/out-of-world things.
+
+### Authoring
+
+Notes are scaffolded and maintained by `scripts/game_tool.py`, which writes them, wires the
+links, keeps the managed rollup blocks current, and runs the maintenance gate. Don't hand-author
+these notes when the tool can do it consistently:
+
+```bash
+python3 scripts/game_tool.py new-location  --name "<Place>" [--parent <loc>] [--faction <fac>]
+python3 scripts/game_tool.py new-faction   --name "<Group>" [--homeland <loc>] [--ally <fac>]
+python3 scripts/game_tool.py new-character --name "<Name>" [--role npc] [--faction <fac>] [--home <loc>]
+python3 scripts/game_tool.py new-mechanic  --name "<Rule>" [--state concept] [--category combat] \
+    [--feature <sd-feature-slug>]
+python3 scripts/game_tool.py new-item      --name "<Item>" [--type weapon] [--rarity rare] [--mechanic <mech>]
+python3 scripts/game_tool.py new-quest     --title "<Quest>" [--giver <char>] [--location <loc>] \
+    [--mechanic <mech>] [--reward <item>] [--prereq <quest>] [--status design]
+python3 scripts/game_tool.py new-lore      --title "<Lore>" [--canon proposed] [--character <char>] \
+    [--faction <fac>] [--location <loc>]
+python3 scripts/game_tool.py new-level     --title "<Level>" [--location <loc>] [--mechanic <mech>] \
+    [--quest <quest>] [--enemy <char>] [--status design]
+
+python3 scripts/game_tool.py set-status --note <slug> --status <value>   # move a lifecycle
+python3 scripts/game_tool.py list-notes --query "ember" --tag game-mechanic   # find slugs to link
+python3 scripts/game_tool.py refresh                                     # rebuild rollups
+python3 scripts/game_tool.py status                                      # design rollup
+```
+
+All `new-*` commands are **idempotent on title/name** — re-run to update in place, preserving the
+prose you've written in unmanaged sections. List arguments merge; pass `--replace` to overwrite.
+
+### Lifecycles
+
+- `mechanic.state`: `concept` → `prototyped` → `tuned` → `shipped` (or `cut`)
+- `quest.quest_status`: `design` → `blockout` → `scripted` → `shipped` (or `cut`)
+- `level.level_status`: `design` → `blockout` → `art` → `polished` → `shipped` (or `cut`)
+- `lore.canon`: `proposed` → `canon` (or `retconned` / `non-canon`)
+
+Keep `canon` honest — mark superseded lore `retconned` rather than deleting it, so contradictions
+stay findable. Keep `prerequisites` on quests spoiler-safe: a quest must not reveal the outcome of
+one that lists it as a prerequisite.
+
+### Where things belong
+
+- A *rule the player interacts with* → `game-mechanic`. The *code that implements it* → a
+  software-development `feature`/`component`, linked via `--feature`.
+- An *in-world truth* → `lore`. A *thing to do* → `quest`. A *place to do it* → `level` (the
+  designed space) set in a `location` (the fictional place).
+- A person/group/place *in the fiction* → `character`/`faction`/`location`. A real or out-of-world
+  thing → the core `entity` type.
+
+Reusable prompt templates live in `_prompts/` (`worldbuilding.md`, `mechanic-design.md`,
+`quest-design.md`, `level-design.md`) — tailor them to your game.

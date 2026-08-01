@@ -1,0 +1,19 @@
+{
+  "name": "game-development",
+  "version": "0.1.0",
+  "note_types": [
+    {"tag": "game-mechanic", "folder": "Wiki/GameMechanics", "requires_source": false},
+    {"tag": "lore",          "folder": "Wiki/Lore",          "requires_source": false},
+    {"tag": "quest",         "folder": "Wiki/Quests",        "requires_source": false},
+    {"tag": "level",         "folder": "Wiki/Levels",        "requires_source": false},
+    {"tag": "item",          "folder": "Wiki/Items",         "requires_source": false},
+    {"tag": "character",     "folder": "Wiki/Characters",    "requires_source": false},
+    {"tag": "faction",       "folder": "Wiki/Factions",      "requires_source": false},
+    {"tag": "location",      "folder": "Wiki/Locations",     "requires_source": false}
+  ],
+  "install": {
+    "summary": "a living game design document — the game's design, content and world",
+    "post_install": "game-development installed. Build the world first with the gdd-worldbuild skill, or:\n  python3 scripts/game_tool.py new-location --name \"<Place>\"\nThen use gdd-mechanic / gdd-quest / gdd-level to design the game.",
+    "post_update": "game-development updated. Carry on with:\n  python3 scripts/game_tool.py status\nUntouched _prompts/ were refreshed; any you tailored were preserved (see the prompts summary above)."
+  }
+}

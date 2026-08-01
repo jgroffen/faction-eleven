@@ -24,6 +24,38 @@ _No notes yet._
 
 _No notes yet._
 
+## GameMechanics (0)
+
+_No notes yet._
+
+## Lore (0)
+
+_No notes yet._
+
+## Quests (0)
+
+_No notes yet._
+
+## Levels (0)
+
+_No notes yet._
+
+## Items (0)
+
+_No notes yet._
+
+## Characters (0)
+
+_No notes yet._
+
+## Factions (0)
+
+_No notes yet._
+
+## Locations (0)
+
+_No notes yet._
+
 ## Components (0)
 
 _No notes yet._

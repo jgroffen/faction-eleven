@@ -87,6 +87,78 @@ def link_skills(vault):
     return (linked, repaired, pruned, skipped)
 
 
+def repo_root_of(vault):
+    """Return the enclosing git repo's top level, or None if the vault isn't in one."""
+    try:
+        proc = subprocess.run(["git", "rev-parse", "--show-toplevel"], cwd=str(vault),
+                              capture_output=True, text=True)
+    except OSError:
+        return None
+    return Path(proc.stdout.strip()) if proc.returncode == 0 and proc.stdout.strip() else None
+
+
+def link_skills_at_repo_root(vault):
+    """Link a nested vault's skills into the *enclosing project repo's* `.claude/skills/`.
+
+    Claude Code loads project skills from the directory it starts in and its parents. For a
+    wiki nested inside a project repo, starting at the project root leaves the vault's skills
+    as *nested* skills, which only load lazily once a file under the wiki is touched. Linking
+    them at the repo root makes them available from the first prompt.
+
+    Done by default for a nested vault (opt out with `skills --link --no-repo-root`). Returns
+    (repo_root, linked, repaired, skipped), or (None, ...) when there's no enclosing repo or
+    the vault already is its root — in which case there's nothing extra to do.
+    """
+    vault = Path(vault).resolve()
+    repo_root = repo_root_of(vault)
+    if repo_root is None or repo_root.resolve() == vault:
+        return (None, 0, 0, 0)
+
+    src_root = vault / SKILLS_DIR
+    if not src_root.is_dir():
+        return (repo_root, 0, 0, 0)
+    dst_root = repo_root / CLAUDE_SKILLS_DIR
+    prefix = vault.relative_to(repo_root.resolve()).as_posix()
+
+    linked = repaired = skipped = 0
+    names = sorted(p.name for p in src_root.iterdir() if (p / "SKILL.md").is_file())
+    if names:
+        dst_root.mkdir(parents=True, exist_ok=True)
+    for name in names:
+        link = dst_root / name
+        target = os.path.join("..", "..", prefix, str(SKILLS_DIR), name)
+        if link.is_symlink():
+            if os.readlink(str(link)) == target and link.exists():
+                continue
+            link.unlink(); link.symlink_to(target); repaired += 1
+        elif link.exists():
+            print(f"  skipped {CLAUDE_SKILLS_DIR}/{name} at repo root (real file in the way)")
+            skipped += 1
+        else:
+            link.symlink_to(target); linked += 1
+    return (repo_root, linked, repaired, skipped)
+
+
+def unlinked_skills_at_repo_root(vault):
+    """Skills with no working link in the enclosing repo's `.claude/skills/`.
+
+    Empty when the vault is its own repo root (nothing extra is expected there).
+    """
+    vault = Path(vault).resolve()
+    repo_root = repo_root_of(vault)
+    if repo_root is None or repo_root.resolve() == vault:
+        return []
+    src_root = vault / SKILLS_DIR
+    if not src_root.is_dir():
+        return []
+    missing = []
+    for path in sorted(src_root.iterdir()):
+        if (path / "SKILL.md").is_file():
+            if not (repo_root / CLAUDE_SKILLS_DIR / path.name).exists():
+                missing.append(path.name)
+    return missing
+
+
 def unlinked_skills(vault):
     """Return skills present in `.agents/skills/` with no working `.claude/skills/` entry."""
     vault = Path(vault)
@@ -339,6 +411,12 @@ class PluginInstaller:
             if skipped:
                 detail += f", {skipped} skipped"
             print(f"  skills: {len(names)} installed ({CLAUDE_SKILLS_DIR}: {detail})")
+            # For a wiki nested in a project repo, also make them discoverable from the
+            # project root — otherwise they'd only load once a file in the wiki is touched.
+            repo, rlinked, rrepaired, _rskipped = link_skills_at_repo_root(vault)
+            if repo is not None and (rlinked or rrepaired):
+                print(f"  skills: linked at repo root {repo}/{CLAUDE_SKILLS_DIR} "
+                      f"({rlinked} linked, {rrepaired} repaired)")
 
     def update_agents(self, vault):
         agents = vault / "AGENTS.md"

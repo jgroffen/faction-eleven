@@ -1,23 +1,16 @@
 #!/usr/bin/env bash
 # LLM Wiki pre-commit gate. Install with: bash scripts/install_hooks.sh
+#
+# The vault is resolved from this script's own location, not from the git top level, so this
+# works whether the wiki IS the repo or sits in a subfolder of a larger project repo.
 set -euo pipefail
 
-ROOT="$(git rev-parse --show-toplevel)"
-cd "$ROOT"
+VAULT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$VAULT"
 
-echo "[pre-commit] building catalog and indexes..."
-python3 scripts/wiki_tool.py build
+# --staged-only skips entirely when the commit touches nothing in the wiki, so commits to a
+# surrounding project don't pay for a wiki build.
+python3 scripts/wiki_tool.py gate --staged-only
 
-echo "[pre-commit] linting compiled Wiki notes..."
-python3 scripts/wiki_tool.py lint
-
-echo "[pre-commit] linting Raw sources..."
-python3 scripts/wiki_tool.py source-lint
-
-echo "[pre-commit] auditing for public safety..."
-python3 scripts/audit_public.py
-
-# Re-stage any build artifacts the build step regenerated.
+# Re-stage any build artifacts the gate regenerated (vault-relative; we cd'd above).
 git add Wiki/catalog.jsonl Wiki/index.md Wiki/*/index.md 2>/dev/null || true
-
-echo "[pre-commit] ok"

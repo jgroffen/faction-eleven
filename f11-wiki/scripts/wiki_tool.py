@@ -29,6 +29,7 @@ import argparse
 import datetime
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -335,6 +336,7 @@ def cmd_skills(args):
     if not skills_dir.is_dir():
         print(f"no {plugin.SKILLS_DIR}/ in this vault")
         return 0
+    names = sorted(p.name for p in skills_dir.iterdir() if (p / "SKILL.md").is_file())
 
     if args.link:
         linked, repaired, pruned, skipped = plugin.link_skills(ROOT)
@@ -343,16 +345,96 @@ def cmd_skills(args):
         if skipped:
             return 1
 
-    names = sorted(p.name for p in skills_dir.iterdir() if (p / "SKILL.md").is_file())
+        # A wiki nested in a project repo also links at the repo root by default, so its
+        # skills load when the client starts there rather than only inside the wiki.
+        if not args.no_repo_root:
+            repo, rlinked, rrepaired, rskipped = plugin.link_skills_at_repo_root(ROOT)
+            if repo is not None:
+                print(f"{GREEN}skills: linked at repo root{RESET} — {rlinked} new, "
+                      f"{rrepaired} repaired, {rskipped} skipped in "
+                      f"{repo}/{plugin.CLAUDE_SKILLS_DIR}/")
+                probe = repo / plugin.CLAUDE_SKILLS_DIR / (names[0] if names else "any")
+                ignored = subprocess.run(["git", "check-ignore", "-q", str(probe)],
+                                         cwd=str(repo), capture_output=True)
+                if names and ignored.returncode == 0:
+                    print("  note: the project's .gitignore excludes these — they won't be "
+                          "committed, so re-run this after cloning.")
+                if rskipped:
+                    return 1
+
     missing = set(plugin.unlinked_skills(ROOT))
+    root_missing = set() if args.no_repo_root else set(plugin.unlinked_skills_at_repo_root(ROOT))
     for name in names:
-        mark = "" if name not in missing else "  (not linked)"
-        print(f"  {name}{mark}")
+        marks = []
+        if name in missing:
+            marks.append("not linked")
+        if name in root_missing:
+            marks.append("not linked at repo root")
+        print(f"  {name}" + (f"  ({', '.join(marks)})" if marks else ""))
     if not names:
         print("  (none)")
-    elif missing and not args.link:
-        print(f"\n{len(missing)} skill(s) are not discoverable by Claude Code. "
+    elif (missing or root_missing) and not args.link:
+        print(f"\n{len(missing | root_missing)} skill(s) are not fully discoverable. "
               "Run `wiki_tool.py skills --link`.")
+    return 0
+
+
+def _staged_under_vault():
+    """Return staged paths inside this vault, or None if git can't be consulted.
+
+    Works whether the vault is the repo root or nested inside a larger project: paths are
+    compared against the vault's location relative to the repo top level.
+    """
+    try:
+        top = subprocess.run(["git", "rev-parse", "--show-toplevel"], cwd=str(ROOT),
+                             capture_output=True, text=True)
+        staged = subprocess.run(["git", "diff", "--cached", "--name-only"], cwd=str(ROOT),
+                                capture_output=True, text=True)
+    except OSError:
+        return None
+    if top.returncode != 0 or staged.returncode != 0:
+        return None
+    repo_root = Path(top.stdout.strip())
+    try:
+        prefix = ROOT.relative_to(repo_root).as_posix()
+    except ValueError:
+        return None
+    names = [n for n in staged.stdout.splitlines() if n.strip()]
+    if prefix in ("", "."):
+        return names
+    return [n for n in names if n == prefix or n.startswith(prefix + "/")]
+
+
+def cmd_gate(args):
+    """Run the full maintenance gate: build, lint, source-lint, audit_public.
+
+    The single entry point for a commit gate. A project that owns its own git hooks can call
+    `python3 <wiki>/scripts/wiki_tool.py gate --staged-only` from anywhere, at any nesting
+    depth — paths come from this file's location, not the working directory.
+    """
+    if args.staged_only:
+        staged = _staged_under_vault()
+        if staged is None:
+            print("gate: cannot determine staged files (not a git repo?) — running in full")
+        elif not staged:
+            print(f"{GREEN}gate: skipped{RESET} — nothing staged under {ROOT.name}/")
+            return 0
+
+    steps = [("build", cmd_build), ("lint", cmd_lint), ("source-lint", cmd_source_lint)]
+    for i, (name, fn) in enumerate(steps, 1):
+        print(f"  gate [{i}/{len(steps) + 1}]: {name}")
+        rc = fn(args)
+        if rc:
+            print(f"{RED}gate failed at: {name}{RESET}", file=sys.stderr)
+            return rc
+
+    print(f"  gate [{len(steps) + 1}/{len(steps) + 1}]: audit_public")
+    proc = subprocess.run([sys.executable, str(ROOT / "scripts" / "audit_public.py")])
+    if proc.returncode:
+        print(f"{RED}gate failed at: audit_public{RESET}", file=sys.stderr)
+        return proc.returncode
+
+    print(f"{GREEN}gate: ok{RESET}")
     return 0
 
 
@@ -384,10 +466,12 @@ def cmd_doctor(args):
     # The links are committed, so this should normally be empty — it catches a platform where
     # git didn't restore symlinks, or a hand-edited .claude/. Report rather than fail: the wiki
     # is sound, the skills just aren't discoverable yet.
-    unlinked = _skill_links().unlinked_skills(ROOT)
+    _sk = _skill_links()
+    unlinked = set(_sk.unlinked_skills(ROOT)) | set(_sk.unlinked_skills_at_repo_root(ROOT))
     if unlinked:
-        info.append(f"skills: {len(unlinked)} not linked for Claude Code "
-                    f"({', '.join(unlinked)}) — run `wiki_tool.py skills --link`")
+        names = sorted(unlinked)
+        info.append(f"skills: {len(names)} not linked for Claude Code "
+                    f"({', '.join(names)}) — run `wiki_tool.py skills --link`")
 
     if PLUGINS:
         names = ", ".join(p.get("name", "?") for p in PLUGINS)
@@ -749,6 +833,13 @@ def build_parser():
     sk = sub.add_parser("skills", help="List the vault's skills; --link makes them discoverable.")
     sk.add_argument("--link", action="store_true",
                     help="Rebuild .claude/skills/ symlinks from .agents/skills/.")
+    sk.add_argument("--no-repo-root", action="store_true",
+                    help="For a wiki nested in a project repo, do NOT also link into the "
+                         "enclosing repo's .claude/skills/ (done by default).")
+
+    gt = sub.add_parser("gate", help="Run build, lint, source-lint and audit_public.")
+    gt.add_argument("--staged-only", action="store_true",
+                    help="Exit 0 immediately when nothing under the vault is staged.")
 
     sp = sub.add_parser("source-scan", help="List Raw sources / update manifest.")
     sp.add_argument("--update", action="store_true", help="Write Schema/source-manifest.jsonl.")
@@ -774,6 +865,7 @@ DISPATCH = {
     "lint": cmd_lint,
     "plugins": cmd_plugins,
     "skills": cmd_skills,
+    "gate": cmd_gate,
     "source-scan": cmd_source_scan,
     "source-lint": cmd_source_lint,
     "source-delta": cmd_source_delta,

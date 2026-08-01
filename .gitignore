@@ -1,0 +1,9 @@
+# Local AI-client state (settings.local.json, caches) stays out, but .claude/skills/ is
+# committed: those are symlinks into f11-wiki/.agents/skills/, and they're what makes the
+# wiki's skills discoverable when a client starts here at the project root rather than
+# inside f11-wiki/. Mirrors f11-wiki/.gitignore.
+#
+# Note the `*` — git can't re-include anything under an excluded *directory*, so `.claude/`
+# would make the negation below impossible.
+.claude/*
+!.claude/skills/

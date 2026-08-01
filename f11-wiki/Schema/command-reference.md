@@ -20,6 +20,9 @@ All tooling is in `scripts/` and uses only the Python standard library. Run from
 | `plugins` | no | List installed plugins and the note types they add. |
 | `skills` | no | List the vault's skills and whether each is discoverable by Claude Code. |
 | `skills --link` | yes | Rebuild the `.claude/skills/` symlinks from `.agents/skills/`. They're committed, so this is only needed to repair them — or on a platform where git didn't restore symlinks. |
+| `skills --link --no-repo-root` | yes | Opt out of the repo-root links. By default, a wiki nested in a project repo links into the *enclosing repo's* `.claude/skills/` as well, so its skills load when the client starts at the project root. No-op either way when the wiki is its own repo root. |
+| `gate` | yes | Run the full maintenance gate in one command: `build`, `lint`, `source-lint`, `audit_public.py`. |
+| `gate --staged-only` | yes | Same, but exits 0 immediately when nothing under the wiki is staged. This is what a nested wiki's commit gate uses so project commits aren't taxed. |
 
 ### Examples
 
@@ -54,7 +57,18 @@ Fails on obvious secrets, private keys, machine-local absolute paths, and commit
 bash scripts/install_hooks.sh
 ```
 
-Points `core.hooksPath` at `.githooks/`. The `pre-commit` hook runs `build`, `lint`, `source-lint`, and `audit_public.py`.
+When the wiki **is** the repository, this points `core.hooksPath` at `.githooks/`; the
+`pre-commit` hook then runs `wiki_tool.py gate`.
+
+When the wiki is a **subfolder of a project repo**, it deliberately leaves `core.hooksPath`
+alone — that setting is repo-wide and would displace the project's own hooks — and instead
+prints the line to add to the project's pre-commit hook:
+
+```bash
+python3 <wiki>/scripts/wiki_tool.py gate --staged-only || exit 1
+```
+
+Pass `--force` to claim `core.hooksPath` for the wiki anyway.
 
 ## Maintenance Gate
 

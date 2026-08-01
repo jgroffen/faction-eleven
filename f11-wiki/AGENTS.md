@@ -43,7 +43,8 @@ Every compiled Wiki note must link back to its Raw source(s) in `Raw/Sources/`. 
 | `Wiki/index.md` | Human index of the Wiki. |
 | `Schema/` | Schema, conventions, lint rules, source manifest. |
 | `_templates/` | Note templates. |
-| `.agents/skills/` | Agent skills. |
+| `.agents/skills/` | Agent skills — the core wiki's, plus any a plugin installed. |
+| `.claude/skills/` | Symlinks into `.agents/skills/` so Claude Code discovers them. Committed; rebuild with `wiki_tool.py skills --link`. |
 | `scripts/` | Deterministic tooling. |
 
 ## Allowed Compiled Note Tags

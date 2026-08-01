@@ -8,5 +8,10 @@
     {"tag": "change",     "folder": "Wiki/Changes",     "requires_source": false},
     {"tag": "pattern",    "folder": "Wiki/Patterns",    "requires_source": false},
     {"tag": "convention", "folder": "Wiki/Conventions", "requires_source": false}
-  ]
+  ],
+  "install": {
+    "summary": "the knowledge base for a specific codebase — what it's made of and why",
+    "post_install": "software-development installed. Map your codebase first with the devwiki-map skill, or:\n  python3 scripts/dev_tool.py new-component --name \"<Name>\" --kind service --path <src/dir>\nThen use devwiki-feature / devwiki-change / devwiki-decision to record the work.",
+    "post_update": "software-development updated. Carry on with:\n  python3 scripts/dev_tool.py status\nUntouched _prompts/ were refreshed; any you tailored were preserved (see the prompts summary above)."
+  }
 }

@@ -63,7 +63,7 @@ try:  # shared helpers from the core template (scripts/wiki_notes.py)
         die, emit_frontmatter, existing_created, rel, replace_block, run_gate, slug, today)
 except ImportError:
     print("error: this vault's core is missing scripts/wiki_notes.py. Update it from "
-          "llm-wiki-setup (re-copy template/. into the vault), then re-run.", file=sys.stderr)
+          "llm-wiki-core (re-copy template/. into the vault), then re-run.", file=sys.stderr)
     raise SystemExit(1)
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -99,10 +99,10 @@ DECISIONS_START, DECISIONS_END = "<!-- sd:decisions:start -->", "<!-- sd:decisio
 def require_plugin():
     if not WIKI_TOOL.exists():
         die("this folder is not an LLM Wiki (no scripts/wiki_tool.py). "
-            "Set up an llm-wiki first, then run the devwiki-init skill.")
+            "Set up an llm-wiki first, then install this plugin into it.")
     if not (ROOT / TYPES["component"]["folder"]).is_dir():
         die("the software-development plugin is not installed (no Wiki/Components/). "
-            "Run the devwiki-init skill in this vault first.")
+            "Install this plugin into the vault first: plugins/install-plugins.py")
 
 
 # --------------------------------------------------------------------------- #

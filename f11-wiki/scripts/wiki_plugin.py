@@ -1,28 +1,39 @@
 #!/usr/bin/env python3
-"""Shared install/lifecycle base class for LLM Wiki plugins.
+"""Shared install/lifecycle machinery for LLM Wiki plugins.
 
-This module ships with the core wiki template (scripts/wiki_plugin.py). A plugin's install.py
-imports it from the target vault and subclasses `PluginInstaller`, declaring only what's
-specific to the plugin (name, folders, payload files, AGENTS snippet, post-install message).
-The base provides the common lifecycle every plugin shares:
+This module ships with the core wiki template (scripts/wiki_plugin.py). The plugin installer
+imports it *from the target vault*, so the vault's own core governs how it is installed into.
+
+A plugin is **data plus payload** — everything the installer needs comes from the plugin's
+`plugin/manifest.json` and the layout of its folder, so plugins ship no installer code of
+their own. `PluginInstaller.run()` performs the whole lifecycle:
 
   * verify the target is a plugin-aware LLM Wiki,
   * copy the code payload (manifest, schema, tool script, templates),
   * sync `_prompts/` templates against a per-vault receipt — auto-updating untouched (stock)
     prompts while preserving tailored ones (asking keep/update/diff in a terminal, else
     notifying),
+  * install the plugin's skills into `.agents/skills/` and link them for AI clients,
   * create folders, append the AGENTS section once, and run the post-install gate.
 
-Subclasses override the hook attributes/methods; `run()` orchestrates the rest.
+See Schema/plugin-schema.md for the manifest contract and the payload layout.
 """
 
 import difflib
 import hashlib
 import json
+import os
 import shutil
 import subprocess
 import sys
 from pathlib import Path
+
+# Where a vault keeps its skills, and where AI clients discover them. `.agents/skills/` is the
+# canonical copy; `.claude/skills/` holds symlinks to it, because that is the only project
+# location Claude Code reads. Both are committed, so a cloned vault has working skills with no
+# setup step; `wiki_tool.py skills --link` rebuilds the links if they're missing.
+SKILLS_DIR = Path(".agents") / "skills"
+CLAUDE_SKILLS_DIR = Path(".claude") / "skills"
 
 
 def die(msg):
@@ -30,33 +41,143 @@ def die(msg):
     raise SystemExit(1)
 
 
+def link_skills(vault):
+    """Mirror `.agents/skills/<name>/` into `.claude/skills/<name>` as relative symlinks.
+
+    Claude Code discovers project skills only under `.claude/skills/`, and follows symlinks
+    there. Creates missing links, repairs broken or mis-pointed ones, and prunes links whose
+    target is gone. Never touches a real file or directory that isn't one of our symlinks.
+
+    Returns (linked, repaired, pruned, skipped).
+    """
+    vault = Path(vault)
+    src_root, dst_root = vault / SKILLS_DIR, vault / CLAUDE_SKILLS_DIR
+    linked = repaired = pruned = skipped = 0
+    if not src_root.is_dir():
+        return (0, 0, 0, 0)
+
+    names = sorted(p.name for p in src_root.iterdir() if (p / "SKILL.md").is_file())
+    if names:
+        dst_root.mkdir(parents=True, exist_ok=True)
+
+    for name in names:
+        link = dst_root / name
+        # Relative so the vault stays portable when moved or cloned elsewhere.
+        target = os.path.join("..", "..", str(SKILLS_DIR), name)
+        if link.is_symlink():
+            if os.readlink(str(link)) == target and link.exists():
+                continue
+            link.unlink()
+            link.symlink_to(target)
+            repaired += 1
+        elif link.exists():
+            print(f"  skipped .claude/skills/{name} (a real file/directory is in the way)")
+            skipped += 1
+        else:
+            link.symlink_to(target)
+            linked += 1
+
+    # Drop links we own whose skill has been uninstalled.
+    if dst_root.is_dir():
+        for link in sorted(dst_root.iterdir()):
+            if link.is_symlink() and not link.exists() and link.name not in names:
+                link.unlink()
+                pruned += 1
+
+    return (linked, repaired, pruned, skipped)
+
+
+def unlinked_skills(vault):
+    """Return skills present in `.agents/skills/` with no working `.claude/skills/` entry."""
+    vault = Path(vault)
+    src_root = vault / SKILLS_DIR
+    if not src_root.is_dir():
+        return []
+    missing = []
+    for path in sorted(src_root.iterdir()):
+        if (path / "SKILL.md").is_file():
+            link = vault / CLAUDE_SKILLS_DIR / path.name
+            if not link.exists():
+                missing.append(path.name)
+    return missing
+
+
 class PluginInstaller:
-    # --- Hooks a subclass MUST set -------------------------------------------
-    name = "?"                 # plugin name, also the receipt filename stem
-    manifest_name = "?.json"   # Schema/plugins/<manifest_name> written by copy_payload
-    agents_marker = ""         # unique heading that marks this plugin's AGENTS section
-    agents_snippet = None      # Path to the AGENTS-*.md snippet appended to the vault AGENTS.md
-    new_dirs = []              # vault-relative folders to create (with .gitkeep when empty)
+    """Installs one plugin folder into a vault, driven entirely by its manifest.
 
-    def __init__(self, repo, payload):
-        self.repo = Path(repo)
-        self.payload = Path(payload)
+    `plugin_dir` is the plugin's root (`plugins/<name>/`), holding `plugin/` (the payload
+    copied into the vault) and, optionally, `skills/`. Nothing here is plugin-specific: the
+    name, folders, payload files and closing message all come from `plugin/manifest.json`.
+    """
 
-    # --- Hooks a subclass overrides ------------------------------------------
+    def __init__(self, plugin_dir):
+        self.plugin_dir = Path(plugin_dir)
+        self.payload = self.plugin_dir / "plugin"
+        self.skills_src = self.plugin_dir / "skills"
+        manifest_file = self.payload / "manifest.json"
+        if not manifest_file.is_file():
+            die(f"{self.plugin_dir} is not a plugin (no plugin/manifest.json)")
+        try:
+            self.manifest = json.loads(manifest_file.read_text(encoding="utf-8"))
+        except ValueError as exc:
+            die(f"{manifest_file}: cannot parse ({exc})")
+        self.name = self.manifest.get("name") or self.plugin_dir.name
+        self.install_meta = self.manifest.get("install", {})
+
+    # --- Everything below is derived from the manifest / payload layout -------
+    @property
+    def manifest_name(self):
+        return f"{self.name}.json"
+
+    @property
+    def summary(self):
+        return self.install_meta.get("summary", "")
+
+    @property
+    def new_dirs(self):
+        """Folders to create: the note types' folders, plus any declared extras."""
+        dirs = [nt["folder"] for nt in self.manifest.get("note_types", []) if nt.get("folder")]
+        dirs += list(self.manifest.get("source_subdirs", []))
+        dirs += list(self.install_meta.get("extra_dirs", []))
+        return dirs
+
+    @property
+    def agents_snippet(self):
+        """The single AGENTS-*.md in the payload, appended to the vault's AGENTS.md."""
+        found = sorted(self.payload.glob("AGENTS-*.md"))
+        return found[0] if found else None
+
+    @property
+    def agents_marker(self):
+        """The snippet's first heading — what we look for to avoid appending twice."""
+        snippet = self.agents_snippet
+        if not snippet:
+            return ""
+        for line in snippet.read_text(encoding="utf-8").splitlines():
+            if line.startswith("#"):
+                return line.strip()
+        return ""
+
     def payload_copies(self, vault):
-        """Return [(src, dst)] of code-payload files to copy into the vault. Override."""
-        raise NotImplementedError
+        """[(src, dst)] for the code payload. `_prompts/` is handled by sync_prompts()."""
+        copies = [(self.payload / "manifest.json",
+                   vault / "Schema" / "plugins" / self.manifest_name)]
+        for sub, dest in (("Schema", "Schema"), ("scripts", "scripts"),
+                          ("_templates", "_templates")):
+            src_dir = self.payload / sub
+            if src_dir.is_dir():
+                for src in sorted(src_dir.iterdir()):
+                    if src.is_file():
+                        copies.append((src, vault / dest / src.name))
+        return copies
 
     def post_install_message(self, updating):
-        """Return the closing message printed after a successful install/update. Override."""
-        return ""
+        key = "post_update" if updating else "post_install"
+        return self.install_meta.get(key) or self.install_meta.get("post_install", "")
 
     # --- Shared lifecycle ----------------------------------------------------
     def plugin_version(self):
-        try:
-            return json.loads((self.payload / "manifest.json").read_text(encoding="utf-8")).get("version", "?")
-        except (OSError, ValueError):
-            return "?"
+        return self.manifest.get("version", "?")
 
     def verify_llm_wiki(self, vault):
         wiki_tool = vault / "scripts" / "wiki_tool.py"
@@ -65,11 +186,11 @@ class PluginInstaller:
         if missing:
             die(f"{vault} is not an LLM Wiki (missing "
                 f"{', '.join(str(m.relative_to(vault)) for m in missing)}). "
-                "Run llm-wiki-setup on this folder first.")
+                "Run llm-wiki-core on this folder first.")
         probe = subprocess.run([sys.executable, str(wiki_tool), "plugins"],
                                capture_output=True, text=True)
         if probe.returncode != 0:
-            die("this LLM Wiki core does not support plugins. Update it from llm-wiki-setup "
+            die("this LLM Wiki core does not support plugins. Update it from llm-wiki-core "
                 "(the core needs the `plugins` command and a plugin-aware wiki_tool.py).")
 
     def copy_payload(self, vault):
@@ -196,8 +317,33 @@ class PluginInstaller:
             if not any(path.iterdir()):
                 (path / ".gitkeep").touch()
 
+    def install_skills(self, vault):
+        """Copy the plugin's skills into the vault, then link them for AI clients.
+
+        Skills live with the wiki they act on, not in a global skills directory: a quiz or
+        card-populating skill is meaningless in a project that has no vault, or a vault
+        without this plugin.
+        """
+        if not self.skills_src.is_dir():
+            return
+        names = sorted(p.name for p in self.skills_src.iterdir() if (p / "SKILL.md").is_file())
+        for name in names:
+            dst = vault / SKILLS_DIR / name
+            if dst.exists():
+                shutil.rmtree(dst)     # replace wholesale: skills are ours, not user-edited
+            shutil.copytree(self.skills_src / name, dst)
+            print(f"  installed {SKILLS_DIR}/{name}")
+        if names:
+            linked, repaired, _pruned, skipped = link_skills(vault)
+            detail = f"{linked} linked, {repaired} repaired"
+            if skipped:
+                detail += f", {skipped} skipped"
+            print(f"  skills: {len(names)} installed ({CLAUDE_SKILLS_DIR}: {detail})")
+
     def update_agents(self, vault):
         agents = vault / "AGENTS.md"
+        if not self.agents_snippet:
+            return
         snippet = Path(self.agents_snippet).read_text(encoding="utf-8").strip()
         if agents.exists():
             text = agents.read_text(encoding="utf-8")
@@ -228,6 +374,7 @@ class PluginInstaller:
         self.copy_payload(vault)
         self.sync_prompts(vault, interactive=sys.stdin.isatty(),
                           force_update=update_prompts, keep=keep_prompts)
+        self.install_skills(vault)
         self.make_dirs(vault)
         self.update_agents(vault)
         self.run_gate(vault)

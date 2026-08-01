@@ -18,6 +18,8 @@ All tooling is in `scripts/` and uses only the Python standard library. Run from
 | `search-catalog --query "text"` | no | Search compiled notes through the catalog. |
 | `log --title "t" --details "d"` | yes | Add a log note under `Wiki/Logs/`. |
 | `plugins` | no | List installed plugins and the note types they add. |
+| `skills` | no | List the vault's skills and whether each is discoverable by Claude Code. |
+| `skills --link` | yes | Rebuild the `.claude/skills/` symlinks from `.agents/skills/`. They're committed, so this is only needed to repair them — or on a platform where git didn't restore symlinks. |
 
 ### Examples
 

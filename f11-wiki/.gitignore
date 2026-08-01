@@ -1,5 +1,11 @@
 .DS_Store
-.claude/
+__pycache__/
+# Local AI-client state (settings.local.json, caches) stays out, but .claude/skills/ is
+# committed: those are symlinks into .agents/skills/, and they're what makes this vault's
+# skills discoverable. Note the `*` — git can't re-include anything under an excluded
+# *directory*, so `.claude/` would make the negation below impossible.
+.claude/*
+!.claude/skills/
 .obsidian/workspace*.json
 .obsidian/plugins/
 .obsidian/cache/

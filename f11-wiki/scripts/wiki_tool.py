@@ -321,6 +321,41 @@ def cmd_plugins(args):
     return 0
 
 
+def _skill_links():
+    """Import the skill-linking helpers from wiki_plugin (a sibling module)."""
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import wiki_plugin
+    return wiki_plugin
+
+
+def cmd_skills(args):
+    """List the vault's skills and (with --link) make them discoverable by AI clients."""
+    plugin = _skill_links()
+    skills_dir = ROOT / plugin.SKILLS_DIR
+    if not skills_dir.is_dir():
+        print(f"no {plugin.SKILLS_DIR}/ in this vault")
+        return 0
+
+    if args.link:
+        linked, repaired, pruned, skipped = plugin.link_skills(ROOT)
+        print(f"{GREEN}skills: linked{RESET} — {linked} new, {repaired} repaired, "
+              f"{pruned} pruned, {skipped} skipped in {plugin.CLAUDE_SKILLS_DIR}/")
+        if skipped:
+            return 1
+
+    names = sorted(p.name for p in skills_dir.iterdir() if (p / "SKILL.md").is_file())
+    missing = set(plugin.unlinked_skills(ROOT))
+    for name in names:
+        mark = "" if name not in missing else "  (not linked)"
+        print(f"  {name}{mark}")
+    if not names:
+        print("  (none)")
+    elif missing and not args.link:
+        print(f"\n{len(missing)} skill(s) are not discoverable by Claude Code. "
+              "Run `wiki_tool.py skills --link`.")
+    return 0
+
+
 def cmd_doctor(args):
     problems = []
     info = []
@@ -345,6 +380,14 @@ def cmd_doctor(args):
 
     for err in PLUGIN_ERRORS:
         problems.append(f"plugin config: {err}")
+
+    # The links are committed, so this should normally be empty — it catches a platform where
+    # git didn't restore symlinks, or a hand-edited .claude/. Report rather than fail: the wiki
+    # is sound, the skills just aren't discoverable yet.
+    unlinked = _skill_links().unlinked_skills(ROOT)
+    if unlinked:
+        info.append(f"skills: {len(unlinked)} not linked for Claude Code "
+                    f"({', '.join(unlinked)}) — run `wiki_tool.py skills --link`")
 
     if PLUGINS:
         names = ", ".join(p.get("name", "?") for p in PLUGINS)
@@ -703,6 +746,10 @@ def build_parser():
     sub.add_parser("lint", help="Validate compiled Wiki notes.")
     sub.add_parser("plugins", help="List installed plugins and their note types.")
 
+    sk = sub.add_parser("skills", help="List the vault's skills; --link makes them discoverable.")
+    sk.add_argument("--link", action="store_true",
+                    help="Rebuild .claude/skills/ symlinks from .agents/skills/.")
+
     sp = sub.add_parser("source-scan", help="List Raw sources / update manifest.")
     sp.add_argument("--update", action="store_true", help="Write Schema/source-manifest.jsonl.")
     sp.add_argument("--accept-covered", action="store_true", help="Accept current coverage state.")
@@ -726,6 +773,7 @@ DISPATCH = {
     "build": cmd_build,
     "lint": cmd_lint,
     "plugins": cmd_plugins,
+    "skills": cmd_skills,
     "source-scan": cmd_source_scan,
     "source-lint": cmd_source_lint,
     "source-delta": cmd_source_delta,

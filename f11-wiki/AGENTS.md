@@ -18,6 +18,8 @@ Source material is compiled into a number of Wiki notes, for example:
 
 **Log** notes (`Wiki/Logs/`) record meaningful changes to the Wiki and are normally created by deterministic tooling.
 
+Three note types describe the **collaboration** rather than the subject matter, and so are exempt from the source rule: `log`, **handover** (`Wiki/Handovers/`, a session handed to the next one — temporary, and pruned when it expires) and **learning** (`Wiki/Learning/`, what the user is learning from this Wiki).
+
 Every compiled Wiki note must link back to its Raw source(s) in `Raw/Sources/`. Do not rely on generated text alone — keep the transformation visible: a small Raw source should become focused Wiki notes.
 
 ## Hard Rules
@@ -29,16 +31,43 @@ Every compiled Wiki note must link back to its Raw source(s) in `Raw/Sources/`. 
 5. **Run `build`, `lint`, and source checks before commits** (see the Maintenance Gate below).
 6. **Do not invent citations or create unsupported claims.** If a claim is not backed by a Raw source, do not assert it.
 
+## Knowledge From A Conversation
+
+Most of what belongs in a Wiki never arrives as a document — it is in someone's head. That does
+not exempt it from Rules 3 and 6: **the transcript becomes the source.** Record the interview
+under `Raw/Sources/interviews/`, in the user's own words, with `Reference` as a citation
+(`"Interview with the maintainer, 2026-08-04"`), then compile notes that cite it like any other
+evidence. The **grill-into-wiki** skill runs this end to end.
+
+The same holds for what nobody in the room knows: **llm-wiki-research** gathers it from primary
+sources into `Raw/Sources/research/`, with every claim carrying its link. A claim you supplied
+from recall is unsourced no matter how confident you are — send it to research or leave it out.
+
+## At The Start Of A Session
+
+Check whether a previous session left a handover:
+
+```bash
+python3 scripts/wiki_tool.py handover list
+```
+
+If one covers what the user is asking about, read it and the notes it links before starting — see
+the **llm-wiki-handover** skill.
+
 ## Layout
 
 | Path | Purpose |
 |------|---------|
 | `Raw/Sources/` | Original source notes (Markdown). Evidence. |
+| `Raw/Sources/interviews/` | Grilling transcripts — knowledge captured from the user. |
+| `Raw/Sources/research/` | Findings gathered from primary sources, cited. |
 | `Raw/Files/` | Binary / large source files (git-ignored). |
 | `Wiki/Topics/` | Broad topic notes. |
 | `Wiki/Concepts/` | Focused concept notes. |
 | `Wiki/Entities/` | People, orgs, things. |
 | `Wiki/Logs/` | Change log notes. |
+| `Wiki/Handovers/` | Session handovers. Temporary; `handover prune` removes expired ones. |
+| `Wiki/Learning/` | Learner state: the mission, learning records, preferences. |
 | `Wiki/catalog.jsonl` | Machine-readable catalog of compiled notes. |
 | `Wiki/index.md` | Human index of the Wiki. |
 | `Schema/` | Schema, conventions, lint rules, source manifest. |
@@ -50,7 +79,7 @@ Every compiled Wiki note must link back to its Raw source(s) in `Raw/Sources/`. 
 ## Allowed Compiled Note Tags
 
 Each compiled Wiki note uses exactly one allowed tag. The core tags are `topic`, `concept`,
-`entity`, `log`. **Plugins may add more** (see below); run
+`entity`, `log`, `handover`, `learning`. **Plugins may add more** (see below); run
 `python3 scripts/wiki_tool.py plugins` to see every tag currently available in this vault.
 
 ## Extending the Wiki with Plugins

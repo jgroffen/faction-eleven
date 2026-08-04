@@ -17,6 +17,12 @@ All tooling is in `scripts/` and uses only the Python standard library. Run from
 | `source-coverage` | no | Show which Raw sources are covered by compiled Wiki notes. |
 | `search-catalog --query "text"` | no | Search compiled notes through the catalog. |
 | `log --title "t" --details "d"` | yes | Add a log note under `Wiki/Logs/`. |
+| `handover new --title "t"` | yes | Create a session handover under `Wiki/Handovers/`, with the sections to fill in. `--expires-in DAYS` (default 90) sets the expiry; `--link SLUG` (repeatable) seeds the State section. |
+| `handover list [--all]` | no | Open and expired handovers, newest first. `--all` includes closed ones. |
+| `handover resume <slug>` | yes | Print the handover and mark it `resumed`. |
+| `handover close <slug>` | yes | Mark a handover `closed`, so the next `prune` removes it. |
+| `handover extend <slug> [--days N]` | yes | Push `expires` out to N days from today (default 90). |
+| `handover prune [--dry-run]` | yes | Delete spent handovers. **Closed** ones go (one bulk confirm when interactive). **Expired** ones are confirmed *individually* — delete / extend 90 days / skip — and are **never deleted without a TTY**, since an expired handover was never finished with. `--dry-run` reports and changes nothing. |
 | `plugins` | no | List installed plugins and the note types they add. |
 | `skills` | no | List the vault's skills and whether each is discoverable by Claude Code. |
 | `skills --link` | yes | Rebuild the `.claude/skills/` symlinks from `.agents/skills/`. They're committed, so this is only needed to repair them — or on a platform where git didn't restore symlinks. |
@@ -38,6 +44,11 @@ python3 scripts/wiki_tool.py source-coverage
 python3 scripts/wiki_tool.py search-catalog --query "navigation"
 python3 scripts/wiki_tool.py log --title "Ingest X" --details "Added concept notes from x.md"
 python3 scripts/wiki_tool.py plugins
+python3 scripts/wiki_tool.py handover new --title "Wire up the exporter" --link export-scheduling
+python3 scripts/wiki_tool.py handover list
+python3 scripts/wiki_tool.py handover resume wire-up-the-exporter
+python3 scripts/wiki_tool.py handover extend wire-up-the-exporter --days 90
+python3 scripts/wiki_tool.py handover prune --dry-run
 ```
 
 Plugins extend the allowed note types via `Schema/plugins/*.json`; see

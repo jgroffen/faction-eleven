@@ -16,10 +16,13 @@ Commands:
   source-coverage                Which Raw sources are covered by compiled notes.
   search-catalog --query "text"  Search compiled notes via the catalog.
   log --title "t" --details "d"  Add a log note under Wiki/Logs/.
+  handover new|list|resume|close|extend|prune
+                                 Manage session handover notes under Wiki/Handovers/.
   plugins                        List installed plugins and their note types.
 
 Plugins:
-  The four core note types (topic, concept, entity, log) can be extended by plugins.
+  The six core note types (topic, concept, entity, log, handover, learning) can be
+  extended by plugins.
   A plugin drops a manifest at Schema/plugins/<name>.json declaring extra note types
   (tag + folder + requires_source). build/lint/doctor honor them automatically, with no
   edits to this file. See Schema/plugin-schema.md.
@@ -50,6 +53,9 @@ CORE_NOTE_TYPES = [
     {"tag": "concept", "folder": "Wiki/Concepts", "requires_source": True},
     {"tag": "entity", "folder": "Wiki/Entities", "requires_source": True},
     {"tag": "log", "folder": "Wiki/Logs", "requires_source": False},
+    # Notes about the collaboration rather than the subject matter, so source-exempt.
+    {"tag": "handover", "folder": "Wiki/Handovers", "requires_source": False},
+    {"tag": "learning", "folder": "Wiki/Learning", "requires_source": False},
 ]
 
 
@@ -819,6 +825,277 @@ def cmd_log(args):
 
 
 # --------------------------------------------------------------------------- #
+# Handovers
+# --------------------------------------------------------------------------- #
+HANDOVER_STATUSES = ("open", "resumed", "closed")
+
+
+def _set_fm_field(path, updates):
+    """Rewrite scalar frontmatter fields in place. Appends a field that is absent."""
+    text = read(path)
+    lines = text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return False
+    end = next((i for i in range(1, len(lines)) if lines[i].strip() == "---"), None)
+    if end is None:
+        return False
+    remaining = dict(updates)
+    for i in range(1, end):
+        m = re.match(r"^([A-Za-z_][\w-]*):\s*(.*)$", lines[i])
+        if m and m.group(1) in remaining:
+            lines[i] = f"{m.group(1)}: {remaining.pop(m.group(1))}"
+    for key, val in remaining.items():
+        lines.insert(end, f"{key}: {val}")
+        end += 1
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return True
+
+
+def _iter_handovers():
+    """Yield (path, frontmatter, body) for every handover note, newest first."""
+    folder = WIKI_SUBDIRS.get("handover")
+    if folder is None or not folder.exists():
+        return
+    rows = []
+    for p in sorted(folder.glob("*.md")):
+        if is_index(p):
+            continue
+        fm, body = parse_frontmatter(read(p))
+        if "handover" in as_list(fm.get("tags")):
+            rows.append((p, fm, body))
+    rows.sort(key=lambda r: (str(r[1].get("created", "")), r[0].name), reverse=True)
+    yield from rows
+
+
+def _handover_state(fm):
+    """Return (status, expired) for a handover note."""
+    status = str(fm.get("status", "open")).strip() or "open"
+    expires = str(fm.get("expires", "")).strip()
+    expired = bool(DATE_RE.match(expires)) and expires < today() and status != "closed"
+    return status, expired
+
+
+def _handover_new(args):
+    folder = WIKI_SUBDIRS["handover"]
+    folder.mkdir(parents=True, exist_ok=True)
+    date = today()
+    slug = re.sub(r"[^a-z0-9]+", "-", args.title.lower()).strip("-") or "handover"
+    path = folder / f"{slug}.md"
+    n = 2
+    while path.exists():
+        path = folder / f"{slug}-{n}.md"
+        n += 1
+
+    expires = (datetime.date.today() + datetime.timedelta(days=args.expires_in)).isoformat()
+    links = "\n".join(f"- [[{s}]]" for s in (args.link or [])) or "- _(none yet)_"
+    content = (
+        "---\n"
+        "tags:\n"
+        '  - "handover"\n'
+        "topics: []\n"
+        "status: open\n"
+        f"created: {date}\n"
+        f"updated: {date}\n"
+        f"expires: {expires}\n"
+        "sources: []\n"
+        "source_count: 0\n"
+        "aliases: []\n"
+        "---\n\n"
+        f"# Handover: {args.title}\n\n"
+        "## State\n\n"
+        "_What is already written down. Link it, do not restate it._\n\n"
+        f"{links}\n\n"
+        "## Not yet written down\n\n"
+        "_What only exists in this conversation: what was mid-flight, what is unverified,\n"
+        "what was tried and rejected. Anything here that deserves to persist should become a\n"
+        "real note instead._\n\n"
+        "## Next step\n\n"
+        "_The single thing the next session should do first._\n\n"
+        "## Suggested skills\n\n"
+        "_Which skills the next agent should reach for._\n"
+    )
+    path.write_text(content, encoding="utf-8")
+    print(f"{GREEN}handover: written{RESET} -> {rel(path)} (expires {expires})")
+    print("Fill in the sections, then run: python3 scripts/wiki_tool.py build && ... lint")
+    return 0
+
+
+def _handover_list(args):
+    rows = list(_iter_handovers())
+    shown = 0
+    for path, fm, body in rows:
+        status, expired = _handover_state(fm)
+        if status == "closed" and not args.all:
+            continue
+        shown += 1
+        flag = f"{YELLOW}expired{RESET}" if expired else status
+        title = note_title(path, fm, body) or path.stem
+        print(f"  [{flag}] {path.stem} — {title}")
+        print(f"      created {fm.get('created','?')}, expires {fm.get('expires','?')}")
+    if not shown:
+        scope = "handovers" if args.all else "open handovers"
+        print(f"handover: no {scope}.")
+        return 0
+    print(f"{shown} handover(s){'' if args.all else ' (not closed; --all includes closed)'}.")
+    return 0
+
+
+def _handover_find(slug):
+    for path, fm, _ in _iter_handovers():
+        if path.stem == slug:
+            return path, fm
+    print(f"{RED}handover: no handover named {slug!r}{RESET} — try `handover list`.")
+    return None, None
+
+
+def _handover_resume(args):
+    path, _ = _handover_find(args.slug)
+    if path is None:
+        return 1
+    print(read(path))
+    _set_fm_field(path, {"status": "resumed", "updated": today()})
+    print(f"{GREEN}handover: resumed{RESET} -> {rel(path)}")
+    print("Close it with `handover close` once the work it describes is done.")
+    return 0
+
+
+def _handover_close(args):
+    path, _ = _handover_find(args.slug)
+    if path is None:
+        return 1
+    _set_fm_field(path, {"status": "closed", "updated": today()})
+    print(f"{GREEN}handover: closed{RESET} -> {rel(path)} (removed by `handover prune`)")
+    return 0
+
+
+def _extend_to(path, days):
+    """Push a handover's expiry out to today + days. Returns the new date."""
+    new_expiry = (datetime.date.today() + datetime.timedelta(days=days)).isoformat()
+    _set_fm_field(path, {"expires": new_expiry, "updated": today()})
+    return new_expiry
+
+
+def _handover_extend(args):
+    path, fm = _handover_find(args.slug)
+    if path is None:
+        return 1
+    new_expiry = _extend_to(path, args.days)
+    print(f"{GREEN}handover: extended{RESET} -> {rel(path)} (expires {new_expiry})")
+    if str(fm.get("status", "")).strip() == "closed":
+        print(f"{YELLOW}note:{RESET} this handover is closed, so `prune` still removes it. "
+              "Run `handover resume` to pick it back up.")
+    return 0
+
+
+def _days_ago(date_str):
+    try:
+        d = datetime.date.fromisoformat(date_str)
+    except ValueError:
+        return None
+    return (datetime.date.today() - d).days
+
+
+def _handover_prune(args):
+    """Delete spent handovers.
+
+    Closed handovers were deliberately finished with, so they go. Expired ones were never
+    finished with — their 'Not yet written down' section is the only copy of that content — so
+    each one is confirmed individually, and without a TTY they are never deleted at all.
+    """
+    closed, expired = [], []
+    for path, fm, body in _iter_handovers():
+        status, is_expired = _handover_state(fm)
+        if status == "closed":
+            closed.append((path, fm, body))
+        elif is_expired:
+            expired.append((path, fm, body))
+
+    if not closed and not expired:
+        print("handover: nothing to prune.")
+        return 0
+
+    for path, _, _ in closed:
+        print(f"  closed:  {rel(path)}")
+    for path, fm, _ in expired:
+        ago = _days_ago(str(fm.get("expires", "")))
+        when = f", lapsed {ago} day(s) ago" if ago is not None else ""
+        print(f"  expired: {rel(path)}{when}")
+
+    if args.dry_run:
+        if closed:
+            print(f"handover: {len(closed)} closed would be deleted (dry run).")
+        if expired:
+            print(f"handover: {len(expired)} expired would be confirmed one at a time "
+                  "before deletion (dry run).")
+        return 0
+
+    deleted = 0
+    interactive = sys.stdin.isatty()
+
+    if closed:
+        if not interactive or input(
+            f"Delete {len(closed)} closed handover note(s)? [y/N] "
+        ).strip().lower() == "y":
+            for path, _, _ in closed:
+                path.unlink()
+                deleted += 1
+        else:
+            print("handover: closed notes kept.")
+
+    if expired and not interactive:
+        print(f"\n{YELLOW}handover: {len(expired)} expired note(s) NOT deleted{RESET} — an "
+              "expired handover was never finished with, so deleting it needs a decision.")
+        print("Ask, then run one of:")
+        for path, _, _ in expired:
+            print(f"  python3 scripts/wiki_tool.py handover extend {path.stem}   # keep it, +90 days")
+            print(f"  python3 scripts/wiki_tool.py handover close {path.stem}    # done with it; "
+                  "the next prune removes it")
+    elif expired:
+        print()
+        for path, fm, body in expired:
+            title = note_title(path, fm, body) or path.stem
+            ago = _days_ago(str(fm.get("expires", "")))
+            when = f" — lapsed {ago} day(s) ago" if ago is not None else ""
+            print(f"{title}{when}")
+            print(f"  {rel(path)}")
+            choice = input("  [d]elete, [e]xtend 90 days, [s]kip (default) ? ").strip().lower()
+            if choice == "d":
+                path.unlink()
+                deleted += 1
+                print(f"  {GREEN}deleted{RESET}")
+            elif choice == "e":
+                print(f"  {GREEN}extended{RESET} — expires {_extend_to(path, 90)}")
+            else:
+                print("  skipped")
+
+    if deleted:
+        print(f"\n{GREEN}handover: pruned{RESET} — {deleted} note(s) deleted. Re-run `build`.")
+    else:
+        print(f"\nhandover: nothing deleted.")
+    return 0
+
+
+HANDOVER_MODES = {
+    "new": _handover_new,
+    "list": _handover_list,
+    "resume": _handover_resume,
+    "close": _handover_close,
+    "extend": _handover_extend,
+    "prune": _handover_prune,
+}
+
+
+def cmd_handover(args):
+    if args.mode in ("resume", "close", "extend") and not args.slug:
+        print(f"{RED}handover: `{args.mode}` needs a handover slug{RESET} — try `handover list`.")
+        return 1
+    if args.mode == "new" and not args.title:
+        print(f"{RED}handover: `new` needs --title{RESET}")
+        return 1
+    return HANDOVER_MODES[args.mode](args)
+
+
+# --------------------------------------------------------------------------- #
 # CLI
 # --------------------------------------------------------------------------- #
 def build_parser():
@@ -856,6 +1133,20 @@ def build_parser():
     lg.add_argument("--title", required=True)
     lg.add_argument("--details", required=True)
 
+    ho = sub.add_parser("handover", help="Manage session handover notes.")
+    ho.add_argument("mode", choices=sorted(HANDOVER_MODES))
+    ho.add_argument("slug", nargs="?", help="Handover slug, for `resume`, `close` and `extend`.")
+    ho.add_argument("--title", help="Title, for `new`.")
+    ho.add_argument("--expires-in", type=int, default=90, metavar="DAYS",
+                    help="Days until the handover expires (default 90).")
+    ho.add_argument("--days", type=int, default=90, metavar="DAYS",
+                    help="For `extend`: days from today to push `expires` out to (default 90).")
+    ho.add_argument("--link", action="append", metavar="SLUG",
+                    help="Seed the State section with a [[wikilink]]. Repeatable.")
+    ho.add_argument("--all", action="store_true", help="For `list`: include closed handovers.")
+    ho.add_argument("--dry-run", action="store_true",
+                    help="For `prune`: report what would be deleted, delete nothing.")
+
     return p
 
 
@@ -872,6 +1163,7 @@ DISPATCH = {
     "source-coverage": cmd_source_coverage,
     "search-catalog": cmd_search_catalog,
     "log": cmd_log,
+    "handover": cmd_handover,
 }
 
 

@@ -10,9 +10,11 @@ An LLM Wiki separates *captured source material* from *compiled knowledge*:
 - **`Raw/Files/`** — binary or large source files (ignored by git by default).
 - **`Wiki/`** — concise, reusable, interlinked knowledge notes compiled from Raw sources.
   - `Wiki/Topics/`, `Wiki/Concepts/`, `Wiki/Entities/`, `Wiki/Logs/`
+  - `Wiki/Handovers/`, `Wiki/Learning/` — notes about the collaboration rather than the subject.
 - **`Schema/`** — frontmatter schema, naming conventions, lint rules, the source manifest, and the command reference.
 - **`_templates/`** — note templates for sources and compiled notes.
-- **`.agents/skills/`** — agent skills for ingest, query, lint, and maintenance.
+- **`.agents/skills/`** — agent skills: ingest, query, lint and maintenance, plus grilling,
+  research, glossary, handover, teach, and the `llm-wiki-help` router.
 - **`scripts/`** — deterministic tooling (`wiki_tool.py`, hooks, audit).
 
 ## Core Workflow
@@ -21,6 +23,10 @@ An LLM Wiki separates *captured source material* from *compiled knowledge*:
 2. Compile useful claims into short, linked notes under `Wiki/`.
 3. Keep every Wiki note linked back to its Raw source(s).
 4. Build the catalog and indexes, then run health checks.
+
+Knowledge that lives in your head instead of a document still follows this shape: the
+`grill-into-wiki` skill interviews you, saves the transcript to `Raw/Sources/interviews/`, and
+compiles notes that cite it. Ask `/llm-wiki-help` if you're not sure which skill you want.
 
 ## For Agents
 

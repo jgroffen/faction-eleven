@@ -94,3 +94,59 @@ python3 scripts/audit_public.py
 ```
 
 If all pass, commit.
+
+## Example 4: Capturing What Only the User Knows
+
+The `grill-into-wiki` skill runs this; the shape is worth knowing.
+
+1. Search the catalog first — never ask what the wiki can already answer.
+2. Interview the user one question at a time, each with a recommended answer.
+3. Record the exchange as evidence in `Raw/Sources/interviews/bee-navigation-practice.md`:
+
+   ```yaml
+   ---
+   Title: "Interview: how we track bee navigation"
+   Reference: "Interview with the field lead, 2026-06-14"
+   ContentType:
+     - "interview"
+   Created: 2026-06-14
+   Processed: true
+   tags:
+     - "source"
+   ---
+   ```
+
+4. Compile notes that cite it, exactly as in Example 1 — `sources` lists the transcript and
+   `source_count` is 1.
+5. Run the same build/lint/source-scan/source-lint sequence.
+
+The point: knowledge from a conversation is not exempt from the source rule — the conversation
+*is* the source.
+
+## Example 5: Handing a Session Over
+
+```bash
+python3 scripts/wiki_tool.py handover new --title "Finish the bee ingest" \
+  --link sun-compass-orientation --link honey-bee
+# fill in the sections, then:
+python3 scripts/wiki_tool.py build && python3 scripts/wiki_tool.py lint
+```
+
+In the next session:
+
+```bash
+python3 scripts/wiki_tool.py handover list
+python3 scripts/wiki_tool.py handover resume finish-the-bee-ingest
+# when it's done:
+python3 scripts/wiki_tool.py handover close finish-the-bee-ingest
+python3 scripts/wiki_tool.py handover prune
+```
+
+Not done, but the 90 days ran out? Keep it instead:
+
+```bash
+python3 scripts/wiki_tool.py handover extend finish-the-bee-ingest
+```
+
+`prune` deletes the handovers you closed, but stops on each **expired** one to ask — delete,
+extend, or skip — because nobody ever declared that work finished.

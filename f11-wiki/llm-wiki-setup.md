@@ -76,11 +76,15 @@ Create or preserve these folders:
 
 ```text
 Raw/Sources/
+Raw/Sources/interviews/
+Raw/Sources/research/
 Raw/Files/
 Wiki/Topics/
 Wiki/Concepts/
 Wiki/Entities/
 Wiki/Logs/
+Wiki/Handovers/
+Wiki/Learning/
 Schema/
 Schema/plugins/
 _templates/
@@ -143,7 +147,15 @@ Source material is compiled into a number of Wiki notes, for example:
 
 Log notes record meaningful changes to the wiki, and may be created by the user with deterministic tooling.
 
-Every compiled Wiki note must link back to the Raw source in `Sources`.
+Three note types describe the collaboration rather than the subject matter, and are exempt from
+the source rule: log notes, handover notes (`Wiki/Handovers/` — one session handed to the next,
+temporary and pruned when it expires) and learning notes (`Wiki/Learning/` — what the user is
+learning from this wiki).
+
+Every compiled Wiki note must link back to the Raw source in `Sources`. Knowledge that arrives in
+conversation rather than as a document is not exempt: the transcript is recorded under
+`Raw/Sources/interviews/` and cited as the source. Findings gathered from primary sources go to
+`Raw/Sources/research/` the same way.
 
 Do not rely on generated text alone. Keep the transformation visible: a small Raw source should become focused Wiki notes.
 
@@ -156,6 +168,8 @@ Review and if required create or update:
 - `_templates/topic-note.md`
 - `_templates/entity-note.md`
 - `_templates/log-note.md`
+- `_templates/handover-note.md`
+- `_templates/learning-note.md`
 
 Source notes should include:
 
@@ -195,6 +209,8 @@ Allowed compiled note tags:
 - `concept`
 - `entity`
 - `log`
+- `handover` — adds `status` (`open`/`resumed`/`closed`) and `expires`
+- `learning` — adds `kind` (`mission`/`record`/`preferences`) and `status`
 
 Once Step 03 is complete, commit with the following commit message:
 
@@ -218,10 +234,18 @@ Ensure `scripts/wiki_tool.py` uses only the Python standard library and is consi
 - `source-coverage`: show which Raw sources are covered by compiled Wiki notes.
 - `search-catalog --query "text"`: search compiled Wiki notes through the catalog.
 - `log --title "title" --details "details"`: add a log record to `Wiki/Logs/`.
+- `handover new|list|resume|close|extend|prune`: manage session handover notes under
+  `Wiki/Handovers/`. `new --title "t"` writes the note with a stamped `expires`
+  (`--expires-in DAYS`, default 90) and the sections to fill in; `list` shows open and
+  expired ones; `resume`/`close` set `status`; `extend <slug> [--days N]` pushes `expires`
+  out; `prune` clears out spent notes (`--dry-run` to report only). `prune` must delete a
+  **closed** handover but confirm an **expired** one individually — offering to extend it —
+  and must never delete an expired handover when stdin is not a TTY, since an expired
+  handover was never finished with and holds the only copy of its unrecorded content.
 - `plugins`: list installed plugins and the note types they add (and serve as a
   capability probe for plugin-aware cores).
 
-The core note types are `topic`, `concept`, `entity`, and `log`, but `wiki_tool.py` must
+The core note types are `topic`, `concept`, `entity`, `log`, `handover`, and `learning`, but `wiki_tool.py` must
 derive its allowed tags and folders from a registry that merges these with any plugin
 manifests found in `Schema/plugins/*.json` — so plugins can add note types (e.g. an
 `mtg-wiki` plugin adding `card`/`set`) without editing the tool. Each plugin note type
@@ -264,7 +288,7 @@ Minimum source manifest contract:
 
 Minimum lint behavior:
 
-- compiled Wiki notes must use one allowed tag: `topic`, `concept`, `entity`, or `log`
+- compiled Wiki notes must use one allowed tag: `topic`, `concept`, `entity`, `log`, `handover`, or `learning`
 - compiled Wiki notes must keep `source_count` equal to the number of `sources`
 - compiled Wiki note source links should point to existing files under `Raw/Sources/`
 - Raw source notes should include `Title`, `Reference`, `Created`, `Processed`, and `tags`
@@ -278,11 +302,22 @@ llmwiki-04-tooling
 
 ### Step 05: Agent Skills
 
-Review and if required create or update:
+Review and if required create or update the skills that maintain the wiki:
+
 - `.agents/skills/llm-wiki-ingest/SKILL.md`
 - `.agents/skills/llm-wiki-query/SKILL.md`
 - `.agents/skills/llm-wiki-lint/SKILL.md`
 - `.agents/skills/llm-wiki-maintain/SKILL.md`
+
+…and the skills for the collaboration around it:
+
+- `.agents/skills/llm-wiki-grilling/SKILL.md` — the interview loop the two below drive
+- `.agents/skills/grill-into-wiki/SKILL.md` — interview the user, transcript as the source
+- `.agents/skills/llm-wiki-research/SKILL.md` — primary-source research into a cited source
+- `.agents/skills/llm-wiki-glossary/SKILL.md` — keep terminology sharp and de-duplicated
+- `.agents/skills/llm-wiki-handover/SKILL.md` — write and resume session handovers
+- `.agents/skills/llm-wiki-teach/SKILL.md` — teach the wiki's subject over multiple sessions
+- `.agents/skills/llm-wiki-help/SKILL.md` — router over the vault's skills
 
 Ensure each llm-wiki `SKILL.md` file includes a valid frontmatter section that describes the skill, for example:
 
@@ -292,6 +327,24 @@ name: my-custom-skill
 description: A clear description of what this skill does so the agent knows when to invoke it.
 ---
 ```
+
+Skills split by **who can invoke them**. A skill the agent should be able to reach for on its own
+(or that another skill drives) keeps a description rich in trigger phrasing — its description sits
+in the context window every turn, so it earns hard pruning. A skill only ever typed by the user
+adds `disable-model-invocation: true`; its description becomes a one-line human-facing summary and
+costs no context. Of the skills above, `grill-into-wiki`, `llm-wiki-handover`, `llm-wiki-teach`
+and `llm-wiki-help` are user-invoked; the rest are model-invoked.
+
+Then make the skills discoverable by AI clients:
+
+```bash
+python3 scripts/wiki_tool.py skills --link
+```
+
+`.agents/skills/` is the canonical home for a vault's skills. Claude Code reads project skills
+only from `.claude/skills/`, so this creates a symlink there for each one. Commit both — the
+`.gitignore` keeps local `.claude/` state out but keeps `.claude/skills/` in, so a clone of this
+vault has working skills immediately. `doctor` reports when links are missing.
 
 Once Step 05 is complete, commit with the following commit message:
 
@@ -306,8 +359,9 @@ At this point the user has a working core LLM Wiki.
 The core build is complete only when all of these are true:
 
 - `AGENTS.md` exists and describes Raw/Wiki/Schema rules
-- `_templates/` contains source, concept, topic, entity, and log templates
-- `.agents/skills/` contains ingest, query, lint, and maintain skills
+- `_templates/` contains source, concept, topic, entity, log, handover, and learning templates
+- `.agents/skills/` contains all eleven skills listed in Step 05, and
+  `python3 scripts/wiki_tool.py skills` reports every one of them as linked
 - `scripts/wiki_tool.py` supports every command listed in Step 04
 - `scripts/audit_public.py` exists and passes
 - `Wiki/catalog.jsonl` exists and includes the compiled Wiki notes

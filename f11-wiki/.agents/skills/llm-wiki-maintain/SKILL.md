@@ -49,5 +49,6 @@ It runs `build`, `lint`, `source-lint`, and `audit_public.py` automatically on c
 
 ## Guardrails
 
-- Never commit if `audit_public.py` fails (secrets, machine-local paths, cache/plugin state).
+- Commit once `audit_public.py` passes — a failure means secrets, machine-local paths, or
+  cache/plugin state are staged, so fix what it names first.
 - Commit regenerated `Wiki/catalog.jsonl`, `Wiki/index.md`, and per-folder `index.md` files together with the notes that changed.

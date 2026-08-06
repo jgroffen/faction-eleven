@@ -13,6 +13,11 @@ expires instead of accumulating.
 Two branches: **write one** (the session is full, or you are forking off) and **resume one** (a
 fresh session picking up).
 
+**A handover is one of five things you can do at a phase boundary**, and often not the right one.
+Read [PHASE-BOUNDARIES.md](PHASE-BOUNDARIES.md) for the ordered tree — continue, `/clear`,
+handover, subagent, `/compact` — and for the step that comes before all of them: land the
+knowledge as notes first.
+
 ## Write a handover
 
 1. **Create the note:**
@@ -85,23 +90,23 @@ covers and how long ago it lapsed, then ask which of the three they want:
 | done with it | `handover close <slug>` — the next prune deletes it |
 | never mind it | `handover close <slug>`, then `handover prune` |
 
-Take the answer at face value and act on it. Do not delete the file directly to route around the
-confirmation, and do not decide on the user's behalf because a handover looks stale — looking
-stale is precisely the state `prune` is refusing to act on alone.
+Take the answer at face value and act on it: the three commands above are the whole set of moves
+here. A handover that looks stale is exactly the state `prune` is refusing to act on alone, so
+leave the decision with the user — deleting the file by hand routes around the confirmation they
+asked for.
 
 Finish with `build` so the catalog matches what is on disk.
 
 ## Guardrails
 
-- **Redact.** No API keys, tokens, passwords, or personal data — a handover is committed like any
-  other note.
-- **Do not duplicate what other artifacts already hold.** Notes, commits, and plugin notes
-  (`decision`, `change`) are all referenceable by link.
+- **Redact.** A handover is committed like any other note, so keep API keys, tokens, passwords,
+  and personal data out of it.
+- **Link what other artifacts already hold.** Notes, commits, and plugin notes (`decision`,
+  `change`) are all referenceable by link.
 - **Temporary means temporary.** A handover is scaffolding for one piece of work. Knowledge worth
   keeping goes in a real note; git history keeps the record after pruning.
 - **An expired handover is a question, not a verdict.** Ask before deleting one — see above.
-- Do not resume a handover and a fresh instruction at once without saying so — say which you are
-  following when they conflict.
+- When a resumed handover and a fresh instruction conflict, say which one you are following.
 
 ## Done when
 

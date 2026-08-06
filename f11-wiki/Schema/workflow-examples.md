@@ -99,8 +99,8 @@ If all pass, commit.
 
 The `grill-into-wiki` skill runs this; the shape is worth knowing.
 
-1. Search the catalog first — never ask what the wiki can already answer.
-2. Interview the user one question at a time, each with a recommended answer.
+1. Search the catalog first — whatever the wiki already answers is stated back as settled.
+2. Interview the user a round of questions at a time, each with a recommended answer.
 3. Record the exchange as evidence in `Raw/Sources/interviews/bee-navigation-practice.md`:
 
    ```yaml

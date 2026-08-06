@@ -14,7 +14,8 @@ An LLM Wiki separates *captured source material* from *compiled knowledge*:
 - **`Schema/`** — frontmatter schema, naming conventions, lint rules, the source manifest, and the command reference.
 - **`_templates/`** — note templates for sources and compiled notes.
 - **`.agents/skills/`** — agent skills: ingest, query, lint and maintenance, plus grilling,
-  research, glossary, handover, teach, and the `llm-wiki-help` router.
+  research, questionnaires, glossary, handover, teach, plain-English re-pitches, and the
+  `llm-wiki-help` router.
 - **`scripts/`** — deterministic tooling (`wiki_tool.py`, hooks, audit).
 
 ## Core Workflow

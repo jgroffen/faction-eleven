@@ -60,7 +60,7 @@ become a link target:
 _Avoid: "refund" — that is the money movement, not the request. See [[refund]]._
 ```
 
-### Merge, do not leave both
+### Merge to one note
 
 When two notes are the same term, fold the content into the better-named one, add the other's
 title to its `aliases`, repoint the inbound `[[links]]`, and delete the duplicate. Two half-notes
@@ -68,14 +68,14 @@ are worse than either one alone.
 
 ## Guardrails
 
-- **Change the definition, not the evidence.** Renaming or merging never drops a `sources` entry;
-  the merged note carries the union, with `source_count` updated to match.
-- **Only terms this wiki actually uses.** General vocabulary belongs in the reader's head, not in
-  the wiki — a definition nobody looks up is context load.
-- Keep definitions to a sentence or two: what the term **is**, not what it does.
-- **Never invent a definition to settle an argument.** If neither the user nor the wiki can pin
-  it down, that is **llm-wiki-research**.
-- Fix it where you find it — do not defer terminology to a cleanup pass that never comes.
+- **Change the definition, keep the evidence.** A rename or merge carries every `sources` entry
+  across — the merged note holds the union, with `source_count` updated to match.
+- **Only terms this wiki actually uses.** General vocabulary belongs in the reader's head — a
+  definition nobody looks up is context load.
+- Keep definitions to a sentence or two: what the term **is**.
+- **Settle a definition with evidence** — the note, its sources, or **llm-wiki-research** when
+  neither the user nor the wiki can pin it down.
+- Fix it where you find it. A terminology cleanup pass deferred to later never comes.
 
 ## After any change
 

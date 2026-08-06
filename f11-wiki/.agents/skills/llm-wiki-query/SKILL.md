@@ -25,6 +25,6 @@ Answer from compiled knowledge first; reach for Raw sources only when necessary.
 
 ## Guardrails
 
-- Do not assert claims that no compiled note or source supports.
+- Assert what a compiled note or source supports, and attribute it to that note.
 - Prefer the compiled note's wording; it is the reusable, distilled knowledge.
-- If nothing matches, say so and offer to ingest a source rather than inventing an answer.
+- When nothing matches, say the wiki does not cover it and offer to ingest a source.

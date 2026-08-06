@@ -24,7 +24,7 @@ Turn a Raw source into concise, reusable Wiki notes while keeping every claim tr
    - one subject per note, kebab-case filename, exactly one allowed tag (`topic`/`concept`/`entity`).
    - add the source path to `sources` and set `source_count` to its length.
    - link related notes with `[[wikilinks]]`.
-   - **Never invent citations.** Only assert claims the source supports.
+   - **Cite what the source says.** Every claim in the note traces to a line in the source.
 5. **Mark the source processed**: set `Processed: true` once it is covered by at least one note.
 6. **Build, lint, reconcile**:
    ```bash

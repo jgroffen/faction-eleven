@@ -25,8 +25,8 @@ the answer.
 2. **Spin up a background agent** so the user keeps working while it reads. Its brief:
 
    - Investigate against **primary sources** — official documentation, specifications,
-     first-party APIs, the source code itself — never a secondary write-up of them. Follow every
-     claim back to the source that owns it.
+     first-party APIs, the source code itself. Follow every claim back to the source that owns
+     it, past any secondary write-up in between.
    - Note where sources **disagree** or where the answer is version-dependent. Both belong in the
      findings; neither should be smoothed over.
 
@@ -56,13 +56,13 @@ the answer.
 
 ## Guardrails
 
-- **Never write from parametric knowledge.** If you did not open the source, it is not a finding.
-  Recall is a starting point for what to go and check, never the finding itself.
+- **Write only what you opened.** A finding is something you read at its source; recall is a
+  starting point for what to go and check.
 - **Say what you could not establish.** A gap recorded honestly is more useful than a plausible
   guess, and the wiki will carry that guess for years.
 - Prefer the dated, versioned source. Note when a source is old enough to distrust.
-- Do not merge research into an existing note without checking whether it **contradicts** it —
-  if it does, that is a correction the user should see, not a silent edit.
+- Before merging research into an existing note, check whether it **contradicts** it. If it does,
+  that is a correction to put to the user.
 
 ## Done when
 

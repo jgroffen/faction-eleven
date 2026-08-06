@@ -313,9 +313,14 @@ Review and if required create or update the skills that maintain the wiki:
 
 - `.agents/skills/llm-wiki-grilling/SKILL.md` — the interview loop the two below drive
 - `.agents/skills/grill-into-wiki/SKILL.md` — interview the user, transcript as the source
+- `.agents/skills/llm-wiki-questionnaire/SKILL.md` — a questionnaire for a third party, answers
+  as the source
 - `.agents/skills/llm-wiki-research/SKILL.md` — primary-source research into a cited source
 - `.agents/skills/llm-wiki-glossary/SKILL.md` — keep terminology sharp and de-duplicated
-- `.agents/skills/llm-wiki-handover/SKILL.md` — write and resume session handovers
+- `.agents/skills/llm-wiki-plainly/SKILL.md` — re-pitch a message in the wiki's own words
+- `.agents/skills/llm-wiki-handover/SKILL.md` — write and resume session handovers, plus
+  `PHASE-BOUNDARIES.md`, the tree for choosing between continue / clear / handover / subagent /
+  compact
 - `.agents/skills/llm-wiki-teach/SKILL.md` — teach the wiki's subject over multiple sessions
 - `.agents/skills/llm-wiki-help/SKILL.md` — router over the vault's skills
 
@@ -332,8 +337,12 @@ Skills split by **who can invoke them**. A skill the agent should be able to rea
 (or that another skill drives) keeps a description rich in trigger phrasing — its description sits
 in the context window every turn, so it earns hard pruning. A skill only ever typed by the user
 adds `disable-model-invocation: true`; its description becomes a one-line human-facing summary and
-costs no context. Of the skills above, `grill-into-wiki`, `llm-wiki-handover`, `llm-wiki-teach`
-and `llm-wiki-help` are user-invoked; the rest are model-invoked.
+costs no context. Of the skills above, `grill-into-wiki`, `llm-wiki-questionnaire`,
+`llm-wiki-plainly`, `llm-wiki-handover`, `llm-wiki-teach` and `llm-wiki-help` are user-invoked;
+the rest are model-invoked.
+
+A skill's directory is what gets linked, so reference too long to sit in `SKILL.md` goes in a
+sibling file pointed at from it — `llm-wiki-handover/PHASE-BOUNDARIES.md` is the shipped example.
 
 Then make the skills discoverable by AI clients:
 
@@ -360,7 +369,7 @@ The core build is complete only when all of these are true:
 
 - `AGENTS.md` exists and describes Raw/Wiki/Schema rules
 - `_templates/` contains source, concept, topic, entity, log, handover, and learning templates
-- `.agents/skills/` contains all eleven skills listed in Step 05, and
+- `.agents/skills/` contains all thirteen skills listed in Step 05, and
   `python3 scripts/wiki_tool.py skills` reports every one of them as linked
 - `scripts/wiki_tool.py` supports every command listed in Step 04
 - `scripts/audit_public.py` exists and passes

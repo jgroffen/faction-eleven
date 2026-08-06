@@ -28,10 +28,10 @@ keeping is a sign the wiki is missing a note — write the note.
 ## Steps
 
 1. **Find the mission.** `search-catalog --query "mission <topic>"`, or list `Wiki/Learning/`.
-   If there is none, **that is the first session**: use **llm-wiki-grilling** to find out why
-   they want this and what it is for. Without it, lessons drift into the abstract and you have no
-   basis for choosing what comes next. Write it as a `learning` note, `kind: mission`, from
-   `_templates/learning-note.md`.
+   If there is none, **that is the first session**: run **llm-wiki-grilling** to find out why
+   they want this and what it is for — usually a round or two is enough. Without it, lessons
+   drift into the abstract and you have no basis for choosing what comes next. Write it as a
+   `learning` note, `kind: mission`, from `_templates/learning-note.md`.
 
 2. **Read the learning records.** They are the floor: what is known, what was corrected, what
    they said they already knew.
@@ -44,7 +44,7 @@ keeping is a sign the wiki is missing a note — write the note.
    ```bash
    python3 scripts/wiki_tool.py search-catalog --query "the concept"
    ```
-   **A gap stops the lesson, it does not get improvised.** Fill it first — **llm-wiki-research**
+   **A gap stops the lesson.** Fill it first — **llm-wiki-research**
    for facts nobody has, **grill-into-wiki** when the user turns out to know it after all. Then
    teach from the note. This is the whole reason to teach from a wiki: the lesson is as
    trustworthy as the notes behind it, and both improve together.
@@ -73,17 +73,17 @@ is the enemy; for *retaining* it, difficulty is the tool.
 
 ## Guardrails
 
-- **Write a record for evidence, not for coverage.** Material you presented is not material they
-  learned. Wait for them to demonstrate it. Otherwise the records inflate and every later lesson
-  is pitched too high.
-- **Supersede, never delete.** When an understanding turns out to be wrong, set the old record
+- **Write a record for evidence.** Wait until they demonstrate it — material you presented is not
+  material they learned, and records written for coverage inflate until every later lesson is
+  pitched too high.
+- **Supersede.** When an understanding turns out to be wrong, keep the old record with
   `status: superseded`, link the new one, and say what changed. Corrected misconceptions are the
   highest-value records — they predict where the user will stumble next.
-- **Do not teach from recall.** If it is not in the wiki and not in a source, it is not taught —
-  see step 4.
+- **Teach from the note in front of you.** If it is in neither the wiki nor a source, step 4
+  applies: fill the gap first.
 - Missions change as people learn. Confirm with the user, update the mission note, and record the
   shift.
-- Learning records are not a session journal. One per established insight, or none.
+- One record per established insight, or none. It is a record, not a session journal.
 
 ## Done when
 

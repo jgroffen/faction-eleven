@@ -43,7 +43,8 @@ Chapter two adds the [[mystics]] ([[realm-04]]) as a major setting **and** the [
 through an abandoned gate in [[realm-01]], not by walking round the wheel.
 
 **Chapter two needs two more game styles** — [[mystics]] and [[green-skins]] — neither of which is
-settled. That is the next design work after the story outline.
+settled. That is the next design work after the story outline. See [[chapter-02]] for the full
+balance picture.
 
 ## What "pending" means
 

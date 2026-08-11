@@ -11,6 +11,7 @@ source_count: 1
 aliases: []
 quest_status: design
 quest_type: main
+chapter: chapter-01
 giver: ""
 location: realm-01
 mechanics:

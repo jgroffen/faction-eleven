@@ -44,8 +44,8 @@ being written — which is exactly the situation in which a missing outline beco
 
 | Deliverable | State |
 |-------------|-------|
-| Chapter one | **specified end to end** — see [[chapter-based-release]] |
-| Chapter two | sketched — Celestials and Mystics |
+| Chapter one | **specified end to end** — [[chapter-01]] |
+| Chapter two | outlined, unbalanced — [[chapter-02]] |
 | Chapters three onward | nothing |
 | The ending | nothing |
 | The Ancients' motive | **nothing** — the answer the whole mystery resolves to is unwritten |

@@ -71,6 +71,10 @@ the player braids the stories together by [[protagonist-swapping-and-story-gatin
 - [[faction-eleven-antagonist]] — the eleventh faction: the Ancients, who are humans.
 - [[chapter-based-release]] — how it's intended to ship.
 
+## Chapters
+
+- [[chapter-01]] · [[chapter-02]] — the beats, faction balance and build load per chapter.
+
 ## Sources
 
 - `Raw/Sources/interviews/faction-eleven-lore-and-design.md`

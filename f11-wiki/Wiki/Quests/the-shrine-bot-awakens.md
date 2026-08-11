@@ -12,6 +12,7 @@ aliases:
   - The Chapter One Spine
 quest_status: design
 quest_type: main
+chapter: chapter-01
 giver: ""
 location: realm-02
 mechanics:

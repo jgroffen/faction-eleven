@@ -1,0 +1,10 @@
+{
+  "name": "faction-eleven",
+  "version": "0.1.0",
+  "note_types": [
+    {"tag": "chapter", "folder": "Wiki/Chapters", "requires_source": false}
+  ],
+  "install": {
+    "summary": "project-local note types for Faction Eleven's chaptered release"
+  }
+}

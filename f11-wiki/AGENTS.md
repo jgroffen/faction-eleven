@@ -291,3 +291,19 @@ one that lists it as a prerequisite.
 
 Reusable prompt templates live in `_prompts/` (`worldbuilding.md`, `mechanic-design.md`,
 `quest-design.md`, `level-design.md`) — tailor them to your game.
+
+## Faction Eleven Plugin
+
+This vault also has a **project-local** plugin (`Schema/plugins/faction-eleven.json`) adding one
+note type specific to this game:
+
+- **`chapter`** (`Wiki/Chapters/`) — one note per released chapter. Chapters are the unit content
+  is **balanced** against: which factions appear, in what form, which story beats they carry, and
+  what has to be built. Source-exempt.
+
+`quest` notes carry an extra **`chapter:`** field naming their chapter, so the mapping is
+recoverable from the quests themselves (`grep -l "^chapter: chapter-02" Wiki/Quests/*.md`). Keep it
+in sync with the chapter note's `quests` list — `game_tool.py` belongs to the game-development
+plugin and does **not** manage chapter notes or this field.
+
+See `Schema/faction-eleven-frontmatter-schema.md`.

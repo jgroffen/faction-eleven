@@ -61,36 +61,18 @@ with each other. The first chapter is therefore not three arbitrary factions but
 neighbourhood, which is both fictionally coherent and the smallest slice that can demonstrate
 traversal between near realms.
 
-## Chapter One, As Specified
+## The Chapters
 
-| Faction | Form | Ends with |
-|---------|------|-----------|
-| [[robots]] (lead) | full — [[robots-incremental-exploration]] | sealed gates they cannot open alone; remote comms restored, waking the shrine bot ([[the-shrine-bot-awakens]]) |
-| [[institute-of-eight]] | genuinely reduced — one cycle of boss fight, defeat, training, plus lore and the shrine | the gate guardian undefeated, but the gate **cracked** ([[the-cracking-of-the-gate]]) |
-| [[celestials]] | genuinely reduced — one very simple tower defence | [[the-fall-of-the-outpost]]; retreat to [[templar-monastery]] |
+Content is tracked and balanced per chapter, one note each:
 
-## Chapter Two, As Sketched
+- [[chapter-01]] — *Three Walls*. Lead [[robots]]; [[institute-of-eight]] and [[celestials]]
+  reduced. All three game styles settled. Ends with every faction failing.
+- [[chapter-02]] — *The Signals*. Five factions, three protagonists converging on
+  [[the-monastery-autofix-bot]]. **Two game styles still undesigned.**
+- Chapters three onward — nothing written. See [[story-outline-requirement]].
 
-- The [[celestials]] at [[templar-monastery]]: tower defence with platforming exploration between
-  levels, a second defeat by the war machine, and [[the-calling-of-ancient-allies]] — the first
-  deliberate reconnection in the game.
-- The [[mystics]]' realm becomes a **major setting**.
-- The [[robots]]' restored comms pay off a second time, hearing [[the-monastery-autofix-bot]].
-- The [[institute-of-eight]]: the shrine bot detects a *second* mini-fix signal, leading [[ninja]]
-  out through [[the-ancient-ruin]]'s abandoned cracked gate ([[the-second-signal]]).
-- The [[green-skins]] enter: [[ninja]] meets [[gargoyle]], who is **very ancient** and wants to stop
-  his own faction's war on the Celestials. They team up to find the bot — **which [[templar]] has**.
-
-**Chapter two converges on a single object.** Three protagonists move toward
-[[the-monastery-autofix-bot]] — the Templar holding it, the Robots hearing it, the Ninja and the
-Gargoyle hunting it — and none of them knows about the others. That is a far stronger chapter
-shape than chapter one's, and it means chapter two is where the game's premise finally *pays*
-rather than merely sets up.
-
-**Scope warning:** chapter two now involves five factions ([[robots]], [[institute-of-eight]],
-[[celestials]], [[mystics]], [[green-skins]]) against chapter one's three, and two of them
-([[mystics]], [[green-skins]]) have **no settled game style at all**. See
-[[faction-design-status]].
+Those notes hold the beats, the faction balance and the build load; this decision holds only the
+release model itself.
 
 ### Chapter one's causal chain
 

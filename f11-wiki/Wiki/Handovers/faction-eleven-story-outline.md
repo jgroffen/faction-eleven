@@ -21,8 +21,8 @@ _What is already written down. Link it, do not restate it._
   at outline level.** This is the reason the next session exists.
 - [[faction-design-status]] — which factions are settled (01, 02, 03) and which are deliberately
   untouched (05, 06, 07, 08, 10).
-- [[chapter-based-release]] — chapter one specified end to end; chapter two sketched, and now
-  converging three protagonists on [[the-monastery-autofix-bot]].
+- [[chapter-based-release]] — the release model. The content lives in [[chapter-01]] and
+  [[chapter-02]], one note per chapter, which is where faction balance and build load are tracked.
 - [[faction-eleven-premise]] — the entry point to everything else.
 
 Eight rounds of interview on 2026-08-08 took the wiki from empty to 77 notes. The transcript is
@@ -42,7 +42,9 @@ round was asked. What remains is what was **never settled**:
   faction's narrative role depends on what they are unknowingly part of.
 - **The ending.** Nothing exists. The "final game mode where the protagonists join up"
   ([[faction-unique-features]]) is the only hint.
-- **Chapters three onward.** Nothing.
+- **Chapters three onward.** Nothing — no chapter notes exist beyond [[chapter-02]].
+- **Chapter two is unbalanced against chapter one**: five factions vs three, two game styles
+  undesigned, and no stated lead faction. See [[chapter-02]].
 - **Why the robot gate is guarded.** Settled in round 8: the guardian holds the gate to
   [[realm-02]], a historically friendly neighbour. Nobody has said why the Institute posts a
   sentence-serving family against a friend — and the prototype's "sealed and guarded **for a

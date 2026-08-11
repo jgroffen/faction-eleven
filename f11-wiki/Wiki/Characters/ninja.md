@@ -47,14 +47,18 @@ training, with lore-building and the shrine ([[chapter-based-release]]).
 
 ## Ties
 
-The mini-fix bot in the family shrine is woken by [[the-shrine-bot-awakens]] — the Ninja's first
-contact with [[autofix]] and with [[realm-02]].
+[[mifix]] is the Ninja's companion and mentor, awake and teaching the family for
+generations — and the reason the Ninja survives everything except a boss fight. In
+[[the-first-signal]] it hears [[autofix]] through the cracked gate: the Ninja's first contact with
+[[realm-02]].
 
 The guardian's gate faces [[realm-02]], the [[robots]] — not the green-skins, as the prototype
 notes had it. The Ninja does not beat it until **every faction has been introduced**.
 
-They reach [[gargoyle]] another way: in chapter two, following [[the-second-signal]] out through
-the abandoned cracked gate in [[the-ancient-ruin]]. The two then hunt together for
-[[the-monastery-autofix-bot]] — which [[templar]] has.
+They reach [[gargoyle]] another way. In chapter two the Ninja and [[mifix]] decide the faint second
+signal is **worth investigating as an alternative route to the Robot Realm** — the guarded gate
+being cracked but not passable — and follow it out through the abandoned cracked gate in
+[[the-ancient-ruin]] ([[the-second-signal]]). The two then hunt together for
+[[odie]] — which [[templar]] has.
 
 _Story reviewed 2026-08-08 and kept; game style replaced._

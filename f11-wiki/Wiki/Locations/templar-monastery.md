@@ -30,7 +30,7 @@ Two monasteries in one building:
   fought ([[celestials-hero-tower-defence]]).
 - **The ancient parts** — older, explored on foot in **platforming sections between tower-defence
   levels**. This is where the past is kept, and where [[the-wand]] and
-  [[the-monastery-autofix-bot]] are found.
+  [[odie]] are found.
 
 The Templar does not retreat here by accident. **They choose it**, believing the Celestials need to
 find **ancient allies** to defeat the war machine — so the monastery is picked as an *archive*
@@ -40,4 +40,5 @@ rather than a fortress. Falling back to it is an act of research.
 
 <!-- gd:set-here:start -->
 - [[the-calling-of-ancient-allies|The Calling Of Ancient Allies]] · quest
+- [[the-convergence-at-the-monastery|The Convergence At The Monastery]] · quest
 <!-- gd:set-here:end -->

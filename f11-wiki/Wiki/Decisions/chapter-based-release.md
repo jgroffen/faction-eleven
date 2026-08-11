@@ -67,9 +67,16 @@ Content is tracked and balanced per chapter, one note each:
 
 - [[chapter-01]] — *Three Walls*. Lead [[robots]]; [[institute-of-eight]] and [[celestials]]
   reduced. All three game styles settled. Ends with every faction failing.
-- [[chapter-02]] — *The Signals*. Five factions, three protagonists converging on
-  [[the-monastery-autofix-bot]]. **Two game styles still undesigned.**
-- Chapters three onward — nothing written. See [[story-outline-requirement]].
+- [[chapter-02]] — *The Signals*. Refocused 2026-08-12 on [[gargoyle]]'s gameplay; four factions.
+  **The lead faction's game style is undesigned.**
+- [[chapter-03]] — *The Convergence*. Proposed 2026-08-12: the [[mystics]] are introduced and four
+  protagonists reach [[templar]]. **Provisional.**
+- Chapters four onward — nothing written. See [[story-outline-requirement]].
+
+**The chapter boundaries have already moved once.** Chapter two originally carried the Mystics and
+the convergence; both moved to chapter three to keep the two arrivals at the Templar together.
+That is exactly the kind of rebalancing the chapter notes exist to support — and a reminder that
+under this release model, boundaries are cheap to move *until a chapter ships*.
 
 Those notes hold the beats, the faction balance and the build load; this decision holds only the
 release model itself.
@@ -79,7 +86,7 @@ release model itself.
 The three factions are not parallel demos. They form one chain:
 
 > [[ninja]] fights the guardian and loses → [[the-cracked-gate]] → [[autofix]]'s restored remote
-> comms reach through the crack → [[the-shrine-bot-awakens]].
+> comms reach through the crack → [[the-first-signal]].
 
 Meanwhile [[templar]] loses [[the-outpost]] and retreats, setting up chapter two. Every faction
 fails, and the failures are what connect them.
@@ -102,7 +109,7 @@ Recorded as open questions rather than settled facts, since the decision itself 
   faction has been introduced, which makes it a late-game turning point. Chapter one therefore
   ends with the Ninja *not* winning — and protects [[gargoyle]] and [[realm-09]] for the chapter
   where the Green Skins are actually built.
-- **Chapter one has a spine:** [[the-shrine-bot-awakens]]. An ability earned in [[autofix]]'s
+- **Chapter one has a spine:** [[the-first-signal]]. An ability earned in [[autofix]]'s
   incremental skill tree wakes the mini-fix bot in the Ninja's shrine, connecting the chapter's
   lead faction to its first mini-game. This is also chapter one's demonstration of
   [[protagonist-swapping-and-story-gating]].

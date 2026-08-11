@@ -60,7 +60,7 @@ The Celestials' story is a **fighting withdrawal**. They lose [[the-outpost]] in
 
 The second retreat is a decision, not a rout: the Templar picks the monastery because they believe
 the Celestials need **ancient allies** to defeat the war machine — and they are right. In its
-ancient parts they find [[the-wand]] and [[the-monastery-autofix-bot]] and call the [[mystics]] and
+ancient parts they find [[the-wand]] and [[odie]] and call the [[mystics]] and
 the [[robots]] ([[the-calling-of-ancient-allies]]).
 
 So the faction that appears to be simply losing is in fact the one that **works out what the game

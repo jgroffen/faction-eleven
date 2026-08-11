@@ -31,29 +31,23 @@ collects parts and other currencies, repairs robots, and unlocks exploration thr
 
 ## How It Works
 
-Three loops, each feeding the next:
+**Exploration is the spine.** [[realm-02]] is explored as a platformer on the shared
+[[exploration-core-loop]] shell; everything else feeds it or gates it. The faction's systems split
+into three, each with its own note:
 
-1. **Explore** — platforming through the ruins of [[realm-02]], on the shared
-   [[exploration-core-loop]] shell.
-2. **Collect and repair** — gather **Parts** and other currencies; repair robots. Repaired robots
-   are the growth curve: [[autofix]] is the only working Autofix, and repairing is the one thing
-   it can do that nothing else in its realm can.
-3. **Unlock** — spend growth on a **skill tree**, unlocked incrementally. Skills are not only
-   power; they are **keys**. Wall-crawling opens walls. The tree gates the map.
+| System | What it is |
+|--------|-----------|
+| [[robot-repair-puzzle]] | find broken robots, diagnose them, fabricate what they need, bring them back. The source of **skill points, lore, quests and unblocked paths**. |
+| [[autofix-skill-tree]] | one tree, five branches — Scrapping, Upgrades, Fabrication, Repair, Robotics — fed by skill points, refining **scrap → construction materials → modules and components**. |
+| [[minibot-command]] | build minibots and command them within range. The **comms ladder** turns them from followers, to tools, to an automated workforce. |
 
-So the incremental layer and the exploration layer are the same layer: numbers going up is how
-doors open. This is Metroid-style ability gating with an incremental economy driving it, rather
-than set-piece ability pickups.
+The incremental curve is the interaction of the three: repairing robots buys the tree, the tree
+builds the minibots, the minibots collect the scrap and disable the hostile robots, which makes
+more repairs possible.
 
-Not yet established:
-
-- What the currencies beyond **Parts** are, and whether they gate different branches of the tree.
-- Whether repaired robots are *automation* — bots that gather while you explore, the classic
-  incremental engine — or purely narrative allies. The fiction points hard at the first: Autofix
-  can build **mini-fix bots**, and a bot that repairs bots is an idle-game production chain by
-  definition. **Unconfirmed.**
-- Whether the skill tree belongs to Autofix or to the faction.
-- What survives of the prototype's region-control map ([[nested-map-navigation]] levels 2–3).
+**And the whole realm is sealed.** Every gate from [[realm-02]] is shut
+([[sealed-interplane-gates]]), so all of this growth happens inside a closed box — until a stranger
+cracks a gate ([[the-cracked-gate]]).
 
 ## Why It's Fun
 
@@ -67,6 +61,15 @@ No values yet. The knob that will matter most is the **rate the tree unlocks rel
 gates**: too fast and the world is never closed, too slow and the player is looking at a wall
 they cannot climb with nothing to do about it.
 
+## Open
+
+- Where **wall-crawling** and the other movement gates sit — presumably the Upgrades branch's
+  *movement* line, but that is not stated.
+- How **[[faction-currencies]]**' "Parts" relates to **scrap**, **construction materials**,
+  **modules** and **components**. The prototype's single currency has been replaced by a chain and
+  the note needs reconciling.
+- What survives of the prototype's region-control map ([[nested-map-navigation]] levels 2–3).
+
 ## Chapter One
 
 This is the **main plot progression of chapter one** ([[chapter-based-release]]), so it is the
@@ -75,7 +78,7 @@ first genre to be built after the shell — and the one the game will be judged 
 ## Used In
 
 <!-- gd:used-in:start -->
-- [[the-shrine-bot-awakens|The Shrine Bot Awakens]] · quest
+- [[the-first-signal|The First Signal]] · quest
 <!-- gd:used-in:end -->
 
 ## Related

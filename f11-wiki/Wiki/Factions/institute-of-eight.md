@@ -30,13 +30,22 @@ punishment is to endlessly fight the gate guardian — who holds **the gate to [
 
 ## Identity
 
-Defined by inherited sentence rather than by creed: the family fights the guardian generation
-after generation, and the death mechanic makes that literal — when the protagonist dies, a
+Defined by inherited sentence rather than by creed: the family fights [[the-gate-guardian]]
+generation after generation, and the death mechanic makes that literal — when the protagonist dies, a
 cut-scene shows their child grow up, get trained, and replace them.
 
 The family keeps a secret: an ancestor spirit housed in a small toy car, which is really a
 **mini-fix bot** from the [[robots]] realm. It has allied itself with the family to train them
 to one day defeat the gate guardian — so that it can get home.
+
+The bot is [[mifix]], and he has never been dormant — he repairs the Ninja between fights, which is
+why the Ninja dies only in boss fights ([[death-and-return]]).
+
+**The family's legacy is to reunite the allied factions.** That is what they and Mifix are both
+fighting the gate for — but the details have decayed. Mifix's memory is corrupted and the reasons
+are **shrouded in myth**, so the family pursues an inherited purpose neither of them can any longer
+explain. A line branded traitors, serving a sentence at a gate, carrying a mandate to put the
+multiverse back together that nobody remembers the terms of.
 
 The shrine holds a second thing they do not understand: [[the-clay-jar]], containing an alien egg,
 which can be activated to signal the [[aliens]]. A family sentenced to guard one gate has been
@@ -72,6 +81,6 @@ rather than a problem solved early.
 
 Appears in **chapter one in genuinely reduced form** — a single cycle of boss fight, defeat and
 training, plus lore-building and the mini-fix bot in the family shrine
-([[chapter-based-release]]). The bot is woken by [[the-shrine-bot-awakens]].
+([[chapter-based-release]]). The bot is woken by [[the-first-signal]].
 
 _Story reviewed 2026-08-08 and kept; game style replaced._

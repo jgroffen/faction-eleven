@@ -31,7 +31,7 @@ hold [[the-outpost]] until it cannot be held, lead their people out
 [[templar-monastery]] — because they have worked out that the Celestials cannot win alone and need
 **ancient allies**.
 
-Acting on that belief, they find and use [[the-wand]] and [[the-monastery-autofix-bot]] to call the
+Acting on that belief, they find and use [[the-wand]] and [[odie]] to call the
 [[mystics]] and the [[robots]] ([[the-calling-of-ancient-allies]]).
 
 The longer arc from the prototype still stands: the Templar eventually **captures a green-skin war

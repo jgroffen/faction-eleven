@@ -50,9 +50,12 @@ Two properties matter and are easy to lose:
 
 What the material establishes, gate by gate:
 
-- **Sealed.** The [[robots]] discover sealed interplane gates and hunt for rumours of **who
-  created them, why they are sealed, and how to unseal them** — and crucially, *the robots cannot
-  unseal them on their own*. Needing outside help is what forces contact.
+- **Fully sealed.** **All** gates from [[realm-02]] are sealed — the [[robots]] are the most
+  isolated faction in the game. They hunt for rumours of **who created the gates, why they are
+  sealed, and how to unseal them**, and crucially *cannot unseal them on their own*. A total seal
+  also stops signals: **Quantum Comms cannot operate without an opening**, so until
+  [[the-cracked-gate]] the robots can neither leave nor call. Needing outside help is not a
+  preference; it is the only option they have.
 - **Guarded.** The [[institute-of-eight]]'s gate to the **[[robots]]** is held by a **gate
   guardian**, and [[ninja]]'s traitor family is sentenced to fight it endlessly. (The prototype
   notes had this gate facing the green-skins; corrected 2026-08-08.)

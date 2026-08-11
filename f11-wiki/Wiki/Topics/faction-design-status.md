@@ -26,8 +26,8 @@ as unsettled and left alone until there is something real to record.
 | 02 | [[robots]] | **deep** | **settled** — [[robots-incremental-exploration]] | settled (prototype fiction kept) |
 | 01 | [[institute-of-eight]] | **deep** | **settled** — [[ninja-rhythm-platforming]] | settled (prototype fiction kept; gate opens late-game) |
 | 03 | [[celestials]] | **deep** | **settled** — [[celestials-hero-tower-defence]] | settled through chapter two |
-| 09 | [[green-skins]] | medium | pending | **partly settled** — [[gargoyle]] is ancient and opposes the war; enters in chapter two |
-| 04 | [[mystics]] | medium | pending | substantial (prototype) |
+| 09 | [[green-skins]] | **deep — urgent** | ❌ **none — and they lead [[chapter-02]]** | **partly settled** — [[gargoyle]] is ancient and opposes the war |
+| 04 | [[mystics]] | **deep — next session** | ❌ none — and they lead [[chapter-03]] | substantial (prototype) |
 | 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | none |
 | 06 | [[pirates]] | thin — leave | pending | none |
 | 07 | [[werebeasts]] | thin — leave | pending | none |
@@ -42,9 +42,9 @@ Chapter two adds the [[mystics]] ([[realm-04]]) as a major setting **and** the [
 ([[realm-09]]) via [[the-second-signal]] — so the arc stops being contiguous. Realm 09 is reached
 through an abandoned gate in [[realm-01]], not by walking round the wheel.
 
-**Chapter two needs two more game styles** — [[mystics]] and [[green-skins]] — neither of which is
-settled. That is the next design work after the story outline. See [[chapter-02]] for the full
-balance picture.
+**Two factions now lead chapters with no game style at all**: the [[green-skins]] lead
+[[chapter-02]] and the [[mystics]] lead [[chapter-03]]. These are the two most urgent design gaps
+in the wiki. The author has scheduled the **Mystics** for a dedicated session.
 
 ## What "pending" means
 

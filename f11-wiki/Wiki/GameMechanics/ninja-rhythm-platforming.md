@@ -53,6 +53,11 @@ together rather than merely coexisting.
 **Training sessions** teach the player about **timing**, and teach **new moves needed to progress**.
 They are the faction's structural answer to teaching: not a tooltip, a dojo.
 
+One trained move is load-bearing for the whole game: the Ninja progresses to the boss battle with a
+**newly trained skill** — undetermined — and it is that fight which **cracks the guarded gate**
+([[the-cracked-gate]]). Deciding which skill is therefore not a local decision; it is the hinge of
+chapter one.
+
 Not yet established:
 
 - Whether mistimed input is **penalised** or merely unrewarded. (Punishing it makes this a rhythm

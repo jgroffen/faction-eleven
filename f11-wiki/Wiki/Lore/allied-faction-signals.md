@@ -40,9 +40,9 @@ Known devices:
 
 | Device | Where it lies | Who it calls |
 |--------|--------------|--------------|
-| the mini-fix bot in the family shrine | [[realm-01]], [[institute-of-eight]] | [[robots]] — woken from the other end in [[the-shrine-bot-awakens]]; later **detects** a second bot itself ([[the-second-signal]]) |
+| [[mifix]] | [[realm-01]], [[institute-of-eight]] | [[robots]] — **awake the whole time**; hears its first signal in [[the-first-signal]] and a second in [[the-second-signal]] |
 | [[the-clay-jar]], holding an alien egg | [[realm-01]], the same shrine | [[aliens]] |
-| [[the-monastery-autofix-bot]] | [[templar-monastery]], [[realm-03]] | [[robots]] |
+| [[odie]] | [[templar-monastery]], [[realm-03]] | [[robots]] |
 | [[the-wand]] | [[templar-monastery]], [[realm-03]] | [[mystics]] |
 
 Two patterns are already visible and worth protecting:
@@ -76,7 +76,18 @@ to the factions themselves. The Ancients did not build them and did not need to 
 that does not arrive.
 
 Which means every device in the game is **already working and already unheard**. Nothing needs
-repairing except the space between.
+repairing except the space between. [[mifix]] makes the point sharply: he has been
+awake for generations in a realm where nothing could reach him.
+
+**A signal needs an opening to leave a realm.** A fully sealed realm is mute as well as deaf —
+[[realm-02]] is sealed on every side, so [[autofix]]'s Quantum Comms cannot get out at all until
+[[the-cracked-gate]]. This is why the devices went quiet: not because they failed, but because the
+walls closed.
+
+**Signals route, they do not leap.** A signal travels realm to realm through whatever gates are
+open or cracked along the way — the second signal reaches [[realm-01]] from [[realm-03]] by way of
+[[realm-09]] ([[the-second-signal]]). So the network's reach is a function of the gates' *states*,
+and a single crack in the right place can connect realms that are nowhere near each other.
 
 That is what makes [[the-cracked-gate]] the hinge of chapter one: a fracture in a single sealed
 gate is the first place a signal can get through, and it is caused by [[ninja]] **losing**.

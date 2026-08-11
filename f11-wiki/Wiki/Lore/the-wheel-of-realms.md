@@ -75,7 +75,9 @@ Recorded rather than resolved:
 
 - The [[celestials]] (03) are attacked by the [[green-skins]] (09) and the [[werebeasts]] (07) —
   but the Celestials' *historic* enemy by position is [[the-damned]] (08). Both attackers sit four
-  places away: far, but not opposite.
+  places away: far, but not opposite. **The 03–09 gate is now load-bearing** rather than merely
+  anomalous: it is the first leg of the route the second signal travels to reach [[realm-01]]
+  ([[the-second-signal]]). The green-skins' invasion road is also the multiverse's telephone line.
 - ~~The [[institute-of-eight]]'s (01) guarded gate leads to the [[green-skins]] (09).~~ **Resolved
   2026-08-08 in the ring's favour:** the *guarded* gate leads to [[realm-02]], an adjacent,
   historically friendly neighbour. The green-skin gate exists but is **abandoned and cracked**, in

@@ -19,7 +19,7 @@ factions:
   - celestials
 quests:
   - the-cracking-of-the-gate
-  - the-shrine-bot-awakens
+  - the-first-signal
   - the-fall-of-the-outpost
 ---
 
@@ -34,22 +34,26 @@ to wake a bot that has been asleep for generations.
 
 ## Story
 
-1. **[[the-cracking-of-the-gate]]** — [[ninja]] is sent at the gate guardian unprepared and beaten.
-   Back story opens; training begins. The defeat **cracks the gate** to [[realm-02]]
+1. **[[the-cracking-of-the-gate]]** — [[ninja]] is sent at [[the-gate-guardian]] unprepared and
+   beaten. Back story opens; training begins. The Ninja returns to the boss battle with a **newly
+   trained skill**, loses again, and the fight **cracks the gate** to [[realm-02]]
    ([[the-cracked-gate]]).
 2. **[[the-fall-of-the-outpost]]** — [[templar]] holds [[the-outpost]] through a simple siege and
    loses it on the last wave to the siege machine, leading a retreat to [[templar-monastery]].
-3. **[[the-shrine-bot-awakens]]** — [[autofix]] earns remote communication with their bots; the
-   signal reaches through the crack and wakes the mini-fix bot in the Ninja's family shrine.
+3. **[[the-first-signal]]** — [[autofix]] unlocks **Quantum Comms**; the signal reaches through the
+   crack to [[mifix]], who has been awake and alone in the Ninja's family shrine for generations,
+   believing himself the last robot with autofix capability.
 
-Beat 3 requires both beat 1 and the Robots' own progression — it is the chapter's payoff and its
-demonstration of [[protagonist-swapping-and-story-gating]].
+Beat 3 requires **both** beat 1 (the crack) **and** the Robots' Quantum Comms unlock, in either
+order. It is the chapter's payoff and its demonstration of
+[[protagonist-swapping-and-story-gating]]. Without the crack Mifix hears nothing at all — not
+[[autofix]], and not the [[celestials]]' bot in chapter two.
 
 ## Faction Balance
 
 | Faction | Form | Game style | What they do |
 |---------|------|-----------|--------------|
-| [[robots]] | **lead** — full | [[robots-incremental-exploration]] | main plot progression; find sealed gates they cannot open alone; restore remote comms |
+| [[robots]] | **lead** — full | [[robots-incremental-exploration]] | main plot progression; repair robots for Data Fragments; find gates sealed on every side; unlock Quantum Comms |
 | [[institute-of-eight]] | reduced — one boss/defeat/train cycle | [[ninja-rhythm-platforming]] | lose to the guardian; crack the gate; lore and the shrine |
 | [[celestials]] | reduced — one simple tower defence | [[celestials-hero-tower-defence]] | lose [[the-outpost]]; retreat |
 
@@ -82,6 +86,8 @@ Everything, because nothing exists yet ([[project-scope-and-constraints]]):
 - **Ending on three defeats.** Thematically right — nobody wins alone — but this is a commercial
   release ([[chapter-based-release]]) and it closes with the player losing three times. Whether
   that is a satisfying purchase is unexamined.
-- Whether the game enforces an order between the Ninja's defeat and the Robots' comms ability, or
-  the awakening simply fires when both are done.
+- Whether the game enforces an order between the Ninja's defeat and the Robots' Quantum Comms
+  unlock, or the contact simply fires when both are done.
+- **Which trained skill** the Ninja returns to the boss with, and which cracks the gate. Undecided,
+  and it is the hinge of the chapter.
 - The [[green-skins]] do not appear, despite being the enemy in two of the three stories' backdrops.

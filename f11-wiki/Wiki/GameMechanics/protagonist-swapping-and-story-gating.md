@@ -58,13 +58,19 @@ Not yet established:
 
 ## Worked Example
 
-The first concrete instance, from chapter one: [[the-shrine-bot-awakens]]. [[autofix]] earns
+The first concrete instance, from chapter one: [[the-first-signal]]. [[autofix]] earns
 remote communication with their auto-fix bots in the [[robots]]' story; that signal wakes the
 mini-fix bot sitting in [[ninja]]'s family shrine in [[realm-01]]. An event in one faction's story
 lands in another's.
 
 Note the shape it suggests for gating in general: the trigger is an **ability the player earned**,
 not a cut-scene they watched, and the payoff arrives in a story they were not playing at the time.
+
+**Conditions compose, and they cross chapters.** [[the-second-signal]] fires only when three
+things are true: the guarded gate is cracked (Ninja, chapter one), Quantum Comms is unlocked
+(Autofix, chapter one) and the Templar has activated his signals (chapter two). So a gate is not
+one flag but a **conjunction of flags owned by different protagonists**, potentially set in
+different releases. Anything implementing this needs to treat conditions as a set, not a chain.
 
 ## Why It's Fun
 
@@ -81,8 +87,9 @@ too many and the player is thrown between genres before any one of them clicks.
 
 <!-- gd:used-in:start -->
 - [[the-calling-of-ancient-allies|The Calling Of Ancient Allies]] · quest
+- [[the-convergence-at-the-monastery|The Convergence At The Monastery]] · quest
+- [[the-first-signal|The First Signal]] · quest
 - [[the-second-signal|The Second Signal]] · quest
-- [[the-shrine-bot-awakens|The Shrine Bot Awakens]] · quest
 <!-- gd:used-in:end -->
 
 ## Related

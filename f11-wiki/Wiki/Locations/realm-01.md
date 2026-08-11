@@ -37,8 +37,8 @@ number, which is canon but is not what the people who live here call home.
 See [[the-wheel-of-realms]].
 
 Home to the [[institute-of-eight]]'s **family shrine**, which holds **two**
-[[allied-faction-signals]]: a mini-fix bot from [[realm-02]], woken in
-[[the-shrine-bot-awakens]], and [[the-clay-jar]], which holds an alien egg and can call
+[[allied-faction-signals]]: [[mifix]] from [[realm-02]], which hears
+[[realm-02]] for the first time in [[the-first-signal]], and [[the-clay-jar]], which holds an alien egg and can call
 [[realm-10]].
 
 **Two gates.** The gate to [[realm-02]] is **guarded** — this is the gate guardian [[ninja]]'s

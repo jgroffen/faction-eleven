@@ -49,7 +49,7 @@ the shell's presentations ([[exploration-core-loop]]).
 - Between tower-defence levels the Templar explores — in chapter two, the **ancient parts of the
   [[templar-monastery]]**.
 - This is where story and artifacts are found, including [[the-wand]] and
-  [[the-monastery-autofix-bot]].
+  [[odie]].
 
 **The war machine** remains from the prototype: the green-skins bring siege machinery, and the
 Templar's eventual answer is to take one, upgrade it, and turn it on its owners.

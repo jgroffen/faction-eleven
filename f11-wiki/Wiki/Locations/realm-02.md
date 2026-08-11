@@ -36,12 +36,16 @@ number, which is canon but is not what the people who live here call home.
 
 See [[the-wheel-of-realms]].
 
-Holds **sealed** gates the robots cannot open on their own — the discovery that drives their story.
+**Sealed on every side.** All of its gates are fully sealed and the robots cannot open them on
+their own — the discovery that drives their story. The seal stops signals as well as travellers, so
+even [[autofix]]'s Quantum Comms cannot leave the realm until someone outside makes an opening.
+
+The one opening is [[the-cracked-gate]], made from [[realm-01]] by a stranger losing a fight.
 
 Its neighbour [[realm-01]] is where a mini-fix bot of this realm's making ended up, kept as an ancestor spirit in a toy car.
 
 ## Set Here
 
 <!-- gd:set-here:start -->
-- [[the-shrine-bot-awakens|The Shrine Bot Awakens]] · quest
+- [[the-first-signal|The First Signal]] · quest
 <!-- gd:set-here:end -->

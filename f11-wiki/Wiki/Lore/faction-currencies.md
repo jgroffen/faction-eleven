@@ -28,7 +28,7 @@ matter for some game types, and the author is **thinking of simplifying** the sc
 
 | Faction | Currency |
 |---------|----------|
-| [[robots]] | Parts |
+| [[robots]] | Parts — **superseded in play**: the Robots' economy is now a refining chain of scrap, construction materials, modules and components ([[autofix-skill-tree]]) |
 | [[institute-of-eight]] | Tablets |
 | [[celestials]] | Relics |
 | [[mystics]] | Scrolls |

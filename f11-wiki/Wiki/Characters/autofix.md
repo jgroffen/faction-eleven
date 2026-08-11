@@ -31,11 +31,17 @@ It alone represents a future for robots.
 ## In-Game Role
 
 Player character. Medic archetype ([[the-six-classes]]). Plays as
-[[robots-incremental-exploration]]: explore [[realm-02]] as a platformer, collect Parts, repair
-robots, and unlock an incremental skill tree whose abilities — wall-crawling and the like — are
-what open the map.
+[[robots-incremental-exploration]]: explore [[realm-02]] as a platformer, scavenge scrap, repair
+robots for skill points and lore, and grow [[autofix-skill-tree]] — whose abilities open the map and
+whose comms ladder turns built minibots into followers, then tools, then an automated workforce.
 
-Recovers and repairs other robots; some will not join, but give information or materials instead.
+Recovers and repairs other robots ([[robot-repair-puzzle]]); some cannot be saved and are scrapped
+instead, and some he cannot fix *yet*.
+
+**What he can and cannot command.** Autofix **controls** every minibot he builds and can issue them
+orders ([[minibot-command]]). **Mini-fix bots are different: he can communicate with them but not
+control them**, even the ones he built — they are far more autonomous, like other robots. As with
+most robots he repairs, they are glad to work with him; they are simply not his to command.
 
 **Leads chapter one** ([[chapter-based-release]]).
 

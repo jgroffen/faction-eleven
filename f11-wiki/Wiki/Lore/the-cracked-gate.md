@@ -19,11 +19,28 @@ locations: []
 
 # The Cracked Gate
 
-[[ninja]] fights the gate guardian and **loses**. But the battle **cracks the gate** — and through
-that crack, for the first time since [[the-long-disconnection]], **a signal gets between realms**.
+[[ninja]] fights [[the-gate-guardian]] and **loses**. But the battle **cracks the gate** — and
+through that crack, for the first time since [[the-long-disconnection]], **a signal gets between
+realms**.
 
-The crack is what lets the mini-fix bot in the family shrine and [[autofix]]'s restored remote
-communications reach each other ([[the-shrine-bot-awakens]]).
+**The gate is not cracked before this.** It cracks when the Ninja **progresses to the boss battle
+with a newly trained skill** (which skill is to be determined). The crack is earned, not found.
+
+The crack is what lets [[mifix]] and [[autofix]]'s **Quantum Comms** reach each other
+([[the-first-signal]]). Mifix does not wake — he has been awake for generations — he simply, for
+the first time in living memory, **hears something**.
+
+**Why the crack matters is a transmission problem, not a reception one.** **All gates from
+[[realm-02]] are fully sealed**, and **Quantum Comms cannot operate without an opening**. So
+[[autofix]] is not unheard because nobody is listening — he is unheard because his signal cannot
+leave his own realm at all.
+
+And he is not trying to be heard. Quantum Comms is a **local** upgrade, for controlling his own
+minibots ([[robots-incremental-exploration]]). The escape of that signal is an accident.
+
+The crack is the **only opening in the Robot Realm's seal**. Once it exists, Autofix's signal gets
+out, and **both mini-fix bots receive it**: [[mifix]] in [[realm-01]] and
+[[odie]] in [[realm-03]].
 
 **Canon:** proposed · **Era:** end of chapter one
 
@@ -41,11 +58,15 @@ That is the game's quietest and best idea so far: **the first crack in the multi
 made by someone losing.** The generational sentence that looked like futility turns out to have
 been chipping away at the seal for generations.
 
+And it is made from the *outside*. The Robot Realm is sealed on every side; the robots cannot open
+their own gates ([[sealed-interplane-gates]]) and cannot signal out. The hole that frees them is
+punched by a stranger who does not know they exist, while failing at something else entirely.
+
 ## Ties
 
 - [[institute-of-eight]] — whose sentence produced the blow.
 - [[sealed-interplane-gates]] — what cracked.
-- [[the-shrine-bot-awakens]] — what came through.
+- [[the-first-signal]] — what came through.
 - [[allied-faction-signals]] — why a crack is all that was needed.
 
 ## Which Gate — settled 2026-08-08
@@ -66,6 +87,16 @@ family that has been keeping its cousin on a shelf for generations.
 **Gates are therefore ten separate doors, not one membrane.** [[realm-01]]'s other gate — the
 abandoned one to [[realm-09]] in [[the-ancient-ruin]] — is *already* cracked and lets a different
 signal through entirely.
+
+## Why It Gates The Second Signal Too
+
+This also explains something that looked arbitrary. Mifix cannot hear
+[[odie]] until the guarded gate is cracked either — even though that signal
+arrives by a completely different route, through the already-cracked gate in [[the-ancient-ruin]].
+
+The reason is the chain: the monastery bot is a **mini-fix** bot, and what reaches it first is
+Autofix's Quantum Comms — which needs the crack to escape [[realm-02]]. No crack, no signal out of
+the Robot Realm, so nothing for either mini-fix bot to answer. The crack is upstream of everything.
 
 ## Consequence — a prototype beat is now homeless
 

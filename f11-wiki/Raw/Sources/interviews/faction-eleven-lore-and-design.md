@@ -249,6 +249,142 @@ Robots repair/remote comms, Institute timing, Celestials hero defence)
 > very ancient and wants to stop the war the Green-skins are fighting with the celestials. He will
 > work with the Ninja to find the minifix bot ... which the templar has.
 
+### Round 9 — 2026-08-11
+
+**Interviewer's question: is there a discrepancy in the shrine bot "waking up" when the gate is
+cracked, given the bot is also the reason the Ninja survives non-boss failures?**
+
+> The bot doesn't wake up as it's always awake and the reason the ninja doesn't die except in boss
+> fights. Instead the minifix bot is like a companion and mentor of the ninja, and has been online
+> and maturing for generations of the ninja's family. When the gate is cracked the minifix bot
+> receives the two signals - one from the Autofix bot in the robot's realm and another from the
+> minifix bot in the Templar's Celestial realm, whose signal traverses from the open gate between
+> the Green Skins and Celestial realm and the ruin that contains a gate from the Ninja's realm to
+> the Green Skins realm.
+
+### Round 10 — 2026-08-11
+
+**Naming and motivating the shrine mini-fix bot, and resolving the signal-timing discrepancy.**
+
+> Lets give the shrine minifix bot a name - Mifix. Mifix and the Ninja family line are motivated to
+> defeat the Gate Boss as the family has a legacy to reunite the allied factions - Mifix believes he
+> may be the only robot with autofix capabilities left and without autofix bots the robots slowly
+> degrade ... but the details and Mifix's memory have become corrupted and reasons are shrouded in
+> myth.
+>
+> Also, lets resolve the discrepency - There are two story beats that must occur before Mifix
+> detects the signal from the Celestial Minifix bot. 1: The robot story line progresses to where the
+> Autofix bot unlocks Quantum Comms (the skill that allows for remote comms to minifix bots) and 2:
+> The templar must find and activate their signals. Only when both are done will Mifix hear the
+> faint signal of the remote minifix bot. Additionally, Mifix won't hear the Autofix or Templat
+> minifix bot at all unless there is a crack in the Boss Guarded Gate. The gate isn't cracked all
+> along, it's cracked when the Ninja progresses to the Boss Battle with a new (to be determined)
+> trained skill.
+
+### Round 11 — 2026-08-11
+
+**The mechanism behind the crack — why it gates reception of both signals.**
+
+> All gates from the Robot Realm are fully sealed and Quantam Comms can't operate without an
+> opening. The crack lets both minifix bots receive the signal from the Autofix bot. Mifix and the
+> Ninja decide that seeking this faint signal is worth investigating as an alternative way to get to
+> the Robot Realm.
+
+### Round 12 — 2026-08-12
+
+**Q32 — Minibot versus mini-fix bot: what's the difference?**
+
+> Agreed. I'm thinking Minibots are like an upgraded currency. Player collects various kinds of
+> scrap to repair robots. Robots once repaired unlock lore and progress (giving you a skill or
+> training currency). Skills to unlock include module construction which leads to more unlockable
+> skills like: Memory Module Construction, CPU Module Consturction, GPU, DPU, MPU, Quantum Core.
+> Another branch of the skill tree is Component Construction that unlocks various sensor and
+> effector components. The autofix bot will come across robots that need specific kinds of modules
+> and components to repair them. The modules and components are also used to (once the skills are
+> unlocked) build Minibots. First kind of minibot is general and can collect basic scrap parts.
+> Later specialised minibots can later be unlocked via the skill tree. Ideas include: Shield-bot,
+> Suppressor-bot, EMP-bot, all help disable robots that have gone mad or have become aggressive so
+> the autofix bot can repair them. Unlocking the building of minifix bots is the culmination where
+> the Robot realm can essentially start to self-repair, but all minibots only work in a short range
+> of the Autofix bot. A different skill tree for the Autofix bot would include upgrades - like Short
+> Range Comms required to control minibots, Long Range Comms, Extremely Long Range Comms, and
+> finally Quantum Comms. The various minibots can be upgraded too.
+
+**Q33 — What do minibots actually do?** (options: automation / tools / followers)
+
+> Why not all three? Short Range Comms allows for easier / better scrap collection and unlocks c)
+> which increases the pool of Robots that can be repaired (and acquiring more skill points and
+> lore), Long Range Comms unlocks b) which could help gate progress by blocking exploration.
+> Extremely Long Range Comms would unlock a) where the minibots can be assigned to collect scrap
+> automatically.
+
+**Q34 — One progression system or two?**
+
+> See Q32 answer. I'm thinking for skill tree branches: Scrapping (scrap collection efficiency,
+> converting scrap into different kinds of construction materials), Upgrades (movement, comms,
+> armor, diagnostics, scanning range (for diagnostics), max controllable minibots), Fabrication
+> (modules and components), Repair (what kinds of damage you can fix), and Robotics (building
+> minibots, maybe eventually building Robots - true reproduction).
+
+**Q35 — What is "fixing a deranged robot" as an activity?**
+
+> It's a parts puzzle with varied outcomes. If a robot can't be repaired it can be scrapped. If it
+> can be repaired it can provide skill points, lore, quests, unblock paths opening more exploration
+> options. Some robots that can't be repaired yet will block progress. The autofix bot will know if
+> a robot can be repaired or not, but may not know how until it's diagnostic skills are upgraded. If
+> it can diagnose a malfunctioning or fully disabled robot it will know what parts are needed to
+> perform the repair.
+
+**Q36 — Does Autofix understand what he hears?**
+
+> Autofix can control all the minibots he built. He can issue commands too. Minifix bots are
+> special. Even the ones he built he can communicate with but they are far more autonomous like
+> other robots - he can communicate but not control, though like most robots once fixed they are
+> happy to work with the Autofix bot. Mifix and the distant Templar minifix bot are detectable (once
+> the crack in the door event occurs, and the Templar minifix bot is activated), but they are too
+> far away to communicate. I think a good reveal would be the Templar minifix bot has uncorrupted
+> memory and when Mifix and the templar's minifix bot meet the minifix bot can reveal robot realm
+> history that was lost. Need to consider what this minifix bot knows, maybe give it a name.
+
+### Round 13 — 2026-08-12
+
+**Q37 — "Minibots are like an upgraded currency" — stored labour, or spendable?**
+
+> They are stored labour AND currency - you upgrade a minibot to make specialised minibots, doing so
+> 'consumes' a minibot reducing the stored labour.
+
+**Q38 — What breaks the range leash?** (recommendation: mini-fix bots are exempt, and that's the
+point of them)
+
+> agreed.
+
+**Q39 — Does Autofix know what "Quantum" means?** (recommendation: he is recovering technology he
+does not understand)
+
+> Agreed sort of, the skill points represent rediscovery - the autofix bot doesn't have the
+> schematics - the schematics aren't neatly available anymore. The autofix bot is discovering the
+> robots history and technology by collecting data from repaired robots - lets rename skill points
+> as 'Data fragments'. Unlocking a skill reflects the Autofix bot researching the data fragments and
+> rediscovering lost knowledge from them.
+
+**Q40 — Name the monastery bot, and decide what it knows.**
+
+> great suggestions. The Templar minifix bot is known to the Celestials as the Relic of St Archivus.
+> Once activated, the minifix bot knows his designation as MF-710D (MF-28941 in decimal). He
+> remembers the Celestials nick-named him Odie before he was put in stand-by mode to preserve his
+> memory module from long-term degradation. Minifix bots and autofix bots can't repair themselves.
+
+**Q41 — Does the Robotics branch reach "true reproduction"?**
+
+> Agreed. Lets block access to the autonomous robotics skills with an 'ACCESS DENIED' block-out.
+> Later chapters would work towards unblocking this skill tree. Odie will have hints on what's needed
+> to do this. Note that the Ninja, Mifix, and Garagoyle reaching the Templar is the culmination of a
+> Chapter. I'm thinking the Mystics gameplay and the Mystics protagonist also reaching and supporting
+> the Templar should also culminate at the end of the same chapter. Lets delve into the Mystics in a
+> later session. I might need to re-arrange things, and make Chapter 2 focus on the Gargoyle
+> gameplay, and move the Mystics gameplay and culmination of the Ninja, Mifix, Gargoyle, and Mystics
+> protagonist reaching the Templar as the culmination of Chapter 3 instead.
+
 ## Notes for Compilation
 
 - Ten playable factions, each with its own protagonist and its own story; an eleventh faction is
@@ -289,7 +425,48 @@ Robots repair/remote comms, Institute timing, Celestials hero defence)
   ("very ancient"), and made chapter two converge on `the-monastery-autofix-bot`.
 - Round 8 left one prototype beat homeless: "the gate was sealed and guarded **for a reason**",
   which no longer attaches to the guardian's gate. Recorded in `the-cracked-gate`.
-- Still outstanding: game styles for `green-skins` and `mystics` (both needed for chapter two);
+- Round 9 corrected a real contradiction: the shrine mini-fix bot was described as "woken" by the
+  first signal while also being the reason the Ninja survives non-boss failures. It has been
+  **awake for generations**; the quest was renamed `the-first-signal` and the bot promoted to a
+  `character` note, `the-shrine-mini-fix-bot`, as the Ninja's companion and mentor.
+- Round 9 also settled the second signal's **route** (realm-03 → open gate → realm-09 → cracked
+  ruin gate → realm-01), which had been recorded as the interviewer's inference, and confirmed the
+  monastery bot is a **mini-fix** bot.
+- Round 10 named the shrine bot **Mifix** and gave him a motive: he believes he may be the last
+  robot with autofix capability, and the Ninja's family line carries a **legacy to reunite the
+  allied factions** — but his memory is corrupted and the reasons have decayed into myth.
+- Round 10 resolved the timing discrepancy with a three-condition gate, named **Quantum Comms** as
+  the Autofix skill-tree unlock, and established that the guarded gate is **not** cracked all along
+  — it cracks when the Ninja returns to the boss battle with a newly trained skill (TBD).
+- Round 10 also produced a `character` note for **the Gate Guardian**, settling three competing
+  names for it (gate guardian / gate warden / Gate Boss).
+- Round 11 closed the last open mechanism question. The crack is a **transmission** problem, not a
+  reception one: realm-02 is sealed on every side, Quantum Comms cannot operate without an opening,
+  and the crack is the only hole in that seal. Autofix's signal escapes through it and reaches
+  **both** mini-fix bots, which is why the crack gates the second signal too.
+- Round 11 also gave `the-second-signal` its motive: Mifix and the Ninja pursue the faint signal as
+  an **alternative route to the Robot Realm**, the guarded gate being cracked but impassable until
+  the Gate Guardian falls.
+- Round 12 built out the Robots' systems into three notes: `autofix-skill-tree` (one tree, five
+  branches, with a comms ladder that changes the genre as it grows), `minibot-command` and
+  `robot-repair-puzzle`. Quantum Comms was reframed as a **local** ability; the cross-realm signal
+  is an accident.
+- Round 12 established that mini-fix bots are **autonomous** — Autofix can communicate with them but
+  not control them — and that the distant bots are **detectable but not reachable**.
+- Round 12 proposed a reveal: the Templar's mini-fix bot has **uncorrupted memory** and can restore
+  the Robot Realm's lost history. It needs a name and its knowledge needs deciding.
+- Round 13 renamed skill points to **Data Fragments** and reframed unlocks as **rediscovery** —
+  Autofix has no schematics and is researching the robots' lost technology from data recovered from
+  the machines he repairs.
+- Round 13 named the monastery mini-fix bot **Odie** (designation MF-710D / MF-28941, known to the
+  Celestials as the Relic of St Archivus) and promoted it from an `item` to a `character` note.
+  Established that **mini-fix and autofix bots cannot repair themselves**, which is now its own lore
+  note and explains Mifix's corruption, Odie's stand-by, and the faction's whole predicament.
+- Round 13 added the **`ACCESS DENIED`** block on autonomous robotics, and **proposed a chapter
+  restructure**: chapter two refocused on Gargoyle's gameplay, with the Mystics and the four-way
+  convergence at the Templar moved to a new chapter three. Recorded as provisional.
+- Still outstanding: game styles for `green-skins` (leads chapter two) and `mystics` (leads chapter
+  three, scheduled for a dedicated session);
   seven unnamed faction unique features; why the robot gate is guarded at all; and the Ancients'
   motive, which the story outline cannot be finished without.
 - Round 2 rejected the interviewer's recommendation on Q7 (one world, per-faction slices) in

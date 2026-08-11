@@ -60,14 +60,18 @@ generation. This keeps the best line in the prototype notes, makes the boss cate
 different from the level, and means chapter one's single boss-fight/defeat/train cycle lands as an
 actual generational loss.
 
-**The in-universe explanation — settled 2026-08-08: the mini-fix bot.** It can **"repair" the Ninja
-whenever it is near them**, but it **cannot get near the gate guardian**. So the Ninja recovers
+**The in-universe explanation — settled 2026-08-08: [[mifix]].** It can
+**"repair" the Ninja whenever it is near them**, but it **cannot get near the gate guardian**. So the Ninja recovers
 from every failure in the world except the one fight the bot cannot attend.
 
 This is the strongest reconciliation available, because it makes the shrine bot **load-bearing for
 the mechanic and not just the plot**. The family's secret ancestor spirit is literally the reason
 the player gets to retry. It also quietly explains the family's endurance: generations of fighting
 a guardian they cannot beat, kept alive in between by a machine they think is a ghost.
+
+It follows that **Mifix has been awake the entire time** — it cannot repair the Ninja between
+fights while asleep in a shrine. Any framing in which it is "woken" by a signal is wrong; see
+[[the-first-signal]].
 
 Open: why the bot cannot approach the guardian — warded, forbidden, or simply outmatched.
 

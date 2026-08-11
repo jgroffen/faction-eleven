@@ -41,7 +41,7 @@ crack a signal will pass.
 ## Why It Matters
 
 It makes chapter one causally tight. The Ninja's failure is the **precondition** for
-[[the-shrine-bot-awakens]] — so the chapter's two reduced factions and its lead faction are not
+[[the-first-signal]] — so the chapter's two reduced factions and its lead faction are not
 three parallel demos but one chain of events:
 
 > Ninja fights and loses → the gate cracks → [[autofix]]'s restored remote comms reach through →

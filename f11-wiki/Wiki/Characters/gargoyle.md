@@ -49,7 +49,7 @@ Player character. Infiltrator archetype, stealth-platformer gameplay. Currency: 
 
 Meets [[ninja]] in chapter two, when the Ninja follows [[the-second-signal]] through the abandoned
 cracked gate in [[the-ancient-ruin]]. The two then **work together to find the mini-fix bot** whose
-signal drew the Ninja out — which [[templar]] has ([[the-monastery-autofix-bot]]).
+signal drew the Ninja out — which [[templar]] has ([[odie]]).
 
 May also meet [[conjurer]] in the Mystics' underworld.
 

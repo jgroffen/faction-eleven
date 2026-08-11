@@ -41,7 +41,7 @@ deliberately left blank rather than invented; see [[faction-design-status]].
 
 | Faction | Unique feature |
 |---------|---------------|
-| [[robots]] | **Repair and remote communication** — restoring broken machines, and reaching one's own bots at a distance. Already the mechanism behind [[the-shrine-bot-awakens]] and [[the-calling-of-ancient-allies]]. |
+| [[robots]] | **Repair and remote communication** — restoring broken machines, and reaching one's own bots at a distance. Already the mechanism behind [[the-first-signal]] and [[the-calling-of-ancient-allies]]. |
 | [[institute-of-eight]] | **Timing** — the trained ability to read a rhythm and act on the beat ([[ninja-rhythm-platforming]]). |
 | [[celestials]] | **Hero defence** — holding a position as a single unit that can be everywhere ([[celestials-hero-tower-defence]]). |
 | the other seven | **not yet named** |

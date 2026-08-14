@@ -54,6 +54,14 @@ the shell's presentations ([[exploration-core-loop]]).
 **The war machine** remains from the prototype: the green-skins bring siege machinery, and the
 Templar's eventual answer is to take one, upgrade it, and turn it on its owners.
 
+**Visitors play this style too.** Settled 2026-08-14 ([[realm-governs-game-style]]): when [[ninja]]
+and [[gargoyle]] reach the Celestials' realm in [[chapter-03]], **their gameplay swaps to this
+one**. The prototype's "later allies become hero units" is therefore not a bonus feature but the
+general rule — and it means this system is built once and played by at least three protagonists.
+
+What it does **not** yet answer: what a Ninja or a Gargoyle *is* on a tower-defence field, and
+whether the abilities they earned elsewhere come with them.
+
 Not yet established:
 
 - Whether the player builds towers, or only positions and upgrades a fixed castle.

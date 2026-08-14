@@ -55,29 +55,33 @@ focus on the Gargoyle gameplay"
 | Faction | Form | Game style | What they do |
 |---------|------|-----------|--------------|
 | [[celestials]] | major — [[templar-monastery]] | [[celestials-hero-tower-defence]] ✅ | second defeat; the first *deliberate* reconnection |
-| [[institute-of-eight]] | major — [[ninja]] leaves [[realm-01]] | [[ninja-rhythm-platforming]] ✅ | follows the second signal out through the ruin |
-| [[green-skins]] | **lead** — [[gargoyle]]'s gameplay is the chapter's focus | ❌ **none designed** | Gargoyle joins the Ninja against his own faction's war |
+| [[institute-of-eight]] | major — [[ninja]] leaves [[realm-01]] | [[ninja-rhythm-platforming]] ✅ — but **swaps to the host realm's Metroid** once he crosses ([[realm-governs-game-style]]) | follows the second signal out through the ruin |
+| [[green-skins]] | **lead** — [[gargoyle]]'s gameplay is the chapter's focus | [[gargoyle-stone-metroidvania]] ✅ (settled 2026-08-14) | Gargoyle joins the Ninja against his own faction's war |
 | [[robots]] | supporting | [[robots-incremental-exploration]] ✅ | hear the monastery bot; comms pay off a second time |
 
 ## Content Load
 
-Substantially heavier than chapter one, on every axis:
+Still heavier than chapter one, but the shape has changed twice:
 
-- **Five factions, against chapter one's three.**
-- **Two entirely new game styles** — [[mystics]] and [[green-skins]] — neither of which is
-  designed. See [[faction-design-status]].
-- **Two new realms** at meaningful scope: [[realm-04]] as a *major setting*, and [[realm-09]].
+- **Four factions, against chapter one's three** (was five before the restructure).
+- **One new game style** — [[gargoyle-stone-metroidvania]], settled 2026-08-14. **Every faction in
+  this chapter now has a settled style**, which was not true a week ago.
+- **One new realm** at meaningful scope: [[realm-09]] ([[realm-04]] moved to [[chapter-03]]).
 - New locations: [[templar-monastery]] with its ancient parts, [[the-ancient-ruin]].
 - The first cross-realm **travel** by a protagonist, rather than signalling.
 
-**The restructure fixes most of the balance problem** the chapter notes were written to expose.
-Moving the Mystics to [[chapter-03]] takes chapter two from five factions and two undesigned styles
-down to four factions and one — and that one, the [[green-skins]], is now the chapter's *lead*
-rather than a walk-on.
+**Two structural wins landed 2026-08-14.** The Gargoyle runs on the **Ninja's platforming engine**
+with a different move set ([[exploration-core-loop]]), so the chapter's headline system is a
+re-skin of chapter one's rather than a new build. And under [[realm-governs-game-style]] the Ninja
+plays the same Metroid map the Gargoyle does — so [[realm-09]] is **built once and played twice**.
 
-**The remaining risk is concentrated rather than removed:** chapter two's headline faction has **no
-game style at all**. Designing [[gargoyle]]'s gameplay is now the most urgent open item in the wiki
-after the story outline. See [[faction-design-status]].
+**What is now the chapter's real cost** is not systems but **map**. Metroidvania is the most
+content-hungry genre on the roster: a linear platformer ships level by level, an interconnected map
+is not playable until the loop closes. Chapter two's schedule is now a level-design problem.
+
+**And the pacing question is open:** the Gargoyle's ladder ends in **full flight**, which dissolves
+platform gating. How far up that ladder chapter two goes is undecided — see
+[[gargoyle-stone-metroidvania]].
 
 ## Continuity
 
@@ -103,5 +107,8 @@ unsolved.
 - Whether [[the-calling-of-ancient-allies]] stays here. It must precede [[the-second-signal]]'s
   detection, so it cannot move to chapter three — **inference, not stated**.
 - The route from [[realm-09]] to [[realm-03]] is unexplained — see [[the-second-signal]].
-- The [[mystics]] "receive" the wand's call but what they *do* is unwritten, despite their realm
-  being a major setting.
+- The [[mystics]] "receive" the wand's call but what they *do* is unwritten.
+- **How much of the Gargoyle's ability ladder belongs in this chapter**, given that flight ends
+  platform gating.
+- **Who is manipulating the green-skins** ([[the-manipulation-of-the-green-skins]]) — the Gargoyle's
+  motive rests on it, and it is deferred to a dedicated lore session.

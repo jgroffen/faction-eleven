@@ -73,7 +73,8 @@ the player braids the stories together by [[protagonist-swapping-and-story-gatin
 
 ## Chapters
 
-- [[chapter-01]] · [[chapter-02]] — the beats, faction balance and build load per chapter.
+- [[chapter-01]] · [[chapter-02]] · [[chapter-03]] — the beats, faction balance and build load per
+  chapter. Which game style a chapter's scenes use follows [[realm-governs-game-style]].
 
 ## Sources
 

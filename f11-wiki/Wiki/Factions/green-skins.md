@@ -35,7 +35,13 @@ internal opposition at its centre, and the player's window into it is a dissente
 That resolves the oddity of an *infiltrator* protagonist fronting a horde: the Gargoyle is not the
 horde's champion, he is working against what it is doing.
 
-**Currency:** Gold · **Role archetype:** Infiltrator
+**And they may not be doing it by choice.** Settled 2026-08-14: the Gargoyle wants to **protect and
+save** them, and to stop the faction **being manipulated and used**
+([[the-manipulation-of-the-green-skins]]). The horde that everyone else in the multiverse
+experiences as an invader is, from inside, a people being spent by somebody else.
+
+**Currency:** Gold · **Role archetype:** Infiltrator · **Game style:**
+[[gargoyle-stone-metroidvania]] (settled 2026-08-14)
 
 ## Standing
 
@@ -63,9 +69,9 @@ Celestials has an opponent inside the faction.
 
 ## Notes
 
-The obvious question the design has not yet answered: **why** are they expanding — need, appetite,
-or because something is pushing them out of their own realm? The Gargoyle's opposition to the war
-makes that question sharper, since somebody inside the faction has evidently decided the reason
-isn't good enough.
+The question the design has long carried — **why** are they expanding: need, appetite, or something
+pushing them out? — now has its first answer: **they are being manipulated and used**
+([[the-manipulation-of-the-green-skins]]). By whom is deliberately unwritten, and the author has
+reserved this faction's lore and story for a dedicated session. Do not fill it in.
 
-_Story partly reviewed 2026-08-08; game style still pending._
+_Story partly reviewed 2026-08-08. Game style settled 2026-08-14; lore session outstanding._

@@ -47,11 +47,20 @@ blended; they are both available in the shell, and a faction's game style picks 
 
 | Presentation | Factions |
 |--------------|----------|
-| **Platforming** | [[robots]] ([[robots-incremental-exploration]]), [[institute-of-eight]] ([[ninja-rhythm-platforming]]), [[green-skins]] (stealth platformer, unreviewed) |
+| **Platforming** | [[robots]] ([[robots-incremental-exploration]]), [[institute-of-eight]] ([[ninja-rhythm-platforming]]), [[green-skins]] ([[gargoyle-stone-metroidvania]]) |
 | **Top-down** | [[celestials]] ([[celestials-hero-tower-defence]]), [[pirates]], and probably [[the-damned]] — the author's expectation, not yet settled |
 
 A faction may use both: the [[celestials]] fight top-down but **explore in platforming sections
 between battles**. So the split is per *activity*, not strictly per faction.
+
+**One platformer, three factions** (settled 2026-08-14). The [[gargoyle]] uses **the same
+platforming engine as the [[ninja]]**, with a different move set and no rhythm layer — which makes
+a character, mechanically, **a list of abilities** over a shared controller. With the [[robots]]
+platforming too, that is three of the ten factions running one build. It is the largest scope lever
+in the project, and the Gargoyle is its first test.
+
+Which realm's rules apply when a protagonist travels is settled separately, by
+[[realm-governs-game-style]]: the realm's, not the traveller's.
 
 Still not established: what the moment-to-moment verbs are beyond moving through space.
 

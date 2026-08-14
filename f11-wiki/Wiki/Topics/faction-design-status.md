@@ -26,7 +26,7 @@ as unsettled and left alone until there is something real to record.
 | 02 | [[robots]] | **deep** | **settled** — [[robots-incremental-exploration]] | settled (prototype fiction kept) |
 | 01 | [[institute-of-eight]] | **deep** | **settled** — [[ninja-rhythm-platforming]] | settled (prototype fiction kept; gate opens late-game) |
 | 03 | [[celestials]] | **deep** | **settled** — [[celestials-hero-tower-defence]] | settled through chapter two |
-| 09 | [[green-skins]] | **deep — urgent** | ❌ **none — and they lead [[chapter-02]]** | **partly settled** — [[gargoyle]] is ancient and opposes the war |
+| 09 | [[green-skins]] | **deep** | **settled** — [[gargoyle-stone-metroidvania]] | **partly settled** — [[gargoyle]] is ancient, opposes the war, and the faction is being **used** ([[the-manipulation-of-the-green-skins]]); **lore session outstanding** |
 | 04 | [[mystics]] | **deep — next session** | ❌ none — and they lead [[chapter-03]] | substantial (prototype) |
 | 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | none |
 | 06 | [[pirates]] | thin — leave | pending | none |
@@ -42,9 +42,18 @@ Chapter two adds the [[mystics]] ([[realm-04]]) as a major setting **and** the [
 ([[realm-09]]) via [[the-second-signal]] — so the arc stops being contiguous. Realm 09 is reached
 through an abandoned gate in [[realm-01]], not by walking round the wheel.
 
-**Two factions now lead chapters with no game style at all**: the [[green-skins]] lead
-[[chapter-02]] and the [[mystics]] lead [[chapter-03]]. These are the two most urgent design gaps
-in the wiki. The author has scheduled the **Mystics** for a dedicated session.
+**Four of ten styles are settled** (2026-08-14). The [[green-skins]] gap closed with
+[[gargoyle-stone-metroidvania]], leaving the [[mystics]] as **the only chapter lead without a game
+style** — and they lead [[chapter-03]]. That is now the most urgent design gap, and the author has
+scheduled it for a dedicated session.
+
+**Settled styles are no longer one-per-faction.** Under [[realm-governs-game-style]] a style
+belongs to a realm and is played by whoever visits, so each settled row above is a system that will
+be **played more than once**. What is *not* settled is what each protagonist becomes inside somebody
+else's genre — that work grows as the stories converge.
+
+The [[green-skins]] remain **story-thin** despite being style-settled: who is manipulating them is
+unwritten and reserved for a later session. Style-settled is not faction-settled.
 
 ## What "pending" means
 

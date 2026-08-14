@@ -385,6 +385,70 @@ does not understand)
 > gameplay, and move the Mystics gameplay and culmination of the Ninja, Mifix, Gargoyle, and Mystics
 > protagonist reaching the Templar as the culmination of Chapter 3 instead.
 
+### Round 14 — 2026-08-14
+
+The author opened the round with the conclusions rather than answers, having asked for mechanic
+ideas for the Gargoyle (originally imagined as stealth platforming, then as squad turn-based):
+
+> Conclusion is Gargoyle is going to use the same platforming engine as the ninja, but with a
+> different skill set (different platforming moves) and no rhythm mechanic. Lets change the Gargoyle
+> game mode to Metroid style. When the Gargoyle is playing he has a minimal skill set to begin with,
+> I'm thinking he can stealth without moving only. When the ninja moves into the Green Skin's realm
+> he will have the same Metroid style progression through unlocking upgrades approach that
+> represents growth for the ninja character as well.
+
+**Q42 — The ability system, and the Gargoyle's move set.**
+
+> Gargoyle mechanics, probably incomplete and in no particular order: Stone-form - no move stealth,
+> stone strength - move heavy obstacles, glide - span otherwise impassable gaps and obstacle
+> avoidance, Stone-stealth - slow-speed stealth, stone strength 2 - move heavier obstacles and break
+> some obstacles, stone-drop - stone form while jumping that can be used to break through weak ground
+> from great heights and knock out opponents, Double Jump - gargoyle can flap once, triple jump, quad
+> jump - shows the gargoyle getting closer to full flight, Gargoyle flight, Gargoyle Legacy - final
+> unlock that grants sonic flight - super strength - super fortitude.
+
+**Q43 — Which structure governs realm-09, and does the rhythm layer travel?** (recommendation:
+genre is a property of the realm; the rhythm stays home)
+
+> Agree - Gargoyle unlocks upgrades by finding Gargoyle lore fragments - when in Realm 9 the Ninja
+> 'upgrades' are instead training opportunities - The ninja finds a challenge room - Mifix and the
+> Ninja have some dialog then 'learn' the new skill by practicing it in the room.
+
+**Q44 — What does stationary stealth do, and what happens when he's seen?**
+
+> It resets the section - The reason to stealth may vary per section but the Gargoyle is trying to
+> subvert the invasion (we'll get into the lore and story in a separate grilling), some sections will
+> simply be he is kicked out of whererever he is.
+
+**Q45 — Does he fight?** (recommendation: no — his kit disables rather than destroys)
+
+> No he doesn't fight - he wants to protect and save the Green skins and wants to stop the Green
+> Skins faction from being manipulated and used. gargoyles see themselves as protectors.
+
+**Q46 — Where do upgrades come from, and who teaches the Ninja?**
+
+> Already covered by Q43 answer.
+
+**Q47 — What happened to the party members?** (recommendation: make recruits *be* the upgrades)
+
+> I think this idea isn't compatible with the Metroid style - I'll save it for a different faction.
+> Gargoyle and Ninja will find each other at some point in chapter 2 but the gameplay in the Green
+> Skins realm doesn't suit party or squad mechanics. We should record a decision that the realms
+> mechanics apply when gameplay is in that realm - hence the ninja gameplay swaps to Metroid style in
+> realm 9, the Gargoyle and ninja ultimately move on to celestial realm in chapter 3 and their
+> gameplay will swap to Templar tower defence with heroes style.
+
+**Q48 — Map shape and saves; is Mifix the save point?**
+
+> Gargoyle is permanent progression every time he passes a section and collects upgrades - his story
+> doesn't involve dying in Green Skins realm. Mifix is the save / restore mechanic in the Green Skins
+> realm for the Ninja.
+
+**Q49 — Cracking: what does failure cost the Gargoyle?** (recommendation: a crack costs an ability)
+
+> Failure costs the gargoyle progression - he is forced back to the start of the section he is
+> working through.
+
 ## Notes for Compilation
 
 - Ten playable factions, each with its own protagonist and its own story; an eleventh faction is
@@ -465,8 +529,24 @@ does not understand)
 - Round 13 added the **`ACCESS DENIED`** block on autonomous robotics, and **proposed a chapter
   restructure**: chapter two refocused on Gargoyle's gameplay, with the Mystics and the four-way
   convergence at the Templar moved to a new chapter three. Recorded as provisional.
-- Still outstanding: game styles for `green-skins` (leads chapter two) and `mystics` (leads chapter
-  three, scheduled for a dedicated session);
+- Round 14 settled the **green-skins' game style**: `gargoyle-stone-metroidvania` — the Ninja's
+  platforming engine, a different move set, no rhythm layer, Metroid-structured, with a ten-rung
+  ability ladder running from stationary-only stealth to sonic flight.
+- Round 14 established that the **Gargoyle does not fight at all** — he is a protector — and that
+  the green-skins are **being manipulated and used**, which is the first stated reason for the
+  faction's expansion and the strongest lead yet on the antagonist. The lore behind it is
+  **deliberately deferred** to a dedicated session; do not invent who is using them.
+- Round 14 produced a structural rule with wide reach: **`realm-governs-game-style`** — a genre
+  belongs to a realm, not a protagonist. The Ninja plays a Metroid in realm-09; both he and the
+  Gargoyle play tower defence in realm-03 in chapter three. This turns ten one-shot genre systems
+  into systems that get played repeatedly, and is the main mitigation for the project's central
+  scope risk.
+- Round 14 **rejected party/squad mechanics for the Gargoyle** — as unsuited to the realm, not as a
+  bad idea. The author reserved them for a different faction.
+- Round 14 also rejected the interviewer's Q49 recommendation (failure cracks him and costs an
+  ability): failure costs **position**, not capability — back to the start of the section.
+- Still outstanding: the game style for `mystics` (leads chapter three, scheduled for a dedicated
+  session, now the only chapter lead without one); the green-skins' **lore session**;
   seven unnamed faction unique features; why the robot gate is guarded at all; and the Ancients'
   motive, which the story outline cannot be finished without.
 - Round 2 rejected the interviewer's recommendation on Q7 (one world, per-faction slices) in

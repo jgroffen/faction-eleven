@@ -55,11 +55,18 @@ The prototype assignments, recorded as the last written state and **not as curre
 | [[pirates]] | 4X |
 | [[werebeasts]] | RPG |
 | [[the-damned]] | Puzzle / point-and-click |
-| [[green-skins]] | Stealth platformer |
+| [[green-skins]] | ~~Stealth platformer~~ → **now [[gargoyle-stone-metroidvania]]** (settled 2026-08-14); the same platforming engine as the Ninja's, no rhythm layer, Metroid-structured |
 | [[aliens]] | Choplifter / Metroid-like |
 
 **Resolved 2026-08-08:** the unexplained "incremental" genre was the [[robots]]' new style. Its
 Civ/Defender slot is gone.
+
+**Resolved 2026-08-14 — a genre belongs to a realm, not to a protagonist.** See
+[[realm-governs-game-style]]. When a protagonist travels, they play the host realm's genre: the
+[[ninja]] plays a Metroid in [[realm-09]], and both he and the [[gargoyle]] play
+[[celestials-hero-tower-defence]] in [[chapter-03]]. This is the rule that turns ten one-shot
+genre systems into systems that get **played more than once** — the direct mitigation for the scope
+risk recorded below.
 
 Also unresolved: how deep each genre goes — whether a faction's genre governs its whole story or
 surfaces in particular sequences.

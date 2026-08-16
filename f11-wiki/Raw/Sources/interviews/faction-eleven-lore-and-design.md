@@ -449,6 +449,119 @@ genre is a property of the realm; the rhythm stays home)
 > Failure costs the gargoyle progression - he is forced back to the start of the section he is
 > working through.
 
+### Round 15 — 2026-08-16
+
+The author opened a grilling on **Gargoyle lore** with the following statement of the high-level
+material. Recorded here verbatim as the round's evidence; the questions put to it follow in round
+16.
+
+> high level is the Gargoyle story starts with a cutscene showing how the Gargoyles are magical
+> constructs made by necromancers from the damned realm (realm 8) and shamans from realm 9.
+> Gargoyles are dead orcs that are resurrected and golem-ified - they are imbued with magical power,
+> but are autonomous and only follow instructions they are imbued with. This was done so that the
+> gargoyles couldn't be used against another faction. The gargoyles imbued instructions are that
+> they are realm guardians, they cannot act except in defence of a realm being invaded - they cannot
+> work against their own faction.
+>
+> They were created to defend against attacks from the Celestials, mystics, and fey folk, who were
+> constantly incurring into the Green skins, Damned, and werebeast realms.
+>
+> The cut scene shows the creation of the Gargoyles, that they are defenders only - they are
+> dispatched to fight back the invastions and seal up the gateways from the enemy factions. They
+> return and are instructed to rest until needed again.
+>
+> Gargoyles enter stone form and scene cuts to black to represent a time jump. Same scene fades in
+> and it's apparent much time has passed. Then a hooded vampire woman in robes enteres with a
+> Minotaur and a Giant. The woman orders 'do it!' and leaves. The minotaur and giant smash all the
+> gargoyles' heads with hammers. The hammer breaks on the last gargoyle's head, only partially
+> smashing his head. The minotaur and giant look at each other, shrug, and leave.
+>
+> Fade to black and fade in to the same scene - a bolt of power awakens the last gargoyle - and
+> gameplay starts. The reason the gargoyles awoke is because the realm was unsealed so the green
+> skins, damned, and werewolves can attack the celestials.
+>
+> Part of the gameplay is the gargoyle begins alone with knowing his backstory, and knowing he is
+> missing much of his power. He doesn't know why he is awake but thinks he mustn't let anyone know
+> he is active when he doesn't know what's going on. These gargoyles are loyal to the Green Skins,
+> there are gargoyles in the werebeasts realm and the damned realm too that are loyal to those
+> realms.
+
+### Round 16 — 2026-08-16
+
+Answers to the questions put to round 15's material.
+
+**Q51 — Is he broken, or is he interpreting?**
+
+> I like the angle that an antagonist he comes across in the green skins realm tries to convince him
+> he is malfunctioning - lets make that happen with the vampire woman. The answer is the gargoyles
+> could shape rock too - and they shaped the barriers on the inside of the realm gates - they are
+> awoken when the barrier is broken. The implication is there was a plan to break the barrier to the
+> celestials realm and so the gargoyles were destroyed before the plan was enacted so they wouldn't
+> wake. The reason they wake is obvious - if their barrier is broken then the realm is under attack
+> from an outsider. The gargoyle won't know why he has awakened but sees the destruction of his
+> fellow gargoyles and concludes that the green skin realm is under threat somehow, so he starts
+> trying to work out why. As the gargoyle story progresses he will discover that the celestial gate
+> barrier was broken and the Green Skins generally think it's because the celestials started another
+> incursion. Later he will uncover that the barrier was broken by a group secretly working to incite
+> the green skins, werebeasts, and the damned to attack and invade the celestials. Lets call this
+> secret group something ... lets say they call themselves the Gardians of Night.
+
+**Q52 — When is this, and does he remember the world before?**
+
+> The gargoyles were made and sealed the gate's to the celestial, fey folk, and mystics realms a long
+> time ago, but yes the gargoyles do not know of the ancients, but are aware of the other realms.
+> Lets soften the lack of awareness of other realms - most residents in most realms are not aware of
+> other realms, or have little awareness of only a few realms or legends of people from other places.
+> The Werebeasts, Damned, and Green Skins have better awareness than most as their realms were
+> connected and friendly for a long time whereas most realms had little to do with each other except
+> maybe their close allies, who became myth when the realms were sealed. The gargoyles themselves
+> have no knowledge of what happened between them going into topor and coming out of it.
+
+**Q53 — Who is the vampire woman, and why destroy her own side's safeguard?**
+
+> They are all part of the Guardians of Night - who themselves are being manipulated by an ancient to
+> start trouble with other factions. From the perspective fo the Guardians of Night the recent
+> unsealing of some of the gates is proof that the Celestials, Fey Folk, and Mystics intend to invade
+> their realms again. We haven't discussed them much yet, but the Mystics are under invation by the
+> Damned mostly and some werebeasts too. This too has been instigated by the Guardians of Night. Her
+> name is Val (short for Valynthia).
+
+**Q54 — Why does an offensive war wake a defensive construct, and what is the bolt?**
+
+> The bolt of power is magic the Gargoyles themselves imbued into the barriers they constructed -
+> they are awoken from their topor when a barrier is broken. The gargoyle won't know what's happening
+> but will slowly uncover the manipulation of the green-skins and see this manipulation as an act
+> that counts as external forces attacking the green skin realm.
+
+**Q55 — Are the other realms' gargoyles still standing?**
+
+> The Damned gargoyles have also been smashed - in a similar plot where the Damned are leading an
+> invastion into the Mystics realm now. There werebeasts haven't had their gargoyles smashed and
+> their barriers are in place. This makes for a future plot line in a much later chapter where the
+> Gargoyle will attempt to seek the other gargoyles for help, something he will have to be convinced
+> to do by one of the other protagonists as he is mainly focused on the Green Skins and would see
+> this as getting involved in other faction conflicts.
+
+**Q56 — What does he not know?** (recommendation: he knows the factions, and has never heard of the
+Ancients)
+
+> Agreed. He doesn't know why he is damaged and the other gargoyles around him are destroyed, even
+> though the player does as he was privy to the cut-scene.
+
+**Q57 — What are the lore fragments?** (recommendation: pieces of his own smashed head)
+
+> The lore fragments are pieces of other gargoyles that he can use to restore himself. When he
+> awakens there are other smashed gargoyles in the same room. When he comes to he can barely move but
+> finds some of his own fragments that restores him somewhat. As he is inspecting the other gargoyles
+> he finds another fragment that grants him the first gargoyle power to stealth without moving. His
+> head looks damaged still, and while gargoyle's are very rare they are scattered around the
+> green-skin realm in important places. All have had their heads smashed, and some have fragments
+> that the gargoyle can use to recover.
+
+**Q58 — Are the other gargoyles still physically there?**
+
+> agreed.
+
 ## Notes for Compilation
 
 - Ten playable factions, each with its own protagonist and its own story; an eleventh faction is
@@ -545,8 +658,32 @@ genre is a property of the realm; the rhythm stays home)
   bad idea. The author reserved them for a different faction.
 - Round 14 also rejected the interviewer's Q49 recommendation (failure cracks him and costs an
   ability): failure costs **position**, not capability — back to the start of the section.
+- Rounds 15–16 built out the **Gargoyle's lore** across six new notes. Gargoyles are dead orcs
+  resurrected as stone constructs (`the-gargoyle-guardians`), made jointly by realm-08 necromancers
+  and realm-09 shamans, autonomous so they could never be used offensively, and able to act only in
+  defence of an invaded realm.
+- Rounds 15–16 **resolved the sealing contradiction** the wiki had carried since round 1. There are
+  **two layers**: the Ancients built and locked the *gates*; the gargoyles shaped *barriers* on the
+  inside of them (`the-realm-barriers`), imbued with their own magic, so that breaking a barrier
+  wakes them. The green-bloc realms sealed themselves in; the Ancients only had to keep them there.
+- Rounds 15–16 introduced **the Guardians of Night** — a secret cross-realm group who smashed the
+  gargoyles of realms 08 and 09, broke the Celestial barrier from the inside, and let three realms
+  believe they were defending themselves. They think they are defending too. **They are being
+  manipulated by an Ancient** — the eleventh faction's first action in the *present day*, and the
+  game's first reachable antagonist. `val` (Valynthia), a vampire of the Damned, gave the order.
+- Round 16 **softened the disconnection**: awareness of other realms is a spectrum, not a blackout,
+  and the old allies of realms 07/08/09 remember each other better than most. Recorded in
+  `the-long-disconnection`.
+- Round 16 turned the "lore fragments" into `gargoyle-fragments` — **pieces of other gargoyles**,
+  found at important places across realm-09, all with their heads smashed. Progression, exposition
+  and grief are one object.
+- Round 16 gave four "thin — leave" factions a **role derived from someone else's story** rather
+  than invented: the werebeasts and the Damned as old defensive allies (the werebeasts' gargoyles
+  survive, setting up a much later chapter), the Mystics as a second invasion front, and the Fey
+  Folk as one of the three old invader realms. Their protagonists and game styles remain untouched.
 - Still outstanding: the game style for `mystics` (leads chapter three, scheduled for a dedicated
-  session, now the only chapter lead without one); the green-skins' **lore session**;
+  session, now the only chapter lead without one); the green-skins' **culture and leadership**;
+  why realm-07's gargoyles were spared; whether "an Ancient" means an individual;
   seven unnamed faction unique features; why the robot gate is guarded at all; and the Ancients'
   motive, which the story outline cannot be finished without.
 - Round 2 rejected the interviewer's recommendation on Q7 (one world, per-faction slices) in

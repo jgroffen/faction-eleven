@@ -88,6 +88,26 @@ These are all reconcilable if "historically friendly/enemy" describes the *old* 
 present is a violation of it — which is arguably the better story anyway: the disconnection did
 not just isolate the realms, it scrambled who fights whom.
 
+### The ring is a map of two alliances
+
+Settled 2026-08-16, and it is the strongest confirmation the wheel has had. The old war ran between
+two **contiguous arcs** sitting opposite each other:
+
+| Bloc | Realms |
+|------|--------|
+| **The invaded** — built the gargoyles | 07 [[werebeasts]] · 08 [[the-damned]] · 09 [[green-skins]] |
+| **The invaders** — "constantly incurring" | 03 [[celestials]] · 04 [[mystics]] · 05 [[fey-folk]] |
+
+Each bloc is three neighbours in a row, and **two of the three facing pairs are exact opposites** —
+03↔08 and 04↔09, both already recorded above as historic enemies. So the wheel does not merely rank
+nearness; **the opposition axis is where the wars actually happened**, and alliance follows
+adjacency. [[the-gargoyle-guardians]] were built by two of the three defenders working together
+(necromancers of 08, shamans of 09), which is adjacency doing exactly what the ring predicts.
+
+The present state is the old war restarted by deception ([[the-broken-barrier]]) — so the
+green-skins invading the Celestials is not a scrambling of the old order after all. It is the old
+order, resumed on false evidence.
+
 **Genuinely supported by the ring:** [[mystics]] (04) and [[green-skins]] (09) are exact opposites
 and the prototype notes have the green-skins mining the Mystics' realm. And [[robots]] (02) sits
 adjacent to the [[institute-of-eight]] (01) — historically friendly — which is exactly where the

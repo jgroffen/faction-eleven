@@ -40,6 +40,17 @@ save** them, and to stop the faction **being manipulated and used**
 ([[the-manipulation-of-the-green-skins]]). The horde that everyone else in the multiverse
 experiences as an invader is, from inside, a people being spent by somebody else.
 
+**They were the invaded first** (settled 2026-08-16). In the old war the [[celestials]],
+[[mystics]] and [[fey-folk]] "constantly incurred" into the green-skin, damned and werebeast
+realms — which is why realms 07, 08 and 09 built [[the-gargoyle-guardians]] out of their own dead
+and walled their gates shut ([[the-realm-barriers]]). Every other faction meets the green-skins as
+an invader; the green-skins remember being the ones invaded.
+
+**And their present war rests on a lie.** They believe the [[celestials]] broke the barrier and
+began another incursion. It was broken from the inside by [[the-guardians-of-night]]
+([[the-broken-barrier]]). The rank and file are not lying — they are wrong, on evidence that lies
+by itself.
+
 **Currency:** Gold · **Role archetype:** Infiltrator · **Game style:**
 [[gargoyle-stone-metroidvania]] (settled 2026-08-14)
 
@@ -70,8 +81,12 @@ Celestials has an opponent inside the faction.
 ## Notes
 
 The question the design has long carried — **why** are they expanding: need, appetite, or something
-pushing them out? — now has its first answer: **they are being manipulated and used**
-([[the-manipulation-of-the-green-skins]]). By whom is deliberately unwritten, and the author has
-reserved this faction's lore and story for a dedicated session. Do not fill it in.
+pushing them out? — is answered: **they are being manipulated** by [[the-guardians-of-night]], who
+are in turn being manipulated by an Ancient ([[the-manipulation-of-the-green-skins]]).
 
-_Story partly reviewed 2026-08-08. Game style settled 2026-08-14; lore session outstanding._
+**They are also orcs** — the gargoyles are raised from green-skin dead — which is the first thing
+the wiki has recorded about what a green-skin actually *is*. A minotaur and a giant also appear in
+their realm ([[the-smashing-of-the-gargoyles]]), unconfirmed as green-skins.
+
+_Story reviewed 2026-08-08, 2026-08-14 and 2026-08-16. Game style settled 2026-08-14. The faction's
+own culture, leadership and daily life are still unwritten._

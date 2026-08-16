@@ -12,6 +12,7 @@
 {"path": "Wiki/Characters/squidling.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "character", "title": "Squidling", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Characters/templar.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "character", "title": "Templar", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Characters/the-gate-guardian.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "character", "title": "The Gate Guardian", "topics": [], "updated": "2026-08-11"}
+{"path": "Wiki/Characters/val.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "character", "title": "Val", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Characters/werewolf.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "character", "title": "Werewolf", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Characters/wraith.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "character", "title": "Wraith", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Decisions/chapter-based-release.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "decision", "title": "Release Faction Eleven In Chapters", "topics": [], "updated": "2026-08-08"}
@@ -27,6 +28,7 @@
 {"path": "Wiki/Factions/pirates.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "faction", "title": "The Pirates", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Factions/robots.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "faction", "title": "Robots", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Factions/the-damned.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "faction", "title": "The Damned", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Factions/the-guardians-of-night.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "faction", "title": "The Guardians of Night", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Factions/werebeasts.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "faction", "title": "The Werebeasts", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/GameMechanics/autofix-skill-tree.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "game-mechanic", "title": "The Autofix Skill Tree", "topics": [], "updated": "2026-08-12"}
 {"path": "Wiki/GameMechanics/celestials-hero-tower-defence.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "game-mechanic", "title": "Templar — Hero Tower Defence", "topics": [], "updated": "2026-08-08"}
@@ -43,6 +45,7 @@
 {"path": "Wiki/GameMechanics/robot-repair-puzzle.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "game-mechanic", "title": "Robot Repair", "topics": [], "updated": "2026-08-12"}
 {"path": "Wiki/GameMechanics/robots-incremental-exploration.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "game-mechanic", "title": "Robots — Incremental Exploration", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Handovers/faction-eleven-story-outline.md", "sources": [], "tag": "handover", "title": "Handover: Faction Eleven story outline", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Items/gargoyle-fragments.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "Gargoyle Fragments", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Items/the-clay-jar.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "The Clay Jar", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Items/the-wand.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "The Wand", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-01.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 01 — The Institute of Eight", "topics": [], "updated": "2026-08-08"}
@@ -73,17 +76,22 @@
 {"path": "Wiki/Logs/2026-08-12-built-out-the-robots-progression-systems.md", "sources": [], "tag": "log", "title": "2026-08-12 — Built out the Robots' progression systems", "topics": [], "updated": "2026-08-12"}
 {"path": "Wiki/Logs/2026-08-12-data-fragments-odie-and-a-chapter-restructure.md", "sources": [], "tag": "log", "title": "2026-08-12 — Data Fragments, Odie, and a chapter restructure", "topics": [], "updated": "2026-08-12"}
 {"path": "Wiki/Logs/2026-08-14-round-14-gargoyle-s-game-style-settled-stone-metroidvania.md", "sources": [], "tag": "log", "title": "2026-08-14 — Round 14: Gargoyle's game style settled — stone Metroidvania", "topics": [], "updated": "2026-08-14"}
+{"path": "Wiki/Logs/2026-08-16-rounds-15-16-gargoyle-lore-the-realm-barriers-and-the-guardians-of-night.md", "sources": [], "tag": "log", "title": "2026-08-16 — Rounds 15-16: Gargoyle lore, the realm barriers, and the Guardians of Night", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Lore/allied-faction-signals.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "Allied Faction Signals", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Lore/death-and-return.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "Death And Return", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Lore/faction-currencies.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "Faction Currencies", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Lore/no-machine-repairs-itself.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "lore", "title": "No Machine Repairs Itself", "topics": [], "updated": "2026-08-12"}
 {"path": "Wiki/Lore/sealed-interplane-gates.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "lore", "title": "Sealed Interplane Gates", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Lore/the-ancient-language.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "lore", "title": "The Ancient Language", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Lore/the-broken-barrier.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Broken Barrier", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Lore/the-cracked-gate.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Cracked Gate", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Lore/the-gargoyle-guardians.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Gargoyle Guardians", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Lore/the-long-disconnection.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "lore", "title": "The Long Disconnection", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Lore/the-manipulation-of-the-green-skins.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Manipulation Of The Green Skins", "topics": [], "updated": "2026-08-14"}
 {"path": "Wiki/Lore/the-multiverse-of-realms.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "lore", "title": "The Multiverse Of Realms", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Lore/the-realm-barriers.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Realm Barriers", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Lore/the-six-classes.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "lore", "title": "The Six Classes", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Lore/the-smashing-of-the-gargoyles.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Smashing Of The Gargoyles", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Lore/the-wheel-of-realms.md", "sources": ["Raw/Sources/faction-diagram.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Wheel Of Realms", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Quests/the-calling-of-ancient-allies.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Calling Of Ancient Allies", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Quests/the-convergence-at-the-monastery.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Convergence At The Monastery", "topics": [], "updated": "2026-08-12"}
@@ -91,6 +99,7 @@
 {"path": "Wiki/Quests/the-fall-of-the-outpost.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Fall Of The Outpost", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Quests/the-first-signal.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The First Signal", "topics": [], "updated": "2026-08-11"}
 {"path": "Wiki/Quests/the-second-signal.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Second Signal", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Quests/the-waking-of-the-last-gargoyle.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Waking Of The Last Gargoyle", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Topics/faction-design-status.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "topic", "title": "Faction Design Status", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Topics/faction-eleven-premise.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "topic", "title": "Faction Eleven — Premise", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Topics/project-scope-and-constraints.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "topic", "title": "Project Scope And Constraints", "topics": [], "updated": "2026-08-08"}

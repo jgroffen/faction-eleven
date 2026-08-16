@@ -53,4 +53,5 @@ That double use is deliberate: it is what pays for the most content-hungry genre
 ## Set Here
 
 <!-- gd:set-here:start -->
+- [[the-waking-of-the-last-gargoyle|The Waking Of The Last Gargoyle]] · quest
 <!-- gd:set-here:end -->

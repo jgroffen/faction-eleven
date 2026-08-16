@@ -50,6 +50,35 @@ They are defined entirely by what they made and what they did with it:
 Their motive is deliberately unwritten. The author's own framing is "unknown reasons" — not
 unknown to the writer, but the thing the player is chasing.
 
+## They Are Acting Now
+
+Settled 2026-08-16, and it is the first thing in the wiki that puts the eleventh faction in the
+**present tense**. Everything else they have done is prehistory. This is not:
+
+> **An Ancient is manipulating [[the-guardians-of-night]]** — a secret cross-realm group — **to
+> start trouble with other factions.**
+
+The Guardians in turn incited three realms into war ([[the-broken-barrier]]). So the game's live
+conflict traces back to a single Ancient, through people who have never heard of the Ancients.
+
+Two things this changes:
+
+- **The antagonist now has a reachable proxy.** [[chapter-02]] can deliver a real villain and a real
+  revelation without spending any of the eleventh faction's mystery — a three-deep chain, *an
+  Ancient → the Guardians of Night → three realms at war*, where the player only ever sees the
+  bottom two rungs.
+- **Their method is consistent.** They did not conquer the multiverse; they got the realms to seal
+  themselves in ([[the-realm-barriers]]) and are now getting them to fight each other. An antagonist
+  who works exclusively through other people's convictions is one who can stay invisible
+  indefinitely — which is exactly the state the game starts in.
+
+**Note the wording.** The author wrote "**an** ancient" — singular. Whether that means one
+individual acting alone, or is simply how the manipulation reaches the Guardians, is **not
+established**. It is the first hint of an *individual* rather than a faction.
+
+Their motive is still the largest gap in the wiki ([[story-outline-requirement]]). Knowing they are
+active does not tell us what for.
+
 ## Standing
 
 Not a faction the player fights so much as one they **uncover**. Because the ten factions have

@@ -59,9 +59,11 @@ kit at all. **Stone-drop knocks opponents out**, which is the closest he comes: 
 never kill. This makes his Metroid a **pure traversal-and-stealth** Metroid, where a locked door is
 opened by a movement ability rather than by the right weapon.
 
-**Upgrades are found, not trained.** The Gargoyle unlocks abilities by finding **Gargoyle lore
-fragments** in the world — so his progression is also how the player learns what a gargoyle *is*.
-Growth and exposition are the same collectible.
+**Upgrades are taken from the dead.** The Gargoyle unlocks abilities by finding
+[[gargoyle-fragments]] — **pieces of other gargoyles**, all of whom had their heads smashed
+([[the-smashing-of-the-gargoyles]]). Gargoyles are rare and scattered across [[realm-09]] **in
+important places**, so the upgrade map is also a map of where the realm's defences once stood.
+Growth, exposition and grief are the same collectible.
 
 **Failure costs progress, not life.** The Gargoyle's story does not involve dying in his own realm.
 Being caught **resets the section** and forces him back to its start. Abilities once gained are
@@ -70,6 +72,13 @@ Being caught **resets the section** and forces him back to its start. Abilities 
 **Why he is sneaking varies by section.** Sometimes it is subversion of the invasion; sometimes
 being caught simply means he is **thrown out** of wherever he is. The stealth is not one uniform
 fail-state but a per-section framing.
+
+**And the stealth is motivated by the fiction, not by the genre.** He wakes not knowing why he is
+awake, and decides he **must not let anyone know he is active** until he understands what is
+happening ([[the-waking-of-the-last-gargoyle]]). A gargoyle standing still is a statue; a gargoyle
+that moved is a problem. That single decision generates the starting kit, the no-combat rule and
+the fail state at once — the mechanics were designed first and the lore arrived independently to
+justify all three.
 
 ## The Ninja In Realm 09
 
@@ -119,6 +128,8 @@ Two, both real:
 ## Used In
 
 <!-- gd:used-in:start -->
+- [[the-waking-of-the-last-gargoyle|The Waking Of The Last Gargoyle]] · quest
+- [[gargoyle-fragments|Gargoyle Fragments]] · item
 <!-- gd:used-in:end -->
 
 ## Related

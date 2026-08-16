@@ -25,7 +25,7 @@ _What is already written down. Link it, do not restate it._
   [[chapter-02]], one note per chapter, which is where faction balance and build load are tracked.
 - [[faction-eleven-premise]] — the entry point to everything else.
 
-Fourteen rounds of interview (2026-08-08 to 2026-08-14) took the wiki from empty to 97 notes. The transcript is
+Sixteen rounds of interview (2026-08-08 to 2026-08-16) took the wiki from empty to 106 notes. The transcript is
 `Raw/Sources/interviews/faction-eleven-lore-and-design.md`; the prototype notes and the faction
 diagram are the other two sources. All three are processed and covered.
 
@@ -37,9 +37,12 @@ and rejected._
 Nothing from the interview is unwritten — every resolved branch landed in a note before the next
 round was asked. What remains is what was **never settled**:
 
-- **[[faction-eleven-antagonist]]'s motive.** The single largest gap. The wiki honestly records
-  "unknown reasons" for extending the cycle. The outline cannot finish without it, because every
-  faction's narrative role depends on what they are unknowingly part of.
+- **[[faction-eleven-antagonist]]'s motive.** Still the single largest gap. The wiki honestly
+  records "unknown reasons" for extending the cycle. The outline cannot finish without it, because
+  every faction's narrative role depends on what they are unknowingly part of.
+  **Round 15 narrowed it usefully without answering it:** an Ancient is manipulating
+  [[the-guardians-of-night]] into starting wars, so the eleventh faction now demonstrably acts *in
+  the present*, through proxies who have never heard of it. We know the method; not the goal.
 - **The ending.** Nothing exists. The "final game mode where the protagonists join up"
   ([[faction-unique-features]]) is the only hint.
 - **Chapters four onward.** Nothing — no chapter notes exist beyond [[chapter-03]].
@@ -58,10 +61,11 @@ round was asked. What remains is what was **never settled**:
 - **A game style for the [[mystics]]** — now the **only** chapter lead without one, and they lead
   [[chapter-03]]. The author has scheduled a dedicated session; that is the agreed next piece of
   design work. (The Green Skins' gap closed on 2026-08-14.)
-- **Who is manipulating the [[green-skins]]** ([[the-manipulation-of-the-green-skins]]). The
-  Gargoyle's whole motive rests on it, and it is the strongest lead in the wiki on the antagonist's
-  motive — a manipulated horde would be the Ancients' first *present-day* action. The author
-  deferred it to a dedicated lore session. **Do not invent it.**
+- **The [[green-skins]]' culture.** Their war, origin and antagonist are settled (2026-08-16); who
+  *leads* them, and what they are besides an army, is not.
+- **Why [[realm-07]]'s gargoyles were spared** when realms 08 and 09 had theirs destroyed.
+- **Whether "an Ancient" means an individual.** The author's wording was singular — the first hint
+  of a person rather than a faction. Not established.
 - **What ends [[chapter-02]]**, now that the convergence has moved to [[chapter-03]].
 - **Whether the chapter restructure sticks.** Proposed 2026-08-12 and explicitly provisional.
 - **Which trained skill** the Ninja returns to the boss battle with — the move that cracks the
@@ -81,6 +85,12 @@ _The single thing the next session should do first._
 
 **The author has named the next session: the [[mystics]].** Design their game style and their realm,
 then settle what ends [[chapter-02]].
+
+Round 15 gave that session a running start: the Mystics are **under invasion by [[the-damned]] and
+some [[werebeasts]], instigated by [[the-guardians-of-night]]** — the second front of the same war
+the Gargoyle is unpicking. They were also one of the three realms that invaded the green-bloc in the
+old war. So the Mystics session is no longer a blank page; it is a faction with a war, a history and
+a connection to chapter two already in place.
 
 After that, the outline still needs its spine: **grill the author on the Ancients' motive**, then
 work outward to the ending. Everything else in

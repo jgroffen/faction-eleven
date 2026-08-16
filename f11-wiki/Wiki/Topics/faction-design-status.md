@@ -26,12 +26,12 @@ as unsettled and left alone until there is something real to record.
 | 02 | [[robots]] | **deep** | **settled** — [[robots-incremental-exploration]] | settled (prototype fiction kept) |
 | 01 | [[institute-of-eight]] | **deep** | **settled** — [[ninja-rhythm-platforming]] | settled (prototype fiction kept; gate opens late-game) |
 | 03 | [[celestials]] | **deep** | **settled** — [[celestials-hero-tower-defence]] | settled through chapter two |
-| 09 | [[green-skins]] | **deep** | **settled** — [[gargoyle-stone-metroidvania]] | **partly settled** — [[gargoyle]] is ancient, opposes the war, and the faction is being **used** ([[the-manipulation-of-the-green-skins]]); **lore session outstanding** |
-| 04 | [[mystics]] | **deep — next session** | ❌ none — and they lead [[chapter-03]] | substantial (prototype) |
-| 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | none |
+| 09 | [[green-skins]] | **deep** | **settled** — [[gargoyle-stone-metroidvania]] | **settled** — origin, instructions, antagonist and story spine done 2026-08-16 |
+| 04 | [[mystics]] | **deep — next session** | ❌ none — and they lead [[chapter-03]] | substantial (prototype), **plus a war**: invaded by the Damned and werebeasts, instigated by [[the-guardians-of-night]] |
+| 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | **a role, not a story**: one of the three old invader realms |
 | 06 | [[pirates]] | thin — leave | pending | none |
-| 07 | [[werebeasts]] | thin — leave | pending | none |
-| 08 | [[the-damned]] | thin — leave | pending | none |
+| 07 | [[werebeasts]] | thin — leave | pending | **a role**: old defensive ally; **their gargoyles survive**, which sets up a much later chapter |
+| 08 | [[the-damned]] | thin — leave | pending | **substantial role**: co-made the gargoyles, [[val]] is theirs, now invading the Mystics |
 | 10 | [[aliens]] | thin — leave | pending | partial (prototype) |
 
 The three deep factions are exactly **chapter one** ([[chapter-based-release]]), and exactly the
@@ -52,8 +52,17 @@ belongs to a realm and is played by whoever visits, so each settled row above is
 be **played more than once**. What is *not* settled is what each protagonist becomes inside somebody
 else's genre — that work grows as the stories converge.
 
-The [[green-skins]] remain **story-thin** despite being style-settled: who is manipulating them is
-unwritten and reserved for a later session. Style-settled is not faction-settled.
+**The green-skins are now the second-most-settled faction in the game** (2026-08-16): origin,
+instructions, opening cutscene, antagonist, progression fiction and a three-stage story spine. The
+gap that remains is their *culture* — who leads them, what daily life is, what they are besides an
+army being pointed at someone.
+
+**Round 15 also gave four "thin — leave" factions a role without breaking the rule.** The
+[[werebeasts]], [[the-damned]], [[mystics]] and [[fey-folk]] all now have a **position in the old
+war** and, for two of them, a present-day one. This is exactly the good case: their roles were
+**derived from someone else's story** rather than invented to fill a table. Their protagonists,
+game styles and internal lives remain untouched, and should stay that way until there is real
+material.
 
 ## What "pending" means
 

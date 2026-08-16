@@ -19,6 +19,7 @@ factions:
   - celestials
   - robots
 quests:
+  - the-waking-of-the-last-gargoyle
   - the-calling-of-ancient-allies
   - the-second-signal
 ---
@@ -37,6 +38,11 @@ focus on the Gargoyle gameplay"
 
 ## Story
 
+0. **[[the-waking-of-the-last-gargoyle]]** — the chapter's own opening, and the lead faction's.
+   [[gargoyle]] wakes from torpor in a room of smashed guardians, recovers enough of himself to move
+   and to hide, and concludes [[realm-09]] is under threat. He then works toward the truth in
+   stages: the Celestial barrier is broken → the green-skins blame a Celestial incursion → it was
+   broken from inside by [[the-guardians-of-night]] ([[the-broken-barrier]]).
 1. **[[the-calling-of-ancient-allies]]** — [[templar]] loses to the war machine a second time and
    retreats to [[templar-monastery]], chosen because they believe the Celestials need **ancient
    allies**. Exploring its ancient parts between battles, they find and use [[the-wand]] and
@@ -103,12 +109,17 @@ unsolved.
 
 - **The restructure is provisional** and the author flagged it as such.
 - **What now ends chapter two?** The convergence was its payoff and has moved to [[chapter-03]].
-  A chapter focused on the Gargoyle needs an ending of its own, and none is written.
+  A chapter focused on the Gargoyle needs an ending of its own, and none is written. **Round 15
+  supplied the obvious candidate**: the Gargoyle uncovering [[the-guardians-of-night]] is a
+  chapter-scale revelation with a named antagonist ([[val]]) attached. Not confirmed by the author.
 - Whether [[the-calling-of-ancient-allies]] stays here. It must precede [[the-second-signal]]'s
   detection, so it cannot move to chapter three — **inference, not stated**.
 - The route from [[realm-09]] to [[realm-03]] is unexplained — see [[the-second-signal]].
 - The [[mystics]] "receive" the wand's call but what they *do* is unwritten.
 - **How much of the Gargoyle's ability ladder belongs in this chapter**, given that flight ends
   platform gating.
-- **Who is manipulating the green-skins** ([[the-manipulation-of-the-green-skins]]) — the Gargoyle's
-  motive rests on it, and it is deferred to a dedicated lore session.
+- ~~Who is manipulating the green-skins~~ — **answered 2026-08-16**:
+  [[the-guardians-of-night]], themselves manipulated by an Ancient.
+- **How much of the Guardians' conspiracy is revealed in this chapter** versus held back. The chain
+  is three deep and only the bottom two rungs can safely be shown.
+- **Where the broken barrier is** in [[realm-09]], and how they broke gargoyle-shaped stone.

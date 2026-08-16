@@ -29,6 +29,13 @@ itself.
 Some are sealed, some stand open, some are guarded — and the difference is what drives most of the
 ten stories.
 
+**Not every seal is theirs, though** (settled 2026-08-16). The gates from [[realm-07]],
+[[realm-08]] and [[realm-09]] toward the [[celestials]], [[mystics]] and [[fey-folk]] carry a
+**second, faction-made layer**: stone **barriers** raised on the inside by the gargoyles, at the end
+of the old war ([[the-realm-barriers]]). The gate is the Ancients'; the barrier is the realm's own.
+Where the two coincide, the realms walled themselves in and the Ancients simply made sure nobody
+came back out.
+
 **Canon:** proposed · **Era:** present
 
 ## The Story
@@ -65,6 +72,9 @@ What the material establishes, gate by gate:
 - **Open.** The [[celestials]] have gates standing open to both the [[green-skins]] and the
   [[werebeasts]], and are attacked through both. The [[mystics]] have an open gate deep in their
   underworld, which is why the dungeons repopulate and how the green-skins mine the realm.
+  **Why they are open is now answered:** their barriers were broken deliberately, from the inside,
+  by [[the-guardians-of-night]] ([[the-broken-barrier]]) — and the realms behind them believe the
+  Celestials did it.
 - **Being opened.** [[the-damned]]'s high-level liches are **opening gates** into alien space,
   via a **void** in which ancient Lovecraftian gods dwell.
 

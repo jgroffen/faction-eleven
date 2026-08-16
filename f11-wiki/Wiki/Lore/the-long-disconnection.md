@@ -41,8 +41,26 @@ disconnection is ending.
 
 The consequence is the game's starting condition: the disconnection has run so long that **the
 existence of the other factions has become a myth to most factions**. Not forgotten history —
-*myth*. The player's protagonists do not begin by wanting to reach other realms; they begin
-not really believing there are any.
+*myth*.
+
+**Softened 2026-08-16 — awareness is a spectrum, not a blackout.** The author's correction:
+
+> most residents in most realms are not aware of other realms, or have little awareness of only a
+> few realms or legends of people from other places.
+
+And it is **uneven by alliance**. The [[werebeasts]], [[the-damned]] and the [[green-skins]] have
+**better awareness than most**, because their three realms were connected and friendly for a long
+time. Most other realms had little to do with each other beyond their close allies — and it was
+those allies who became myth when the realms were sealed.
+
+So the rule is: **you remember whoever you were close to, dimly, as a legend — and the closer you
+were, the longer the memory lasts.** A realm that was allied with two neighbours has two legends. A
+realm that was sealed alone has none.
+
+This matters for what a protagonist can plausibly know at the start. [[gargoyle]] is the extreme
+case: a construct built for the old war, who knows the other realms as **facts he fought**, not as
+stories. He begins his game better informed about the multiverse than any other protagonist —
+and knows nothing whatsoever about the present ([[the-gargoyle-guardians]]).
 
 Deeper still, **all awareness that an eleventh faction ever existed has been lost.** The Ancients
 did not merely lock the doors; they outlasted the memory of themselves. That is why the mystery

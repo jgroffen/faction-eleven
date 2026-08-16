@@ -34,8 +34,19 @@ while**, which reads as a growth/regression system rather than a straight respaw
 
 - [[celestials]] — attacked through an open gate into their realm.
 
-Like the [[green-skins]], the Werebeasts are currently defined by an attack on someone else, with
-no stated motive of their own.
+**Round 15 gave them their first history and their first motive.** They are the third realm of the
+old defensive alliance — with [[the-damned]] and the [[green-skins]] — invaded by the
+[[celestials]], [[mystics]] and [[fey-folk]] until [[the-gargoyle-guardians]] ended it. They have
+gargoyles of their own, loyal to [[realm-07]]. They are now being incited to attack the Celestials
+by [[the-guardians-of-night]], and some of them are joining the Damned's invasion of the
+[[mystics]].
+
+**And they are the exception that makes a later chapter possible: their gargoyles were never
+smashed, and their barriers still stand** ([[the-smashing-of-the-gargoyles]]). Realm 07 holds the
+only intact set of realm guardians in the game — which [[gargoyle]] will eventually go looking for.
+
+Why they were spared is unwritten, and it is a real question: the Guardians of Night disabled two
+realms' guardians and left the third alone.
 
 ## Members
 

@@ -44,13 +44,13 @@ The [[robots]] story is the clearest worked example — it **swaps between locat
 region control views**, starting in location exploration, and the world map opens up only after a
 location is cleared.
 
-The prototype notes also float a more radical version: the faction select screen as a **z-axis of
-circular world maps**, which the author notes "would make for some interesting speedrun routing".
+A more radical version exists: the faction select screen as a **z-axis of circular world maps**,
+which would make for interesting speedrun routing.
 Unresolved.
 
 ## Why It's Fun
 
-Not yet stated by the author.
+Not yet defined.
 
 ## Tuning
 
@@ -68,4 +68,4 @@ No values yet.
   notes say returning to the select screen depends on the faction, with some requiring waypoints
   or camping.
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

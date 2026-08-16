@@ -22,7 +22,7 @@ Protagonist of the [[fey-folk]]. A heavy-weapons archetype who is **reborn from 
 
 ## Character
 
-Not yet established — story TBD in the prototype notes.
+Not yet established.
 
 ## In-Game Role
 
@@ -37,4 +37,4 @@ Player character. Heavy Weapons archetype. Currency: Crystals.
 
 None recorded.
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

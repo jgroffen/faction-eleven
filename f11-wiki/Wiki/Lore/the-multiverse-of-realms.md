@@ -52,19 +52,18 @@ All ten playable factions — [[robots]], [[institute-of-eight]], [[celestials]]
 realm each, plus [[faction-eleven-antagonist]].
 
 **Naming:** the realms are **numbered 01–10 by the Ancients**, and that catalogue is canon —
-see [[the-wheel-of-realms]] and the [[the-wheel]]. The wiki uses those numbers as note names
-([[realm-01]] … [[realm-10]]). Each faction's *own* name for its home realm is not yet
-authored; the agreed direction is that factions name their realms in their own idiom, with the
-Ancients' numbers as a hidden layer the player decodes through [[the-ancient-language]].
+see [[the-wheel-of-realms]] and the [[the-wheel]], and those numbers name the notes
+([[realm-01]] … [[realm-10]]). Each faction's *own* name for its home realm is not yet authored:
+factions name their realms in their own idiom, with the Ancients' numbers as a hidden layer the
+player decodes through [[the-ancient-language]].
 
-**Terminology.** Three words have been used for the same thing. The canonical term is **realm**,
-adopted 2026-08-08 at the author's suggestion:
+**Terminology.** Three words exist for the same thing. The canonical term is **realm**:
 
 | Term | Status |
 |------|--------|
 | **realm** | **canonical** — a countable place, one per faction |
-| *reality* | superseded; used in rounds 1–3 of the design interview and kept as an alias |
-| *plane* | legacy; the prototype notes' term, surviving in "sealed interplane gates" |
+| *reality* | superseded; kept as an alias |
+| *plane* | legacy, from the earlier prototype; survives in "sealed interplane gates" |
 
 *Reality* was dropped because it is a mass noun doing a countable job — "the realms" reads as ten
 places, "the realities" reads as an abstraction.

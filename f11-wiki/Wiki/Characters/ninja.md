@@ -60,5 +60,3 @@ signal is **worth investigating as an alternative route to the Robot Realm** —
 being cracked but not passable — and follow it out through the abandoned cracked gate in
 [[the-ancient-ruin]] ([[the-second-signal]]). The two then hunt together for
 [[odie]] — which [[templar]] has.
-
-_Story reviewed 2026-08-08 and kept; game style replaced._

@@ -37,12 +37,12 @@ progress**.
 - The [[aliens]] story applies the same idea *within* a faction: [[squidling]] builds reputation
   with each alien species separately, by rescuing them and doing tasks for them.
 
-The prototype notes flag representing merged reputation on the start screen as an open UI problem
+Representing merged reputation on the start screen is an open UI problem
 ("will be interesting").
 
 ## Why It's Fun
 
-Not yet stated by the author. The mechanic's real job appears to be **making the convergence
+Not yet defined. The mechanic's real job appears to be **making the convergence
 visible** — the bars are a progress meter for the game's actual subject, which is ten strangers
 becoming one story.
 
@@ -59,4 +59,4 @@ No values yet.
 
 - [[protagonist-swapping-and-story-gating]] — reputation merges as stories merge.
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

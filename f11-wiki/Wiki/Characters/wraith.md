@@ -22,7 +22,7 @@ Protagonist of [[the-damned]], bound to a **single spawn point** — a grave the
 
 ## Character
 
-Not yet established — story TBD in the prototype notes. Being tied to one fixed point is unusual among the ten and suits the puzzle / point-and-click gameplay: a protagonist who cannot roam freely.
+Not yet established. Being tied to one fixed point is unusual among the ten and suits the puzzle / point-and-click gameplay: a protagonist who cannot roam freely.
 
 ## In-Game Role
 
@@ -37,4 +37,4 @@ Player character. Specialist archetype.
 
 Their faction's liches open gates into alien space and attack the [[aliens]]; whether the Wraith is complicit, opposed, or unaware is unrecorded.
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

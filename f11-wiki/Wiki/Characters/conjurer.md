@@ -37,6 +37,6 @@ Player character. Specialist archetype. Currency: Scrolls. Gear comes out of dun
 
 ## Ties
 
-The prototype notes flag that [[gargoyle]] and the Conjurer may meet in this story — the green-skins have an open gate deep in the Mystics' underworld and are mining the realm for magic.
+[[gargoyle]] and the Conjurer may meet in this story — the green-skins have an open gate deep in the Mystics' underworld and are mining the realm for magic.
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

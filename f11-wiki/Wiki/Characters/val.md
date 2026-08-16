@@ -34,7 +34,7 @@ she reappears, hours later, and will know something [[gargoyle]] does not.
 gargoyles** ([[the-gargoyle-guardians]]). So the order to destroy them comes from a co-author's
 people. Whatever she thinks she is doing, she is undoing her own faction's work.
 
-**Vampire is the Damned's Commander class** ([[the-six-classes]], recovered 2026-08-16) — which
+**Vampire is the Damned's Commander class** ([[the-six-classes]]) — which
 suits her exactly: she does not swing the hammer, she says "do it!" and leaves. The two who do swing
 it, the **Minotaur** and the **Giant**, are the [[green-skins]]' Heavy Weapons and Front Liner. She
 gave an order to another faction's soldiers and they took it.

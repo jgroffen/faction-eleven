@@ -22,7 +22,7 @@ Protagonist of the [[pirates]]. A commander rather than a lone adventurer — th
 
 ## Character
 
-Not yet established — story TBD in the prototype notes.
+Not yet established.
 
 **Death mechanic:** pay the ferryman, losing booty.
 
@@ -39,4 +39,4 @@ Player character. Commander archetype. Currency: Booty.
 
 None recorded.
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

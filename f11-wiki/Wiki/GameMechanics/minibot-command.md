@@ -81,7 +81,7 @@ another realm for generations is not a malfunction, it is what mini-fix bots are
 
 ## Why It's Fun
 
-Not stated by the author. The intended shape is visible though: the player graduates from doing
+Not yet defined. The intended shape is visible though: the player graduates from doing
 everything themselves, to having help, to having a workforce, to having a *civilisation that no
 longer needs them* — which is exactly Autofix's stated purpose.
 

@@ -39,9 +39,11 @@ the shell's presentations ([[exploration-core-loop]]).
 
 - Waves of enemies attack a fixed position; the player upgrades between waves.
 - The **Templar moves around the field as a hero unit** — plugging gaps, being the piece that can
-  be everywhere, rather than issuing orders from above.
-- The prototype adds that later allies from other factions **also become hero units**, with
-  special powers, levelling and loot. That makes convergence *visible on the battlefield*: the
+  be everywhere, rather than issuing orders from above. They are the Celestials' **Commander** class
+  ([[the-six-classes]]), which is what this style is: a commander who has to stand in their own
+  battle line.
+- Later allies from other factions **also become hero units**, with special powers, levelling and
+  loot. That makes convergence *visible on the battlefield*: the
   more of the multiverse you have met, the more heroes stand on the wall.
 
 **The exploration, platforming:**
@@ -51,13 +53,12 @@ the shell's presentations ([[exploration-core-loop]]).
 - This is where story and artifacts are found, including [[the-wand]] and
   [[odie]].
 
-**The war machine** remains from the prototype: the green-skins bring siege machinery, and the
+**The war machine:** the green-skins bring siege machinery, and the
 Templar's eventual answer is to take one, upgrade it, and turn it on its owners.
 
-**Visitors play this style too.** Settled 2026-08-14 ([[realm-governs-game-style]]): when [[ninja]]
-and [[gargoyle]] reach the Celestials' realm in [[chapter-03]], **their gameplay swaps to this
-one**. The prototype's "later allies become hero units" is therefore not a bonus feature but the
-general rule — and it means this system is built once and played by at least three protagonists.
+**Visitors play this style too** ([[realm-governs-game-style]]): when [[ninja]] and [[gargoyle]]
+reach the Celestials' realm in [[chapter-03]], **their gameplay swaps to this one**. "Later allies
+become hero units" is therefore not a bonus feature but the general rule — and it means this system is built once and played by at least three protagonists.
 
 What it does **not** yet answer: what a Ninja or a Gargoyle *is* on a tower-defence field, and
 whether the abilities they earned elsewhere come with them.
@@ -70,7 +71,7 @@ Not yet established:
 
 ## Why It's Fun
 
-Not stated by the author. What the hero-unit choice buys is clear enough: tower defence is
+Not yet defined. What the hero-unit choice buys is clear enough: tower defence is
 normally a game you watch, and putting the player *in* it — on the shell's movement layer, in the
 same body they explore with — keeps the faction continuous with the rest of the game.
 

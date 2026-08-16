@@ -21,15 +21,15 @@ locations: []
 
 # The Manipulation Of The Green Skins
 
-The green-skins are not the authors of their own war. Somebody is **manipulating and using** them
+The green-skins did not start their own war. Somebody is **manipulating and using** them
 — and the [[gargoyle]] knows it.
 
 **Canon:** proposed
 
 ## The Story
 
-Stated by the author on 2026-08-14, in full: the Gargoyle "wants to protect and save the green
-skins and wants to stop the Green Skins faction from being **manipulated and used**."
+The [[gargoyle]] wants to protect and save the green-skins, and to stop the faction being
+**manipulated and used**.
 
 That is one clause, and it moves more of this game than anything else said about the faction. Every
 other faction in the material meets the green-skins as an invading horde: swarms breaking on the
@@ -51,7 +51,7 @@ what he is protecting them from is **whoever is using them**.
 - [[gargoyle-stone-metroidvania]] — why he has no combat verb. You do not fight the people you are
   trying to save.
 
-## Who Is Doing It — settled 2026-08-16
+## Who Is Doing It
 
 **[[the-guardians-of-night]]**, a secret cross-realm group, working to incite the green-skins, the
 [[werebeasts]] and [[the-damned]] to invade the [[celestials]]. Their method is on record:
@@ -62,9 +62,8 @@ what he is protecting them from is **whoever is using them**.
    another Celestial incursion ([[the-broken-barrier]]).
 3. **Let the realms defend themselves** into somebody else's invasion.
 
-**And the Guardians are themselves being manipulated — by an Ancient.** So the chain is three deep,
-and the interviewer's earlier inference was right: this is
-[[faction-eleven-antagonist]]'s first concrete action **in the present day** rather than in
+**And the Guardians are themselves being manipulated — by an Ancient.** The chain is three deep, and
+this is [[faction-eleven-antagonist]]'s only concrete action **in the present day** rather than in
 prehistory.
 
 The manipulation is not confined to the green-skins. The [[mystics]] are under invasion by the
@@ -73,11 +72,10 @@ across the whole opposition axis of [[the-wheel-of-realms]].
 
 ## What Is Still Not Established
 
-- **The Ancient's motive** — unchanged, and still the largest gap in the wiki
-  ([[story-outline-requirement]]). We now know the eleventh faction is *acting*; we still do not
-  know what for.
-- Whether this explains the homeless prototype beat that the [[institute-of-eight]]'s gate was
-  "sealed and guarded **for a reason**" ([[the-cracked-gate]]). Still inference.
+- **The Ancient's motive** — the largest open question in the design
+  ([[story-outline-requirement]]). The eleventh faction is *acting*; what for is unknown.
+- Whether this explains why the [[institute-of-eight]]'s gate was "sealed and guarded **for a
+  reason**" ([[the-cracked-gate]]). **Inference, not established.**
 
 ## Player-Facing
 

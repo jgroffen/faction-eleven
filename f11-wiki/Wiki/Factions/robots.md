@@ -34,8 +34,8 @@ with itself as much as anything else.
 
 Their protagonist is [[autofix]], a late-model Autofix and the only known functioning example.
 
-**Currency:** Parts — superseded in play by a chain of **scrap → construction materials → modules
-and components** ([[autofix-skill-tree]]) · **Role archetype:** Medic
+**Currency:** in play, a refining chain of **scrap → construction materials → modules and
+components** ([[autofix-skill-tree]]) · **Role archetype:** Medic
 
 **Game style:** [[robots-incremental-exploration]] — an exploration platformer with incremental
 growth, replacing the prototype's Civ-style region control. The **fiction was kept and the
@@ -86,5 +86,5 @@ The robots **lead chapter one** ([[chapter-based-release]]), which makes Autofix
 carrier of the game's first contact with [[faction-eleven-antagonist]]'s work: sealed gates the
 robots cannot open alone.
 
-_Story reviewed 2026-08-08 and kept; game style replaced. Remaining prototype details (currency,
-death mechanic) are lore-only — see [[faction-currencies]] and [[death-and-return]]._
+Currency and death mechanic are **lore-only** — see [[faction-currencies]] and
+[[death-and-return]].

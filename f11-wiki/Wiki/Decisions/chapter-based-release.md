@@ -38,7 +38,7 @@ feedback until all ten genres are finished — which for a solo developer is the
 kills projects of this shape.
 
 The author reports the most concrete ideas for five factions: [[ninja]] ([[institute-of-eight]]),
-[[autofix]] ([[robots]]), the Knight/[[templar]] ([[celestials]]), [[gargoyle]]
+[[autofix]] ([[robots]]), [[templar]] ([[celestials]]), [[gargoyle]]
 ([[green-skins]]) and [[conjurer]] ([[mystics]]).
 
 ## Options Considered

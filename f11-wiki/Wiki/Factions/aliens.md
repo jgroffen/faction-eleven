@@ -63,4 +63,4 @@ The faction's own one-line description on that site: *"Unknowable intelligence, 
 Squidling's story is the clearest statement in the material of a faction being **invaded through a
 gate it did not open**, which is the multiverse plot in miniature.
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

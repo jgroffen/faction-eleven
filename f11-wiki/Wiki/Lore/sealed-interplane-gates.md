@@ -29,7 +29,7 @@ itself.
 Some are sealed, some stand open, some are guarded — and the difference is what drives most of the
 ten stories.
 
-**Not every seal is theirs, though** (settled 2026-08-16). The gates from [[realm-07]],
+**Not every seal is theirs, though.** The gates from [[realm-07]],
 [[realm-08]] and [[realm-09]] toward the [[celestials]], [[mystics]] and [[fey-folk]] carry a
 **second, faction-made layer**: stone **barriers** raised on the inside by the gargoyles, at the end
 of the old war ([[the-realm-barriers]]). The gate is the Ancients'; the barrier is the realm's own.
@@ -55,7 +55,7 @@ Two properties matter and are easy to lose:
    *the long way round*, realm by realm — which is a ready-made spine for a ten-faction
    journey.
 
-What the material establishes, gate by gate:
+Gate by gate:
 
 - **Fully sealed.** **All** gates from [[realm-02]] are sealed — the [[robots]] are the most
   isolated faction in the game. They hunt for rumours of **who created the gates, why they are
@@ -64,8 +64,7 @@ What the material establishes, gate by gate:
   [[the-cracked-gate]] the robots can neither leave nor call. Needing outside help is not a
   preference; it is the only option they have.
 - **Guarded.** The [[institute-of-eight]]'s gate to the **[[robots]]** is held by a **gate
-  guardian**, and [[ninja]]'s traitor family is sentenced to fight it endlessly. (The prototype
-  notes had this gate facing the green-skins; corrected 2026-08-08.)
+  guardian**, and [[ninja]]'s traitor family is sentenced to fight it endlessly.
 - **Abandoned and already cracked.** [[realm-01]] has a *second* gate, to the [[green-skins]],
   lying forgotten in [[the-ancient-ruin]]. Nobody guards it and it has been cracked for a long
   time — which is how [[ninja]] eventually leaves [[realm-01]] ([[the-second-signal]]).

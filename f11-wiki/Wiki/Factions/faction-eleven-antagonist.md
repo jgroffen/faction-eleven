@@ -47,13 +47,12 @@ They are defined entirely by what they made and what they did with it:
   became myths to each other ([[the-long-disconnection]]).
 - They left behind a braille-like script ([[the-ancient-language]]).
 
-Their motive is deliberately unwritten. The author's own framing is "unknown reasons" — not
-unknown to the writer, but the thing the player is chasing.
+Their motive is deliberately unwritten — "unknown reasons" is the in-fiction answer, and the thing
+the player is chasing.
 
 ## They Are Acting Now
 
-Settled 2026-08-16, and it is the first thing in the wiki that puts the eleventh faction in the
-**present tense**. Everything else they have done is prehistory. This is not:
+Everything else they have done is prehistory. This is not:
 
 > **An Ancient is manipulating [[the-guardians-of-night]]** — a secret cross-realm group — **to
 > start trouble with other factions.**
@@ -72,12 +71,12 @@ Two things this changes:
   who works exclusively through other people's convictions is one who can stay invisible
   indefinitely — which is exactly the state the game starts in.
 
-**Note the wording.** The author wrote "**an** ancient" — singular. Whether that means one
-individual acting alone, or is simply how the manipulation reaches the Guardians, is **not
-established**. It is the first hint of an *individual* rather than a faction.
+**Note the wording: "an" Ancient — singular.** Whether that means one individual acting alone, or is
+simply how the manipulation reaches the Guardians, is **not established**. It is the only hint of an
+*individual* rather than a faction.
 
-Their motive is still the largest gap in the wiki ([[story-outline-requirement]]). Knowing they are
-active does not tell us what for.
+Their motive remains the largest open question in the design ([[story-outline-requirement]]).
+Knowing they are active does not say what for.
 
 ## Standing
 

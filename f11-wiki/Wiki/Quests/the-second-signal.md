@@ -70,7 +70,7 @@ them knows the others are looking.
 - It confirms gates are separate doors: this one was cracked all along and never carried the robot
   signal, because it faces the wrong realm.
 
-## The Signal's Route — settled 2026-08-11
+## The Signal's Route
 
 The second signal does not travel in a straight line. It comes from [[realm-03]] to [[realm-01]]
 **via [[realm-09]]**:
@@ -89,7 +89,7 @@ Two things follow, and both are good:
    is the first leg of the route the signal took. That is why the trail leads to [[gargoyle]]
    before it leads to [[templar]].
 
-## Preconditions — settled 2026-08-11
+## Preconditions
 
 Mifix **detects** the faint signal of the remote mini-fix bot — he cannot communicate with it, it is
 far too distant — only when **all three** are true:

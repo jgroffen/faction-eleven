@@ -39,7 +39,7 @@ Deep in the underworld is an **open gate** to the [[green-skins]] realm — whic
 dungeons keep repopulating. The green-skins have been **mining the magic-rich plane**, making the
 Mystics a resource colony as much as a rival.
 
-**They are under invasion — and it is not mainly the green-skins** (settled 2026-08-16). The Mystics
+**They are under invasion — and it is not mainly the green-skins.** The Mystics
 are being invaded **mostly by [[the-damned]], with some [[werebeasts]]**, and that invasion was
 **instigated by [[the-guardians-of-night]]** — the same group, the same method, the same false
 premise as the war on the [[celestials]] ([[the-broken-barrier]]). The Damned's own gargoyles were
@@ -53,7 +53,7 @@ coordinated war**, and their story connects directly to the Gargoyle's.
 gargoyles were built to stop ([[the-gargoyle-guardians]]). The faction now being invaded was an
 invader first.
 
-The prototype notes flag that [[gargoyle]] and [[conjurer]] may meet in this story.
+[[gargoyle]] and [[conjurer]] may meet in this story.
 
 ## Faction Classes
 
@@ -79,4 +79,4 @@ The faction's own one-line description on that site: *"Magical order with a hidd
 
 ## Notes
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

@@ -27,14 +27,13 @@ A besieged holy order defending a castle. Their realm has gates standing **open*
 
 ## Identity
 
-Defenders by circumstance. Their protagonist is [[templar]] — **naming unresolved: the author
-referred to a "Knight" from the Celestials in the 2026-08-08 interview, while the prototype notes
-say "Templar".**
+Defenders by circumstance. Their protagonist is [[templar]]. "Knight" is a *different faction class
+of the same faction* — the Celestials' Front Liner — not another name for the protagonist.
 
 **Game style:** [[celestials-hero-tower-defence]] — top-down tower defence with the Templar as a
 directly-controlled hero unit, plus platforming exploration between battles.
 
-**Currency:** Relics · **Role archetype:** Front Liner
+**Currency:** Relics · **Role archetype:** **Commander** (see [[the-six-classes]])
 
 ## Standing
 
@@ -85,4 +84,4 @@ is about first**: nobody wins alone.
 
 ## Notes
 
-_Story reviewed 2026-08-08 and extended; game style settled._
+**Partly unconfirmed** — currency and death mechanic are carried over from the earlier prototype.

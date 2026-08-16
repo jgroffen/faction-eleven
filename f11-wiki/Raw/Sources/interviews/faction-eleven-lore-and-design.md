@@ -686,8 +686,10 @@ Ancients)
   three things the interview had left open — the minotaur and the giant are green-skins, `val` is a
   Vampire (the Damned's Commander class), and the gargoyles' makers (Necromancer, Shaman) are both
   their factions' **Medic** class. It also corroborated the green-skins' subjugation independently.
-  One conflict recorded, not resolved: the labs site makes **Templar the Commander** and Knight the
-  Front Liner, against the retro readme's Front Liner.
+  One conflict surfaced and was **resolved the same day by the author: the Templar is the
+  Celestials' Commander**, and the factions-retro readme's "Front Liner" is superseded. **Knight**
+  turns out to be a *separate faction class* of the same faction — their Front Liner — which also
+  explains the round-1 wobble where the author said "Knight" and the prototype said "Templar".
 - Still outstanding: the game style for `mystics` (leads chapter three, scheduled for a dedicated
   session, now the only chapter lead without one); the green-skins' **culture and leadership**;
   why realm-07's gargoyles were spared; whether "an Ancient" means an individual;

@@ -34,7 +34,7 @@ realm they touched.
 
 ## Player-Facing
 
-Intended to be player-facing and **decipherable**: the author's prototype notes call out that
+Intended to be player-facing and **decipherable**:
 building the custom character set "should be fun to make". A braille-like cipher is the classic
 shape of a puzzle the player solves themselves across a whole game — the kind of thing found in
 one realm and read in another.

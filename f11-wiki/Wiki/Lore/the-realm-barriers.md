@@ -47,9 +47,8 @@ anyone who wants to predict exactly what the construct will do.
 
 ## Two Layers Of Sealing
 
-This is the wiki's answer to a contradiction it had been carrying — that
-[[faction-eleven-antagonist]] locked the gates, while the gargoyles are said to have sealed them
-too. **Both are true, because they are different layers:**
+[[faction-eleven-antagonist]] locked the gates and the gargoyles sealed them. **Both are true,
+because they are different layers:**
 
 | Layer | Who | What |
 |-------|-----|------|

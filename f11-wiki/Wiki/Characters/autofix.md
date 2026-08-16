@@ -53,5 +53,3 @@ most robots he repairs, they are glad to work with him; they are simply not his 
 ## Ties
 
 A **mini-fix bot** of Autofix's making appears in the [[institute-of-eight]] story as an ancestor spirit in a toy car, trying to get home.
-
-_Story reviewed 2026-08-08 and kept; game style updated._

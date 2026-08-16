@@ -36,7 +36,7 @@ Two claims, and the second is the more interesting one:
 Structurally this is Metroid-style gating stretched across ten games rather than one map: an
 ability earned as one protagonist opens progress, and the endgame is the set of them combined.
 
-**Three are named** (2026-08-08) — only the factions actually designed. The other seven are
+**Three are named** — only the factions actually designed. The other seven are
 deliberately left blank rather than invented; see [[faction-design-status]].
 
 | Faction | Unique feature |
@@ -56,7 +56,7 @@ before the endgame, and what the final game mode actually is.
 
 ## Why It's Fun
 
-Not yet stated by the author. Note the design promise it makes, though: it is the mechanical
+Not yet defined. Note the design promise it makes, though: it is the mechanical
 version of the story's premise. The stories converge in fiction; the features converge in play.
 
 ## Tuning
@@ -73,4 +73,4 @@ No values yet.
 - [[faction-genre-mechanics]] — the per-faction genre each feature comes out of.
 - [[faction-reputation]] — the other system that tracks convergence.
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

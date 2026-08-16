@@ -39,7 +39,7 @@ consistent.**
   in another faction's story.
 - The player clears the block by switching to that other faction and playing to that event.
 - Time is **not** conserved across stories. Faction A's afternoon may span Faction B's decade.
-  The author is explicit that consistency is not required — story need wins.
+  Consistency is not required — story need wins.
 
 That last point is a deliberate licence and worth preserving as written. It means the design does
 not owe the player a coherent global clock, only a coherent *causal order* of the events that
@@ -74,7 +74,7 @@ different releases. Anything implementing this needs to treat conditions as a se
 
 ## Why It's Fun
 
-Not yet stated by the author. What is structurally true: blocking is what converts ten parallel
+Not yet defined. What is structurally true: blocking is what converts ten parallel
 stories into one story, because it forces the player to experience them as **causally
 interleaved** rather than as ten things played in sequence.
 

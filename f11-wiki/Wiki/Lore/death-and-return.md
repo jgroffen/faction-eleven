@@ -48,19 +48,19 @@ were.
 
 ## Conflict With The Ninja's Game Style
 
-Settled 2026-08-08: the [[institute-of-eight]] plays as [[ninja-rhythm-platforming]] — a Super Meat
+The [[institute-of-eight]] plays as [[ninja-rhythm-platforming]] — a Super Meat
 Boy-like platformer with **constant death and instant respawn**. The generational cut-scene above
 was written for a game where death is rare and meaningful. Both cannot be literal.
 
-**Resolved 2026-08-08: the generational death applies only to boss defeats.** In the author's
+**The generational death applies only to boss defeats.** In the
 words — *"he doesn't die except in boss-fights, he can recover from other failures."*
 
 So a failed section is a **recoverable failure**, not a death; only losing a boss fight costs a
-generation. This keeps the best line in the prototype notes, makes the boss categorically
+generation. This keeps the strongest inherited idea, makes the boss categorically
 different from the level, and means chapter one's single boss-fight/defeat/train cycle lands as an
 actual generational loss.
 
-**The in-universe explanation — settled 2026-08-08: [[mifix]].** It can
+**The in-universe explanation is [[mifix]].** It can
 **"repair" the Ninja whenever it is near them**, but it **cannot get near the gate guardian**. So the Ninja recovers
 from every failure in the world except the one fight the bot cannot attend.
 
@@ -84,4 +84,4 @@ Open: why the bot cannot approach the guardian — warded, forbidden, or simply 
 ## Player-Facing
 
 Directly — the player will meet their faction's death fiction early and often. But **design
-status: unsettled**; these are justifications the author sketched, not rules.
+status: unsettled**; these are sketched justifications, not rules.

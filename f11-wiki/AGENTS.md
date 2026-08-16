@@ -30,6 +30,7 @@ Every compiled Wiki note must link back to its Raw source(s) in `Raw/Sources/`. 
 4. **Search `Wiki/catalog.jsonl` before opening broad Raw context.** Use the query skill / `search-catalog` first. Only open Raw sources when the compiled note is insufficient or the user asks for source-level verification.
 5. **Run `build`, `lint`, and source checks before commits** (see the Maintenance Gate below).
 6. **Do not invent citations or create unsupported claims.** If a claim is not backed by a Raw source, do not assert it.
+7. **Compiled notes state current facts, not their history.** No dates, interview rounds, "the author said", or superseded values in `Wiki/`. Change history belongs in `Wiki/Logs/`, the Raw sources and handovers.
 
 ## Knowledge From A Conversation
 
@@ -42,6 +43,45 @@ evidence. The **grill-into-wiki** skill runs this end to end.
 The same holds for what nobody in the room knows: **llm-wiki-research** gathers it from primary
 sources into `Raw/Sources/research/`, with every claim carrying its link. A claim you supplied
 from recall is unsourced no matter how confident you are — send it to research or leave it out.
+
+## Compiled Notes Hold Facts, Not Their History
+
+**The Wiki is the product; the sources, logs and handovers are the record.** A compiled note states
+what is true *now*. A reader should not be able to tell from it how many interview rounds it took,
+what was believed last week, or who said what.
+
+This is the failure mode of the interview workflow above, and it is easy to slip into: each round
+answers a question, and it feels helpful to record that the answer changed. It isn't. It leaves
+every note carrying a sediment of its own drafting.
+
+**Do not write in `Wiki/`:**
+
+- Dated decision stamps — `(settled 2026-08-14)`, `**Resolved 2026-08-08:**`, `corrected 2026-08-08`.
+- Interview round references — `Round 8 gave the Gargoyle a motive`, `## What Round 15 Added`.
+- Attribution to the author or the interviewer — `the author confirmed`, `per the author`,
+  `the interviewer's inference`. Just state the claim, or state that it is an inference.
+- `~~Struck-through~~` superseded values, and `~~old~~ → **now new**` constructions.
+- Commentary about the wiki itself — `the largest gap in the wiki`, `this is the wiki's answer to a
+  contradiction it had been carrying`.
+
+**Do write:**
+
+- The current fact, asserted plainly.
+- An `## Open` section listing what is genuinely undecided. "Not yet defined" and "inference, not
+  established" are *current facts* and belong in the note.
+- `**Unconfirmed** — carried over from the earlier prototype.` for inherited material that has not
+  been reviewed. A terse status line, not a story about where it came from.
+
+**When something changes, rewrite the note to the new truth.** Do not append a correction, do not
+leave the old value visible, and do not explain the change in the note. Put the change in the log:
+
+```bash
+python3 scripts/wiki_tool.py log --title "..." --details "..."
+```
+
+**Exempt**, because they exist to describe the collaboration rather than the subject: `Wiki/Logs/`,
+`Wiki/Handovers/`, and `Wiki/Decisions/` (an ADR's whole worth is recording what was believed when
+— see the immutability rule under the software-development plugin).
 
 ## At The Start Of A Session
 

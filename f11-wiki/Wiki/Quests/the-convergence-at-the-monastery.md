@@ -36,7 +36,7 @@ place: **[[ninja]], [[mifix]], [[gargoyle]] and the [[mystics]]' protagonist all
 
 Two journeys arrive at once. The Ninja, Mifix and the Gargoyle come following the faint signal they
 have been chasing since [[the-second-signal]]. The Mystics' protagonist comes in answer to
-[[the-wand]] — and, per the author, **to support the Templar**.
+[[the-wand]] — and **to support the Templar**.
 
 They arrive at a monastery under siege by a war machine the Celestials cannot beat, holding a relic
 the Celestials do not understand.
@@ -61,7 +61,7 @@ right — and the allies were partly in his own cellar the whole time.
 
 ## Open
 
-- **Which chapter this is.** See [[chapter-03]] — the author has proposed moving it there from
+- **Which chapter this is.** See [[chapter-03]] — it is proposed to move there from
   chapter two, and the arrangement is provisional.
 - Whether the war machine is beaten here or survives the chapter.
 - What the Mystics' protagonist ([[conjurer]]) actually contributes, which waits on the Mystics

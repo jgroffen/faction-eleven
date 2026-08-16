@@ -23,8 +23,7 @@ A martial order whose protagonist, [[ninja]], comes from a family **considered t
 punishment is to endlessly fight the gate guardian — who holds **the gate to [[realm-02]], the
 [[robots]]**.
 
-> **Superseding the prototype notes.** They said the guardian's gate led to the [[green-skins]].
-> Settled 2026-08-08: it leads to the **robots**. The green-skin gate in [[realm-01]] is a
+> **The guarded gate leads to the [[robots]].** The green-skin gate in [[realm-01]] is a
 > different one — abandoned, unguarded and already cracked, in [[the-ancient-ruin]].
 
 **Homeland:** [[realm-01]] — see [[the-wheel-of-realms]]
@@ -67,7 +66,7 @@ the better questions the setting has produced.
 [[ninja]] does not reach [[gargoyle]] through the guardian's gate. They go out through the ruin, in
 chapter two, following [[the-second-signal]].
 
-**The gate does not open until every faction has been introduced** (settled 2026-08-08). The
+**The gate does not open until every faction has been introduced.** The
 Institute's climax is therefore a **late-game turning point**, not an early one — which makes the
 family's endless, futile duel with the guardian the faction's condition for most of the game
 rather than a problem solved early.
@@ -99,5 +98,3 @@ The faction's own one-line description on that site: *"Highly trained specialist
 Appears in **chapter one in genuinely reduced form** — a single cycle of boss fight, defeat and
 training, plus lore-building and the mini-fix bot in the family shrine
 ([[chapter-based-release]]). The bot is woken by [[the-first-signal]].
-
-_Story reviewed 2026-08-08 and kept; game style replaced._

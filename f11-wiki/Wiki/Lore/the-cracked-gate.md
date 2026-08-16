@@ -69,11 +69,11 @@ punched by a stranger who does not know they exist, while failing at something e
 - [[the-first-signal]] — what came through.
 - [[allied-faction-signals]] — why a crack is all that was needed.
 
-## Which Gate — settled 2026-08-08
+## Which Gate
 
 **The guardian's gate leads to [[realm-02]], the [[robots]].** The second reading was right:
 [[realm-01]] has more than one gate, and the family's sentence is served at the one facing the
-robots — not the one facing the green-skins, as the prototype notes assumed.
+robots.
 
 This makes the geometry exact. The crack is in the **01 ↔ 02** wall, and the signal that comes
 through it runs between the mini-fix bot in [[realm-01]]'s shrine and [[autofix]] in [[realm-02]].
@@ -100,7 +100,7 @@ the Robot Realm, so nothing for either mini-fix bot to answer. The crack is upst
 
 ## Consequence — a prototype beat is now homeless
 
-The prototype notes had the guardian's gate leading to the [[green-skins]]: beat the guardian, learn
+An earlier version had the guardian's gate leading to the [[green-skins]]: beat the guardian, learn
 "the gate was sealed and guarded **for a reason**", then hold off waves of green-skins. With the
 guardian now facing the robots, that beat has nowhere obvious to land.
 

@@ -51,7 +51,7 @@ cracks a gate ([[the-cracked-gate]]).
 
 ## Why It's Fun
 
-Not yet stated by the author. Structurally, the appeal it's reaching for is the incremental
+Not yet defined. Structurally, the appeal it's reaching for is the incremental
 genre's core pleasure — a curve that always climbs — welded to exploration's, which is that the
 world gets bigger when *you* do.
 

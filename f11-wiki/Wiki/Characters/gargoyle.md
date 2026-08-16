@@ -23,9 +23,9 @@ Protagonist of the [[green-skins]] — an infiltrator playing for the faction th
 ## Character
 
 **He is a dead orc, resurrected and golem-ified** — a magical construct made by necromancers of
-[[realm-08]] and shamans of [[realm-09]] to guard the realm ([[the-gargoyle-guardians]]). His age is
-no longer a loose thread: he was made before the old war ended, slept through everything since, and
-**woke damaged into a world he has no information about**.
+[[realm-08]] and shamans of [[realm-09]] to guard the realm ([[the-gargoyle-guardians]]). He was
+made before the old war ended, slept through everything since, and **woke damaged into a world he
+has no information about**.
 
 He **wants to stop the war the [[green-skins]] are fighting with the [[celestials]]**, and to stop
 his people **being used** ([[the-manipulation-of-the-green-skins]]). That makes him the first
@@ -40,10 +40,9 @@ readings, and the game turns on which:
 - **He is obeying exactly**, having concluded that a realm being manipulated from outside *is* a
   realm under invasion.
 
-The author's framing supports the second: he "sees this manipulation as an act that counts as
-external forces attacking the green skin realm." But **[[val]] will try to convince him he is
-malfunctioning**, and he cannot check. His head is damaged, his fellows are destroyed, and every
-piece of evidence he has access to supports her.
+The design supports the second: he sees the manipulation as external forces attacking the green-skin
+realm. But **[[val]] will try to convince him he is malfunctioning**, and he cannot check. His head
+is damaged, his fellows are destroyed, and every piece of evidence he has access to supports her.
 
 ## What He Knows And Doesn't
 
@@ -55,10 +54,9 @@ destroyed**, even though the player watched it happen.
 He has **never heard of [[faction-eleven-antagonist]]**. His knowledge is deep and stops precisely
 where the game's secret begins.
 
-**He is a protector.** Settled 2026-08-14: he "wants to **protect and save** the green skins" and to
-stop them **being manipulated and used** — gargoyles see themselves as protectors. Settled
-2026-08-16: this is not a personal conviction but **what he was built as**, which is why he cannot
-simply decide to do otherwise.
+**He is a protector.** He wants to **protect and save** the green-skins and to stop them being
+manipulated and used — gargoyles see themselves as protectors. This is not a personal conviction
+but **what he was built as**, which is why he cannot simply decide to do otherwise.
 
 **How he gets there** ([[the-broken-barrier]]): he wakes, finds his fellows destroyed, and concludes
 the realm is under threat somehow — then discovers the Celestial barrier was broken and that the
@@ -108,6 +106,3 @@ green-skins and would see this as getting involved in other factions' conflicts.
 
 That is his instruction set as a character arc: the last constraint he sheds is the one that says
 this realm and no other. Left undesigned deliberately — it is a much later chapter.
-
-_Reviewed 2026-08-08: given a motive and an age. Game style settled 2026-08-14. Origin, instructions
-and story spine settled 2026-08-16._

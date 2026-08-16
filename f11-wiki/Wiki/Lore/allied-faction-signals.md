@@ -70,7 +70,7 @@ in these realms all along, venerated and misunderstood.
 
 ## Why They Stopped, And How They Start Again
 
-**Settled 2026-08-08: "ancient" means old, not [[faction-eleven-antagonist]].** The devices belong
+**"Ancient" here means old, not [[faction-eleven-antagonist]].** The devices belong
 to the factions themselves. The Ancients did not build them and did not need to destroy them — 
 **sealing the realms was enough**, because a signal that cannot cross between realms is a signal
 that does not arrive.

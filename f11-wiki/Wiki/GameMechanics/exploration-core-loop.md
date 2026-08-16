@@ -22,14 +22,13 @@ related_mechanics:
 The gameplay style common to all ten faction stories: **a combination of platforming and top-down
 exploration**, in an open world.
 
-**This is the shell, not the whole game.** Settled 2026-08-08: the exploration loop is the layer
-every faction shares, and a faction's own genre is built *on top of* it. Some realms have
+**This is the shell, not the whole game.** The exploration loop is the layer every faction shares, and a faction's own genre is built *on top of* it. Some realms have
 additional mechanics, but those mechanics **build on the shell** rather than replacing it. That is
 what makes a 4X faction and a stealth-platformer faction the same game.
 
 **State:** concept · **Category:** exploration
 
-**Implemented by:** _(no feature notes yet — no code exists as of 2026-08-08)_
+**Implemented by:** _(no feature notes yet — no code exists)_
 
 ## How It Works
 
@@ -42,18 +41,18 @@ This makes the shell **the first thing to build** and the only system built once
 times — which for a solo project ([[project-scope-and-constraints]]) is the difference between ten
 games and one.
 
-**Two presentations, chosen per faction** (settled 2026-08-08). Platforming and top-down are not
+**Two presentations, chosen per faction.** Platforming and top-down are not
 blended; they are both available in the shell, and a faction's game style picks one:
 
 | Presentation | Factions |
 |--------------|----------|
 | **Platforming** | [[robots]] ([[robots-incremental-exploration]]), [[institute-of-eight]] ([[ninja-rhythm-platforming]]), [[green-skins]] ([[gargoyle-stone-metroidvania]]) |
-| **Top-down** | [[celestials]] ([[celestials-hero-tower-defence]]), [[pirates]], and probably [[the-damned]] — the author's expectation, not yet settled |
+| **Top-down** | [[celestials]] ([[celestials-hero-tower-defence]]), [[pirates]], and probably [[the-damned]] — **not yet settled** |
 
 A faction may use both: the [[celestials]] fight top-down but **explore in platforming sections
 between battles**. So the split is per *activity*, not strictly per faction.
 
-**One platformer, three factions** (settled 2026-08-14). The [[gargoyle]] uses **the same
+**One platformer, three factions.** The [[gargoyle]] uses **the same
 platforming engine as the [[ninja]]**, with a different move set and no rhythm layer — which makes
 a character, mechanically, **a list of abilities** over a shared controller. With the [[robots]]
 platforming too, that is three of the ten factions running one build. It is the largest scope lever
@@ -66,7 +65,7 @@ Still not established: what the moment-to-moment verbs are beyond moving through
 
 ## Why It's Fun
 
-Not yet stated by the author in terms of feeling. What the shell is *for* is now clear, though:
+Not yet defined. What the shell is *for* is now clear, though:
 it is the continuity between ten otherwise unrelated games, so that swapping protagonist
 ([[protagonist-swapping-and-story-gating]]) is a change of world rather than a change of product.
 

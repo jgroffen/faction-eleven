@@ -40,8 +40,8 @@ of each section carries beats that hint at the player's inputs.
 
 **The rhythm layer:**
 
-- Each short section has **music whose beats are hints to the player's inputs** — the author cites
-  **Bit.Trip Beat** as the reference.
+- Each short section has **music whose beats are hints to the player's inputs**, in the manner of
+  **Bit.Trip Beat**.
 - When the Ninja **jumps or attacks it makes a sound**. Timed well, that sound **lines up with the
   music**.
 
@@ -60,8 +60,7 @@ chapter one.
 
 ## The Rhythm Stays Home
 
-Settled 2026-08-14: when the Ninja crosses into [[realm-09]] in [[chapter-02]] he plays that
-realm's genre instead ([[realm-governs-game-style]]), and **the rhythm layer does not travel with
+When the Ninja crosses into [[realm-09]] in [[chapter-02]] he plays that realm's genre instead ([[realm-governs-game-style]]), and **the rhythm layer does not travel with
 him**. It belongs to the [[institute-of-eight]] — their music, their training, their dojo.
 
 What travels is the *acquisition model*. He still learns by training: in realm-09 he finds a
@@ -73,14 +72,14 @@ a Metroid. See [[gargoyle-stone-metroidvania]].
 Not yet established:
 
 - Whether mistimed input is **penalised** or merely unrewarded. (Punishing it makes this a rhythm
-  game; leaving it as a hint keeps it a platformer with a rhythmic conscience. The author's
-  phrasing — beats as *hints* — points to the second.)
+  game; leaving it as a hint keeps it a platformer with a rhythmic conscience. Beats are described as
+  *hints*, which points to the second.)
 - How the music behaves across a retry: restart the phrase, or run continuously?
 - Whether the rhythm layer persists into the boss fight or is a level-only device.
 
 ## Why It's Fun
 
-Not stated by the author in those terms. What the design is clearly reaching for: the Super Meat
+Not yet defined. What the design is clearly reaching for: the Super Meat
 Boy pleasure of a hard thing becoming easy through repetition, with the music making the repetition
 *legible* — you do not just learn the pattern, you hear it.
 

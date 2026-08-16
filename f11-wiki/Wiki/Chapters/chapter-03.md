@@ -25,23 +25,17 @@ quests:
 
 # Chapter 3 — The Convergence
 
-**Proposed 2026-08-12, provisional.** The [[mystics]]' gameplay is introduced, and the chapter ends
+**Provisional.** The [[mystics]]' gameplay is introduced, and the chapter ends
 with [[ninja]], [[mifix]], [[gargoyle]] and the Mystics' protagonist all **reaching [[templar]]**
 ([[the-convergence-at-the-monastery]]).
 
-**Status:** outline · **Lead faction:** [[mystics]] — inferred from "the Mystics gameplay … as the
-culmination of Chapter 3", not stated outright
+**Status:** outline · **Lead faction:** [[mystics]] — **inference, not established**
 
 ## Why This Chapter Exists
 
-The author's reasoning: the Ninja–Mifix–Gargoyle arrival at the Templar is a **chapter
-culmination**, and the Mystics' protagonist reaching and supporting the Templar should culminate at
-**the same time**. Rather than loading both into chapter two, the Mystics' gameplay and the joint
-arrival move here together.
-
-> "I might need to re-arrange things, and make Chapter 2 focus on the Gargoyle gameplay, and move
-> the Mystics gameplay and culmination of the Ninja, Mifix, Gargoyle, and Mystics protagonist
-> reaching the Templar as the culmination of Chapter 3 instead."
+The Ninja–Mifix–Gargoyle arrival at the Templar is a **chapter culmination**, and the Mystics'
+protagonist reaching and supporting the Templar should culminate at **the same time**. Rather than
+loading both into chapter two, the Mystics' gameplay and the joint arrival sit here together.
 
 This restructure is **not settled**. It also leaves [[chapter-02]] needing its own ending.
 

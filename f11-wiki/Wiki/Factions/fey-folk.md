@@ -24,7 +24,7 @@ mechanic is to be **reborn from ashes**.
 
 ## Identity
 
-Not yet established — the prototype notes mark both the game description and the story as TBD.
+Not yet established — neither the game description nor the story exists.
 
 **Currency:** Crystals · **Role archetype:** Heavy Weapons
 
@@ -59,4 +59,4 @@ The faction's own one-line description on that site: *"Creatures of folk lore an
 One of five factions still substantially unwritten, alongside [[pirates]], [[werebeasts]],
 [[the-damned]] and [[green-skins]].
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

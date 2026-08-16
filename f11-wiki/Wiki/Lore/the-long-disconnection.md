@@ -32,7 +32,7 @@ Long enough apart that contact is news. Every cross-faction meeting in the mater
 a revelation rather than a reunion, and the ten stories converge precisely because the
 disconnection is ending.
 
-**What caused it — settled 2026-08-08.** Both accounts are true, and they are the same account:
+**What caused it.** Two accounts, both true and both the same account:
 
 - There **is** a natural cycle in which the realms drift from easy to almost impossible to
   traverse ([[realm-nearness-and-traversal]]).
@@ -43,10 +43,8 @@ The consequence is the game's starting condition: the disconnection has run so l
 existence of the other factions has become a myth to most factions**. Not forgotten history —
 *myth*.
 
-**Softened 2026-08-16 — awareness is a spectrum, not a blackout.** The author's correction:
-
-> most residents in most realms are not aware of other realms, or have little awareness of only a
-> few realms or legends of people from other places.
+**Awareness is a spectrum, not a blackout.** Most residents in most realms are unaware of other
+realms, or have little awareness of only a few — legends of people from other places.
 
 And it is **uneven by alliance**. The [[werebeasts]], [[the-damned]] and the [[green-skins]] have
 **better awareness than most**, because their three realms were connected and friendly for a long

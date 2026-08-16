@@ -63,7 +63,7 @@ repair them ([[minibot-command]]).
 
 ## Why It's Fun
 
-Not stated by the author. What the design does is unusual and worth protecting: **the enemies are
+Not yet defined. What the design does is unusual and worth protecting: **the enemies are
 the rewards.** There is no reason to destroy a robot when robots are the scarce thing, so combat
 resolves into recruitment, and every hostile encounter is a resource you have not unlocked yet.
 

@@ -22,7 +22,7 @@ Protagonist of the [[werebeasts]].
 
 ## Character
 
-Not yet established — story TBD in the prototype notes. The death mechanic carries the only characterisation on record: on death the Werewolf **reverts to a puppy or baby for a while**, which implies growth and regression are part of how the character is played rather than a cosmetic penalty.
+Not yet established. The death mechanic carries the only characterisation on record: on death the Werewolf **reverts to a puppy or baby for a while**, which implies growth and regression are part of how the character is played rather than a cosmetic penalty.
 
 ## In-Game Role
 
@@ -37,4 +37,4 @@ Player character. Front Liner archetype, RPG gameplay. Currency: Teeth.
 
 The Werebeasts attack the [[celestials]] through an open gate; the Werewolf's own part in that is unrecorded.
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

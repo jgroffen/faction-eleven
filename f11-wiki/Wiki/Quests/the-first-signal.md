@@ -32,10 +32,9 @@ Comms** — an upgrade for controlling his *own* mini-fix bots, in his *own* rea
 
 **Status:** design · **Type:** main · **Chapter:** [[chapter-01]] · **Location:** [[realm-02]]
 
-> **Superseded framing.** This beat was originally written as *"the shrine bot awakens"*. It does
-> not: [[mifix]] has been **online for generations**, mentoring the Ninja's
-> family and repairing the Ninja between fights ([[death-and-return]]). Nothing wakes. What changes
-> is that it can suddenly **hear**.
+> **Nothing wakes.** [[mifix]] has been **online for generations**, mentoring the Ninja's family
+> and repairing the Ninja between fights ([[death-and-return]]). What changes is that he can
+> suddenly **hear**.
 
 ## The Beat
 

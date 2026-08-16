@@ -102,7 +102,7 @@ the Robots' game changes as the tree grows rather than merely accelerating.
 
 ## Why It's Fun
 
-Not stated by the author in those terms. What is structurally true: **Data Fragments come from
+Not yet defined. What is structurally true: **Data Fragments come from
 repairing robots**, not from grinding scrap, so the progression rewards the thing the character is
 *for*. Autofix gets stronger by healing his people, and learns his own history by doing it.
 

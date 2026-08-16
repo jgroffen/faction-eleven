@@ -24,7 +24,7 @@ Little is established. Their protagonist is [[captain]], a commander archetype; 
 
 ## Identity
 
-Not yet established — the prototype notes mark both the game description and the story as TBD.
+Not yet established — neither the game description nor the story exists.
 The commander role and 4X game type imply a faction played at fleet scale rather than as an
 individual, which would make them the most zoomed-out of the ten.
 
@@ -60,4 +60,4 @@ The faction's own one-line description on that site: *"Rum loving scags of the s
 
 ## Notes
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

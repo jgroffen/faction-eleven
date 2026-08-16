@@ -77,9 +77,9 @@ reasons the player can follow. That gives the story a three-deep chain —
 spending any of the Ancients' mystery**. For a chaptered release ([[chapter-based-release]]) that is
 worth a great deal.
 
-It is also the first evidence in the wiki of the Ancients **acting in the present**. Every other
-thing they have done is prehistory: building gates, numbering realms, extending the cycle. This is
-the eleventh faction doing something *now*, through people who have never heard of them.
+They are also the only evidence of the Ancients **acting in the present**. Everything else the
+eleventh faction has done is prehistory: building gates, numbering realms, extending the cycle. This
+is them doing something *now*, through people who have never heard of them.
 
 ## Open
 
@@ -87,4 +87,3 @@ the eleventh faction doing something *now*, through people who have never heard 
 - **Do any of them know about the Ancient**, or is the manipulation invisible all the way up?
 - **What they call the Ancient**, given that nobody in the multiverse remembers the eleventh
   faction exists.
-- The author's first spelling was "Gardians of Night"; recorded here as **Guardians**.

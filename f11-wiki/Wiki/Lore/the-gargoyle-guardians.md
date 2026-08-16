@@ -55,13 +55,12 @@ own home. They are not one order; they are three, built to the same design by th
 **They shape rock.** Alongside fighting, gargoyles are builders in stone — the capability that
 produced [[the-realm-barriers]], and the reason a barrier breaking is something they can feel.
 
-**Their makers were both Medics.** Recovered 2026-08-16 ([[the-six-classes]]): **Necromancer** is
+**Their makers were both Medics** ([[the-six-classes]]). **Necromancer** is
 [[the-damned]]'s Medic class and **Shaman** is the [[green-skins]]'. The guardians were not built by
 two realms' warriors or rulers but by their **healers** — the people whose role is to keep others
-alive, building something out of the dead to stop a war. Nothing in the design planned that; it
-fell out of two sources written years apart.
+alive, building something out of the dead to stop a war.
 
-**The labs material adds two abilities** the current ladder does not have
+**Two further abilities** sit outside the current ladder
 ([[gargoyle-stone-metroidvania]]): gargoyles **move through stone**, and **when their wings are
 folded away they can appear to be flesh and bone**. The second is a *disguise* — a way to hide in
 plain sight rather than by holding still — and it is the strongest unclaimed rung available.

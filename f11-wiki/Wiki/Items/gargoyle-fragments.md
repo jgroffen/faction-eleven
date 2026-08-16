@@ -33,8 +33,8 @@ Each fragment restores a piece of what the hammer took — mobility first, then 
 [[gargoyle-stone-metroidvania]], up the ladder from stationary stealth to Gargoyle Legacy. Gains are
 **permanent**; he never loses one.
 
-They are what the design previously called "Gargoyle lore fragments", and the two jobs are one
-object: **restoring himself and learning what he is are the same act.** There is no separate codex.
+Also called **Gargoyle lore fragments**, because the two jobs are one object: **restoring himself
+and learning what he is are the same act.** There is no separate codex.
 
 ## How It's Obtained
 
@@ -67,6 +67,6 @@ that become weightless.
 ## Open
 
 - Whether a fragment carries anything of the gargoyle it came from — memory, personality, a name.
-  The material does not say, and the answer decides whether this system is melancholy or horrifying.
+  Not established, and the answer decides whether this system is melancholy or horrifying.
 - **Whether his head can ever be made whole.** It is still damaged after the opening, and
   **Gargoyle Legacy** sits at the top of the ladder as the obvious candidate.

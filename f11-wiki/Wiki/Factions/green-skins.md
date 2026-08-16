@@ -29,26 +29,21 @@ their own.
 
 ## Identity
 
-Still thin, but no longer empty. Their protagonist [[gargoyle]] is **very ancient** and **wants to
-stop the war the green-skins are fighting with the [[celestials]]** — so the faction has an
+Their protagonist [[gargoyle]] is **very ancient** and **wants to stop the war the green-skins are fighting with the [[celestials]]** — so the faction has an
 internal opposition at its centre, and the player's window into it is a dissenter.
 
 That resolves the oddity of an *infiltrator* protagonist fronting a horde: the Gargoyle is not the
 horde's champion, he is working against what it is doing.
 
-**And they may not be doing it by choice.** Settled 2026-08-14: the Gargoyle wants to **protect and
-save** them, and to stop the faction **being manipulated and used**
+**And they are not doing it by choice.** The Gargoyle wants to **protect and save** them, and to stop the faction **being manipulated and used**
 ([[the-manipulation-of-the-green-skins]]). The horde that everyone else in the multiverse
 experiences as an invader is, from inside, a people being spent by somebody else.
 
-**Independently corroborated by the labs material.** The Orc's own description there, written years
-earlier, says: *"Before the Orcs the Green Skin tribes were **subjugated by the other factions, used
-as manual labor and cannonfodder**."* Two sources written far apart both make this faction the one
-things were done *to*. The Orcs — their Commander class — are what ended that: *"The Orcs bring
-purpose and co-ordination to the Green Skins. Without them the faction would splinter."*
+**The Orcs ended their subjugation.** Before the Orcs, the green-skin tribes were **subjugated by the
+other factions, used as manual labour and cannon fodder**. The Orcs — their Commander class —
+brought purpose and co-ordination; without them the faction would splinter.
 
-That also gives the faction its internal shape, which the wiki has been missing: **a coalition of
-tribes that does not naturally cohere**, held together by one class that is willing to decide
+That gives the faction its internal shape: **a coalition of tribes that does not naturally cohere**, held together by one class that is willing to decide
 things. A faction like that is exactly the sort that can be steered by whoever gets to the
 decision-makers — which is what [[the-guardians-of-night]] have done.
 
@@ -56,7 +51,7 @@ And it sharpens what a gargoyle is: **gargoyles are raised from dead orcs**
 ([[the-gargoyle-guardians]]) — that is, from the faction's *leadership* class, the ones who ended
 the subjugation. The realm's guardians are made from the people who first refused to be used.
 
-**They were the invaded first** (settled 2026-08-16). In the old war the [[celestials]],
+**They were the invaded first.** In the old war the [[celestials]],
 [[mystics]] and [[fey-folk]] "constantly incurred" into the green-skin, damned and werebeast
 realms — which is why realms 07, 08 and 09 built [[the-gargoyle-guardians]] out of their own dead
 and walled their gates shut ([[the-realm-barriers]]). Every other faction meets the green-skins as
@@ -68,7 +63,7 @@ began another incursion. It was broken from the inside by [[the-guardians-of-nig
 by itself.
 
 **Currency:** Gold · **Role archetype:** Infiltrator · **Game style:**
-[[gargoyle-stone-metroidvania]] (settled 2026-08-14)
+[[gargoyle-stone-metroidvania]]
 
 ## Standing
 
@@ -116,9 +111,7 @@ The question the design has long carried — **why** are they expanding: need, a
 pushing them out? — is answered: **they are being manipulated** by [[the-guardians-of-night]], who
 are in turn being manipulated by an Ancient ([[the-manipulation-of-the-green-skins]]).
 
-**They are also orcs** — the gargoyles are raised from green-skin dead — which is the first thing
-the wiki has recorded about what a green-skin actually *is*. A minotaur and a giant also appear in
-their realm ([[the-smashing-of-the-gargoyles]]), unconfirmed as green-skins.
+**They are orcs** — the gargoyles are raised from green-skin dead. Minotaurs and giants are also
+green-skin faction classes ([[the-six-classes]]).
 
-_Story reviewed 2026-08-08, 2026-08-14 and 2026-08-16. Game style settled 2026-08-14. The faction's
-own culture, leadership and daily life are still unwritten._
+The faction's own culture, leadership and daily life are still unwritten.

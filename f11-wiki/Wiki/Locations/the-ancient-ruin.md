@@ -40,7 +40,7 @@ never let the robot signal through, because it does not face [[realm-02]].
 ## Open
 
 - Who built the ruin, who abandoned the gate, and how long it has been cracked.
-- Whether the "sealed and guarded **for a reason**" beat from the prototype notes belongs here now
+- Whether the "sealed and guarded **for a reason**" beat belongs here now
   — see [[the-cracked-gate]].
 
 ## Set Here

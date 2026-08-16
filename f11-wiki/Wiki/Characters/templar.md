@@ -20,8 +20,8 @@ home: realm-03
 
 Protagonist of the [[celestials]], holding a castle against attacks from two open gates at once.
 
-**Name settled 2026-08-08: Templar.** (The author had referred to a "Knight" in passing; Templar is
-correct.)
+**Their name is Templar.** "Knight" is a **different faction class of the same faction** — the
+Celestials' Front Liner — not another name for this character ([[the-six-classes]]).
 
 ## Character
 
@@ -46,7 +46,12 @@ around a top-down defence field, with platforming exploration between battles. L
 other factions also become hero units with special powers, levelling and loot — so the wall fills
 up with the multiverse as the story converges.
 
-Front Liner archetype ([[the-six-classes]]). Currency: Relics.
+**Commander** archetype ([[the-six-classes]]). Currency: Relics.
+
+The class and the game style agree: a Commander who **fights on the field they are directing** is
+exactly what [[celestials-hero-tower-defence]] asks for, and it is why later allies joining as hero
+units reads as reinforcement rather than as a cast change. The Celestials' Front Liner is the **Knight**, a different
+faction class in the same faction.
 
 ## Quests
 
@@ -56,5 +61,3 @@ Front Liner archetype ([[the-six-classes]]). Currency: Relics.
 ## Ties
 
 Defends against [[green-skins]] and [[werebeasts]].
-
-_Reviewed 2026-08-08: name confirmed, game style settled, arc extended through chapter two._

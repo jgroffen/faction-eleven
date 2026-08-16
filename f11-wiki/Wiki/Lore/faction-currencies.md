@@ -19,8 +19,8 @@ locations: []
 
 # Faction Currencies
 
-Each faction has its own currency. As of 2026-08-08 these are **lore-only** — they may come to
-matter for some game types, and the author is **thinking of simplifying** the scheme.
+Each faction has its own currency. These are **lore-only** — they may come to matter for some game
+types, and **simplification of the scheme is under consideration**.
 
 **Canon:** proposed · **Era:** present
 
@@ -28,7 +28,7 @@ matter for some game types, and the author is **thinking of simplifying** the sc
 
 | Faction | Currency |
 |---------|----------|
-| [[robots]] | Parts — **superseded in play**: the Robots' economy is now a refining chain of scrap, construction materials, modules and components ([[autofix-skill-tree]]) |
+| [[robots]] | _in play, a refining chain of scrap, construction materials, modules and components ([[autofix-skill-tree]]); the "Parts" label is legacy_ |
 | [[institute-of-eight]] | Tablets |
 | [[celestials]] | Relics |
 | [[mystics]] | Scrolls |
@@ -37,7 +37,7 @@ matter for some game types, and the author is **thinking of simplifying** the sc
 | [[werebeasts]] | Teeth |
 | [[green-skins]] | Gold |
 | [[aliens]] | DNA |
-| [[the-damned]] | _unrecorded — the prototype notes' currency row for the Damned reads "return to grave / single spawn point", which appears to be a misplaced death mechanic_ |
+| [[the-damned]] | _unrecorded — the inherited currency row reads "return to grave / single spawn point", which appears to be a misplaced death mechanic_ |
 
 Each is characterful rather than economic: Parts are what a broken robot is made of, Teeth are
 what a werebeast takes, DNA is what a medic among many species would value. Only the
@@ -51,5 +51,5 @@ treats other realms as resources.
 
 ## Player-Facing
 
-Currently fiction only. **Design status: unsettled** — the author has flagged simplification, so
+Currently fiction only. **Design status: unsettled** — simplification is on the table, so
 do not build systems against this table yet.

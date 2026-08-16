@@ -50,9 +50,8 @@ Not yet established, and each is load-bearing:
 
 ## Why It's Fun
 
-Not yet stated by the author. The obvious candidate — a route network that changes under the
-player, so the multiverse feels tidal rather than static — is the interviewer's reading, not the
-author's claim.
+Not yet defined. The obvious candidate — a route network that changes under the player, so the
+multiverse feels tidal rather than static — is **inference, not established**.
 
 ## Tuning
 

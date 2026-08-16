@@ -59,7 +59,7 @@ faction's progression.
 
 ## Naming
 
-The author has called this "the gate guardian", "the gate warden" and "the Gate Boss". **Gate
+Three names are in use: "the gate guardian", "the gate warden" and "the Gate Boss". **Gate
 Guardian** is used as the in-fiction name here, with the others as aliases; "Gate Boss" reads as the
 design-side term.
 

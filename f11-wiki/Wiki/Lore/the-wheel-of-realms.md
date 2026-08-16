@@ -69,29 +69,23 @@ story.
 - [[faction-eleven-antagonist]] — whose catalogue this is, and whose eleventh entry the game is
   named for.
 
-### Where the ring and the old prototype notes disagree
+### Where the present contradicts the old order
 
-Recorded rather than resolved:
+The ring describes the *old* alignments. Several present-day facts sit against them:
 
 - The [[celestials]] (03) are attacked by the [[green-skins]] (09) and the [[werebeasts]] (07) —
-  but the Celestials' *historic* enemy by position is [[the-damned]] (08). Both attackers sit four
-  places away: far, but not opposite. **The 03–09 gate is now load-bearing** rather than merely
-  anomalous: it is the first leg of the route the second signal travels to reach [[realm-01]]
-  ([[the-second-signal]]). The green-skins' invasion road is also the multiverse's telephone line.
-- ~~The [[institute-of-eight]]'s (01) guarded gate leads to the [[green-skins]] (09).~~ **Resolved
-  2026-08-08 in the ring's favour:** the *guarded* gate leads to [[realm-02]], an adjacent,
-  historically friendly neighbour. The green-skin gate exists but is **abandoned and cracked**, in
-  [[the-ancient-ruin]] — two places round the ring, and evidently not maintained by anyone.
+  but the Celestials' historic enemy by position is [[the-damned]] (08). Both attackers sit four
+  places away: far, but not opposite. **The 03–09 gate is load-bearing**: it is the first leg of the
+  route the second signal travels to reach [[realm-01]] ([[the-second-signal]]). The green-skins'
+  invasion road is also the multiverse's telephone line.
+- The [[institute-of-eight]]'s (01) **guarded** gate leads to [[realm-02]], an adjacent,
+  historically friendly neighbour. Their gate to the green-skins (09) exists but is **abandoned and
+  cracked**, in [[the-ancient-ruin]] — two places round the ring, and maintained by nobody.
 - [[the-damned]] (08) open gates into [[aliens]] (10) space — again two places.
-
-These are all reconcilable if "historically friendly/enemy" describes the *old* order and the
-present is a violation of it — which is arguably the better story anyway: the disconnection did
-not just isolate the realms, it scrambled who fights whom.
 
 ### The ring is a map of two alliances
 
-Settled 2026-08-16, and it is the strongest confirmation the wheel has had. The old war ran between
-two **contiguous arcs** sitting opposite each other:
+The old war ran between two **contiguous arcs** sitting opposite each other:
 
 | Bloc | Realms |
 |------|--------|
@@ -99,25 +93,25 @@ two **contiguous arcs** sitting opposite each other:
 | **The invaders** — "constantly incurring" | 03 [[celestials]] · 04 [[mystics]] · 05 [[fey-folk]] |
 
 Each bloc is three neighbours in a row, and **two of the three facing pairs are exact opposites** —
-03↔08 and 04↔09, both already recorded above as historic enemies. So the wheel does not merely rank
-nearness; **the opposition axis is where the wars actually happened**, and alliance follows
-adjacency. [[the-gargoyle-guardians]] were built by two of the three defenders working together
-(necromancers of 08, shamans of 09), which is adjacency doing exactly what the ring predicts.
+03↔08 and 04↔09, both historic enemies by position. So the wheel does not merely rank nearness;
+**the opposition axis is where the wars actually happened**, and alliance follows adjacency.
+[[the-gargoyle-guardians]] were built by two of the three defenders working together (necromancers
+of 08, shamans of 09), which is adjacency doing exactly what the ring predicts.
 
 The present state is the old war restarted by deception ([[the-broken-barrier]]) — so the
-green-skins invading the Celestials is not a scrambling of the old order after all. It is the old
-order, resumed on false evidence.
+green-skins invading the Celestials is not a scrambling of the old order. It is the old order,
+resumed on false evidence.
 
-**Genuinely supported by the ring:** [[mystics]] (04) and [[green-skins]] (09) are exact opposites
-and the prototype notes have the green-skins mining the Mystics' realm. And [[robots]] (02) sits
-adjacent to the [[institute-of-eight]] (01) — historically friendly — which is exactly where the
-mini-fix bot in the Ninja's family shrine came from, and exactly where the guarded gate leads.
+**Elsewhere the ring holds:** [[mystics]] (04) and [[green-skins]] (09) are exact opposites, and the
+green-skins mine the Mystics' realm. [[robots]] (02) sits adjacent to the [[institute-of-eight]]
+(01) — historically friendly — which is where the mini-fix bot in the Ninja's family shrine came
+from, and where the guarded gate leads.
 
-A useful pattern is emerging: **gates to neighbours are maintained and watched; gates to distant
-realms are abandoned and broken.** [[realm-01]] guards its door to a friend and has let the door to
-an enemy fall into ruin. If that generalises, the wheel predicts the *state* of a gate as well as
-its existence — and it means the realms' infrastructure still reflects the old alliances even
-though nobody remembers them.
+A pattern follows: **gates to neighbours are maintained and watched; gates to distant realms are
+abandoned and broken.** [[realm-01]] guards its door to a friend and has let the door to an enemy
+fall into ruin. If that generalises, the wheel predicts the *state* of a gate as well as its
+existence — and the realms' infrastructure still reflects the old alliances even though nobody
+remembers them.
 
 ## Player-Facing
 

@@ -79,7 +79,7 @@ deliberately opened in the cutscene rather than withheld.
 
 ## The Hands That Did It
 
-**Settled 2026-08-16 by the labs material** ([[the-six-classes]]): the **Minotaur is the
+The **Minotaur is the
 green-skins' Heavy Weapons class and the Giant is their Front Liner**. Both are green-skins.
 
 So the scene is worse than it first read. [[val]] is a Vampire — the [[the-damned]]'s Commander

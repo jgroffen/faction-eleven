@@ -76,8 +76,7 @@ Two jobs, one mechanical and one narrative:
    fights ([[death-and-return]]). The player's forgiveness in every ordinary failure is this
    character, present and working.
 
-   In [[realm-09]] this becomes literal: settled 2026-08-14, **Mifix is the save/restore mechanic**
-   there ([[gargoyle-stone-metroidvania]]). A Metroid needs save rooms; this one has a companion
+   In [[realm-09]] this becomes literal: **Mifix is the save/restore mechanic** there ([[gargoyle-stone-metroidvania]]). A Metroid needs save rooms; this one has a companion
    instead. It also means the two protagonists sharing that map fail differently — the Ninja
    restores from Mifix, the [[gargoyle]] simply restarts the section — without either needing a
    system the other doesn't.
@@ -103,8 +102,7 @@ Two jobs, one mechanical and one narrative:
 ## Open
 
 - Whether the family knows he is a machine, and whether the Ninja learns it during the game.
-- **What corrupted his memory**, and whether it can be repaired. The author's proposed reveal
-  supplies one answer: [[odie]] has **uncorrupted** memory, and when the two
+- **What corrupted his memory**, and whether it can be repaired. One proposed answer: [[odie]] has **uncorrupted** memory, and when the two
   mini-fix bots meet it can restore the lost history of the Robot Realm. Mifix's myth would then be
   corrected by a stranger of his own kind rather than by going home.
 - Whether he is right that he is the last. He is not: see above.

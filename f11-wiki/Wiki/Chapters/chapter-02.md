@@ -30,11 +30,10 @@ Where the premise starts to pay. Three protagonists move toward **one machine** 
 none of them knows the others are looking. [[templar]] holds him, [[autofix]] detects him, and
 [[ninja]] and [[gargoyle]] set out after him.
 
-**Restructured 2026-08-12 (provisional):** the chapter now **focuses on [[gargoyle]]'s gameplay**.
-The [[mystics]] and the four-way arrival at the Templar moved out to [[chapter-03]].
+The chapter **focuses on [[gargoyle]]'s gameplay**. The [[mystics]] and the four-way arrival at the
+Templar belong to [[chapter-03]]. **This shape is provisional.**
 
-**Status:** outline · **Lead faction:** [[green-skins]] — the author's phrasing was "make Chapter 2
-focus on the Gargoyle gameplay"
+**Status:** outline · **Lead faction:** [[green-skins]]
 
 ## Story
 
@@ -62,30 +61,30 @@ focus on the Gargoyle gameplay"
 |---------|------|-----------|--------------|
 | [[celestials]] | major — [[templar-monastery]] | [[celestials-hero-tower-defence]] ✅ | second defeat; the first *deliberate* reconnection |
 | [[institute-of-eight]] | major — [[ninja]] leaves [[realm-01]] | [[ninja-rhythm-platforming]] ✅ — but **swaps to the host realm's Metroid** once he crosses ([[realm-governs-game-style]]) | follows the second signal out through the ruin |
-| [[green-skins]] | **lead** — [[gargoyle]]'s gameplay is the chapter's focus | [[gargoyle-stone-metroidvania]] ✅ (settled 2026-08-14) | Gargoyle joins the Ninja against his own faction's war |
+| [[green-skins]] | **lead** — [[gargoyle]]'s gameplay is the chapter's focus | [[gargoyle-stone-metroidvania]] ✅ | Gargoyle joins the Ninja against his own faction's war |
 | [[robots]] | supporting | [[robots-incremental-exploration]] ✅ | hear the monastery bot; comms pay off a second time |
 
 ## Content Load
 
-Still heavier than chapter one, but the shape has changed twice:
+Heavier than chapter one:
 
-- **Four factions, against chapter one's three** (was five before the restructure).
-- **One new game style** — [[gargoyle-stone-metroidvania]], settled 2026-08-14. **Every faction in
-  this chapter now has a settled style**, which was not true a week ago.
-- **One new realm** at meaningful scope: [[realm-09]] ([[realm-04]] moved to [[chapter-03]]).
+- **Four factions, against chapter one's three.**
+- **One new game style** — [[gargoyle-stone-metroidvania]]. Every faction in this chapter has a
+  settled style.
+- **One new realm** at meaningful scope: [[realm-09]].
 - New locations: [[templar-monastery]] with its ancient parts, [[the-ancient-ruin]].
 - The first cross-realm **travel** by a protagonist, rather than signalling.
 
-**Two structural wins landed 2026-08-14.** The Gargoyle runs on the **Ninja's platforming engine**
+**Two things hold the build cost down.** The Gargoyle runs on the **Ninja's platforming engine**
 with a different move set ([[exploration-core-loop]]), so the chapter's headline system is a
 re-skin of chapter one's rather than a new build. And under [[realm-governs-game-style]] the Ninja
 plays the same Metroid map the Gargoyle does — so [[realm-09]] is **built once and played twice**.
 
-**What is now the chapter's real cost** is not systems but **map**. Metroidvania is the most
-content-hungry genre on the roster: a linear platformer ships level by level, an interconnected map
-is not playable until the loop closes. Chapter two's schedule is now a level-design problem.
+**The chapter's real cost is map, not systems.** Metroidvania is the most content-hungry genre on
+the roster: a linear platformer ships level by level, an interconnected map is not playable until
+the loop closes. Chapter two's schedule is a level-design problem.
 
-**And the pacing question is open:** the Gargoyle's ladder ends in **full flight**, which dissolves
+**The pacing question is open:** the Gargoyle's ladder ends in **full flight**, which dissolves
 platform gating. How far up that ladder chapter two goes is undecided — see
 [[gargoyle-stone-metroidvania]].
 
@@ -98,8 +97,8 @@ platform gating. How far up that ladder chapter two goes is undecided — see
 - The Templar's retreat to [[templar-monastery]].
 
 Beat 2 is gated on **three protagonists across two chapters** — the crack (Ninja, ch1), Quantum
-Comms (Autofix, ch1) and the Templar activating his signals (ch2). It is the most demanding gating
-chain in the game so far, and the clearest argument for tracking beats per chapter.
+Comms (Autofix, ch1) and the Templar activating his signals (ch2). The most demanding gating chain
+in the game, and the clearest argument for tracking beats per chapter.
 
 **Sets up:** [[chapter-03]] — the Ninja and Gargoyle's search unresolved at chapter end, the
 [[mystics]]' response to [[the-wand]] still to come, and the Celestials' war machine problem
@@ -107,19 +106,17 @@ unsolved.
 
 ## Open
 
-- **The restructure is provisional** and the author flagged it as such.
-- **What now ends chapter two?** The convergence was its payoff and has moved to [[chapter-03]].
-  A chapter focused on the Gargoyle needs an ending of its own, and none is written. **Round 15
-  supplied the obvious candidate**: the Gargoyle uncovering [[the-guardians-of-night]] is a
-  chapter-scale revelation with a named antagonist ([[val]]) attached. Not confirmed by the author.
+- **The chapter's shape is provisional.**
+- **What ends chapter two?** The convergence was its payoff and belongs to [[chapter-03]]. A chapter
+  focused on the Gargoyle needs an ending of its own, and none is written. The obvious candidate is
+  the Gargoyle uncovering [[the-guardians-of-night]] — a chapter-scale revelation with a named
+  antagonist ([[val]]) attached. **Not established.**
 - Whether [[the-calling-of-ancient-allies]] stays here. It must precede [[the-second-signal]]'s
-  detection, so it cannot move to chapter three — **inference, not stated**.
+  detection, so it cannot move to chapter three — **inference, not established**.
 - The route from [[realm-09]] to [[realm-03]] is unexplained — see [[the-second-signal]].
 - The [[mystics]] "receive" the wand's call but what they *do* is unwritten.
 - **How much of the Gargoyle's ability ladder belongs in this chapter**, given that flight ends
   platform gating.
-- ~~Who is manipulating the green-skins~~ — **answered 2026-08-16**:
-  [[the-guardians-of-night]], themselves manipulated by an Ancient.
 - **How much of the Guardians' conspiracy is revealed in this chapter** versus held back. The chain
   is three deep and only the bottom two rungs can safely be shown.
 - **Where the broken barrier is** in [[realm-09]], and how they broke gargoyle-shaped stone.

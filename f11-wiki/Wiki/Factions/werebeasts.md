@@ -25,7 +25,7 @@ than the green-skins, with fewer but very buff units**. Their protagonist is [[w
 
 ## Identity
 
-Not yet established — the prototype notes mark both the game description and the story as TBD.
+Not yet established — neither the game description nor the story exists.
 The death mechanic is characterful: on death the Werewolf **reverts to a puppy or baby for a
 while**, which reads as a growth/regression system rather than a straight respawn.
 
@@ -35,7 +35,7 @@ while**, which reads as a growth/regression system rather than a straight respaw
 
 - [[celestials]] — attacked through an open gate into their realm.
 
-**Round 15 gave them their first history and their first motive.** They are the third realm of the
+They are the third realm of the
 old defensive alliance — with [[the-damned]] and the [[green-skins]] — invaded by the
 [[celestials]], [[mystics]] and [[fey-folk]] until [[the-gargoyle-guardians]] ended it. They have
 gargoyles of their own, loyal to [[realm-07]]. They are now being incited to attack the Celestials
@@ -73,4 +73,4 @@ The faction's own one-line description on that site: *"Shapechanging eco-terrori
 
 ## Notes
 
-_Legacy material — from the factions-retro prototype notes, pending review with the author._
+**Unconfirmed** — carried over from the earlier prototype.

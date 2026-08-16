@@ -26,12 +26,11 @@ a void which connects alien space to the Damned's own realm.
 
 ## Identity
 
-Not yet established as a playable faction — the prototype notes mark their game description and
-story as TBD. Their protagonist is [[wraith]], a specialist tied to a **single spawn point / grave
+Not yet established as a playable faction — neither their game description nor their story exists. Their protagonist is [[wraith]], a specialist tied to a **single spawn point / grave
 to return to**.
 
-**Currency:** _the prototype notes give "Return to grave / single spawn point" in the currency
-row, which appears to be a misplaced death mechanic rather than a currency — unresolved._
+**Currency:** _unrecorded. "Return to grave / single spawn point" sits in the currency row of the
+inherited material, but reads as a misplaced death mechanic._
 
 **Role archetype:** Specialist
 
@@ -65,9 +64,9 @@ The faction's own one-line description on that site: *"Protectors of the Great M
 - [[wraith|Wraith]] · protagonist
 <!-- gd:members:end -->
 
-## What Round 15 Added
+## Role In The Gargoyle's Story
 
-Substantial, and it makes them the game's most compromised faction:
+This makes them the game's most compromised faction:
 
 - **Their necromancers co-created the gargoyles**, with the shamans of [[realm-09]]
   ([[the-gargoyle-guardians]]). The Damned are half the reason three realms survived the old war.
@@ -80,18 +79,17 @@ Substantial, and it makes them the game's most compromised faction:
 - **Their Medic is the Necromancer**, "Rulers of the great majority", which is also the faction's
   own self-description: *"Protectors of the Great Majority."* The great majority is the dead. A
   faction whose healers rule the dead and whose stated purpose is protecting them is a far more
-  coherent thing than the prototype's "undead grab-bag", and it explains why they were the ones who
-  could raise gargoyles at all.
+  coherent thing than an undead grab-bag, and it explains why they were the ones who could raise
+  gargoyles at all.
 
 So the Damned appear on both sides of every line in this story — makers and destroyers of the
-guardians, and both a dupe and a driver of the war. The prototype-era inference below has landed on
-the "dupe" side, one rung removed.
+guardians, and both a dupe and a driver of the war.
 
 ## Notes
 
-The Damned are the only faction shown **deliberately opening gates**, which made them the most
-likely knowing collaborator with — or dupe of — [[faction-eleven-antagonist]]. Confirmed as a dupe
-by proxy: an Ancient manipulates [[the-guardians-of-night]], and Val is a Guardian.
+The Damned are the only faction shown **deliberately opening gates**. They are a dupe of
+[[faction-eleven-antagonist]] by proxy: an Ancient manipulates [[the-guardians-of-night]], and
+[[val]] is a Guardian.
 
-_Legacy material from the factions-retro prototype notes, partly reviewed with the author
-2026-08-16. Their protagonist [[wraith]], game style and story remain untouched._
+**Partly unconfirmed** — carried over from the earlier prototype. Their protagonist [[wraith]],
+game style and story are untouched.

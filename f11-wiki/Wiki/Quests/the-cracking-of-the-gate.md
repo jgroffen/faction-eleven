@@ -44,8 +44,8 @@ It makes chapter one causally tight. The Ninja's failure is the **precondition**
 [[the-first-signal]] — so the chapter's two reduced factions and its lead faction are not
 three parallel demos but one chain of events:
 
-> Ninja fights and loses → the gate cracks → [[autofix]]'s restored remote comms reach through →
-> the shrine bot wakes.
+> Ninja fights and loses → the gate cracks → [[autofix]]'s Quantum Comms reach through →
+> [[mifix]] hears them.
 
 Losing is load-bearing. That is worth protecting through every later revision.
 

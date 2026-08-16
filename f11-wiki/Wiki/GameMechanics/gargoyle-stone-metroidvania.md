@@ -39,7 +39,7 @@ stationary*. Everything else on the ladder below is earned.
 
 **One substance, many verbs.** Every ability the Gargoyle has is a variation on being made of
 **stone** — which is what makes the ladder read as one character growing rather than a list of
-pickups. The author's set, given as incomplete and unordered:
+pickups. The set is incomplete and unordered:
 
 | Ability | What it does |
 |---------|--------------|
@@ -54,13 +54,12 @@ pickups. The author's set, given as incomplete and unordered:
 | **Gargoyle flight** | Full flight. |
 | **Gargoyle Legacy** | Final unlock — **sonic flight, super strength, super fortitude**. |
 
-**Two abilities the labs material has and this ladder does not** ([[the-six-classes]], recovered
-2026-08-16): gargoyles **move through stone**, and **with their wings folded away can appear to be
+**Two gargoyle abilities this ladder does not have** ([[the-six-classes]]): gargoyles **move through stone**, and **with their wings folded away can appear to be
 flesh and bone**. The second is the more interesting — a *disguise*, hiding in plain sight rather
 than by holding still, which is a different verb from everything on the ladder and would open
-sections the current kit cannot. Legacy material, offered rather than adopted.
+sections the current kit cannot. **Unconfirmed** — carried over from the earlier prototype, and not yet adopted.
 
-**He does not fight.** Settled by the author: the Gargoyle **wants to protect and save the
+**He does not fight.** The Gargoyle **wants to protect and save the
 green-skins** — gargoyles see themselves as **protectors** — so there is no combat verb in the
 kit at all. **Stone-drop knocks opponents out**, which is the closest he comes: he can *neutralise*,
 never kill. This makes his Metroid a **pure traversal-and-stealth** Metroid, where a locked door is
@@ -110,7 +109,7 @@ the section.
 
 ## Why It's Fun
 
-Not stated by the author in those terms. What the design reaches for is legible: a character who
+Not yet defined. What the design reaches for is legible: a character who
 begins unable to do anything except **hold still**, and ends in **sonic flight** — the widest
 power-curve of any faction, on a map that has been quietly showing you the places you could not
 reach the whole way up.

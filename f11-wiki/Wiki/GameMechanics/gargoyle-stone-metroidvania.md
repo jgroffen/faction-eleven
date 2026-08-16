@@ -7,7 +7,8 @@ created: 2026-08-14
 updated: 2026-08-14
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
-source_count: 1
+  - Raw/Sources/labs-faction-classes.md
+source_count: 2
 aliases:
   - Green Skins Game Style
   - Gargoyle Game Style
@@ -52,6 +53,12 @@ pickups. The author's set, given as incomplete and unordered:
 | **Triple jump / quad jump** | Successively closer to true flight. |
 | **Gargoyle flight** | Full flight. |
 | **Gargoyle Legacy** | Final unlock — **sonic flight, super strength, super fortitude**. |
+
+**Two abilities the labs material has and this ladder does not** ([[the-six-classes]], recovered
+2026-08-16): gargoyles **move through stone**, and **with their wings folded away can appear to be
+flesh and bone**. The second is the more interesting — a *disguise*, hiding in plain sight rather
+than by holding still, which is a different verb from everything on the ladder and would open
+sections the current kit cannot. Legacy material, offered rather than adopted.
 
 **He does not fight.** Settled by the author: the Gargoyle **wants to protect and save the
 green-skins** — gargoyles see themselves as **protectors** — so there is no combat verb in the

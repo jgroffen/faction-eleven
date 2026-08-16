@@ -7,7 +7,8 @@ created: 2026-08-16
 updated: 2026-08-16
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
-source_count: 1
+  - Raw/Sources/labs-faction-classes.md
+source_count: 2
 aliases:
   - The Hammer
   - Disabling The Guardians
@@ -76,10 +77,19 @@ deliberately opened in the cutscene rather than withheld.
 **It is the opening cutscene**, after the making of the gargoyles and a fade-to-black time jump. See
 [[the-waking-of-the-last-gargoyle]].
 
+## The Hands That Did It
+
+**Settled 2026-08-16 by the labs material** ([[the-six-classes]]): the **Minotaur is the
+green-skins' Heavy Weapons class and the Giant is their Front Liner**. Both are green-skins.
+
+So the scene is worse than it first read. [[val]] is a Vampire — the [[the-damned]]'s Commander
+class — and the Damned's Necromancers **co-created the gargoyles**. Green-skin hands destroyed
+green-skin dead, on the order of a woman whose own people built them.
+
+Every party in the room is betraying something, and none of them thinks they are.
+
 ## Open
 
 - **How long before the barrier breaks does this happen?** The cutscene implies preparation, but the
   interval is unstated — days or centuries both work, and they tell different stories.
-- Whether the minotaur and the giant are [[green-skins]]. If they are, green-skin hands did this to
-  green-skin dead on a damned order, and the alliance is poisoned at its root.
 - Whether anyone else in the realm knows the gargoyles were destroyed rather than merely dormant.

@@ -25,9 +25,9 @@ _What is already written down. Link it, do not restate it._
   [[chapter-02]], one note per chapter, which is where faction balance and build load are tracked.
 - [[faction-eleven-premise]] — the entry point to everything else.
 
-Sixteen rounds of interview (2026-08-08 to 2026-08-16) took the wiki from empty to 106 notes. The transcript is
-`Raw/Sources/interviews/faction-eleven-lore-and-design.md`; the prototype notes and the faction
-diagram are the other two sources. All three are processed and covered.
+Sixteen rounds of interview (2026-08-08 to 2026-08-16) took the wiki from empty to 107 notes, from four sources. The transcript is
+`Raw/Sources/interviews/faction-eleven-lore-and-design.md`; the prototype notes, the faction diagram
+and the labs-website faction classes are the other three. All four are processed and covered.
 
 ## Not yet written down
 
@@ -66,6 +66,11 @@ round was asked. What remains is what was **never settled**:
 - **Why [[realm-07]]'s gargoyles were spared** when realms 08 and 09 had theirs destroyed.
 - **Whether "an Ancient" means an individual.** The author's wording was singular — the first hint
   of a person rather than a faction. Not established.
+- **[[templar]]'s class.** The labs site makes Templar the Celestials' **Commander** and Knight
+  their Front Liner; the retro notes and the wiki say Front Liner. The author has already rejected
+  renaming Templar to Knight, so only the class is in question. See [[the-six-classes]].
+- **How much of the labs faction-class material is still current.** It is legacy; only the
+  protagonists and their archetypes are confirmed. Do not build against the other 50 rows.
 - **What ends [[chapter-02]]**, now that the convergence has moved to [[chapter-03]].
 - **Whether the chapter restructure sticks.** Proposed 2026-08-12 and explicitly provisional.
 - **Which trained skill** the Ninja returns to the boss battle with — the move that cracks the

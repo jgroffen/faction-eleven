@@ -681,6 +681,13 @@ Ancients)
   than invented: the werebeasts and the Damned as old defensive allies (the werebeasts' gargoyles
   survive, setting up a much later chapter), the Mystics as a second invasion front, and the Fey
   Folk as one of the three old invader realms. Their protagonists and game styles remain untouched.
+- A **fourth source** was ingested 2026-08-16: `labs-faction-classes.md`, scraped from an older
+  website the author built. It supplies the **complete 10x6 faction-class matrix** and confirmed
+  three things the interview had left open — the minotaur and the giant are green-skins, `val` is a
+  Vampire (the Damned's Commander class), and the gargoyles' makers (Necromancer, Shaman) are both
+  their factions' **Medic** class. It also corroborated the green-skins' subjugation independently.
+  One conflict recorded, not resolved: the labs site makes **Templar the Commander** and Knight the
+  Front Liner, against the retro readme's Front Liner.
 - Still outstanding: the game style for `mystics` (leads chapter three, scheduled for a dedicated
   session, now the only chapter lead without one); the green-skins' **culture and leadership**;
   why realm-07's gargoyles were spared; whether "an Ancient" means an individual;

@@ -8,7 +8,8 @@ updated: 2026-08-08
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
-source_count: 2
+  - Raw/Sources/labs-faction-classes.md
+source_count: 3
 aliases: []
 homeland: realm-01
 allies: []
@@ -70,6 +71,22 @@ chapter two, following [[the-second-signal]].
 Institute's climax is therefore a **late-game turning point**, not an early one — which makes the
 family's endless, futile duel with the guardian the faction's condition for most of the game
 rather than a problem solved early.
+
+## Faction Classes
+
+Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
+website, recorded as the last written state and not as confirmed current design.
+
+| Class | Faction class | |
+|-------|---------------|---|
+| Commander | Samurai | Followers of Bushido, the Way of the Warrior. |
+| Front Liner | Mercenary | Highly trained military forces for hire. |
+| Heavy Weapons | Sniper | Pitch a tent and set up camp. |
+| Infiltrator | [[ninja]] | Sabotage, espionage, scouting, assassination. **← protagonist** |
+| Medic | Kami | Animal spirits. |
+| Specialist | Secret Agent | The suave, sophisticated, gadgets and guns kind. |
+
+The faction's own one-line description on that site: *"Highly trained specialist operatives."*
 
 ## Members
 

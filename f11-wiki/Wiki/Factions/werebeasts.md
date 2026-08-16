@@ -7,7 +7,8 @@ created: 2026-08-08
 updated: 2026-08-08
 sources:
   - Raw/Sources/factions-retro-readme.md
-source_count: 1
+  - Raw/Sources/labs-faction-classes.md
+source_count: 2
 aliases: []
 homeland: realm-07
 allies: []
@@ -47,6 +48,22 @@ only intact set of realm guardians in the game — which [[gargoyle]] will event
 
 Why they were spared is unwritten, and it is a real question: the Guardians of Night disabled two
 realms' guardians and left the third alone.
+
+## Faction Classes
+
+Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
+website, recorded as the last written state and not as confirmed current design.
+
+| Class | Faction class | |
+|-------|---------------|---|
+| Commander | Wendigo | Half human, half monster. |
+| Front Liner | [[werewolf]] | Defenders of the pack. **← protagonist** |
+| Heavy Weapons | Werebear | Unstoppable powerhouse. |
+| Infiltrator | Werebird | Cunning reconnaissance. |
+| Medic | Mermaid | Grows legs when they leave the water. Their blood is a powerful healing agent. |
+| Specialist | Werecat | I can haz item? Kthxbye! |
+
+The faction's own one-line description on that site: *"Shapechanging eco-terrorists."*
 
 ## Members
 

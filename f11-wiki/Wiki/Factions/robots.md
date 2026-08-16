@@ -8,7 +8,8 @@ updated: 2026-08-08
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
-source_count: 2
+  - Raw/Sources/labs-faction-classes.md
+source_count: 3
 aliases: []
 homeland: realm-02
 allies: []
@@ -51,6 +52,22 @@ factions.
 Notably, a **mini-fix bot** made by Autofix's line turns up inside the Institute of Eight's story
 as an ancestor spirit housed in a toy car ([[institute-of-eight]]), which is the earliest
 cross-faction thread in the material.
+
+## Faction Classes
+
+Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
+website, recorded as the last written state and not as confirmed current design.
+
+| Class | Faction class | |
+|-------|---------------|---|
+| Commander | Tactical Cortex | Specialist small unit tactics and strategy entity. |
+| Front Liner | Battlebot | All purpose killing machine. |
+| Heavy Weapons | MWP Killbot | Basically a walking Bazooka |
+| Infiltrator | Android | Artifical imitation of life. |
+| Medic | [[autofix]] | Nanotech enabled service droids. **← protagonist** |
+| Specialist | Raptorbot | Flying death machines. |
+
+The faction's own one-line description on that site: *"Self replicating artificial life."*
 
 ## Members
 

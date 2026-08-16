@@ -7,7 +7,8 @@ created: 2026-08-08
 updated: 2026-08-08
 sources:
   - Raw/Sources/factions-retro-readme.md
-source_count: 1
+  - Raw/Sources/labs-faction-classes.md
+source_count: 2
 aliases: []
 homeland: realm-10
 allies: []
@@ -34,6 +35,22 @@ Aliens a microcosm of the whole game's structure — a faction that is itself a 
 ## Standing
 
 - [[the-damned]] — attacking them; their liches open the gates into alien space.
+
+## Faction Classes
+
+Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
+website, recorded as the last written state and not as confirmed current design.
+
+| Class | Faction class | |
+|-------|---------------|---|
+| Commander | Grey | Ruling species of the Alien Alliance |
+| Front Liner | Thunder Lizard | Reptilian dinosaur-like humanoids. |
+| Heavy Weapons | Tripod | Installed with a death ray. |
+| Infiltrator | Martian | Little Green Men from the Red Planet. |
+| Medic | [[squidling]] | Cute Squiddish Aliens. **← protagonist** |
+| Specialist | Feline | A race of alien humanoid cats. |
+
+The faction's own one-line description on that site: *"Unknowable intelligence, unfathomable motives."*
 
 ## Members
 

@@ -8,7 +8,8 @@ updated: 2026-08-08
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
-source_count: 2
+  - Raw/Sources/labs-faction-classes.md
+source_count: 3
 aliases: []
 homeland: realm-04
 allies: []
@@ -53,6 +54,22 @@ gargoyles were built to stop ([[the-gargoyle-guardians]]). The faction now being
 invader first.
 
 The prototype notes flag that [[gargoyle]] and [[conjurer]] may meet in this story.
+
+## Faction Classes
+
+Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
+website, recorded as the last written state and not as confirmed current design.
+
+| Class | Faction class | |
+|-------|---------------|---|
+| Commander | Oracle | Unusual powers of foresight. |
+| Front Liner | Summoner | Dominators of lesser creatures. |
+| Heavy Weapons | Battle Mage | Combat specialist spell slingers. |
+| Infiltrator | Illusionist | Weavers of new realities. |
+| Medic | Witch Doctor | Mystic guardians of tribal lore. |
+| Specialist | [[conjurer]] | Physics Twisters **← protagonist** |
+
+The faction's own one-line description on that site: *"Magical order with a hidden purpose."*
 
 ## Members
 

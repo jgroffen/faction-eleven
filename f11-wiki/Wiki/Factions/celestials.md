@@ -8,7 +8,8 @@ updated: 2026-08-08
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
-source_count: 2
+  - Raw/Sources/labs-faction-classes.md
+source_count: 3
 aliases: []
 homeland: realm-03
 allies: []
@@ -45,6 +46,22 @@ realm gates are not uniformly sealed — the disconnection is uneven.
 
 The Templar eventually **captures a green-skin war machine**, upgrades it, uses it in defence, and
 then takes it to the enemy — the faction's turn from defence to offence.
+
+## Faction Classes
+
+Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
+website, recorded as the last written state and not as confirmed current design.
+
+| Class | Faction class | |
+|-------|---------------|---|
+| Commander | [[templar]] | Knights of a religious military order. **← protagonist** |
+| Front Liner | Knight | Protect the weak, defenseless, helpless, and fight for the general welfare of all. |
+| Heavy Weapons | Monk | Peace on the inside, chaos on the outside. |
+| Infiltrator | Reaper | Death Angels |
+| Medic | Angel | Winged Deliverers of Mercy. |
+| Specialist | Exorcist | Bane of Demons. |
+
+The faction's own one-line description on that site: *"Righteous warriors on a militant pilgrim."*
 
 ## Members
 

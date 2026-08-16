@@ -7,7 +7,8 @@ created: 2026-08-16
 updated: 2026-08-16
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
-source_count: 1
+  - Raw/Sources/labs-faction-classes.md
+source_count: 2
 aliases:
   - Valynthia
   - The Hooded Woman
@@ -32,6 +33,11 @@ she reappears, hours later, and will know something [[gargoyle]] does not.
 **She is a vampire of [[the-damned]] — and the Damned's own necromancers helped build the
 gargoyles** ([[the-gargoyle-guardians]]). So the order to destroy them comes from a co-author's
 people. Whatever she thinks she is doing, she is undoing her own faction's work.
+
+**Vampire is the Damned's Commander class** ([[the-six-classes]], recovered 2026-08-16) — which
+suits her exactly: she does not swing the hammer, she says "do it!" and leaves. The two who do swing
+it, the **Minotaur** and the **Giant**, are the [[green-skins]]' Heavy Weapons and Front Liner. She
+gave an order to another faction's soldiers and they took it.
 
 **What she believes:** with the rest of the Guardians, that the unsealing of the gates proves the
 [[celestials]], [[fey-folk]] and [[mystics]] mean to invade again, and that striking first is the

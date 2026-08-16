@@ -7,7 +7,8 @@ created: 2026-08-08
 updated: 2026-08-08
 sources:
   - Raw/Sources/factions-retro-readme.md
-source_count: 1
+  - Raw/Sources/labs-faction-classes.md
+source_count: 2
 aliases: []
 homeland: realm-05
 allies: []
@@ -30,6 +31,22 @@ Not yet established — the prototype notes mark both the game description and t
 ## Standing
 
 No relationships to other factions recorded.
+
+## Faction Classes
+
+Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
+website, recorded as the last written state and not as confirmed current design.
+
+| Class | Faction class | |
+|-------|---------------|---|
+| Commander | Fairy | Hereditary rulers of the Fey. |
+| Front Liner | Elf | Nature spirits in human form. |
+| Heavy Weapons | [[phoenix]] | Living fury. **← protagonist** |
+| Infiltrator | Pixie | Mischievous winged little people |
+| Medic | Unicorn | Elusive aspects of living nature. |
+| Specialist | Banshee | A fairy with a close connection to the underworld. |
+
+The faction's own one-line description on that site: *"Creatures of folk lore and fairy-tale."*
 
 ## Members
 

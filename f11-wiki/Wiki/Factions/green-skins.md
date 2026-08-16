@@ -8,7 +8,8 @@ updated: 2026-08-08
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
-source_count: 2
+  - Raw/Sources/labs-faction-classes.md
+source_count: 3
 aliases: []
 homeland: realm-09
 allies: []
@@ -39,6 +40,21 @@ horde's champion, he is working against what it is doing.
 save** them, and to stop the faction **being manipulated and used**
 ([[the-manipulation-of-the-green-skins]]). The horde that everyone else in the multiverse
 experiences as an invader is, from inside, a people being spent by somebody else.
+
+**Independently corroborated by the labs material.** The Orc's own description there, written years
+earlier, says: *"Before the Orcs the Green Skin tribes were **subjugated by the other factions, used
+as manual labor and cannonfodder**."* Two sources written far apart both make this faction the one
+things were done *to*. The Orcs — their Commander class — are what ended that: *"The Orcs bring
+purpose and co-ordination to the Green Skins. Without them the faction would splinter."*
+
+That also gives the faction its internal shape, which the wiki has been missing: **a coalition of
+tribes that does not naturally cohere**, held together by one class that is willing to decide
+things. A faction like that is exactly the sort that can be steered by whoever gets to the
+decision-makers — which is what [[the-guardians-of-night]] have done.
+
+And it sharpens what a gargoyle is: **gargoyles are raised from dead orcs**
+([[the-gargoyle-guardians]]) — that is, from the faction's *leadership* class, the ones who ended
+the subjugation. The realm's guardians are made from the people who first refused to be used.
 
 **They were the invaded first** (settled 2026-08-16). In the old war the [[celestials]],
 [[mystics]] and [[fey-folk]] "constantly incurred" into the green-skin, damned and werebeast
@@ -71,6 +87,22 @@ Celestials has an opponent inside the faction.
 [[realm-01]] holds an **abandoned, already-cracked gate** into green-skin territory
 ([[the-ancient-ruin]]), which is how [[ninja]] reaches [[gargoyle]] in chapter two
 ([[the-second-signal]]).
+
+## Faction Classes
+
+Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
+website, recorded as the last written state and not as confirmed current design.
+
+| Class | Faction class | |
+|-------|---------------|---|
+| Commander | Orc | Masters of the tribes. |
+| Front Liner | Giant | Regal mountains. |
+| Heavy Weapons | Minotaur | Part man, part bull, all beef. |
+| Infiltrator | [[gargoyle]] | Bat-winged and Stone Skinned. **← protagonist** |
+| Medic | Shaman | If they can't fix you, they've got your afterlife covered. |
+| Specialist | Troll | Do not feed the trolls. |
+
+The faction's own one-line description on that site: *"The old tribes of the earth."*
 
 ## Members
 

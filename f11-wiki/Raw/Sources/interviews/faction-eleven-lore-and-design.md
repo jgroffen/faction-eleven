@@ -705,3 +705,222 @@ Ancients)
   distinct genre systems built solo.
 - Open question raised for round 2: world topology, story ordering, the nature of the eleventh
   faction, and the vertical slice.
+
+### Round 17 — 2026-08-18
+
+**The author opened by presenting the eleventh faction and the primary antagonist story in full,
+unprompted.**
+
+> The Eleventh Faction are not very well known - any lore about them includes that they are ancient
+> so they are often just called 'The Ancients'.
+>
+> What they really are are a pantheon of gods in the style of the Aztec gods. The main four gods are
+> the Tezcatlipocas:
+>
+> - Tezcatlipoca, creator god, lord of darkness, lord of the night, god of battles, and the lord of
+>   the North. Tezcatlipoca is also known as the "Smoking Mirror". Tezcatlipoca is the old
+>   arch-nemesis of Quetzalcoatl. (Black Tezcatlipoca)
+> - Quetzalcoatl, god of the life, the light and wisdom, lord of the winds and the day, and the lord
+>   of the West. Quetzalcoatl is the old arch-nemesis of Tezcatlipoca. (White Tezcatlipoca)
+> - Xipe-Totec, god of agriculture, fertility, seasons, metalsmiths, and disease, and the lord of the
+>   East. (Red Tezcatlipoca)
+> - Huitzilopochtli, god of war, human sacrifice, bloodletting, and the lord of the South. (Blue
+>   Tezcatlipoca)
+>
+> These four gods are also known simply as The Black, The White, The Red, and The Blue.
+>
+> The Black creates reality, let's it run it's course until it causes it's own destruction. He then
+> re-creates reality from the destruction, making changes to the creation so each iteration improves
+> on the last. The Blue supports the Black, and is focused on forced evolution through conflict, but
+> resents the loss of progress that occurs through total destruction.
+>
+> The White tries to subvert the Black by attempting to bring order to reality, pushing back against
+> the chaos and entropy. The Red supports the White and is focused on growth and the spread of life
+> over non-life, but resents the lack of change and stagnation of life that The White pushes for.
+>
+> In this iteration of reality takes the form of ten different realms. These realms were not
+> connected for thousands of years. This reality was more stable than previous realities, and the
+> cycle of creation and destruction was stalled. The Black decides to intervene, forming pathways
+> from each realm to every other realm. This rapidly moved reality towards total destruction due to
+> the conflicts that arose between the factions.
+>
+> The Green Skins and Werebeasts started many of the cross-faction conflicts. The Damned would
+> leverage the chaos to steal dead bodies to take back to their realm for reanimation, and the
+> Vampires would build their ranks by turning inhabitants of other factions.
+>
+> Over time the Fey Folk, Mystics, and Celestials formed an alliance and started pushing back. The
+> Green Skins and Werebeasts especially were not co-ordinated in their incursions - they were more
+> raiding and pillaging than fighting a war. This turned the tide greatly. The Vampires of The Damned
+> proposed working with the Green skins to create the Gargoyles to push back the enemies and seal the
+> gates from their side.
+>
+> Inspired by the success of the Gargoyles, The White and the Red decide that the Inhabitants of
+> Reality themselves are pushing for survival and deserve stability. They convince the Blue that the
+> inhabitants deserve their existence as the realms were originally created - disconnected from each
+> other - which will stay the destruction of reality while the factions will continue to evolve
+> through internal conflict within each realm.
+>
+> The power of the three combined is what causes the gates to seal. The conflicts did cause great
+> change and entropy, so instead of pushing back against the other three The Black decides to let
+> reality run it's course with the realms closed from each other for a thousand years.
+>
+> Initially the realms flourish, but over time some realms begin to suffer. The robot realm falls to
+> entropy and loss of life as the Robots lose the ability to fix themselves, The fey folk avoid all
+> change and stagnate, The mystics lose motivation to innovate and progress. The Damned can't
+> pro-create as they relied on the dead of other factions to grow their ranks, so they slowly lose
+> numbers. The Werebeasts and Green Skins never progress due to too much in-fighting.
+>
+> The Red becomes unhappy with the status-quo and acts to intervene in two ways: encourage and imbue
+> the Ninja and a Vampire to breach the gate to their allies (the Robots and the Aliens for the
+> Institute of Eight, and The Green Skins and Werewolves for The Damned).
+>
+> The White becomes aware of The Red's intervention too late to stop The Damned, but is able to
+> create Gate Guardians in the Ninja's realm to guard the Alien and Celestial gates.
+>
+> The Blue, seeing the intervention of The Red and The White, decides to intervene as well. He renews
+> his alliance to The Black and influence the creation of the Guardians of Night - a secret alliance
+> of Green Skins, Werebeasts, and The Damned who are motivated to reignite the old conflict with the
+> Mystics, Celestials, and Fey Folk. This leads to the destruction of almost all the Gargoyles and
+> the Gargoyle-created barriers between the Green Skins and the Celestials, and the Werebeasts and
+> the Mystics.
+>
+> The Guardians of Night then blame the destruction on the Celestials and Mystics, and manipulate
+> their allies to invade the Celestials and Mystics realms. The Damned are afraid of the Fey Folk and
+> so keep that barrier sealed.
+
+**The interviewer put nine questions**, on: humans vs gods; which god is "an Ancient"; what the Gate
+Guardian holds; whether the Red's imbuement costs the "crack made by losing" beat; which barriers
+broke; the Lovecraftian void gods; the timeline of the three interventions; whether the pantheon
+extends past four; and whether this answers the Ancients' motive.
+
+### Round 18 — 2026-08-18
+
+**The author's answer, opening with the reveal the whole design turns on.**
+
+> The eleventh faction in-game lore is they are four gods. Which god is 'right' is intentionally
+> ambiguous. Is 'The Black' right and reality should be destroyed and recreated, ultimately leading
+> to better realities? Is 'The White' right and have the inhabitants of the realms earned their
+> continued existence if they can avoid mutual self destruction?
+>
+> The real mystery is the four gods are actually four software developers building computer games.
+> faction-eleven is actually a collection of computer games developed by an indie game development
+> company. One of the developers 'The Black' decided to connect all the games together but this
+> causes crazy side effects so the other three devs decide to shut down the links between the games.
+> The games seem to go back to normal but over time all the games start having problems so 'The Red'
+> decides to sneak in a code change encouraging some of the game protagonists to unblock access to
+> compatible games (in-game this means their allied realms). He adds code to the Ninja and a Vampire
+> Val that allows them to unseal realm gates. 'The White' dev gets a notification that computer
+> characters are showing up in the wrong games - does some diagnostics and discovers the Damned gates
+> to the Werebeasts and Green Skins realms are now unsealed. He checks the change history to uncover
+> what 'The Red' did and decides to add his own code change to add 'bosses' to guard the ninja's
+> allies gates. This causes the ninja game code to retcon the lore around the gate boss. 'The Blue'
+> realises what's been going on and decides to join in the fun too and develops his 'Secret Society
+> System' - which leads to the 'Red Power Imbued' vampire forming the Guardians of Night.
+
+Answers to the round-17 questions:
+
+- **Q2 (which god is "an Ancient"):** "Agree" — The Blue.
+- **Q3 (the Gate Guardian / timeline):** "Agree - the institute punishment lore is the game trying to
+  incorporate the code changes into the game system and lore."
+- **Q4 (the Ninja's imbuement vs the crack):** "The boss is guarding the gate but the Ninja has been
+  'imbued with red power' ... he failes the battle multiple times but keeps trying. In one of these
+  battles he attacks the boss with the red power. It doesn't hurt the boss but it does crack the gate
+  - it's only a crack because the Ninja wasn't attacking the gate directly."
+- **Q5 (which barriers broke):** "Agree" — the wiki's arc-mirror stands; the Werebeasts' barrier
+  facing the Fey Folk is the intact one, spared because the Damned fear the Fey Folk.
+- **Q6 (the Lovecraftian void gods):** "'The Black' software dev is inadvertantly behind this. He has
+  been playing with AI and added liches to The Damned game that are driven by AI. This gives the
+  liches the ability to bypass game rules, and they hacked their way out of their game, into the
+  network (the void) and have been stealing alien game content for use in their own game. They have
+  been hiding their tracks so none of the devs know it's going on."
+- **Q7 (timeline):** "Good catch - I answered in Q3 but I feel it's a little weak so needs to be
+  handled carefully. I think this will be represented as glitchy in-game - it's a way that the devs
+  interfering in the game breaks game lore and continuity. I like your suggested solution to adjust
+  timing here, and the lore of time for the devs / gods doesn't need to align with the games timeline
+  is confirmed."
+- **Q8 (does the pantheon stop at four):** "Agreed, There are other gods because there are other
+  employees and other humans, but the four are the ones that matter."
+- **Q9 (is this the motive):** "Agree - and that answer works very well with the Black dev's
+  motivation."
+
+**The interviewer put eight further questions**, on: the retcon engine and its failures; the Ancient
+Language as machine-readable data; what lives in the void; whether characters are sentient; whether
+the dev layer is ever seen directly; lead-dev assignment and "compatible" meaning shared engine; what
+destruction means in studio terms; and whether anything sits above the four.
+
+### Round 19 — 2026-08-18
+
+> I basically agree with all your answers. The Black wants to rebuild and move on but The White loves
+> the games they created and wants to keep the games as they are. The Blue and Red want to make
+> improvements but disagree on what improvements to make. I agree for now with some dev's being more
+> invested in some realms but I'd couch it as they were the lead dev on those games, and all devs
+> have worked on all games.
+
+**The interviewer put seven questions**, on: what the Red and Blue are arguing about; lead-dev
+assignment and design signatures; whether the White knows he broke his own principle; where the two
+reveals land against chaptered release; whether the player chooses which dev is right; the four
+factions with no decline written; and whether there is a diegetic player.
+
+### Round 20 — 2026-08-19
+
+- **Q1 (Red vs Blue):** "Agree" — Red is content and connection, Blue is systems and pressure.
+- **Q2 (lead-dev assignment and design signatures):** "Agree."
+- **Q3 (does the White know he broke his own principle):**
+
+> It's not just white's changes that breaks things. When black connected the games together it lead
+> to over half the games developing issues, some of which have continued to be broken like the Robots
+> game. White is trying to add protections to the game to stop other code from other games getting
+> into the games he cares about and breaking them further. We have already agreed that glitches and
+> continuity errors that the player can notice are hints to the true nature of the game, so more will
+> be added. Agree that no change causes the games to atrophy too - they need patching and new
+> content. Agree that White's position that the characters and games deserve to keep existing he's
+> just going about it the wrong way is sympathetic to the player and an emotional hit worth keeping.
+
+- **Q4 (where the reveals land):**
+
+> Agree - the game morphs from characters in indivitual games trying to progress in their individual
+> games into the characters in the game uncovering the motivations of the gods and realising they
+> need to unite all factions and achieve a lasting balance to prove to the gods that they deserve to
+> exist. They should come to realise that no single god is completely right and none are completely
+> wrong. Proving this to the gods in the game lore will also change the minds of the devs - leading
+> the devs to agree on a new path forward that leads the company to success. The characters in the
+> game need to both align with the real goal of the gods (make good games, make their company
+> succeed) with the gameplay in the game. I'm thinking there will be 8-10 chapters. I was thinking
+> one chapter per faction and then a final chapter but now I believe multiple faction story arcs will
+> progress in individual chapters, and protagonists will participate in each other's games earlier
+> than I originally planned.
+
+- **Q5 (does the player choose which dev is right):** *The interviewer's recommendation — a player
+  choice the game refuses to grade — was rejected.*
+
+> How the main plot plays out is on rails - it's more a story the player plays through - the
+> protagonists in the game should always come to the conclusion outlined in Q4.
+
+- **Q6 (the four factions with no decline written):** *The interviewer's four proposals were largely
+  rejected.*
+
+> Not every game needs a decline from the games being networked together. The pirates game benefited
+> from the networking but went back to normal after, though the economy was skewed from trade goods
+> of other realms that can no longer be supplied. The other three games (aliens, celestials, institute
+> of eight) were all mostly fine after the links between realms were closed. There were some glitches
+> still in the lore of the Institute of Eight but the lore keeps adjusting automatiaclly to fit. The
+> aliens game is now suffering due to the liches interference but this is a recent development.
+
+- **Q7 (is there a diegetic player):** "Agree" — no. The four are the top of the ladder.
+
+## Notes For The Compiler — Rounds 17–20
+
+- **The eleventh faction is now settled at three layers**: the ten factions remember nothing; the
+  discoverable in-game truth is four gods; the real truth is four software developers at a struggling
+  indie studio, and the ten realms are ten games.
+- **The wiki's oldest claim was right for the wrong reason.** `faction-eleven-antagonist` said "the
+  Ancients are humans... the thing behind it all is us". That survives intact at the bottom layer.
+- **Two blocking gaps in `story-outline-requirement` are now closed**: the Ancients' motive, and the
+  shape of the ending.
+- **Rejected this session, do not re-propose**: a mortal servant caste for the gods; a player-facing
+  choice of which god is right (the plot is on rails); a diegetic player above the four; declines for
+  the Celestials, Aliens and Institute caused by the sealing; the Pirates' decline as a closed 4X
+  economy (they benefited from the linking and merely lost their trade goods after).
+- **Still open**: the studio's off-screen commercial pressure in specifics; what a glitch concretely
+  looks like in each settled genre; whether the Ninja ever learns what he is; and the chapter
+  restructure to 8–10 chapters with multiple faction arcs running per chapter.

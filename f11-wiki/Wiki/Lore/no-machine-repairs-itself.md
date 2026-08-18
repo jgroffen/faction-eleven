@@ -25,6 +25,17 @@ can be mended only by another machine.
 
 **Canon:** proposed · **Era:** always
 
+**It is a fault, not a law of nature.** The robots could once repair themselves. The ability was lost
+when [[tezcatlipoca-the-black]] connected the realms together, which damaged more than half of them
+([[the-linking-of-the-realms]]) — and unlike most of that damage, **this was never repaired.**
+[[realm-02]] has been running broken ever since.
+
+That distinguishes the Robots from every other declining realm. The others were hollowed out by the
+thousand years of isolation that followed; the Robots were already broken before the gates closed,
+and the isolation only made it fatal. It is also the standing rebuke to
+[[quetzalcoatl-the-white]] — one of the two realms he leads, carrying an unfixed fault for a thousand
+years, while he argues that nothing should be changed.
+
 ## The Story
 
 One rule, and almost everything about the [[robots]] follows from it.
@@ -49,7 +60,9 @@ One rule, and almost everything about the [[robots]] follows from it.
 
 - [[robots]] · [[autofix]] · [[mifix]] · [[odie]]
 - [[robot-repair-puzzle]] — the activity the rule creates.
-- [[the-long-disconnection]] — a rule that only becomes fatal once you are alone.
+- [[the-linking-of-the-realms]] — where the fault came from.
+- [[the-long-disconnection]] — a fault that only becomes fatal once you are alone.
+- [[quetzalcoatl-the-white]] — whose realm this is, and whose position it undermines.
 
 ## Player-Facing
 

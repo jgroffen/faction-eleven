@@ -37,15 +37,8 @@ and rejected._
 Nothing from the interview is unwritten — every resolved branch landed in a note before the next
 round was asked. What remains is what was **never settled**:
 
-- **[[faction-eleven-antagonist]]'s motive.** Still the single largest gap. The wiki honestly
-  records "unknown reasons" for extending the cycle. The outline cannot finish without it, because
-  every faction's narrative role depends on what they are unknowingly part of.
-  **Round 15 narrowed it usefully without answering it:** an Ancient is manipulating
-  [[the-guardians-of-night]] into starting wars, so the eleventh faction now demonstrably acts *in
-  the present*, through proxies who have never heard of it. We know the method; not the goal.
-- **The ending.** Nothing exists. The "final game mode where the protagonists join up"
-  ([[faction-unique-features]]) is the only hint.
-- **Chapters four onward.** Nothing — no chapter notes exist beyond [[chapter-03]].
+- **Chapters four onward.** Nothing — no chapter notes exist beyond [[chapter-03]], and the target
+  is now **8–10 chapters with several faction arcs running per chapter**.
 - **Chapter two's remaining cost is level design, not systems.** Its style is settled
   ([[gargoyle-stone-metroidvania]]) and runs on the Ninja's engine, but a Metroidvania map is not
   playable until its loop closes — the hardest fit yet with [[chapter-based-release]]. See
@@ -54,18 +47,17 @@ round was asked. What remains is what was **never settled**:
   dissolves platform gating.
 - **What a visiting protagonist *is* inside another realm's genre**, now that
   [[realm-governs-game-style]] is accepted — and whether abilities earned in one realm travel.
-- **Why the robot gate is guarded.** Settled in round 8: the guardian holds the gate to
-  [[realm-02]], a historically friendly neighbour. Nobody has said why the Institute posts a
-  sentence-serving family against a friend — and the prototype's "sealed and guarded **for a
-  reason**" beat is now homeless. See [[the-cracked-gate]].
 - **A game style for the [[mystics]]** — now the **only** chapter lead without one, and they lead
   [[chapter-03]]. The author has scheduled a dedicated session; that is the agreed next piece of
   design work. (The Green Skins' gap closed on 2026-08-14.)
 - **The [[green-skins]]' culture.** Their war, origin and antagonist are settled (2026-08-16); who
   *leads* them, and what they are besides an army, is not.
-- **Why [[realm-07]]'s gargoyles were spared** when realms 08 and 09 had theirs destroyed.
-- **Whether "an Ancient" means an individual.** The author's wording was singular — the first hint
-  of a person rather than a faction. Not established.
+- **The studio's commercial pressure**, agreed in principle and unspecified. Off-screen and never
+  personified, but the outline eventually needs to know whether there is a funding cliff or a date.
+- **What a glitch looks like in each settled genre** — [[continuity-glitches]] names four kinds but
+  no concrete instance exists in any of the four genres that are locked down.
+- **Whether [[ninja]] ever learns what he is**, given that he carries [[xipe-totec-the-red]]'s power
+  and his family's whole history is a retcon written around somebody else's edit.
 - **How much of the labs faction-class material is still current.** It is legacy; only the
   protagonists and their archetypes are confirmed. Do not build against the other 50 rows.
 - **What ends [[chapter-02]]**, now that the convergence has moved to [[chapter-03]].
@@ -83,12 +75,26 @@ Institute + Green Skins; the Ninja's genre as rogue-like; **party/squad mechanic
 [[gargoyle]]** (unsuited to the realm — reserved for a different faction); **failure costing the
 Gargoyle an ability** (it costs position instead).
 
+## The Spine Now Exists
+
+[[faction-eleven-antagonist]] is settled at three layers, and with it both of the gaps this handover
+was written to flag. Start at that note, then [[the-four-gods]] and [[the-four-developers]].
+
+The motive is four people disagreeing about what to do with something they built. The ending is the
+protagonists uniting the factions to prove they deserve to exist, and concluding that no god is
+wholly right or wrong — **on rails**, not a player choice ([[story-outline-requirement]]).
+
+Do not re-propose, all rejected: a mortal servant caste for the gods; a player-facing choice of which
+god is right; a diegetic player above the four; declines caused by the sealing for the
+[[celestials]], [[aliens]] or [[institute-of-eight]]; the [[pirates]] as a closed 4X economy (they
+*benefited* from the linking and merely lost their imports).
+
 ## Next step
 
 _The single thing the next session should do first._
 
-**The author has named the next session: the [[mystics]].** Design their game style and their realm,
-then settle what ends [[chapter-02]].
+**The author's named session still stands: the [[mystics]].** Design their game style and their
+realm, then settle what ends [[chapter-02]].
 
 Round 15 gave that session a running start: the Mystics are **under invasion by [[the-damned]] and
 some [[werebeasts]], instigated by [[the-guardians-of-night]]** — the second front of the same war

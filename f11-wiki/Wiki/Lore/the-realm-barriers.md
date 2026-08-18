@@ -63,6 +63,21 @@ antagonism than turning the key personally, and it is why nobody remembers them 
 **Not every seal in the game is a barrier.** [[realm-02]] is sealed on every side with no gargoyles
 anywhere near it, so more than one mechanism is at work across the wheel.
 
+## Which Ones Still Stand
+
+The three barriers mirror the wheel's two arcs: 09→03, 08→04, 07→05.
+
+| Barrier | State |
+|---|---|
+| [[green-skins]] → [[celestials]] | **broken**, from the inside ([[the-broken-barrier]]) |
+| [[the-damned]] → [[mystics]] | **broken**, in the same pattern |
+| [[werebeasts]] → [[fey-folk]] | **standing** |
+
+**The Werebeasts' barrier survives because of somebody else's fear.** [[the-guardians-of-night]] are
+commanded from [[realm-08]], and [[the-damned]] are afraid of the [[fey-folk]]. Realm-07's gargoyles
+were spared and its barrier left intact not out of mercy or oversight but because the people giving
+the orders did not want that door opened. It is the fact a much later chapter is built on.
+
 ## Ties
 
 - [[the-gargoyle-guardians]] — who built them, and who they wake.

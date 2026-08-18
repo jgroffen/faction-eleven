@@ -54,6 +54,11 @@ prophecy, and it means the game's whole chapter-two protagonist exists because o
 is now leading an invasion into the [[mystics]]' realm. **The werebeasts' gargoyles were not
 touched**, and [[realm-07]]'s barriers still stand.
 
+**Why they were spared is fear, not oversight.** That barrier faces the [[fey-folk]], and
+[[the-guardians-of-night]] are commanded from [[realm-08]] by a vampire. [[the-damned]] are afraid of
+the Fey Folk and would not have that door opened. An entire realm's guardians survive because
+somebody in another realm was frightened of the neighbours.
+
 ## What The Player Knows That He Doesn't
 
 The player sees this happen. [[gargoyle]] does not — he was in torpor throughout, and gargoyles
@@ -93,3 +98,5 @@ Every party in the room is betraying something, and none of them thinks they are
 - **How long before the barrier breaks does this happen?** The cutscene implies preparation, but the
   interval is unstated — days or centuries both work, and they tell different stories.
 - Whether anyone else in the realm knows the gargoyles were destroyed rather than merely dormant.
+- Whether [[val]] understood that breaking a barrier would wake them, or whether disarming them first
+  was [[the-guardians-of-night]]'s system reasoning it out on her behalf.

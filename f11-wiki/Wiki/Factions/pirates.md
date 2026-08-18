@@ -30,11 +30,29 @@ individual, which would make them the most zoomed-out of the ten.
 
 **Currency:** Booty · **Role archetype:** Commander
 
+## The One Realm That Gained
+
+**The Pirates are the exception to the decline.** When [[tezcatlipoca-the-black]] connected the
+realms, [[realm-06]] *benefited* — a raiding, trading culture handed nine new markets
+([[the-linking-of-the-realms]]). And when the gates were sealed again they returned to normal, with
+none of the lasting damage that crippled the [[robots]].
+
+**One thing did not return to normal: the economy.** It is still shaped around trade goods from other
+realms that can no longer be supplied — a boom that ended, leaving prices, appetites and
+infrastructure built for imports that stopped arriving a thousand years ago.
+
+So they are neither a declining realm nor an untouched one. They are the realm with the **memory of
+having done better**, which is a motive no other faction has, and a reason to want the gates open
+that is entirely self-interested.
+
 ## Standing
 
 No relationships to other factions recorded. Worth noting that a seafaring, raiding culture is a
 natural fit for **traversal between realms** — pirates who sail between worlds — but nothing in
 the material says that yet.
+
+**Lead developer:** [[huitzilopochtli-the-blue]] ([[the-four-developers]]). Realm-06 is the one
+realm in his arc that took no part in the old war.
 
 ## Faction Classes
 

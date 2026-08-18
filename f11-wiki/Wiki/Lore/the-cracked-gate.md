@@ -23,8 +23,19 @@ locations: []
 through that crack, for the first time since [[the-long-disconnection]], **a signal gets between
 realms**.
 
-**The gate is not cracked before this.** It cracks when the Ninja **progresses to the boss battle
-with a newly trained skill** (which skill is to be determined). The crack is earned, not found.
+**The gate is not cracked before this.** The Ninja loses the fight repeatedly and keeps coming back,
+and in one of those attempts strikes the guardian with the **red power** — the capability
+[[xipe-totec-the-red]] imbued them with, so that the Institute could reach its old allies before the
+realm decayed further ([[the-four-gods]]).
+
+**It does not hurt the boss.** The guardian is [[quetzalcoatl-the-white]]'s protection, built for
+exactly this, and it holds. The blow goes past it into the gate — and because the Ninja was never
+aiming at the gate, what it leaves is a **crack** rather than an opening. The first breach in the
+multiverse's silence is collateral damage from one god's power failing against another's.
+
+In-fiction the Institute will call it a technique the Ninja trained and finally landed, because that
+is the kind of explanation a realm generates ([[the-retcon-engine]]). Both accounts are true. The
+distance between them is the game.
 
 The crack is what lets [[mifix]] and [[autofix]]'s **Quantum Comms** reach each other
 ([[the-first-signal]]). Mifix does not wake — he has been awake for generations — he simply, for
@@ -51,12 +62,16 @@ The sealed gates do not merely stop travellers; they stop **signals**
 space between them did. So the first reconnection in the game does not need a device to be
 repaired or a gate to be opened. It needs a **flaw**.
 
-The Ninja provides it by failing. Sent at the guardian unprepared, beaten as their family has
-always been beaten, they strike hard enough to fracture the thing they could not pass.
+The Ninja provides it by failing. Beaten as their family has always been beaten, they strike hard
+enough to fracture the thing they could not pass.
 
-That is the game's quietest and best idea so far: **the first crack in the multiverse's silence is
-made by someone losing.** The generational sentence that looked like futility turns out to have
-been chipping away at the seal for generations.
+That is the game's quietest and best idea: **the first crack in the multiverse's silence is made by
+someone losing.** The generational sentence that looked like futility turns out to have been the only
+thing keeping a fist swinging at that wall.
+
+**The Red's imbuement does not cost this beat, it sharpens it.** A god put power in the Ninja's hands
+and it was still only enough to crack a door somebody else had already locked. The gods are not
+omnipotent here, and the game establishes that in chapter one.
 
 And it is made from the *outside*. The Robot Realm is sealed on every side; the robots cannot open
 their own gates ([[sealed-interplane-gates]]) and cannot signal out. The hole that frees them is
@@ -104,10 +119,14 @@ An earlier version had the guardian's gate leading to the [[green-skins]]: beat 
 "the gate was sealed and guarded **for a reason**", then hold off waves of green-skins. With the
 guardian now facing the robots, that beat has nowhere obvious to land.
 
-The natural home for it is [[the-ancient-ruin]]'s gate, which does face [[realm-09]]. But then the
-question becomes **why the robot gate is guarded at all** — what reason the Institute has for
-sentencing a family to hold a door against historically friendly neighbours. Flagged, unresolved,
-and interesting: a guard posted against a friend is a story in itself.
+The natural home for it is [[the-ancient-ruin]]'s gate, which does face [[realm-09]].
+
+**Why the robot gate is guarded is now answered, and it is not the Institute's doing.**
+[[quetzalcoatl-the-white]] placed the guardian to keep other realms' code out of a game he leads.
+The Institute's account — a traitor family serving a sentence — is history the realm generated
+afterwards to explain a boss that had appeared without one ([[the-gate-guardian]],
+[[the-retcon-engine]]). A guard posted against a friend is a story in itself, and the story is that
+nobody posted it.
 
 ## Player-Facing
 

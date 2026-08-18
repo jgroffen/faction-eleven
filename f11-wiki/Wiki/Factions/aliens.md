@@ -32,9 +32,28 @@ Aliens a microcosm of the whole game's structure — a faction that is itself a 
 
 **Currency:** DNA · **Role archetype:** Medic
 
+## They Are Being Taken Apart
+
+The Aliens came through both the linking and the thousand years of sealing largely intact. **What is
+happening to them is recent, and it is theft.**
+
+[[the-damned]]'s high liches — built as an experiment by [[tezcatlipoca-the-black]], able to act
+outside the rules of their own realm — went out into [[the-void]] and have been **stealing pieces of
+[[realm-10]] to use in their own realm.** They cover their tracks. None of the four gods knows it is
+happening, and neither do the Aliens: their world is losing parts of itself and there is no
+explanation available to anyone inside it.
+
+This makes the Aliens the only faction whose decline has a culprit rather than a cause, and it wires
+realm-10 to realm-08 through the two realms the Black leads. **Squidling's mystery resolves into the
+game's central one.**
+
 ## Standing
 
-- [[the-damned]] — attacking them; their liches open the gates into alien space.
+- [[the-damned]] — attacking them; their liches open the gates into alien space, and are looting the
+  realm through [[the-void]].
+
+**Lead developer:** [[tezcatlipoca-the-black]] ([[the-four-developers]]), who also leads
+[[the-damned]] — which is why nobody was watching this door.
 
 ## Faction Classes
 

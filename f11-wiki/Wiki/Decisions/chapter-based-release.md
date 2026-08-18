@@ -73,6 +73,19 @@ Content is tracked and balanced per chapter, one note each:
   protagonists reach [[templar]]. **Provisional.**
 - Chapters four onward — nothing written. See [[story-outline-requirement]].
 
+### The shape of the whole run
+
+**Eight to ten chapters**, not one per faction plus a finale. **Multiple faction story arcs progress
+within a single chapter**, and protagonists participate in each other's realms **earlier** than a
+one-faction-per-chapter structure would allow.
+
+That change is downstream of [[realm-governs-game-style]]: because a visiting protagonist plays the
+host realm's genre, cross-realm scenes reuse systems already built rather than demanding new ones, so
+moving protagonists around early is cheaper than it looks. It also serves the reveal, which depends
+on the player holding facts from two realms at once ([[continuity-glitches]]).
+
+Chapters four onward are unwritten, and the count is a range rather than a number.
+
 **The chapter boundaries have already moved once.** Chapter two originally carried the Mystics and
 the convergence; both moved to chapter three to keep the two arrivals at the Templar together.
 That is exactly the kind of rebalancing the chapter notes exist to support — and a reminder that
@@ -118,5 +131,10 @@ Recorded as open questions rather than settled facts, since the decision itself 
   [[faction-eleven-antagonist]]'s work.
 - The [[faction-eleven-antagonist]] reveal is distributed across the ten stories. Chaptering means
   committing to how much of that mystery each chapter pays off, before the later chapters exist.
+- **Evidence must be planted in chapters that ship before it can be cashed.** The mystery now has two
+  reveals — the gods at the midpoint, the developers at the end — and both depend on artifacts the
+  player has been carrying for hours: [[the-ancient-language]] and [[continuity-glitches]]. An early
+  chapter that ships without its share of them cannot be given one later. Chapter one already
+  carries both, in [[the-clay-jar]]'s symbol and [[the-gate-guardian]].
 - Whether ten factions is a **story requirement or an ambition** was asked and not answered; the
   chapter model makes it possible to defer that question, which is a benefit and a risk.

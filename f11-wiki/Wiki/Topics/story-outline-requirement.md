@@ -45,16 +45,42 @@ being written — which is exactly the situation in which a missing outline beco
 | Chapter one | **specified end to end** — [[chapter-01]] |
 | Chapter two | outlined, unbalanced — [[chapter-02]] |
 | Chapters three onward | nothing |
-| The ending | nothing |
-| The Ancients' motive | **nothing** — the answer the whole mystery resolves to is unwritten |
+| The ending | **shape settled**, beats unwritten |
+| The Ancients' motive | **settled** — [[faction-eleven-antagonist]] |
 | Roles of the seven unbuilt factions | nothing — see [[faction-design-status]] |
 
-## The Hardest Piece
+## The Spine
 
-[[faction-eleven-antagonist]]'s **motive**. It is recorded that the Ancients extended the cycle
-"for unknown reasons", which is honest — but the outline cannot be finished without deciding what
-those reasons are, because the role of every faction depends on what they are all unknowingly
-part of.
+Both pieces the outline was blocked on now exist.
+
+**The motive:** the eleventh faction is four people who disagree about what to do with something they
+built together — preserve it, grow it, harden it, or scrap it and start again
+([[the-four-gods]], [[the-four-developers]]). Every conflict in the game is a side effect of that
+argument.
+
+**The arc:** the game **morphs**. It begins as ten protagonists trying to make progress in their own
+realms, and becomes those protagonists uncovering the gods' motivations and realising they must unite
+all ten factions and hold a lasting balance — in order to prove they deserve to exist. What they
+conclude is that **no single god is completely right and none is completely wrong.**
+
+**And proving it in the fiction changes the fact underneath it.** Convincing the gods is convincing
+the developers, who then agree a path forward that lets the company succeed. The protagonists'
+in-world goal and the studio's real goal — *make good games, keep the company alive* — have to be
+made to converge, and the gameplay has to carry both at once. That is the hardest remaining piece of
+authorship in the project.
+
+**The plot is on rails.** This is a story the player plays through, not a branching argument: the
+protagonists always reach that conclusion. The ambiguity lives in **the conclusion**, not in a
+choice.
+
+## What The Outline Still Needs
+
+- **The beats.** The arc's shape is settled; the scenes that deliver it are not.
+- **Chapters four onward**, under a structure that has changed — see [[chapter-based-release]].
+- **The seven thin factions' roles**, which are now derivable from the motive and should be derived
+  rather than invented ([[faction-design-status]]).
+- **How the reveals are paced** so that evidence lands in chapters that ship before it can be paid
+  off.
 
 ## Concepts
 

@@ -43,10 +43,18 @@ gave an order to another faction's soldiers and they took it.
 [[celestials]], [[fey-folk]] and [[mystics]] mean to invade again, and that striking first is the
 only defence available. She is not a nihilist and not a conqueror. She is certain.
 
-**And she is being used.** An Ancient is manipulating the Guardians of Night into starting trouble
-([[faction-eleven-antagonist]]). Val does not know that, which makes her the game's first
-sympathetic villain: the person who disarmed a realm's defences in order to protect it, on the
-advice of someone she cannot see.
+**And she is used twice, by two gods who do not know about each other.**
+
+1. **[[xipe-totec-the-red]] imbued her** with the power to unseal gates, so that [[the-damned]] could
+   reach their old allies the [[green-skins]] and [[werebeasts]] before the realm dwindled away. She
+   opened those doors, and it worked.
+2. **[[huitzilopochtli-the-blue]]'s Secret Society System then found her** — a vampire already
+   carrying another god's power — and made her the founder of [[the-guardians-of-night]].
+
+She is the point where the Red's intervention and the Blue's collide, and she has no idea either
+happened. That makes her the game's first sympathetic villain: the person who disarmed her realm's
+defences in order to protect it, carrying a power she cannot account for, convinced by a system that
+was built to convince her.
 
 ## In-Game Role
 
@@ -76,10 +84,17 @@ manipulated realm is an invaded one. See [[gargoyle]].
 - [[the-broken-barrier]] — what it was for.
 - [[gargoyle]] — the one she failed to finish, and later tries to talk out of existing.
 - [[the-damned]] — her people, and the gargoyles' co-makers.
+- [[xipe-totec-the-red]] — whose power she carries.
+- [[huitzilopochtli-the-blue]] — whose system made her a founder.
+- [[ninja]] — the other character the Red imbued, who will never meet her and is doing the same thing
+  at the other end of the wheel.
 
 ## Open
 
 - Whether she **recognises** him as a survivor, or believes he is a gargoyle who was never in that
   room.
-- Whether she leads the Guardians of Night or takes orders inside it.
 - Whether the player ever gets to tell her what was done to her.
+- Whether she ever notices the power she opened the gates with was not hers.
+
+She founded the Guardians of Night, so neither "leads" nor "takes orders" was ever the right
+question — the group exists because a system chose her.

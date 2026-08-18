@@ -29,9 +29,9 @@ Three structural commitments define the game:
   line. The player plays all of them, not one of them.
 - **Convergence.** The stories are separate at first and intertwine over time into a single
   story, driven by the protagonists discovering and interacting with each other.
-- **A hidden antagonist.** The eleventh faction is the antagonist. Its goals and motivations are
-  not stated up front — the player uncovers them by playing through the factions' stories. See
-  [[faction-eleven-antagonist]].
+- **A hidden antagonist, in three layers.** The eleventh faction is the antagonist. The realms
+  remember nothing of it; the player discovers **four gods** ([[the-four-gods]]) and then discovers
+  what the gods actually are ([[the-four-developers]]). See [[faction-eleven-antagonist]].
 
 Moment to moment the game is a common exploration style shared by all factions
 ([[exploration-core-loop]]), with a distinct genre of mechanics layered on per faction
@@ -57,9 +57,9 @@ the player braids the stories together by [[protagonist-swapping-and-story-gatin
 
 ## The World
 
-- [[the-multiverse-of-realms]] · [[the-wheel-of-realms]] · [[the-long-disconnection]] ·
-  [[sealed-interplane-gates]] · [[allied-faction-signals]] · [[the-ancient-language]] ·
-  [[the-six-classes]]
+- [[the-multiverse-of-realms]] · [[the-wheel-of-realms]] · [[the-linking-of-the-realms]] ·
+  [[the-long-disconnection]] · [[sealed-interplane-gates]] · [[allied-faction-signals]] ·
+  [[the-ancient-language]] · [[the-six-classes]] · [[the-void]]
 
 ## The Ten Factions
 
@@ -69,6 +69,10 @@ the player braids the stories together by [[protagonist-swapping-and-story-gatin
 ## Entities
 
 - [[faction-eleven-antagonist]] — the eleventh faction: the Ancients, who are humans.
+- [[the-four-gods]] — the pantheon the realms can discover.
+- [[the-four-developers]] — what the pantheon is.
+- [[the-retcon-engine]] · [[continuity-glitches]] — how the realms cover for them, and how the
+  player catches them at it.
 - [[chapter-based-release]] — how it's intended to ship.
 
 ## Chapters

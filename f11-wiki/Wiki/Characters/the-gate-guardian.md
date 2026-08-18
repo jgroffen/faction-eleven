@@ -28,8 +28,23 @@ generation, and no one has ever beaten it.
 
 ## Character
 
-Nothing is established about what it is, who set it there, or whether it is alive. What is
-established is what it does:
+**It is a protection, and the Institute did not place it.** [[quetzalcoatl-the-white]] set guardians
+on the gates of the realms he leads, to stop anything from another realm getting in and breaking them
+further — a response to [[xipe-totec-the-red]] imbuing [[ninja]] with the power to unseal gates
+([[the-four-gods]]).
+
+**The Institute's sentence is a fiction the realm wrote to explain it.** A boss appeared at a gate
+with no history attached, and [[realm-01]] generated one: a family who committed treason, condemned
+to fight it endlessly, generation after generation ([[the-retcon-engine]]). Nobody in the Institute
+is lying. The records are real, the shame is real, and [[ninja]]'s family have lived and died inside
+an explanation that was written to cover an edit.
+
+This is the game's **worked example of a retcon, and the player stands inside it from chapter one.**
+It is also why the guarded gate faces a historically friendly neighbour and nobody can say why: the
+Institute can explain its own punishment perfectly and cannot explain why the [[robots]] needed
+guarding at all. That gap is the first [[continuity-glitches]] in the game.
+
+What it does:
 
 - It **holds the gate**, and has for longer than anyone's reliable memory.
 - **[[mifix]] cannot approach it.** This is the one place in the realm the Ninja's protector cannot
@@ -65,7 +80,6 @@ design-side term.
 
 ## Open
 
-- What it is, and **who or what set it there**. If the [[institute-of-eight]] posted it, why guard
-  the gate to a historically friendly neighbour ([[the-cracked-gate]])? If it was already there,
-  the Institute's sentence is a punishment built on someone else's fortification.
 - Whether it can be reasoned with, and whether it is a victim of the same disconnection.
+- Whether a second guardian stands on [[realm-01]]'s gate to [[realm-10]], which the White protected
+  at the same time and which no story has yet reached.

@@ -83,6 +83,28 @@ The ring describes the *old* alignments. Several present-day facts sit against t
   cracked**, in [[the-ancient-ruin]] — two places round the ring, and maintained by nobody.
 - [[the-damned]] (08) open gates into [[aliens]] (10) space — again two places.
 
+### The ring is a map of three things
+
+Position carries **three** meanings at once, and they were laid down in this order:
+
+1. **Compatibility.** Adjacent realms are the ones a gate can join at all
+   ([[sealed-interplane-gates]]). This is a hard limit, not a preference.
+2. **Authorship.** The ring divides into arcs by lead developer ([[the-four-developers]]):
+
+   | Lead | Realms |
+   |---|---|
+   | [[quetzalcoatl-the-white]] | 01 · 02 |
+   | [[xipe-totec-the-red]] | 03 · 04 · 05 |
+   | [[huitzilopochtli-the-blue]] | 06 · 07 · 09 |
+   | [[tezcatlipoca-the-black]] | 08 · 10 |
+
+3. **Alliance and enmity.** Neighbours were friendly; opposites were enemies.
+
+**The old war is the Red's arc against the Blue's.** The thousand-year conflict along the opposition
+axis is two gods who disagree about improvements, fought by proxy — and the two who disagree are the
+two who both want the world *changed*, not the famous arch-nemeses. The Black leads 08 and 10, which
+is why his experiment in one is looting the other with nobody watching ([[the-void]]).
+
 ### The ring is a map of two alliances
 
 The old war ran between two **contiguous arcs** sitting opposite each other:

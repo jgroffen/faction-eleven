@@ -55,6 +55,11 @@ Two properties matter and are easy to lose:
    *the long way round*, realm by realm — which is a ready-made spine for a ten-faction
    journey.
 
+   **This is not a choice the Ancients made; it is a limit they were under.** *Near* means
+   **compatible** ([[the-four-developers]]). A gate between distant realms is not forbidden, it is
+   impossible, and no god can build one. The wheel is a compatibility graph before it is anything
+   else.
+
 Gate by gate:
 
 - **Fully sealed.** **All** gates from [[realm-02]] are sealed — the [[robots]] are the most
@@ -64,7 +69,9 @@ Gate by gate:
   [[the-cracked-gate]] the robots can neither leave nor call. Needing outside help is not a
   preference; it is the only option they have.
 - **Guarded.** The [[institute-of-eight]]'s gate to the **[[robots]]** is held by a **gate
-  guardian**, and [[ninja]]'s traitor family is sentenced to fight it endlessly.
+  guardian**, and [[ninja]]'s traitor family is sentenced to fight it endlessly. The guardian is
+  [[quetzalcoatl-the-white]]'s protection against foreign code entering a realm he leads; the
+  sentence is history [[realm-01]] generated to explain it ([[the-gate-guardian]]).
 - **Abandoned and already cracked.** [[realm-01]] has a *second* gate, to the [[green-skins]],
   lying forgotten in [[the-ancient-ruin]]. Nobody guards it and it has been cracked for a long
   time — which is how [[ninja]] eventually leaves [[realm-01]] ([[the-second-signal]]).
@@ -75,7 +82,12 @@ Gate by gate:
   by [[the-guardians-of-night]] ([[the-broken-barrier]]) — and the realms behind them believe the
   Celestials did it.
 - **Being opened.** [[the-damned]]'s high-level liches are **opening gates** into alien space,
-  via a **void** in which ancient Lovecraftian gods dwell.
+  via a **void** in which ancient Lovecraftian gods dwell — abandoned realities the Black destroyed
+  and never fully unmade. The liches are not using gates at all; they bypass the rules of their own
+  realm and go around ([[the-void]]).
+- **Unsealed by a god.** [[the-damned]]'s gates to the [[green-skins]] and [[werebeasts]] were opened
+  by [[val]], carrying power [[xipe-totec-the-red]] gave her for the purpose. This is the
+  intervention [[quetzalcoatl-the-white]] noticed too late to stop.
 
 So the disconnection is **uneven**: some realms are sealed off, others are being invaded, and at
 least one faction is deliberately opening doors.

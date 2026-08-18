@@ -20,8 +20,13 @@ enemies:
 
 A **secret cross-realm group** working to incite the [[green-skins]], the [[werebeasts]] and
 [[the-damned]] to invade the [[celestials]]. They smashed the gargoyles, broke the barrier, and let
-three realms believe they were defending themselves. **And they are themselves being manipulated —
-by an Ancient.**
+three realms believe they were defending themselves.
+
+**They are not a conspiracy. They are a feature.** [[huitzilopochtli-the-blue]] built a **Secret
+Society System** — hidden groups seeded into realms with their own convictions and their own agendas
+— and the Guardians of Night are an instance of it. He did not recruit [[val]] or instruct her. The
+system found a vampire already carrying [[xipe-totec-the-red]]'s power and made her a founder.
+Everything downstream followed from a system doing exactly what it was built to do, unsupervised.
 
 **Homeland:** none — they cut across [[realm-07]], [[realm-08]] and [[realm-09]] rather than
 belonging to one.
@@ -53,8 +58,11 @@ around. Both are defending the realm; only one of them was allowed to choose wha
 - [[mystics]] — also under invasion, by the Damned and some werebeasts, **and that was instigated by
   the Guardians too**. So this is not one war but a coordinated push across the whole opposition
   axis of [[the-wheel-of-realms]].
-- [[faction-eleven-antagonist]] — **an Ancient is manipulating them**, to start trouble with other
-  factions. They do not know it.
+- [[fey-folk]] — **not attacked**, and the reason is fear. The [[werebeasts]]' barrier facing them
+  still stands, spared because the Guardians are commanded from [[realm-08]] and [[the-damned]] are
+  afraid of the Fey Folk. Somebody else's fear is why realm-07's gargoyles survived.
+- [[faction-eleven-antagonist]] — **[[huitzilopochtli-the-blue]] seeded them**. They do not know it,
+  and neither, in any meaningful sense, does he.
 
 ## Members
 
@@ -83,7 +91,8 @@ is them doing something *now*, through people who have never heard of them.
 
 ## Open
 
-- **How many of them are there, and who leads?** Only [[val]] is named.
-- **Do any of them know about the Ancient**, or is the manipulation invisible all the way up?
+- **How many of them are there?** Only [[val]] is named. She founded it; who else stands with her is
+  unwritten.
+- **Whether any of them know**, or whether the seeding is invisible all the way up.
 - **What they call the Ancient**, given that nobody in the multiverse remembers the eleventh
   faction exists.

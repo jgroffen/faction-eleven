@@ -85,6 +85,7 @@ of divine acts that only ever made sense as workplace disagreements.
 - [[the-four-gods]] · [[the-four-developers]] — the top and bottom of ladder one.
 - [[continuity-glitches]] · [[the-ancient-language]] — the channels the evidence arrives through.
 - [[the-retcon-engine]] — why the realms' own account is always coherent and always wrong.
+- [[story-continuity-timeline]] — when the evidence actually lands, chapter by chapter.
 - [[chapter-based-release]] — the constraint the pacing has to survive.
 - [[story-outline-requirement]] — the outline this is part of.
 

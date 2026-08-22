@@ -90,6 +90,9 @@ platform gating. How far up that ladder chapter two goes is undecided — see
 
 ## Continuity
 
+Tracked across all chapters in [[story-continuity-timeline]]. [[gargoyle]] is the first protagonist
+who can **name** a continuity glitch; they are present from chapter one regardless.
+
 **Depends on chapter one:**
 
 - [[the-cracked-gate]] — without it [[mifix]] hears nothing at all, by either route.

@@ -71,6 +71,8 @@ Everything, because nothing exists yet ([[project-scope-and-constraints]]):
 
 ## Continuity
 
+Tracked across all chapters in [[story-continuity-timeline]].
+
 **Sets up:**
 
 - The crack in the 01↔02 gate, which every later robot/Institute signal depends on.

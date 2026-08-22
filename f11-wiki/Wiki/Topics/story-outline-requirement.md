@@ -103,6 +103,8 @@ choice.
 
 ## Concepts
 
+- [[story-continuity-timeline]] — the single surface tracking what happens when, and where the
+  outline's remaining holes are.
 - [[chapter-based-release]] — the release model the outline has to survive.
 - [[faction-design-status]] — which factions have any story at all.
 - [[protagonist-swapping-and-story-gating]] — the mechanic that makes cross-faction beats

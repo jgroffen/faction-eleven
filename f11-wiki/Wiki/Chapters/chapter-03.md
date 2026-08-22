@@ -66,6 +66,8 @@ This restructure is **not settled**. It also leaves [[chapter-02]] needing its o
 
 ## Continuity
 
+Tracked across all chapters in [[story-continuity-timeline]].
+
 **Depends on:** [[the-second-signal]] and [[the-calling-of-ancient-allies]], both chapter two.
 
 **Sets up:** the `ACCESS DENIED` unblocking work, and whatever the assembled protagonists do about

@@ -64,7 +64,26 @@ all ten factions and hold a lasting balance — in order to prove they deserve t
 conclude is that **no single god is completely right and none is completely wrong.**
 
 **And proving it in the fiction changes the fact underneath it.** Convincing the gods is convincing
-the developers, who then agree a path forward that lets the company succeed. The protagonists'
+the developers — four friends who built the games and the company themselves, whose games are now
+destabilising, and who are fighting about the fix badly enough that the group may break up
+([[the-four-developers]]). **Everything the player does to move the story helps them sort it out.**
+
+**The mechanism of that agreement is already specified, and it is compromise.** The four fail in
+complementary ways — the Black wants to throw it away, the White will not let anything move, the Red
+cannot ship, the Blue ships without looking — and **each of them is the correction to somebody
+else**. The resolution is not one approach winning. It is the four leveraging their differences to
+balance each other, which is the only move that saves anything.
+
+**The protagonists' solution is the developers' solution.** Ten factions uniting and holding a lasting
+balance, concluding that no single god is wholly right or wrong, is the *same move* as four friends
+compromising and using what each is good at — made twice, at two scales. That structural identity is
+why the in-world goal and the goal beneath it can converge in one ending rather than merely rhyme,
+and it is the answer to the requirement that the two be made to align.
+
+**The stakes are all internal and all the same stake.** The games are destabilising; the company they
+built could go under; the friend group could break up — each following from the last. No publisher, no
+funding, no deadline, and nobody above them to settle it. **They succeed together or they lose the
+company and the friendships both.** The protagonists'
 in-world goal and the studio's real goal — *make good games, keep the company alive* — have to be
 made to converge, and the gameplay has to carry both at once. That is the hardest remaining piece of
 authorship in the project.
@@ -79,8 +98,8 @@ choice.
 - **Chapters four onward**, under a structure that has changed — see [[chapter-based-release]].
 - **The seven thin factions' roles**, which are now derivable from the motive and should be derived
   rather than invented ([[faction-design-status]]).
-- **How the reveals are paced** so that evidence lands in chapters that ship before it can be paid
-  off.
+- **The beats that carry each rung** of [[the-revelation-schedule]], so evidence lands in chapters
+  that ship before it can be paid off.
 
 ## Concepts
 

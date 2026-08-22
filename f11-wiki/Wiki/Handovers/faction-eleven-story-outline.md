@@ -52,8 +52,10 @@ round was asked. What remains is what was **never settled**:
   design work. (The Green Skins' gap closed on 2026-08-14.)
 - **The [[green-skins]]' culture.** Their war, origin and antagonist are settled (2026-08-16); who
   *leads* them, and what they are besides an army, is not.
-- **The studio's commercial pressure**, agreed in principle and unspecified. Off-screen and never
-  personified, but the outline eventually needs to know whether there is a funding cliff or a date.
+- **How the four's friendship is dramatised**, now that the pressure on them is settled as internal:
+  the games are destabilising, they cannot agree on the fix, and the group may break up
+  ([[the-four-developers]]). What the player actually *sees* of that, through avatars and leaked
+  fragments, is unwritten. **No real-world business problems** — that framing was withdrawn.
 - **What a glitch looks like in each settled genre** — [[continuity-glitches]] names four kinds but
   no concrete instance exists in any of the four genres that are locked down.
 - **Whether [[ninja]] ever learns what he is**, given that he carries [[xipe-totec-the-red]]'s power
@@ -85,9 +87,10 @@ protagonists uniting the factions to prove they deserve to exist, and concluding
 wholly right or wrong — **on rails**, not a player choice ([[story-outline-requirement]]).
 
 Do not re-propose, all rejected: a mortal servant caste for the gods; a player-facing choice of which
-god is right; a diegetic player above the four; declines caused by the sealing for the
-[[celestials]], [[aliens]] or [[institute-of-eight]]; the [[pirates]] as a closed 4X economy (they
-*benefited* from the linking and merely lost their imports).
+god is right; a diegetic player above the four; **any real-world business pressure — publishers,
+funding, deadlines** (the four founded the company themselves and there is nothing above them);
+declines caused by the sealing for the [[celestials]], [[aliens]] or [[institute-of-eight]]; the
+[[pirates]] as a closed 4X economy (they *benefited* from the linking and merely lost their imports).
 
 ## Next step
 

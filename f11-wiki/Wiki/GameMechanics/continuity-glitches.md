@@ -41,6 +41,12 @@ Four kinds, in rough order of how loud they are:
 | **Chronology** | Something is older than it can possibly be — a guardian placed within memory that everyone remembers as ancient |
 | **Foreign object** | A thing from another realm, with no local history and no explanation for how it got here |
 | **Witness** | A character whose memory predates a retcon and does not match the record |
+| **Leakage** | A fragment of the outside — an avatar in one of the four colours, a scrap of lore about a place with no name ([[the-four-developers]]) |
+
+**Leakage is the loudest kind and needs the most care.** It is the only one that shows the player
+something rather than asking them to infer it, so it is also the one most likely to be read as a bug
+in the real game rather than a clue. Use it sparingly and early: four recurring colours are a pattern
+the player can carry for a very long time without an explanation.
 
 **The delivery mechanism is [[protagonist-swapping-and-story-gating]].** A glitch is only visible to
 someone who has been in two places, so the mechanic that braids the ten stories is also the mechanic
@@ -71,7 +77,10 @@ strange that the player reaches for a patch note.
 
 No values yet. The knobs to expect:
 
-- **Density** — how many are placed per chapter, and whether the rate climbs as the reveals approach.
+- **Density** — how many are placed per chapter. **The rate climbs**, and the fiction supplies the
+  reason: the games are genuinely destabilising and getting worse ([[the-four-developers]]). The
+  player's growing sense that something is wrong is measurement, not mood — which means density is a
+  storytelling instrument rather than a difficulty setting.
 - **Loudness** — how far a contradiction is pushed before it stops reading as flavour.
 - **Confirmability** — whether the player can ever *check* a suspicion, or only accumulate them.
 - **Acknowledgement** — whether any character ever notices, and which. Currently [[gargoyle]] is the

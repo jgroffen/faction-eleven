@@ -23,9 +23,15 @@ locations: []
 
 For thousands of years the ten realms were separate and reality was stable — so stable that the
 Black's cycle of creation and destruction had **stalled**. So he opened pathways from every realm to
-every other, and reality began racing toward its own destruction exactly as intended.
+every other, and reality began racing toward its own destruction.
 
 **More than half the realms were damaged by it, and some were never repaired.**
+
+**It was not a whim and it was not done alone.** [[tezcatlipoca-the-black]] **argued for it and won
+the argument.** The world had gone stale — nothing new, nothing moving, nothing at stake anywhere —
+and opening the ways between realms was a way to make existence interesting again. The other three
+agreed. What the realms remember as a god tearing the world open is a proposal that carried the room
+on its merits, and its author was trying to make things better.
 
 **Canon:** proposed · **Era:** before the thousand years
 
@@ -64,11 +70,26 @@ ones is his.
 
 ## What It Led To
 
-The gargoyles' success persuaded [[quetzalcoatl-the-white]] and [[xipe-totec-the-red]] that the
-inhabitants were fighting for their own survival and had earned stability. They convinced
-[[huitzilopochtli-the-blue]], and the three sealed the gates together. The Black, judging that the
-conflict had produced enough change and entropy, chose not to contest it and let the world run for a
-thousand years ([[the-long-disconnection]]).
+When the linked realms would not stop destabilising, [[quetzalcoatl-the-white]] **argued for closing
+the ways again** as the way to stabilise them — and won, as the Black had before him. The gargoyles'
+success had already persuaded him and [[xipe-totec-the-red]] that the inhabitants were fighting for
+their own survival and had earned stability; they convinced [[huitzilopochtli-the-blue]], and the
+three sealed the gates together. The Black, judging that the conflict had produced enough change to
+be going on with, did not contest it, and the world ran closed for a thousand years
+([[the-long-disconnection]]).
+
+**Two proposals, two arguments, two decisions the room agreed to.** Everything that goes wrong later
+happens because that stopped being how they worked ([[the-four-developers]]).
+
+## What It Did Not Fix
+
+Closing the ways stopped the instability spreading. **It did not cure it**, and it introduced the
+opposite problem alongside it. From the sealing onward, **both failures compound**: the realms grow
+more unstable *and* more stagnant, year on year, and neither the Black's remedy nor the White's has
+addressed the other's complaint.
+
+That is the condition the gods are arguing about when the game opens, and it is why the argument has
+become unbearable — each of them is watching the thing they warned about get worse.
 
 ## Ties
 

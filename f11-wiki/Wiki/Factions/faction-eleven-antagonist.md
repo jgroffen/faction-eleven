@@ -30,16 +30,23 @@ nowhere is it known at all. All awareness that an eleventh faction ever existed 
 | Layer | What the player believes | Where it is answered |
 |---|---|---|
 | **1. Nothing** | There is no eleventh faction. The realms have always been sealed. | the starting condition |
-| **2. Four gods** | A pantheon made reality and has never agreed what to do with it. | [[the-four-gods]] |
-| **3. Four people** | They are four software developers at a small studio, and the ten realms are ten computer games. | [[the-four-developers]] |
+| **2. Two gods at war** | A destroyer against a preserver, with two lesser powers changing sides. | [[the-revelation-schedule]] |
+| **3. Four gods** | A pantheon made reality and has never agreed what to do with it. | [[the-four-gods]] |
+| **4. Four people** | They are four friends who write software, and the ten realms are ten computer games. | [[the-four-developers]] |
+
+**The player never leaves the inside.** Everything arrives through the eyes of characters within the
+realms, who read the developers' actions and arguments as the acts of gods. There is no outside view
+at any point — see [[the-revelation-schedule]] for how the two ladders (*who they are* and *what they
+want*) are paced against each other.
 
 **Homeland:** none. They do not hold a realm; they hold the realms.
 
 ## Identity
 
-**They are humans.** The bottom of the ladder is four ordinary people at a struggling indie company,
-arguing about a roadmap. The player spends ten stories as robots, fey, werebeasts, aliens and the
-damned, and the thing behind it all is us.
+**They are humans.** The bottom of the ladder is **four friends** who built the games themselves and
+put the company together themselves, now arguing about how to fix something they all love and cannot
+agree on. The player spends ten stories as robots, fey, werebeasts, aliens and the damned, and the
+thing behind it all is us.
 
 They are defined by what they made and what they did with it:
 
@@ -54,21 +61,36 @@ They are defined by what they made and what they did with it:
 
 ## The Four
 
-- **[[tezcatlipoca-the-black]]** — destroy it and build better. *Wants to rebuild and move on.*
-- **[[quetzalcoatl-the-white]]** — preserve what exists. *Loves what they made and wants it kept.*
-- **[[xipe-totec-the-red]]** — grow it. *Content and connection.*
-- **[[huitzilopochtli-the-blue]]** — harden it. *Systems and pressure.*
+- **[[tezcatlipoca-the-black]]** — destroy it and build better. *Senior. Wants to rebuild and move
+  on.*
+- **[[quetzalcoatl-the-white]]** — preserve what exists. *Senior, and the oldest. Loves what they
+  made and wants it kept.*
+- **[[xipe-totec-the-red]]** — get it right. *Regular dev. A perfectionist who cannot ship.*
+- **[[huitzilopochtli-the-blue]]** — get it done. *Regular dev. Ships without testing.*
+
+**Two arguments, not one.** The seniors fight about the product; the two younger devs fight about
+craft, at opposite ends of quality against velocity.
+
+**Their differences are the solution, not the problem.** Four people who work four different ways
+built ten games together and it worked; what broke was not them but the stakes. Each of them is the
+correction to somebody else, and the ending turns on all four finally using that instead of arguing
+about it.
 
 There are other gods, because there are other employees and other humans. **These four are the ones
 who act.**
 
 ## Their Motive
 
-They are not conquerors and were never hostile. They are four people who disagree about what to do
-with something they built together, and the ten realms are what they disagree over:
+They are not conquerors and were never hostile. They are four friends who disagree about how to save
+something they built together and which is now coming apart, and the ten realms are what they
+disagree over:
 
-> The Black wants to scrap it and start again. The White wants it kept exactly as it is. The Red and
-> the Blue both want it improved and cannot agree on how.
+> The Black wants to scrap it and start again. The White wants it kept exactly as it is. The Red
+> will not act until it is perfect. The Blue acts without looking at what he has done.
+
+**And two of them had to do it quietly.** The Red and the Blue are regular developers; a change they
+cannot get agreed is a change they make without telling anyone. Every catastrophe in the present-day
+plot traces back to an unreviewed commit by someone who did not feel able to ask.
 
 Everything the player fights is a side effect of that argument. Nobody in the chain — not the
 [[green-skins]] marching on the [[celestials]], not [[the-guardians-of-night]] who sent them, not

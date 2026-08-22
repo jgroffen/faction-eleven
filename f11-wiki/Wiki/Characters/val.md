@@ -46,8 +46,9 @@ only defence available. She is not a nihilist and not a conqueror. She is certai
 **And she is used twice, by two gods who do not know about each other.**
 
 1. **[[xipe-totec-the-red]] imbued her** with the power to unseal gates, so that [[the-damned]] could
-   reach their old allies the [[green-skins]] and [[werebeasts]] before the realm dwindled away. She
-   opened those doors, and it worked.
+   reach their old allies the [[green-skins]] and [[werebeasts]] before the realm dwindled away. Val
+   opened those doors, and it worked — a small, elegant, precisely scoped gift from a goddess who
+   deliberated for a thousand years before giving it.
 2. **[[huitzilopochtli-the-blue]]'s Secret Society System then found her** — a vampire already
    carrying another god's power — and made her the founder of [[the-guardians-of-night]].
 

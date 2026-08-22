@@ -73,7 +73,9 @@ furthest, but their fault dates from the linking rather than the sealing
 ([[no-machine-repairs-itself]]).
 
 This is the flaw in the White's position and the reason the Red eventually broke the peace: a world
-nobody is permitted to change decays anyway.
+nobody is permitted to change decays anyway. **She watched it happen for most of the thousand years
+before she acted**, which is its own kind of failure and entirely in character
+([[xipe-totec-the-red]]).
 
 This matters for what a protagonist can plausibly know at the start. [[gargoyle]] is the extreme
 case: a construct built for the old war, who knows the other realms as **facts he fought**, not as

@@ -924,3 +924,157 @@ factions with no decline written; and whether there is a diegetic player.
 - **Still open**: the studio's off-screen commercial pressure in specifics; what a glitch concretely
   looks like in each settled genre; whether the Ninja ever learns what he is; and the chapter
   restructure to 8–10 chapters with multiple faction arcs running per chapter.
+
+### Round 21 — 2026-08-19
+
+**The author revised the Red and the Blue's motivations, unprompted.**
+
+> I have an update on The Red and The Blue - want them to have better motivations as devs that can be
+> reflected in their representation as gods in the game. The Red and Blue represent a different common
+> developer problem - The Red wants everything perfect before she does anything - she likes making
+> big, elegant but complicated systems. They suffer from 'polishing the rock' and never shipping soon
+> enough because they are a perfectionist that also scope creep. The Blue is the opposite, not testing
+> enough and making big sweeping changes with little thought or care on the impact and potential
+> side-effects. The Red gets more done but at the cost of quality. Neither are terrible developers,
+> but that is where they fall on the quality vs velocity spectrum. They are both best when they can
+> work together. The Red and The Blue are regular devs, while The Black and The White are senior
+> developers. The Red is female while the other three are male. The Red and The Blue are younger, in
+> their late 20's while the Black is in his late 30's and the White is in his late 40's. Their colours
+> are represented in their avatars used in their game dev, but also their avatars in the game and the
+> snippets of lore and 'real world' leaking in to the game that the characters in the game can come
+> across.
+
+**Interviewer's note on one ambiguity, flagged to the author and compiled on the coherent reading:**
+the sentence "The Red gets more done but at the cost of quality" describes the **Blue** everywhere
+else in the paragraph — the Red is the perfectionist who does not ship, the Blue is the one making
+sweeping untested changes. Compiled as *the Blue gets more done at the cost of quality.*
+
+## Notes For The Compiler — Round 21
+
+- **This supersedes the round-19/20 axis for the Red and the Blue.** "Content and connection versus
+  systems and pressure" is replaced by **quality versus velocity**, which is a real and common
+  developer failure pair rather than a design-philosophy disagreement.
+- **Seniority is new and load-bearing.** The Black and the White are senior developers; the Red and
+  the Blue are regular devs. This is why the two younger ones **sneak changes in rather than
+  proposing them** — they do not have the standing to argue. The theology's "the Red supports the
+  White, the Blue supports the Black" is office politics.
+- **The Red is female; the other three are male.** Existing notes referred to the Red as male and
+  are corrected.
+- **Ages:** Red and Blue late 20s, Black late 30s, White late 40s.
+- **"They are both best when they can work together"** is the mechanism of the ending: the resolution
+  is not one god winning but the four resolving into a team that functions.
+- **Avatars are a third evidence channel**, alongside the Ancient Language and continuity glitches:
+  each dev's colour appears in their avatar at work, in their avatar inside the games, and in
+  snippets of lore and real-world material leaking in that the characters can find.
+
+### Round 22 — 2026-08-22
+
+**The author corrected the nature of the pressure on the studio**, revising the round-19 answer that
+had accepted off-screen commercial pressure.
+
+> The pressure on the company is more that the games are becoming unstable and the developers are
+> fighting about the solution to the point where they may break up the company. The devs are friends
+> and developed the games and put the company together themselves. Tension over the problems with the
+> games, disagreements on how to solve technical problems, and what's best for the company. I don't
+> want 'real world' business issues being part of the story - focus is the devs as a friend group
+> dealing with their challenges, and the player progressing the story helps the devs sort out their
+> problems.
+
+## Notes For The Compiler — Round 22
+
+- **This supersedes round 19's Q8 answer.** "Commercial pressure, off-screen and never personified"
+  is withdrawn. There are no publishers, funding cliffs, deadlines or business problems anywhere in
+  the story.
+- **There is now genuinely nothing above the four.** They founded the company themselves and built
+  the games themselves. The ladder does not merely stop at four — there is no rung above them to
+  stop at.
+- **The four are friends**, not colleagues. The stakes are the friendship and the thing they made
+  together, not the business.
+- **New fact: the games are becoming unstable**, and worsening. The pressure is technical, and the
+  fight is about how to fix it. This is a stronger stake than atrophy, which was the previous
+  account.
+- **The threat is the group breaking up.** Everything the player does that moves the story helps the
+  four sort their problems out.
+- Compiler inference, flagged as such: worsening instability is the in-fiction reason the rate of
+  continuity glitches should climb across the chapters.
+
+### Round 23 — 2026-08-22
+
+**The author refined the four's relationship**, correcting the interviewer's extrapolation that the
+Black and the White's enmity was a friendship that had already soured.
+
+> They are all friends that met through work or study. Their approaches to their work differs and
+> once the stakes go up (the games they care about are becoming unstable, the company they built
+> could go under, their friend group could break up) the pressure goes up. The solution is comprimise
+> and collaboration - leverage their differences to balance their approaches and solve their problems.
+> They succeed together or the company and their friendships will fall apart.
+
+## Notes For The Compiler — Round 23
+
+- **Corrects round 22's compiled inference.** The Black and the White's enmity is **not** a
+  historical falling-out. They are all still friends. The differences in approach were always there
+  and were never a problem; **rising stakes turned difference into conflict.** Present-tense pressure
+  on a live friendship, not the aftermath of one.
+- **How they met:** through work or study.
+- **Three stakes, escalating, all internal:** the games they care about are destabilising; the company
+  they built could go under; the friend group could break up. The company failing is a *consequence*
+  of the other two, not an outside business problem — consistent with round 22.
+- **The solution is compromise and collaboration:** leverage their differences to balance their
+  approaches. **Their differences are the solution, not the problem.**
+- **It is all-or-nothing:** they succeed together, or they lose both the company and the friendships.
+- Compiler note: this makes the two layers of the story say the same thing. In the fiction, ten
+  factions must unite and hold a balance, and no single god is wholly right. Underneath, four friends
+  must compromise and use what each is good at. The protagonists' solution *is* the developers'
+  solution — which is the convergence round 20 asked for, now structurally exact rather than
+  thematic.
+
+### Round 24 — 2026-08-22
+
+**The author set out how the revelation is staged, and corrected the Black's and the White's
+motives.**
+
+> The player sees the game through the eyes of the characters in the game. Characters in the game
+> interpret the devs actions and interactions through the game as the actions of gods. The
+> revelations come slow - first it looks like two gods fighting and two other gods switching
+> alliances. The slow revelation of this is devs working against each other and arguing over problems.
+> The motivation of all gods appear simple and malevolant or protective at first, but it's slowly
+> revealed that there is more nuance. The Black didn't actually link all the games without consent out
+> of spite - he succeeded in arguing for the change because the games had become stagnant and
+> connecting them was a way to liven up gameplay. When things became unstable The White argued
+> successfully for the links between games to be closed as a way to stabilise the games. Things
+> persisted that way for a while but over time the impact of the instability and stagnation issues
+> both increase and the devs are all arguing about it (reflected in the game as the gods are fighting)
+> until the Red sneaks a small change into the code base (granting the Red Power to the Ninja and
+> Liv), which is the catalyst to the Blue making his changes.
+
+**Interviewer's note on a name, flagged to the author:** "Liv" does not appear elsewhere in the
+material. The Red-imbued vampire is established as **Val** (Valynthia) from round 18 onward, and the
+description matches exactly. Compiled as Val pending confirmation.
+
+## Notes For The Compiler — Round 24
+
+- **Corrects the compiled account of the Black's and White's authority.** Neither acted unilaterally.
+  **The Black argued for linking the games and won**, because the games had gone stagnant and
+  connecting them was a way to liven up gameplay. **The White argued for closing the links and won**,
+  as a way to stabilise them. Two legitimate, agreed decisions — not seniority overriding anyone.
+- **The Red's sneaked change is therefore the first illegitimate act in the whole history**, and the
+  **catalyst** for the Blue's. The process worked until it didn't; her commit is where it broke.
+- **Both problems compound.** After the sealing, instability *and* stagnation both keep getting worse
+  over time. The sealing did not fix the instability, it only stopped it spreading.
+- **The devs arguing about it is what the realms see as the gods fighting.** The correspondence is
+  direct and is the mechanism of the whole mystery.
+- **Perception model:** the player sees everything through the eyes of characters inside the games,
+  who interpret dev actions and interactions as divine acts. There is no outside view.
+- **The revelation is staged and slow, on two ladders at once:**
+  - *Identity* — two gods fighting and two switching sides → four gods in a four-way argument → four
+    developers working against each other.
+  - *Motive* — simple, malevolent or protective → nuanced, and every one of them trying to help.
+
+### Round 25 — 2026-08-22
+
+**Name confirmed.**
+
+> Confirm that Liv is Val - I got the name wrong.
+
+The round-24 "Liv" was a slip. The Red-imbued vampire is **[[val]]** (Valynthia), as compiled. No
+compiled note ever carried the wrong name.

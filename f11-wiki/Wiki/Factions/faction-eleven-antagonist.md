@@ -43,9 +43,9 @@ want*) are paced against each other.
 
 ## Identity
 
-**They are humans.** The bottom of the ladder is **four friends** who built the games themselves and
-put the company together themselves, now arguing about how to fix something they all love and cannot
-agree on. The player spends ten stories as robots, fey, werebeasts, aliens and the damned, and the
+**They are humans.** The bottom of the ladder is **four friends** at a studio two of them founded and
+two of them were hired into, now arguing about how to fix something they all love and cannot agree
+on. The player spends ten stories as robots, fey, werebeasts, aliens and the damned, and the
 thing behind it all is us.
 
 They are defined by what they made and what they did with it:

@@ -48,6 +48,13 @@ There is also a natural cycle in which the realms drift from easy to almost impo
 ([[realm-nearness-and-traversal]]); the sealing held the world at that cycle's trough far past its
 natural length.
 
+**The sealing did not stop the instability, and there is a reason it could not.** The damage was
+never in the traffic between realms; it was in the ten tangled histories the linking had already
+produced. [[the-retcon-engine]] has been working on those ever since, one detected error at a time,
+brute-forcing changes into settled history and seeding new contradictions it has no scope to foresee.
+Closing the gates did nothing to it. **The instability climbs through the thousand years of
+disconnection because the repair is what is causing it** ([[the-continuity-system]]).
+
 The consequence is the game's starting condition: the disconnection has run so long that **the
 existence of the other factions has become a myth to most factions**. Not forgotten history —
 *myth*.

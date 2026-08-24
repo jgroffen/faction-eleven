@@ -33,6 +33,17 @@ the method where the learning happens.
 franchise and rebuild from a better architecture.** Not cruelty; the honest engineering instinct that
 the codebase is beyond saving and the next one will be cleaner.
 
+**He wrote the engine, and he is the reason it was never stable.** The open world, persistent system
+that evolves its own gameplay — the thing all ten realms run on — is his, and he could not get it
+stable on his own ([[the-four-developers]]). He is an **early adopter and a tinkerer** who loves the
+bleeding edge, starts many things, and finishes almost none of them. He has the ideas and cannot
+carry them through.
+
+**That makes "tear it down and start again" the least detached position of the four.** He is not
+proposing to throw away somebody else's work. He is proposing to throw away **his own**, because he
+has watched the thing he could never stabilise fail to stabilise for a second time, and rebuilding is
+the only move he has ever trusted.
+
 **He did not act alone, and he was not being spiteful.** Connecting the ten games was a change he
 **argued for and won.** The games had gone stagnant, and linking them was a way to liven up the
 gameplay — a good idea, agreed to by the others, made openly. It is the opposite of what it looks
@@ -51,9 +62,18 @@ getting worse, and nothing anyone has tried has held ([[the-four-developers]]). 
 diagnosis, not a mood — which is why the other three cannot simply dismiss it, and why the argument
 has become bad enough to threaten the four themselves.
 
-**He and [[quetzalcoatl-the-white]] are friends.** Not were — are. The four met through work or
-study and built the games and the company together, and the difference between how the two of them
-work was never a problem until the stakes rose. What the realms' scriptures record as an ancient
+**He is right in a way he has never argued and does not know about.** The largest single driver of
+the decline is [[the-retcon-engine]] — the White's repair layer, patching continuity errors locally
+and seeding new ones it cannot see, compounding for a thousand years. *The repair mechanism is the
+damage.* "It is beyond repair, rebuild it" is not a temperament; it is, at this one crucial point,
+**technically correct**, and the argument he keeps losing is the one he could win outright if anybody
+could see the cause.
+
+**He and [[quetzalcoatl-the-white]] are friends.** Not were — are. **They founded the studio
+together**, on the Black's engine and the White's stabilisation of it, and hired [[xipe-totec-the-red]]
+and [[huitzilopochtli-the-blue]] to build worlds on it. The difference between how the two of them
+work was never a problem until the stakes rose — it was the arrangement that made the company
+possible. What the realms' scriptures record as an ancient
 enmity between the lord of darkness and the lord of light is a live friendship under pressure, seen
 from so far away that it looks like cosmology.
 

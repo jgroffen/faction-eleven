@@ -53,6 +53,24 @@ the autonomous-robotics branch of [[autofix-skill-tree]] that [[autofix]] cannot
 So Odie is the game's **key to two locked doors at once**: Mifix's corrupted past, and the Robots'
 forbidden future.
 
+## The Cleanest Witness In The Game
+
+Odie has **both** mechanisms for noticing a retcon, and no other character has more than one:
+
+- **Code sight**, like every fixbot — his heal repairs the code of whatever he fixes, so an edit is
+  visible to him as an edit ([[a-heal-is-a-patch]]).
+- **A memory that predates the retcons**, because he was switched off through the period they
+  happened in — the same preservation [[gargoyle]] gets from torpor, arrived at from the other end of
+  the map.
+
+**And he does not understand any of it**, because he has barely been running. He is the control case:
+uncorrupted code, uncorrupted memory, perfect vision, no framework. Where [[mifix]] cannot trust what
+he sees, Odie can trust it completely and cannot read it.
+
+**Which is why their meeting matters twice over.** [[the-convergence-at-the-monastery]] is not only
+Mifix recovering the Robot Realm's lost history — it is the game's one moment where a witness who
+can be trusted meets a witness who knows what the evidence means.
+
 ## In-Game Role
 
 Found and activated by [[templar]] in [[templar-monastery]]. His reactivation is one of the two

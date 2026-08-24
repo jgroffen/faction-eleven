@@ -58,6 +58,16 @@ process because she did not have the standing to win an argument inside it — w
 and most damning thing in the game's history. **The world does not break when a god decides to break
 it. It breaks when someone stops feeling able to ask.**
 
+**And she had every right to ask.** She worked with [[quetzalcoatl-the-white]] before the studio
+existed and they became friends; when he and the Black went into business they invited her in, and
+she **invested her own money and took ownership** ([[the-four-developers]]). She is a part-owner
+going quietly around a process run by a friend. Standing was never the thing she lacked — it was the
+feeling of having it.
+
+**Her alignment with the White is not philosophy, it is history.** She stands behind him because he
+is the one she knew first, which is exactly how the realms' scriptures come to describe a pantheon
+split into camps.
+
 ## Where She Sits Against The Blue
 
 She and the Blue are the same problem from opposite ends — **quality against velocity**.

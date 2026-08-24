@@ -25,10 +25,10 @@ locations: []
 
 # The Four Developers
 
-The four gods are **four software developers**, and they are **friends**. They built the games
-themselves and put the company together themselves. Faction Eleven is not a world; it is a
-**collection of ten computer games** they made. The realms are the games. The gods are the people
-with commit access.
+The four gods are **four software developers**, and they are **friends**. Two of them founded the
+studio and the other two were hired into it; nobody stands above the four. Faction Eleven is not a
+world; it is a **collection of ten computer games** they made. The realms are the games. The gods are
+the people with commit access.
 
 **Canon:** proposed · **Era:** outside the timeline
 
@@ -62,9 +62,70 @@ problem to be smoothed over ([[continuity-glitches]]).
 
 The Red is a woman; the other three are men.
 
-**The two arguments in the studio are not the same argument.** The seniors are fighting about the
-product — rebuild it or leave it alone. The two younger devs are fighting about **craft**, and they
-sit at opposite ends of the quality-versus-velocity spectrum:
+## How The Studio Came To Exist
+
+**The Black built the engine and could not stabilise it.** An open world, persistent game system that
+**evolves its own gameplay** — the thing every one of the ten realms runs on. He got it working and
+could not get it stable.
+
+**The White stabilised it**, with [[the-continuity-system]] — a layer that tracks the world's
+evolution into key continuity events and rejects anything that would break them. Only then did the
+two of them start making game worlds on it.
+
+**Then they went into business, and they went looking for two more.** They approached **the Red and
+the Blue** to join and to contribute worlds of their own, offered them the chance to **invest in the
+company and take ownership**, and both agreed.
+
+**Nobody here was a stranger.** The studio was assembled out of existing friendships:
+
+| Pair | How |
+|---|---|
+| [[tezcatlipoca-the-black]] ↔ [[quetzalcoatl-the-white]] | worked together previously, became friends |
+| [[quetzalcoatl-the-white]] ↔ [[xipe-totec-the-red]] | worked together previously, became friends |
+| [[tezcatlipoca-the-black]] ↔ [[huitzilopochtli-the-blue]] | worked together previously, became friends |
+
+**This is why the alignments fall the way they do.** The Red standing behind the White and the Blue
+behind the Black is not a shared philosophy and never was — **they knew each other first.** The
+factional shape the realms read as two camps of gods is four people falling back on whoever they
+worked with before.
+
+So the studio has **two founders and two who bought in**, and the seniority in the table above is not
+a ranking but a history. Every later fact sits on it:
+
+- **The Black's claim on the whole thing is authorship.** When he says the system is beyond repair
+  and should be rebuilt, he is talking about **his own** system, the one he could never get stable in
+  the first place. His position is not detachment; it is the oldest frustration he has.
+- **The White's claim is that he is the reason it works at all.** He has stabilised this codebase
+  once already. When he argues for protecting it, he is defending a save he personally made.
+- **The Red and the Blue joined to add worlds**, which is exactly what they each later did without
+  asking. Going around the process is a smaller step for someone who was brought in to contribute
+  rather than to decide — and they were brought in by friends, which makes it feel less like going
+  around anything.
+
+**The two seniors are a craft complementarity, and it is the older of the two balances:**
+
+|  | The Black | The White |
+|---|---|---|
+| Adopts | early — bleeding edge, tinkering | late — known, well-understood approaches |
+| Learns | by playing with it | deeply, patterns first |
+| Strength | **has the ideas** | deep-dives implementations, course-corrects architecture, plans complicated ideas through to completion |
+| Fails by | starting many things, stabilising and finishing none | slow to change, slow to adopt anything new |
+| Net | **would never have finished it** | **would never have started it** |
+
+**Neither of them could have made this alone**, and both know it. That is the fact underneath the
+friendship, and it is why the ancient enmity the scriptures record is a misreading rather than an
+exaggeration.
+
+**The founding is the linking and the sealing in miniature** — the Black makes something unstable,
+the White makes it stable. The same two moves, twice, a company apart. *Inference, not established,
+but it is what makes the two great interventions read as character rather than as plot.*
+
+## The Two Arguments
+
+**The two arguments in the studio are not the same argument**, though all four are now revealed to
+sit on a craft axis. The seniors are fighting about **the product** — rebuild it or leave it alone —
+on top of the adoption-speed difference above. The two younger devs are fighting about **craft
+alone**, and they sit at opposite ends of the quality-versus-velocity spectrum:
 
 |          | The Red                                         | The Blue                                     |
 | -------- | ----------------------------------------------- | -------------------------------------------- |
@@ -101,10 +162,16 @@ The four argued and argued and settled nothing.
    history**, and it is the catalyst: it is what licenses
 4. **the Blue's changes**, made the same way and much larger.
 
-**Seniority explains why the break happened where it did.** The two who argued and won were the
-seniors. The two who went around the process were the regular devs — a junior with no standing to win
-an argument makes the change quietly instead. Every catastrophe in the present-day plot is an
-unreviewed commit by someone who did not feel able to ask.
+**Seniority explains why the break happened where it did**, and the founding sharpens it. The two who
+argued and won were the seniors — the two who **founded the studio and brought the other two in**.
+The two who went around the process were the two who joined, to build worlds on an engine they did
+not write and could not have written.
+
+A junior with no standing to win an argument makes the change quietly instead. Someone arguing with
+the two people who founded the place, about the system one of them wrote and the other rescued, has
+less still — **and being an owner does not help, because ownership is not the currency in that
+room.** Every catastrophe in the present-day plot is an unreviewed commit by someone who had every
+right to be heard and did not feel able to ask.
 
 ## Lead Developers
 
@@ -176,9 +243,22 @@ Facts that were arbitrary become necessary:
 
 ## The Studio
 
-**Four friends who met through work or study and built this themselves.** No publisher, no owner, no
-investor, no deadline — there is nothing above them because they made the thing above them. The ladder
-does not merely *stop* at the four; there is no rung to stop at.
+**Four friends, and their own employers.** No publisher, no owner, no investor, no deadline — there
+is nothing above them because they made the thing above them. The ladder does not merely *stop* at
+the four; there is no rung to stop at.
+
+**But it is not a flat four.** The Black and the White founded the studio; the Red and the Blue were
+invited in, put their own money into it, and took ownership. **All four own it. Only two built it.**
+
+That is the specific discomfort of their position, and it is sharper than either simpler version.
+The Red and the Blue are not employees with nothing at stake, and they are not equals who were there
+at the start. They are **owners without seniority** — they bought into a company built on somebody
+else's engine, stabilised by somebody else's system, and then watched it start coming apart. Their
+stake is total and their standing is low, which is the worst combination available and the reason
+both of them eventually stopped asking.
+
+**All three stakes below therefore land on all four**, and the friendships are what the money was
+built on rather than the other way round.
 
 **Their differences were never the problem.** Four people who work in four different ways built ten
 games together and it worked. What changed is not them; it is the **stakes**:
@@ -238,6 +318,16 @@ The games are not merely rotting from neglect. **They are actively destabilising
 cumulative — the unrepaired damage from [[the-linking-of-the-realms]], a thousand years of no
 maintenance, three sets of unreviewed changes made by people working around each other, and
 something loose in the network that none of them knows about ([[the-void]]).
+
+**The largest contributor is a repair.** [[the-retcon-engine]] fixes continuity errors reactively,
+one detected error at a time, without the scope to see what a fix contradicts elsewhere — so every
+repair seeds further faults, which are detected, which are repaired. It is a **feedback loop**, and
+it has been compounding since the linking.
+
+This is why the instability keeps climbing **even though the realms have been sealed for a thousand
+years**. Disconnection stopped new contact; it did nothing about the tangled histories already
+inside, and it does not touch the machine grinding at them. The games would be more stable today if
+the White's second layer had never been built — and nobody in the studio knows that.
 
 **This raises the Black's argument from preference to diagnosis.** He does not want to rebuild because
 he is bored of it; he wants to rebuild because it is getting worse and nothing anyone has tried has

@@ -33,6 +33,16 @@ on the gates of the realms he leads, to stop anything from another realm getting
 further — a response to [[xipe-totec-the-red]] imbuing [[ninja]] with the power to unseal gates
 ([[the-four-gods]]).
 
+**It is a stopgap, and it is a sign of frustration.** The White is not fortifying a position he is
+comfortable in; he is protecting a world he built from a failure he can see coming, with a **quick
+mitigation** meant to **buy time to push for a longer-term fix**. Guardians are not his method — deep,
+well-understood, architectural work is — and shipping one is the clearest measure in the game of how
+badly the four's argument has stalled ([[quetzalcoatl-the-white]]).
+
+**So chapter one's boss is a patch.** The single most important antagonist the player meets in the
+first release is a temporary fix by a frightened man, and its worst consequence — a family sentenced
+to a treason it never committed — is a side effect he never looked for.
+
 **The Institute's sentence is a fiction the realm wrote to explain it.** A boss appeared at a gate
 with no history attached, and [[realm-01]] generated one: a family who committed treason, condemned
 to fight it endlessly, generation after generation ([[the-retcon-engine]]). Nobody in the Institute

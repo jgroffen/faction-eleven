@@ -28,9 +28,65 @@ He works against the cycle — imposing order, pushing back on chaos and entropy
 reality that does not have to end. **What he is:** a **senior developer, male, late forties** — the
 one who **loves what they made and wants it kept as it is.**
 
-**He is the oldest of the four and the only one arguing for nothing.** The other three all want
-something done; he wants it left alone. That is a position seniority makes possible and age makes
-likely, and it is the one the world is steadily disproving underneath him.
+**He stabilised the engine, and that is his whole claim.** The Black built an open world, persistent
+system that evolves its own gameplay and could not make it stable; the White made it stable, and only
+then did the two of them start building worlds on it ([[the-four-developers]]). He **learns
+technologies and patterns deeply and stays with what is known and well understood**, deep-dives an
+implementation until he genuinely has it, and course-corrects architecture that has drifted. His
+drawback is the other side of the same coin: **slow to change, slow to adopt anything new.** He would
+never have come up with the engine; he is the reason it works.
+
+**His career is three stabilisation layers stacked on somebody else's experiment**, built at three
+different times, each because the last one was not enough:
+
+| | What | Against |
+|---|---|---|
+| At the founding | [[the-continuity-system]] — rejects continuity-breaking events | an engine that rewrites itself into nonsense |
+| After the linking | [[the-retcon-engine]] — writes history to absorb what cannot be rejected | ten realms connected against their design |
+| Recently | [[the-gate-guardian]] and its kind — protections on the gates of the realms he leads | code from other games getting in and breaking them |
+
+**Every clue in the game is a seam in one of his repairs.** That is the fact his whole
+characterisation now turns on: the player is not investigating a broken world so much as reading the
+patch notes of the one person who kept trying to fix it.
+
+**And the three layers are a man coming apart.** The first is deep and architectural and it held for
+the life of the studio. The second is violent — it reaches backwards and rewrites what already
+happened. The third is **a hack, and he knows it**: the guardian is a quick mitigation against a
+failure he can see coming, shipped to **buy time to push for a longer-term fix**. He is not calmly
+defending his position any more. He is patching.
+
+*Inference, not established:* the White shipping an unexamined stopgap with a catastrophic side
+effect — a family sentenced to a fictional treason — is precisely the failure mode the four attribute
+to [[huitzilopochtli-the-blue]]. Under enough pressure the most careful of them has started working
+like the least careful.
+
+## The Worst Thing About Him
+
+**His own fix is the main engine of the decline he is fighting.** [[the-retcon-engine]] repairs
+continuity errors reactively and locally, brute-forcing changes into history that has already
+happened, without the scope to see what else those changes contradict. Every repair seeds further
+faults. It has been running for a thousand years.
+
+So the instability that is destroying the games — the thing that makes [[tezcatlipoca-the-black]]'s
+case for a rebuild, the thing the White is arguing against — **is substantially his own second
+stabilisation layer, working as designed.**
+
+**He does not know.** That is the point, and it is the most sympathetic and most damning fact
+available about him. He is not negligent and he is not wrong to care; he is a careful man whose
+careful fix has a flaw that only shows up at a scale nobody could have tested. The gap between how
+hard he is trying and what he is actually causing is the emotional core of the ending, and it is why
+the protagonists' argument has to reach him rather than defeat him.
+
+**So he is not defending the games out of sentiment. He is defending a save he personally made.** He
+has stabilised this codebase once already, by hand, and it held for a long time. When he argues that
+the answer is protection rather than a rebuild, he is arguing from the one time the answer really was
+protection — and that is a far harder position to talk someone out of than nostalgia.
+
+**He is the oldest of the four, and he is not arguing for nothing — he is arguing for time.** The
+other three each want a particular thing done now. He wants the games *preserved rather than rebuilt*,
+and he wants room to land a **proper long-term fix** rather than another sweeping change. That is a
+position seniority makes possible and age makes likely, and it is the one the world is steadily
+disproving underneath him: the stopgaps are buying time he is not managing to spend.
 
 **He won the argument that shaped the world the player finds.** When the linked games destabilised,
 he made the case for closing the links again as a way to **stabilise** them, and the others agreed.
@@ -54,9 +110,12 @@ he caused and never saw.
 He knows. It is the crack the protagonists eventually get in through: **the one god who already
 loves them, and already suspects his own method is failing.**
 
-**He and [[tezcatlipoca-the-black]] are friends**, and the four built all of this together. The
-ancient enmity between light and darkness that the realms' scriptures record is a friendship being
-strained in the present, not one that ended long ago ([[the-four-developers]]).
+**He and [[tezcatlipoca-the-black]] are friends**, and the two of them founded the studio and hired
+the other two. The ancient enmity between light and darkness that the realms' scriptures record is a
+friendship being strained in the present, not one that ended long ago ([[the-four-developers]]).
+
+**Neither of them could have built this alone**, and the whole company is the proof: the Black would
+never have finished the engine, and the White would never have started it.
 
 He is the oldest of them and the one with the most to lose. He wants the games kept as they are and
 he wants the four kept as they are, and it is the same wish twice — which is why he is the one who

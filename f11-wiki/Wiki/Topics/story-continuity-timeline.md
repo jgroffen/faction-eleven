@@ -91,12 +91,21 @@ What *is* settled is the shape the counts must take:
 - **Glitches are present from chapter one**, because they date from [[the-linking-of-the-realms]]
   and were never cured. [[realm-01]] — chapter one's realm — is specifically a realm whose lore
   still glitches and still adjusts itself to fit. There is no glitch-free baseline to establish.
-- **[[gargoyle]] is the tutorial, not the first instance.** Chapter two is where a *character* can
-  finally name a contradiction out loud. It is not where contradictions begin, and the player has
-  been the detector all along.
-- **The rate climbs across the chapters**, because the games are genuinely destabilising
-  ([[the-four-developers]]). The player's growing sense that something is wrong is measurement, not
-  mood, so density is a storytelling instrument rather than a difficulty setting.
+- **Chapter one already has two witnesses.** [[autofix]] leads it and [[mifix]] is in it, and both
+  see retcons land, because a fixbot's heal repairs the *code* of what it fixes
+  ([[a-heal-is-a-patch]]). Autofix notices without understanding; Mifix understands and cannot trust
+  his own code. **The evidence can be planted in the first release with a character standing next to
+  it.**
+- **[[gargoyle]] is the loudest case, not the first.** Chapter two is where a contradiction becomes
+  *narrative* rather than a diff. It is not where contradictions begin.
+- **Acknowledgement buys deniability, so it is a placement rule.** A glitch a character remarks on
+  cannot be misread as a real bug — which makes **strong-tier glitches safest around the fixbots and
+  the liches**, and more expensive everywhere else.
+- **The rate climbs — and should accelerate, not rise steadily.** [[the-retcon-engine]] repairs
+  continuity errors reactively and locally, and each repair seeds further errors it had no scope to
+  foresee, which are detected and repaired in turn. The curve is a feedback loop compounding, not a
+  slope ([[the-four-developers]]). The player's growing sense that something is wrong is measurement,
+  not mood, so density is a storytelling instrument rather than a difficulty setting.
 - **Strong glitches are rationed.** A strong glitch has thin deniability and is the one most likely
   to be read as a bug in the real game rather than a clue. Subtle ones can be dense; strong ones
   cannot.
@@ -104,12 +113,12 @@ What *is* settled is the shape the counts must take:
   [[protagonist-swapping-and-story-gating]] — a glitch is only visible to someone who has been in
   two places, so they appear when the player does what the game already asks.
 
-The **cause** of a glitch, as opposed to its symptoms, has two halves and only one is compiled. The
-ten games have **different code and mechanics leaking into each other**, and **different lore trying
-to reconcile into one narrative**. [[the-retcon-engine]] covers the lore half. The mechanical half —
-code from one game getting into another and breaking it, which is what [[quetzalcoatl-the-white]]'s
-protections were built to stop — is recorded in the interview but has never been compiled into a
-note. That is deferred work.
+The **cause** of a glitch has two halves, and the larger one is now settled. **Ten sets of lore
+trying to reconcile into one narrative** is [[the-retcon-engine]], patching detected errors locally
+and seeding new ones it cannot foresee — a loop that manufactures most of what the player finds. The
+other half, **code and mechanics leaking between the ten games**, is what
+[[quetzalcoatl-the-white]]'s gate protections were built against; it is recorded in the interview and
+has never been compiled. What each looks like in a genre remains deferred work.
 
 ## God Actions
 

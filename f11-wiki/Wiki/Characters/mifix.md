@@ -45,6 +45,22 @@ signal appears, he and [[ninja]] pursue it as **an alternative way to reach the 
 have decayed into **myth** — so the most important thing Mifix knows is something he can no longer
 verify. He is a mentor teaching a legacy he only half remembers.
 
+## He Sees The Glitches And Cannot Trust Himself
+
+A fixbot's heal repairs the **code** of whatever it is fixing, so Mifix sees retcons land where every
+other character simply absorbs them ([[a-heal-is-a-patch]], [[continuity-glitches]]). He has also been
+running long enough to have accumulated a framework for what he is seeing — which makes him the most
+capable witness in the game and the one least able to act on it.
+
+**Because he knows his own code is degraded.** He has run for generations without maintenance, and
+mini-fix bots **cannot repair themselves** ([[no-machine-repairs-itself]]). So every time he notices
+that the world has changed behind him, he has to weigh it against the likelier explanation that the
+fault is his. He is right about the glitches. He is right not to trust himself. **He has no way
+whatsoever to tell those two apart**, and no instrument that could settle it.
+
+That is the same corruption that turned his purpose into myth, seen from a second angle: a machine
+whose job is verifying other things, and which is the one thing it cannot verify.
+
 That shared purpose is what binds him to the family: Mifix and the Ninja's line are both motivated
 to defeat the [[the-gate-guardian]], because **the family's legacy is to reunite the allied
 factions**. Two parties with corrupted, mythologised reasons, fighting the same door for

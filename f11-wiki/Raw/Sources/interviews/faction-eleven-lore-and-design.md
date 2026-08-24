@@ -1078,3 +1078,210 @@ description matches exactly. Compiled as Val pending confirmation.
 
 The round-24 "Liv" was a slip. The Red-imbued vampire is **[[val]]** (Valynthia), as compiled. No
 compiled note ever carried the wrong name.
+
+### Round 26 — 2026-08-24
+
+**The author supplied the studio's founding story and the two seniors' craft profiles, unprompted.**
+
+> Some more background on the devs: The Black developed an open world, persistent game system that
+> evolves it's own gameplay, but he couldn't get it stable, The White helped make the system stable
+> and they started making game worlds, hiring two devs (The Red and The Blue) to contribute new
+> worlds of their own. The Black and The White have their own balance - The Black is an early
+> adopter, tinkerer, and loves playing with the bleeding edge. He starts many projects but has
+> trouble stabilising his experiments and finishing them. The White is the opposite - learns
+> technologies and patterns deeply and sticks with known and well understood approaches. The White is
+> also great at deep-diving into implementations, understanding them deeply and course-correcting
+> architecture. The White's drawback is he is slow to change, slow to adopt new technology and new
+> approaches. The Black has the ideas but can't bring those ideas through to completion, The White
+> wouldn't come up with the idea in the first place, but can take complicated ideas and design and
+> plan their implementation successfully.
+
+**Interviewer's note, flagged to the author:** this revises the compiled claim that the **four**
+founded the studio together. Compiled notes currently state "four friends who met through work or
+study and built this themselves" and "the four founded the company themselves". On this account the
+studio has **two founders and two hires**. Compiled to the new account; what the Red and the Blue's
+*stake* is, and whether "the four are friends" (rounds 22–23) survives the employment relationship,
+is left open rather than assumed.
+
+## Notes For The Compiler — Round 26
+
+- **The studio has a founding story.** The Black built an **open world, persistent game system that
+  evolves its own gameplay** and could not stabilise it. The White stabilised it. Only then did they
+  begin making game worlds on it.
+- **The Red and the Blue were hired**, to contribute new worlds of their own. This explains the
+  seniority table rather than contradicting it — but it does revise "the four built this together".
+- **The two seniors have a craft axis, not only a product argument.** The compiled note says the
+  seniors argue about the product and the juniors about craft. The seniors are *also* a craft
+  complementarity, and it is the older one:
+
+  | | The Black | The White |
+  |---|---|---|
+  | Adopts | early — bleeding edge, tinkering | late — known, well-understood approaches |
+  | Learns | by playing with it | deeply, patterns first |
+  | Strength | has the ideas | deep-dives implementations, course-corrects architecture, plans complicated ideas to completion |
+  | Fails by | starting many things, stabilising and finishing none | slow to change, slow to adopt |
+  | Net | would never have finished it | would never have started it |
+
+- **The pattern repeats.** *Interviewer's inference, not the author's:* the founding is the linking
+  and the sealing in miniature — the Black makes something unstable, the White makes it stable. The
+  same two moves, twice, a company apart.
+- **Candidate connection, unconfirmed:** a system that "evolves its own gameplay" may be the
+  mechanism behind the retcon engine and the lore that "keeps adjusting automatically to fit"
+  (round 20). Not asserted; a question for a later round.
+
+### Round 27 — 2026-08-24
+
+**The author resolved both questions the interviewer left open in round 26.**
+
+> Lets resolve what you raised:
+>
+> - The retcon engine is a system The White introduced to stabilise the realms after they were
+>   linked. A different system The White introduced to stabilise the original persistent
+>   self-evolving world engine developed by The Black was The Continuity System, which tracks the
+>   world evolution into key continuity events and rejects any continuity-breaking events.
+> - The Red previously worked with The White and they became friends. The Black previously worked
+>   with The White and The Blue and also became friends. When The Black and The White decided to go
+>   into business with each other they approached The Red and The Blue to join them, they offered
+>   The Red and The Blue to invest in the company and have some ownership, which they agreed to.
+
+## Notes For The Compiler — Round 27
+
+- **The round-26 candidate is wrong, and the real answer is better.** The retcon engine is **not**
+  the Black's self-evolving engine. It is **the White's**, introduced to stabilise the realms
+  **after the linking**. Correct the unconfirmed section in `the-retcon-engine`.
+- **A second, earlier system is named: The Continuity System.** Also the White's, introduced to
+  stabilise the Black's original persistent self-evolving world engine — so it **predates the game
+  worlds**, where the retcon engine postdates the linking. It **tracks the world's evolution into
+  key continuity events, and rejects any continuity-breaking events.**
+- **The White therefore has three stabilisation layers**, built at three different times, all on the
+  Black's engine: the Continuity System (founding), the Retcon Engine (post-linking), and the gate
+  guardians (recent, round 20 — "protections to stop other code from other games getting in").
+- **"Continuity glitch" becomes diegetic rather than descriptive.** There is a system whose stated
+  job is rejecting continuity-breaking events. A continuity glitch is that system failing, being
+  bypassed, or being overruled — which is a mechanism the compiled notes have never had.
+- **Friendship topology, and it explains the alignments.** White↔Red were prior colleagues and
+  friends; Black↔White were prior colleagues and friends; Black↔Blue were prior colleagues and
+  friends. The compiled claim that the Red stands behind the White and the Blue behind the Black
+  "because they are easier to stand behind" now has a cause: **they knew each other first.**
+- **The Red and the Blue are owners.** They were *approached*, offered the chance to **invest in the
+  company and take ownership**, and agreed. Corrects the round-26 compiled line that they work in
+  "a company that was not theirs" — it is theirs, and they put their own money into it.
+- **This closes the open stake question.** All three stakes (the games, the company, the friendship)
+  apply to all four. Their position is **ownership without seniority**: they bought in, on an engine
+  they did not build, and are still the two who did not feel able to argue.
+
+### Round 28 — 2026-08-24
+
+**The author explained why the Continuity System failed at the linking, and reframed the guardian.**
+
+> A bit more detail - the continuity engine worked while the systems were disconnected because it
+> would stop continuity errors from occurring, the problem was that once the worlds were connected
+> the continuity that already existed in those worlds couldn't be consolidated - hence the need for
+> the retcon system to retroactively change continuity to force consolidation. The White building a
+> gate guardian is a sign of his frustration - he is making a change to protect the world he built
+> from impending failure as a quick mitigation, buying time to push for a longer term fix.
+
+## Notes For The Compiler — Round 28
+
+- **Corrects the interviewer's round-27 guess at why prevention stopped working.** The compiled note
+  said the Continuity System could not refuse the gods' own edits. That is **not** the reason. The
+  reason is that **there was nothing to reject**: the system prevents continuity errors *as they
+  occur*, and it worked perfectly while each world was disconnected. What the linking created was not
+  a new breaking event but **ten already-established, individually valid continuities that now had to
+  be one** — a contradiction that had already happened, retroactively, the moment the worlds became a
+  single continuity space.
+- **The retcon engine's purpose is therefore consolidation**, not merely covering individual divine
+  edits. It **retroactively changes continuity to force ten histories into one**. Covering a god's
+  edit is a case of that job, not the whole of it.
+- **This mechanises the second half of the deferred glitch-causation brief** — "different lore trying
+  to reconcile into a single narrative" is exactly this system, and the glitches are where the
+  forced consolidation has not succeeded.
+- **The gate guardian is a stopgap, and reads as frustration.** The White is protecting the world he
+  built from **impending failure**, as a **quick mitigation**, to **buy time to push for a longer
+  term fix.**
+- **Two consequences for the White's characterisation:**
+  - He is **not "arguing for nothing"**, as the compiled note has it. He is arguing for a proper
+    long-term fix and shipping stopgaps to buy the time to get it.
+  - *Interviewer's inference, not the author's:* his three layers are a **degradation curve** — a
+    deep architectural system, then a violent retroactive one, then an admitted hack. The man whose
+    whole method is depth and well-understood approaches is now shipping quick fixes with unexamined
+    side effects, which is the failure mode the compiled notes attribute to the Blue.
+
+### Round 29 — 2026-08-24
+
+**The author supplied the retcon engine's operating model — and with it, the cause of the glitches.**
+
+> The retcon system can only apply a retcon when a continuity error is detected - and the brute
+> forcing of changes to existing history is a cause of glitches and instability, especially when a
+> retcon fix can cause new continuity errors that can't be foreseen due to incompatible histories
+> across so many realities. The retcon system can sometimes apply a change that fixes the immediate
+> problem but cause more continuity issues because it can only deal with the continuity issue
+> detected - it can't have full scope of every realm history when it determines a retcon change to
+> apply.
+
+## Notes For The Compiler — Round 29
+
+- **The engine is reactive, not systematic.** It cannot consolidate the ten histories as a project.
+  It can only act **when a continuity error is detected**, and then only on that error.
+- **Its scope is local and the problem is global.** It does not have — cannot have — the full scope
+  of every realm's history when it chooses a retcon. So it fixes what it can see.
+- **The repair is itself a cause of damage.** "Brute forcing changes to existing history" causes
+  **glitches and instability** directly, and a fix can seed **new continuity errors that cannot be
+  foreseen**, because the histories across so many realities are incompatible.
+- **This is a cascade, and it is the mechanism the design has been missing.** Detect → patch locally
+  → the patch contradicts something out of scope → detect → patch again. The system that was built to
+  end contradictions is a **generator** of them.
+- **It answers the standing question of why instability keeps rising after the sealing.** The realms
+  are disconnected and the instability still climbs, and no compiled note has ever said why. This is
+  why: the engine is still running, still detecting, still brute-forcing, and every repair seeds the
+  next fault. Not decay — a feedback loop.
+- **It also derives a design rule the notes had only asserted.** "A realm's account of itself is
+  airtight from inside and contradicts the realm next door" is no longer a rule to be observed; it
+  is the necessary output of a repair mechanism whose scope is one realm at a time.
+- **It answers the interviewer's round-28 question** — still running, still reactive, and
+  **diverging rather than converging**.
+- **Two characterisation consequences:**
+  - The White's second stabilisation layer is the primary engine of the instability he is fighting.
+  - The Black's "it is beyond repair, rebuild it" becomes technically correct in a specific way: the
+    repair mechanism is the damage.
+
+### Round 30 — 2026-08-24
+
+**The author added the fixbots' code sight, and the liches' framing of it.**
+
+> One new piece of lore - The Autofix and Minifix bots can 'fix' robots and heal the Ninja because
+> their 'heal' skill actually repairs the code of the 'entity' they are fixing. A side-effect of this
+> is they notice the glitches where all other characters don't notice - they act like the new
+> continuity was always the way things were. Mifix notices the glitches but is self-aware enough to
+> know that he can't trust his own code as he has been running for too long - Odie and the Autofix
+> notice the glitches but don't understand them as they haven't been running for very long. The
+> Liches are another entity that has some self-awareness due to their AI nature - but they are
+> explaining the gliches and that they can leverage their deeper knowledge of the realms and
+> infrastructure the games run on as their 'ancient eldritch knowledge'. There is going to be a joke
+> about the 'Glich Lich' 'Liches cause gliches' at some point.
+
+## Notes For The Compiler — Round 30
+
+- **A heal is a patch.** The fixbots' heal skill **repairs the code of the entity being fixed**. This
+  is why an Autofix can mend a robot and also heal the Ninja — a person and a machine are the same
+  kind of thing to something that edits code.
+- **Side effect: fixbots see glitches.** Every other character absorbs a retcon and behaves as though
+  the new continuity was always the case. A fixbot reads code, so it sees the discrepancy.
+- **Corrects a compiled claim.** `continuity-glitches` says protagonists mostly cannot see glitches
+  and names [[gargoyle]] as *the* exception. There are now several, by two different mechanisms, and
+  one of them ([[autofix]]) leads chapter one.
+- **A witness ladder, and each rung has a different limitation:**
+  - **[[autofix]] and [[odie]]** — notice, do not understand. They have not been running long.
+  - **[[mifix]]** — notices, and is self-aware enough to know **he cannot trust his own code**,
+    having run too long. Fits the compiled fact that his memory is corrupted, and
+    `no-machine-repairs-itself` means he can never audit himself.
+  - **The liches** — self-aware by their AI nature, and the only ones who **explain** the glitches.
+    They leverage genuine knowledge of the realms and of the infrastructure the games run on, and
+    dress it as **"ancient eldritch knowledge."** Not a lie so much as a costume.
+- **Dormancy is a second, separate preserving mechanism**, and it already exists in the wiki: the
+  Gargoyle's torpor and Odie's stand-by both keep a memory that predates the retcons. Odie has both
+  mechanisms at once.
+- **Planned gag, recorded as intent:** the **"Glitch Lich"** — *liches cause glitches*.
+- *Interviewer's note, for design:* in-fiction witnesses are a **deniability shield**. A glitch a
+  character remarks on cannot be mistaken for a bug in the real game, which makes strong-tier
+  glitches safest wherever a fixbot or a lich is present.

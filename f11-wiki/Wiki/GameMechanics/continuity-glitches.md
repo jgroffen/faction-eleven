@@ -33,6 +33,21 @@ The rule: **a realm's account of itself is airtight from inside and contradicts 
 door.** The player is never given a character who lies. They are given ten realms whose stories
 cannot all be true at once, and a structure that walks them through all ten.
 
+**The name is diegetic.** There is an actual system called [[the-continuity-system]], built by
+[[quetzalcoatl-the-white]] to track the world's evolution into key continuity events and **reject
+anything that would break them**. A continuity glitch is that system not holding.
+
+**And the rule above is not a rule. It is arithmetic.** [[the-retcon-engine]] repairs continuity
+errors **reactively and locally** — it only acts on an error once detected, and it never has the
+scope of all ten histories when it chooses what to change. A repair mechanism that can see one realm
+at a time can only ever produce history that is **coherent in that realm and contradictory next
+door.** The design does not have to author that property; the fiction manufactures it.
+
+**Most glitches are made by the repair, not merely revealed by it.** Brute-forcing a change into
+history that already happened is itself destabilising, and a fix that solves the detected problem
+can seed several unforeseen ones in realms whose histories were never compatible. Those get detected
+and patched in turn. **The player is walking through the exhaust of a machine trying to help.**
+
 Four kinds, in rough order of how loud they are:
 
 | Kind | What the player sees |
@@ -71,15 +86,30 @@ someone who has been in two places, so the mechanic that braids the ten stories 
 that makes the mystery detectable. Nothing extra needs building to surface them — they surface when
 the player does what the game already asks.
 
-**Protagonists mostly cannot see them; the player can.** Each protagonist lives inside one realm's
-consistent account. The player holds ten. This is the same asymmetry the game already uses in
-[[the-smashing-of-the-gargoyles]], where the player watches a cutscene the protagonist has no memory
-of — scaled up to become the spine of the mystery.
+**Most characters cannot see them; the player always can.** Ordinary inhabitants absorb a rewrite
+completely and behave as though the new continuity was always the case. The player holds ten realms
+at once. This is the same asymmetry the game already uses in [[the-smashing-of-the-gargoyles]], where
+the player watches a cutscene the protagonist has no memory of — scaled up to become the spine of the
+mystery.
 
-**[[gargoyle]] is the exception.** He wakes with an unedited memory of the world before his torpor
-and a realm whose history has moved underneath him. He is a continuity checker by construction —
-the only protagonist who can hold a contradiction in his own head rather than leaving the player to
-hold it.
+**But there is a short list of characters who do see them, by two separate mechanisms**, and the
+list includes a chapter-one protagonist:
+
+- **Code sight.** A fixbot's heal repairs the *code* of whatever it is fixing, so a retcon is visible
+  to it as an edit ([[a-heal-is-a-patch]]). [[autofix]], [[mifix]] and [[odie]] all have it.
+- **Preserved memory.** Dormancy keeps a mind out of the retcon's reach — [[gargoyle]]'s torpor and
+  [[odie]]'s stand-by both do it.
+- **The liches** are the only ones who both see *and* explain, and they present real knowledge of the
+  realms' infrastructure as **ancient eldritch lore** ([[the-void]]).
+
+**Seeing, understanding and self-trust are three different things**, and no character has all three
+— the ladder is set out in [[a-heal-is-a-patch]]. That is what keeps the witnesses from short-circuiting
+the mystery: every one of them is missing a different piece.
+
+**[[gargoyle]] is the loudest case.** He wakes with an unedited memory of the world before his torpor
+and a realm whose history has moved underneath him. He is a continuity checker by construction, and
+unlike the fixbots his evidence is a *narrative* contradiction rather than a diff — which is why he
+carries the mechanic for the player even though he is not the first to notice.
 
 **That makes him the tutorial for the mechanic, not the first instance of it.** Glitches are
 everywhere from the start, because they date from [[the-linking-of-the-realms]] and were never
@@ -102,15 +132,19 @@ strange that the player reaches for a patch note.
 
 No values yet. The knobs to expect:
 
-- **Density** — how many are placed per chapter. **The rate climbs**, and the fiction supplies the
-  reason: the games are genuinely destabilising and getting worse ([[the-four-developers]]). The
-  player's growing sense that something is wrong is measurement, not mood — which means density is a
-  storytelling instrument rather than a difficulty setting.
+- **Density** — how many are placed per chapter. **The rate climbs, and it should accelerate rather
+  than rise steadily.** The fiction supplies the curve: [[the-retcon-engine]] is a feedback loop in
+  which each repair seeds further errors, so the count compounds rather than grows linearly
+  ([[the-four-developers]]). The player's growing sense that something is wrong is measurement, not
+  mood — which means density is a storytelling instrument rather than a difficulty setting.
 - **Loudness** — the **subtle/strong** split above, and how many of each a chapter carries. The two
   tiers ramp differently: subtle density can climb freely, strong instances are spent carefully.
 - **Confirmability** — whether the player can ever *check* a suspicion, or only accumulate them.
-- **Acknowledgement** — whether any character ever notices, and which. Currently [[gargoyle]] is the
-  only one who can.
+- **Acknowledgement** — which characters notice out loud, and how often. This is now a real budget
+  rather than a question: [[autofix]], [[mifix]], [[odie]], [[gargoyle]] and the liches can all
+  notice, and **acknowledgement buys deniability.** A glitch a character remarks on cannot be read as
+  a bug in the real game, so **strong-tier glitches are safest in their company** and must be spent
+  more carefully everywhere else ([[a-heal-is-a-patch]]).
 
 ## Used In
 

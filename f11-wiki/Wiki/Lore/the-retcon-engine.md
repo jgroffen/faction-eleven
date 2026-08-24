@@ -27,8 +27,61 @@ a shrine where their punishment is recorded. None of it happened. All of it is t
 
 ## The Story
 
-The games absorb what is done to them. A code change arrives with no history attached, and the game
-generates one — plausible, detailed, and load-bearing for everyone who lives inside it.
+**What it is actually for is consolidation.** [[the-linking-of-the-realms]] left ten worlds that each
+had a complete, valid, independently-policed history, and made them one world that could only have
+one. Nothing could be rejected — every contradiction was already a thousand years old and had been
+correctly recorded at the time ([[the-continuity-system]]). So the White built a system that reaches
+**backwards** and **retroactively rewrites continuity to force the ten into a single narrative.**
+
+Covering an individual divine edit is a case of that job rather than the whole of it. The games
+absorb what is done to them: a code change arrives with no history attached, and the engine generates
+one — plausible, detailed, and load-bearing for everyone who lives inside it.
+
+**The consolidation is never finished, and that is where the game lives.** Ten histories forced into
+one leave seams, and the seams are the entire evidence trail ([[continuity-glitches]]). A perfect
+consolidation would be a world with no mystery in it.
+
+## How It Actually Runs — And Why That Is The Problem
+
+The engine was built to force ten continuities into one. **The only tool it has is a local patch,
+applied after the fact.** The gap between what it is for and what it can do is where the entire game
+comes from.
+
+Three constraints, and each one makes the next worse:
+
+1. **It is reactive.** It cannot work through the ten histories as a project. It acts **only when a
+   continuity error is detected**, and only on that error.
+2. **Its scope is local.** It does not have — and cannot have — the full scope of every realm's
+   history when it decides what to change. It fixes what it can see.
+3. **The repair is violent.** Brute-forcing changes into history that has already happened is
+   *itself* a source of glitches and instability, before any question of whether the fix was right.
+
+**So a fix that genuinely solves the detected problem can create several new ones**, out of scope,
+unforeseen, in realms whose histories were never compatible with the one being patched. Those surface
+as fresh continuity errors. Those get detected. Those get patched.
+
+**The system built to end contradictions is a generator of them.** It is not failing at its job; it
+is doing its job, and its job is self-defeating at this scale.
+
+## The Cascade Is Why Things Are Getting Worse
+
+This is the mechanism behind the design's oldest unexplained fact: the realms have been sealed for a
+thousand years, and the **instability keeps climbing anyway** ([[the-long-disconnection]]).
+Disconnection stopped new contact; it did nothing about the ten incompatible histories already
+tangled together, and the engine has been grinding at them ever since.
+
+**It is not decay. It is a feedback loop**, and it compounds — which is also why the density of
+[[continuity-glitches]] should accelerate across the chapters rather than merely increase.
+
+**And it derives the rule the design had only asserted.** A realm's account of itself is airtight
+from inside and contradicts the realm next door *because a repair mechanism with one realm's scope
+can only ever produce locally coherent, globally contradictory history.* The player is not finding
+sloppiness. They are reading the output of a machine doing its best with a partial view.
+
+**Two people are proved right by this, and neither knows it.** The Black's position — beyond repair,
+rebuild it — is technically correct in a way nobody has argued: *the repair mechanism is the damage.*
+And [[quetzalcoatl-the-white]] is the author of it. The man defending the world against a rebuild
+built the thing that is grinding it down.
 
 **The generated lore is internally consistent and externally contradictory.** That rule is the whole
 design:
@@ -67,8 +120,25 @@ The engine is not perfect, and it works hardest on things it cannot fully absorb
 - **Contradiction with a surviving witness.** [[gargoyle]] holds an unedited memory of the world
   before the torpor, which makes him the one character able to notice that the past has moved.
 
+## Whose Engine It Is
+
+**It is [[quetzalcoatl-the-white]]'s**, and he built it to stabilise the realms **after**
+[[the-linking-of-the-realms]]. It is not a fault in the world and not a side effect of the Black's
+self-evolving engine; it is a **deliberate stabilisation layer**, and it worked.
+
+It is also his **second** such layer. [[the-continuity-system]] came first, at the founding, and does
+the opposite job — it refuses continuity-breaking events as they occur, and it worked flawlessly for
+as long as the worlds were separate. The retcon engine exists because prevention has nothing to bite
+on when the contradiction is **inherited rather than committed**.
+
+**This is the sharpest thing in the White's characterisation.** The mechanism that sentenced
+[[ninja]]'s family to a treason they did not commit is not an impersonal property of reality. It is
+his fix, doing exactly what he designed it to do. He is the god who papers over the gods' mistakes,
+and the paper is where the player finds every single clue.
+
 ## Ties
 
+- [[the-continuity-system]] — the White's first layer, which prevents rather than absorbs.
 - [[continuity-glitches]] — where the engine fails, and what the player does about it.
 - [[the-four-gods]] · [[the-four-developers]] — whose changes it is absorbing.
 - [[the-gate-guardian]] — the worked example, live from chapter one.

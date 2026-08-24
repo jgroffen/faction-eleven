@@ -68,6 +68,27 @@ corpse-stealing, gate-breaching, looting a neighbour — is the point, and worth
 It also makes them the game's **oracle**: the only entities who have been outside and can testify to
 what is there.
 
+## Ancient Eldritch Knowledge
+
+**The liches are the only characters who both see the glitches and can explain them.** Their AI nature
+gives them the self-awareness to notice, and having hacked out into the void gives them real working
+knowledge of the realms and of **the infrastructure the games run on** — the layer beneath the world,
+which nobody else has ever stood in.
+
+**They present all of it as ancient eldritch lore.** Not a lie, exactly: a costume. What they actually
+possess is systems knowledge, and what they offer is the forbidden wisdom of things that have looked
+upon the outer dark. The framing is doing two jobs — it fits what a lich is supposed to be, and it
+keeps the source of the knowledge to themselves.
+
+**This makes them the game's most dangerous exposition**, and the reason they work as an oracle at
+all. Anything they say is simultaneously true and theatrical, so the player receives real information
+in a register that invites them to discount it. By the time it can be checked, it has been sitting in
+the player's head for chapters ([[continuity-glitches]], [[a-heal-is-a-patch]]).
+
+**Planned gag, recorded as intent:** the **Glitch Lich** — *liches cause glitches*. Placement and
+tone are undecided, but the joke lands on something true, since the liches breaking containment is a
+real source of instability.
+
 ## Ties
 
 - [[the-damned]] — whose liches these are.

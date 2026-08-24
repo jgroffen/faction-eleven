@@ -44,6 +44,15 @@ them is scale and care, not licence:** she made a small, elegant, precisely targ
 review; he made a sweeping one. Both went around the same door, and his was the one that started a
 war.
 
+**He is also a part-owner.** He worked with [[tezcatlipoca-the-black]] before the studio existed and
+they became friends; when the Black and the White went into business they invited him in, and he
+**invested his own money and took ownership** ([[the-four-developers]]). What he shipped without
+review, he shipped into a company he part-owns and a codebase he did not write.
+
+**His alignment with the Black is prior friendship, not conviction.** He renews an alliance with the
+man he worked with before the studio existed — which is what the realms mistake for a pact between
+the lord of war and the lord of darkness.
+
 **He is the antagonist of the game's live conflict.** Seeing the Red and the White both intervening,
 he renewed his alliance with the Black and shipped a **Secret Society System**: hidden groups seeded
 into realms with their own convictions and their own agendas. [[the-guardians-of-night]] are an

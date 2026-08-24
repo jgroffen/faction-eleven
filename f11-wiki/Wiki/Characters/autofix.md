@@ -38,6 +38,16 @@ whose comms ladder turns built minibots into followers, then tools, then an auto
 Recovers and repairs other robots ([[robot-repair-puzzle]]); some cannot be saved and are scrapped
 instead, and some he cannot fix *yet*.
 
+**His repair skill edits code, and that makes him a detector.** A fixbot's heal repairs the *code* of
+whatever it is fixing ([[a-heal-is-a-patch]]), so where every other character absorbs a retcon and
+carries on as though the new history was always the case, Autofix **sees the edit**
+([[continuity-glitches]]).
+
+**He does not know what he is looking at.** He has been running a matter of decades, with nothing to
+compare against and no reason to think the seams matter. So the player's very first witness is one
+who notices and shrugs — which is exactly what makes chapter one able to plant evidence that pays off
+eight chapters later.
+
 **What he can and cannot command.** Autofix **controls** every minibot he builds and can issue them
 orders ([[minibot-command]]). **Mini-fix bots are different: he can communicate with them but not
 control them**, even the ones he built — they are far more autonomous, like other robots. As with

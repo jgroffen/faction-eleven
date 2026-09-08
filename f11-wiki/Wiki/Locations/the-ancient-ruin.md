@@ -17,7 +17,12 @@ controlling_faction: ""
 # The Ancient Ruin
 
 A ruin in [[realm-01]] holding an **old abandoned gate** — and that gate is **already cracked**. It
-faces [[realm-09]], the [[green-skins]].
+faces [[realm-07]], the [[green-skins]].
+
+**Open, and load-bearing:** this gate's existence was justified as "two places round the ring" from
+[[realm-01]] while Green Skins sat at realm-09. At four places from realm-01 (their new number,
+realm-07), that specific justification no longer holds arithmetically. Carried as pending a new
+account of which realms a gate can join at all — see the handover on the Ninja/Gargoyle route.
 
 **Part of:** [[realm-01]] · **Controlled by:** nobody
 
@@ -42,6 +47,8 @@ never let the robot signal through, because it does not face [[realm-02]].
 - Who built the ruin, who abandoned the gate, and how long it has been cracked.
 - Whether the "sealed and guarded **for a reason**" beat belongs here now
   — see [[the-cracked-gate]].
+- **Why this gate exists at all**, now that its "two places round the ring" justification no longer
+  holds — pending the incoming gate-topology rule (static gates between allied and enemy realms).
 
 ## Set Here
 

@@ -100,8 +100,9 @@ two realms that were closest to begin with, and the machine that comes through b
 family that has been keeping its cousin on a shelf for generations.
 
 **Gates are therefore ten separate doors, not one membrane.** [[realm-01]]'s other gate — the
-abandoned one to [[realm-09]] in [[the-ancient-ruin]] — is *already* cracked and lets a different
-signal through entirely.
+abandoned one to [[realm-07]] in [[the-ancient-ruin]] — is *already* cracked and lets a different
+signal through entirely. (Its own distance justification is separately open — see
+[[the-ancient-ruin]].)
 
 ## Why It Gates The Second Signal Too
 
@@ -119,7 +120,7 @@ An earlier version had the guardian's gate leading to the [[green-skins]]: beat 
 "the gate was sealed and guarded **for a reason**", then hold off waves of green-skins. With the
 guardian now facing the robots, that beat has nowhere obvious to land.
 
-The natural home for it is [[the-ancient-ruin]]'s gate, which does face [[realm-09]].
+The natural home for it is [[the-ancient-ruin]]'s gate, which does face [[realm-07]].
 
 **Why the robot gate is guarded is now answered, and it is not the Institute's doing.**
 [[quetzalcoatl-the-white]] placed the guardian to keep other realms' code out of a game he leads.

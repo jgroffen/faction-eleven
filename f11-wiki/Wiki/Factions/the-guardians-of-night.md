@@ -22,11 +22,15 @@ A **secret cross-realm group** working to incite the [[green-skins]], the [[were
 [[the-damned]] to invade the [[celestials]]. They smashed the gargoyles, broke the barrier, and let
 three realms believe they were defending themselves.
 
-**They are not a conspiracy. They are a feature.** [[huitzilopochtli-the-blue]] built a **Secret
-Society System** — hidden groups seeded into realms with their own convictions and their own agendas
-— and the Guardians of Night are an instance of it. He did not recruit [[val]] or instruct her. The
-system found a vampire already carrying [[xipe-totec-the-red]]'s power and made her a founder.
-Everything downstream followed from a system doing exactly what it was built to do, unsupervised.
+**They are not a conspiracy. They are a feature.** [[huitzilopochtli-the-blue]] built
+[[the-secret-society-system]] — hidden groups seeded into realms with their own convictions and
+their own agendas, built to add intrigue, incite conflict, and fix game-balance issues — and the
+Guardians of Night are its first instance. He did not recruit [[val]] or instruct her. The system
+found a vampire already carrying [[xipe-totec-the-red]]'s power and made her a founder, because she
+was, at that moment, its most elegant available answer to **three** problems: the [[gargoyle]]
+guardians were too powerful, [[the-damned]] were stagnating, and there was nowhere near enough
+conflict on that side of the wheel. Everything downstream followed from a system doing exactly what
+it was built to do, unsupervised.
 
 **Homeland:** none — they cut across [[realm-07]], [[realm-08]] and [[realm-09]] rather than
 belonging to one.
@@ -47,6 +51,14 @@ Everything else follows from that belief:
   enemy ([[the-broken-barrier]]).
 - Their own peoples are not told, because their own peoples would not agree.
 
+**The plan was three realms, not two.** [[val]] intended to bring the might of the [[green-skins]],
+[[the-damned]] and [[werebeasts]] against the [[celestials]] together. No path to [[realm-09]] was
+ever found — the road is lost to her from both [[realm-08]] and [[realm-07]] — so the invasion went
+ahead with two. **Neither she nor anyone in the Guardians knows this is [[the-secret-society-system]]
+balancing itself**: the same routine that judged the gargoyles too powerful to leave standing also
+judges three factions against one too imbalanced to allow, and blocks it the only way the fiction
+can — by losing the road.
+
 **The name is a claim.** They call *themselves* Guardians — the same word the gargoyles are built
 around. Both are defending the realm; only one of them was allowed to choose what that means.
 
@@ -60,7 +72,7 @@ around. Both are defending the realm; only one of them was allowed to choose wha
   axis of [[the-wheel-of-realms]].
 - [[fey-folk]] — **not attacked**, and the reason is fear. The [[werebeasts]]' barrier facing them
   still stands, spared because the Guardians are commanded from [[realm-08]] and [[the-damned]] are
-  afraid of the Fey Folk. Somebody else's fear is why realm-07's gargoyles survived.
+  afraid of the Fey Folk. Somebody else's fear is why realm-09's gargoyles survived.
 - [[faction-eleven-antagonist]] — **[[huitzilopochtli-the-blue]] seeded them**. They do not know it,
   and neither, in any meaningful sense, does he.
 
@@ -96,3 +108,6 @@ is them doing something *now*, through people who have never heard of them.
 - **Whether any of them know**, or whether the seeding is invisible all the way up.
 - **What they call the Ancient**, given that nobody in the multiverse remembers the eleventh
   faction exists.
+- **What Val does next**, now that a Gargoyle survived her confrontation with him
+  ([[the-trial-of-the-last-gargoyle]]): she resolves to destroy every remaining gargoyle, including
+  the [[werebeasts]]' intact set — see the handoff on the later chapter this leads to.

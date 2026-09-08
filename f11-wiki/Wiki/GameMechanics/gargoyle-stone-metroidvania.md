@@ -67,7 +67,7 @@ opened by a movement ability rather than by the right weapon.
 
 **Upgrades are taken from the dead.** The Gargoyle unlocks abilities by finding
 [[gargoyle-fragments]] — **pieces of other gargoyles**, all of whom had their heads smashed
-([[the-smashing-of-the-gargoyles]]). Gargoyles are rare and scattered across [[realm-09]] **in
+([[the-smashing-of-the-gargoyles]]). Gargoyles are rare and scattered across [[realm-07]] **in
 important places**, so the upgrade map is also a map of where the realm's defences once stood.
 Growth, exposition and grief are the same collectible.
 
@@ -86,15 +86,15 @@ that moved is a problem. That single decision generates the starting kit, the no
 the fail state at once — the mechanics were designed first and the lore arrived independently to
 justify all three.
 
-## The Ninja In Realm 09
+## The Ninja In Realm 07
 
 Under [[realm-governs-game-style]], the [[ninja]] plays the **same Metroid structure** when he
-crosses into [[realm-09]] in [[chapter-02]] — the rhythm layer stays home in [[realm-01]], and his
+crosses into [[realm-07]] in [[chapter-02]] — the rhythm layer stays home in [[realm-01]], and his
 progression becomes ability-gated too.
 
 But he acquires abilities **his own way**, keeping the Institute's model intact: he finds a
 **challenge room**, [[mifix]] and the Ninja have a **dialogue**, and then he **learns the new skill
-by practising it in the room**. So realm-09 holds two kinds of upgrade node — the Gargoyle's lore
+by practising it in the room**. So realm-07 holds two kinds of upgrade node — the Gargoyle's lore
 fragments and the Ninja's challenge rooms — and they characterise the two protagonists in exactly
 opposite terms: one **remembers** what his kind could do, the other **trains** until he can.
 
@@ -102,7 +102,7 @@ The challenge rooms are also where the Ninja's [[ninja-rhythm-platforming]] skil
 survives inside a Metroid: hard, self-contained, optional-feeling rooms in a map otherwise built for
 exploration.
 
-**[[mifix]] is the save/restore mechanic in realm-09.** The companion who lets the Ninja retry in
+**[[mifix]] is the save/restore mechanic in realm-07.** The companion who lets the Ninja retry in
 chapter one becomes, mechanically, the save point in chapter two — so the Ninja and the Gargoyle
 share a map with **different failure models**: the Ninja restores from Mifix, the Gargoyle restarts
 the section.
@@ -125,7 +125,7 @@ Two, both real:
 - **Metroidvania is the most content-hungry genre on the roster.** A linear platformer ships level
   by level; an interconnected map is not playable until the loop closes. That fights
   [[chapter-based-release]] harder than any style chosen so far. The mitigation is already in the
-  design: **two protagonists traverse the same map**, so realm-09 is built once and played twice.
+  design: **two protagonists traverse the same map**, so realm-07 is built once and played twice.
 - **Flight ends level design.** Double → triple → quad → full flight is four rungs on a single
   axis, and once the player can fly, gaps, walls and verticality stop gating anything. Metroid puts
   its equivalents last for this reason. **How much of the ladder belongs in chapter two is
@@ -134,6 +134,7 @@ Two, both real:
 ## Used In
 
 <!-- gd:used-in:start -->
+- [[the-trial-of-the-last-gargoyle|The Trial Of The Last Gargoyle]] · quest
 - [[the-waking-of-the-last-gargoyle|The Waking Of The Last Gargoyle]] · quest
 - [[gargoyle-fragments|Gargoyle Fragments]] · item
 <!-- gd:used-in:end -->

@@ -72,10 +72,17 @@ across the whole opposition axis of [[the-wheel-of-realms]].
 
 ## What Is Still Not Established
 
-- **The Ancient's motive** — the largest open question in the design
-  ([[story-outline-requirement]]). The eleventh faction is *acting*; what for is unknown.
 - Whether this explains why the [[institute-of-eight]]'s gate was "sealed and guarded **for a
   reason**" ([[the-cracked-gate]]). **Inference, not established.**
+
+## The Ancient's Motive, Resolved
+
+This was the design's largest open question, and the answer is that there isn't one. The
+"Ancient" is [[huitzilopochtli-the-blue]], acting through [[the-secret-society-system]] — a system
+built to add intrigue, incite conflict and fix game-balance issues, which spun up
+[[the-guardians-of-night]] automatically because they answered all three at once. Nobody chose the
+green-skins to be used. A shipped, unwatched feature found the most elegant instance available and
+took it.
 
 ## Player-Facing
 

@@ -26,7 +26,7 @@ prerequisites:
 
 In chapter two, [[mifix]] reports that it can detect **another mini-fix bot
 signal — different from the one coming through the cracked gate.** Following it leads [[ninja]] to
-[[the-ancient-ruin]] and its abandoned, already-cracked gate into [[realm-09]] — and through it, to
+[[the-ancient-ruin]] and its abandoned, already-cracked gate into [[realm-07]] — and through it, to
 [[gargoyle]].
 
 **Status:** design · **Type:** main · **Location:** [[the-ancient-ruin]]
@@ -73,21 +73,25 @@ them knows the others are looking.
 ## The Signal's Route
 
 The second signal does not travel in a straight line. It comes from [[realm-03]] to [[realm-01]]
-**via [[realm-09]]**:
+**via [[realm-07]]**:
 
 > [[templar-monastery]] ([[realm-03]]) → the **open gate** between the [[celestials]] and the
-> [[green-skins]] → [[realm-09]] → the **cracked abandoned gate** in [[the-ancient-ruin]] →
+> [[green-skins]] → [[realm-07]] → the **cracked abandoned gate** in [[the-ancient-ruin]] →
 > [[realm-01]]
 
 Two things follow, and both are good:
 
 1. **The green-skins' invasion route is the story's communication route.** The open gate that lets
    the green-skins attack the Celestials is the same gate that carries the call for help. A
-   long-standing anomaly in [[the-wheel-of-realms]] — realms 03 and 09 are four places apart yet
-   connected — is now load-bearing rather than awkward.
-2. **The Ninja follows the signal back up its own path.** Going to [[realm-09]] is not a detour; it
+   long-standing anomaly in [[the-wheel-of-realms]] — realms 03 and 07 are four places apart yet
+   connected — is now load-bearing rather than awkward. This leg is unaffected by Green Skins' move
+   from realm-09 to realm-07 (equidistant from realm-03 either way).
+2. **The Ninja follows the signal back up its own path.** Going to [[realm-07]] is not a detour; it
    is the first leg of the route the signal took. That is why the trail leads to [[gargoyle]]
-   before it leads to [[templar]].
+   before it leads to [[templar]]. **The second leg does not survive the move unscathed:** the
+   cracked gate in [[the-ancient-ruin]] was "two places round the ring" from [[realm-01]] when Green
+   Skins sat at realm-09. At four places, this leg of the route is open, pending a new account of
+   which realms a gate can join at all — see the handoff on the Ninja/Gargoyle route.
 
 ## Preconditions
 

@@ -11,12 +11,12 @@ source_count: 1
 aliases: []
 role: protagonist
 faction: werebeasts
-home: realm-07
+home: realm-09
 ---
 
 # Werewolf
 
-**Role:** protagonist · **Faction:** [[werebeasts]] · **Home:** [[realm-07]]
+**Role:** protagonist · **Faction:** [[werebeasts]] · **Home:** [[realm-09]]
 
 Protagonist of the [[werebeasts]].
 

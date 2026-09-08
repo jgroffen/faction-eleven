@@ -79,3 +79,6 @@ the war machine.
 - Whether [[chapter-02]] still contains [[the-calling-of-ancient-allies]] — it must precede
   [[the-second-signal]]'s detection, so it cannot move here. **Inference, not stated.**
 - What the four-protagonist convergence plays like.
+- **A second [[the-secret-society-system]] instance, a Mystics invasion of the Werebeasts through
+  their catacombs, and a third occurrence of the Red's Power** — flagged as a major piece of this
+  chapter, deferred in full to [[the-mystics-second-secret-society]].

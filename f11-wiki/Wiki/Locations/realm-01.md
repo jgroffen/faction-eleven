@@ -43,8 +43,9 @@ Home to the [[institute-of-eight]]'s **family shrine**, which holds **two**
 
 **Two gates.** The gate to [[realm-02]] is **guarded** — this is the gate guardian [[ninja]]'s
 family is sentenced to fight for ever, and the one cracked by their defeat
-([[the-cracked-gate]]). A second gate, to [[realm-09]], stands **abandoned and already cracked** in
-[[the-ancient-ruin]]. See [[sealed-interplane-gates]].
+([[the-cracked-gate]]). A second gate, to [[realm-07]], stands **abandoned and already cracked** in
+[[the-ancient-ruin]] — its distance justification is open, pending the incoming gate-topology rule.
+See [[sealed-interplane-gates]].
 
 ## Set Here
 

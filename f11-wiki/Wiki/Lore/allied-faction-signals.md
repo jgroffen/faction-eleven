@@ -86,7 +86,7 @@ walls closed.
 
 **Signals route, they do not leap.** A signal travels realm to realm through whatever gates are
 open or cracked along the way — the second signal reaches [[realm-01]] from [[realm-03]] by way of
-[[realm-09]] ([[the-second-signal]]). So the network's reach is a function of the gates' *states*,
+[[realm-07]] ([[the-second-signal]]). So the network's reach is a function of the gates' *states*,
 and a single crack in the right place can connect realms that are nowhere near each other.
 
 That is what makes [[the-cracked-gate]] the hinge of chapter one: a fracture in a single sealed

@@ -57,7 +57,7 @@ Three layers, and each one believes it is the ground floor:
 |-----|------------------------------|
 | The [[green-skins]] rank and file | the Celestials have invaded again; we are defending ourselves |
 | [[the-guardians-of-night]] | the unsealing proves the Celestials, Fey Folk and Mystics mean to invade; we are striking first |
-| **an Ancient** | *unstated* — [[faction-eleven-antagonist]] is manipulating the Guardians into starting trouble |
+| **an Ancient** | there is no plan — [[huitzilopochtli-the-blue]]'s [[the-secret-society-system]] found this the most elegant available fix for gargoyle overpower, Damned stagnation and a lack of conflict, and nobody is watching what it does with it |
 
 Nobody in the chain thinks of themselves as an aggressor. That is what makes it a good conspiracy
 and a hard one to unpick, and it means the Gargoyle's opponents are all, in their own eyes,
@@ -92,7 +92,7 @@ cause the player only learns in [[chapter-02]], from the other side.
 ## Open
 
 - **Which barrier, and where.** The gate to [[realm-03]] is established as standing open, but the
-  barrier's location in [[realm-09]] is not authored.
+  barrier's location in [[realm-07]] is not authored.
 - **How** they broke it, given that it is gargoyle-shaped stone with gargoyle magic in it.
 - Whether the Guardians understood that breaking it would wake the gargoyles, or whether smashing
   them first was luck.

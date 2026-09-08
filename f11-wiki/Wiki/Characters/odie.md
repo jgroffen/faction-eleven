@@ -80,6 +80,12 @@ signals the Templar sends in [[the-calling-of-ancient-allies]] — and it is his
 He is **detectable long before he is reachable**: too far away to communicate with, so for a whole
 chapter he is a direction rather than a conversation.
 
+**He is also the one who tells [[ninja]] what the Ninja is.** Once they meet at the monastery, Odie
+identifies that the Ninja carries the power to breach realm barriers — [[xipe-totec-the-red]]'s
+imbuement, which the Ninja has felt only as an unexplained compulsion until then. Odie names it; the
+Ninja does not work it out himself. It is deferred design work — see the handoff on what the Ninja,
+[[gargoyle]] and the Templar do next.
+
 ## Quests
 
 <!-- gd:quests:start -->
@@ -91,6 +97,7 @@ chapter he is a direction rather than a conversation.
 - [[templar]] — who wakes him without knowing what he is.
 - [[autofix]] — whose `ACCESS DENIED` branch he holds hints for.
 - [[celestials]] — who named him twice, and remember neither name's origin.
+- [[ninja]] — whose Red Power he identifies at the monastery.
 
 ## Open
 

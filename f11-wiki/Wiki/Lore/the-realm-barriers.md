@@ -65,7 +65,7 @@ anywhere near it, so more than one mechanism is at work across the wheel.
 
 ## Which Ones Still Stand
 
-The three barriers mirror the wheel's two arcs: 09→03, 08→04, 07→05.
+The three barriers mirror the wheel's two arcs: 07→03, 08→04, 09→05.
 
 | Barrier | State |
 |---|---|
@@ -74,7 +74,7 @@ The three barriers mirror the wheel's two arcs: 09→03, 08→04, 07→05.
 | [[werebeasts]] → [[fey-folk]] | **standing** |
 
 **The Werebeasts' barrier survives because of somebody else's fear.** [[the-guardians-of-night]] are
-commanded from [[realm-08]], and [[the-damned]] are afraid of the [[fey-folk]]. Realm-07's gargoyles
+commanded from [[realm-08]], and [[the-damned]] are afraid of the [[fey-folk]]. Realm-09's gargoyles
 were spared and its barrier left intact not out of mercy or oversight but because the people giving
 the orders did not want that door opened. It is the fact a much later chapter is built on.
 
@@ -89,5 +89,5 @@ the orders did not want that door opened. It is the fact a much later chapter is
 
 Yes, and structurally. The Gargoyle wakes because of a barrier he cannot see breaking somewhere
 else in the realm — so the player's first question is the same as his: *which one, and who?*
-[[realm-07]]'s barriers are **still standing**, which is the fact that makes a later chapter
+[[realm-09]]'s barriers are **still standing**, which is the fact that makes a later chapter
 possible.

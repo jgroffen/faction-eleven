@@ -26,11 +26,11 @@ record.
 | 02 | [[robots]] | **deep** | **settled** — [[robots-incremental-exploration]] | settled |
 | 01 | [[institute-of-eight]] | **deep** | **settled** — [[ninja-rhythm-platforming]] | settled; gate opens late-game |
 | 03 | [[celestials]] | **deep** | **settled** — [[celestials-hero-tower-defence]] | settled through chapter two |
-| 09 | [[green-skins]] | **deep** | **settled** — [[gargoyle-stone-metroidvania]] | **settled** — origin, instructions, antagonist and story spine |
+| 07 | [[green-skins]] | **deep** | **settled** — [[gargoyle-stone-metroidvania]] | **settled** — origin, instructions, antagonist and story spine |
 | 04 | [[mystics]] | **deep — next session** | ❌ none — and they lead [[chapter-03]] | substantial, **plus a war**: invaded by the Damned and werebeasts, instigated by [[the-guardians-of-night]] |
 | 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | **a role, not a story**: one of the three old invader realms |
 | 06 | [[pirates]] | thin — leave | unconfirmed | none |
-| 07 | [[werebeasts]] | thin — leave | unconfirmed | **a role**: old defensive ally; **their gargoyles survive**, which sets up a much later chapter |
+| 09 | [[werebeasts]] | thin — leave | unconfirmed | **a role**: old defensive ally; **their gargoyles survive**, which sets up a much later chapter |
 | 08 | [[the-damned]] | thin — leave | unconfirmed | **substantial role**: co-made the gargoyles, [[val]] is theirs, now invading the Mystics |
 | 10 | [[aliens]] | thin — leave | unconfirmed | partial |
 
@@ -39,8 +39,9 @@ contiguous arc 01–02–03 of [[the-wheel-of-realms]]. **All three are settled*
 is specified end to end.
 
 Chapter two adds the [[mystics]] ([[realm-04]]) as a major setting **and** the [[green-skins]]
-([[realm-09]]) via [[the-second-signal]] — so the arc stops being contiguous. Realm 09 is reached
-through an abandoned gate in [[realm-01]], not by walking round the wheel.
+([[realm-07]]) via [[the-second-signal]] — so the arc stops being contiguous. Realm 07 is reached
+through an abandoned gate in [[realm-01]], not by walking round the wheel — though that gate's own
+justification is open, pending a new account of which realms a gate can join.
 
 **Four of ten styles are settled**, leaving the [[mystics]] as **the only chapter lead without a
 game style** — and they lead [[chapter-03]]. That is the most urgent design gap.

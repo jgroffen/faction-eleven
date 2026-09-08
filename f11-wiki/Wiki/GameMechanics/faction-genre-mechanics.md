@@ -38,7 +38,7 @@ as a different loadout or stat spread. **Incremental**, **tower defence**, **RPG
   "a mostly platform or top-down exploration game" with genre labels like 4X and bullet-hell.
 - **A genre belongs to a realm, not to a protagonist** ([[realm-governs-game-style]]). When a
   protagonist travels, they play the host realm's genre: the [[ninja]] plays a Metroid in
-  [[realm-09]], and both he and the [[gargoyle]] play [[celestials-hero-tower-defence]] in
+  [[realm-07]], and both he and the [[gargoyle]] play [[celestials-hero-tower-defence]] in
   [[chapter-03]]. This turns ten one-shot genre systems into systems that get **played more than
   once**, and is the direct mitigation for the scope risk below.
 

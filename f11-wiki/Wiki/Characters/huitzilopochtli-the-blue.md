@@ -54,15 +54,20 @@ man he worked with before the studio existed — which is what the realms mistak
 the lord of war and the lord of darkness.
 
 **He is the antagonist of the game's live conflict.** Seeing the Red and the White both intervening,
-he renewed his alliance with the Black and shipped a **Secret Society System**: hidden groups seeded
-into realms with their own convictions and their own agendas. [[the-guardians-of-night]] are an
-instance of it.
+he renewed his alliance with the Black and shipped [[the-secret-society-system]]: hidden groups
+seeded into realms with their own convictions and their own agendas, built for **three goals at
+once** — narrative intrigue, inciting conflict, and correcting game-balance issues, with a new
+society **created automatically whenever the system detects the need for any of them.**
+[[the-guardians-of-night]] is its first known instance.
 
 That distinction matters. **The Guardians of Night are not a plot; they are a feature.** He did not
 recruit [[val]] or instruct her. He built a system, it found a vampire already carrying
 [[xipe-totec-the-red]]'s power, and it made her the founder of a secret society convinced that a war
-was coming and that striking first was the only defence. Everything downstream — the smashing of the
-gargoyles, the broken barrier, three realms marching on the [[celestials]] and [[mystics]] — followed
+was coming and that striking first was the only defence. **The elegance is the system's, not his:**
+it answered all three of its own goals in one instance — the gargoyles were too powerful (balance),
+the Damned were stagnating (balance), and the old war had gone quiet (conflict) — and he never
+designed that convergence, only the machine that could find it. Everything downstream — the smashing
+of the gargoyles, the broken barrier, realms marching on the [[celestials]] and [[mystics]] — followed
 from a system doing exactly what it was built to do ([[the-smashing-of-the-gargoyles]],
 [[the-broken-barrier]]).
 
@@ -70,9 +75,11 @@ from a system doing exactly what it was built to do ([[the-smashing-of-the-gargo
 seeded society would do to three realms that were already at each other's throats, and he did not go
 back and look. Three realms went to war as a side-effect of an untested change.
 
-**He is "an Ancient".** The unnamed singular figure manipulating the Guardians of Night, which the
-design carried unresolved for a long time, is him — and he is not manipulating them in any sense he
-would recognise.
+**He is "an Ancient" — and there is no motive to find.** The unnamed singular figure manipulating
+the Guardians of Night, which the design carried unresolved for a long time, is him — and he is not
+manipulating them in any sense he would recognise. He wants nothing from them. A system he shipped
+and never checked on is doing its job, and "why is the Ancient doing this" resolves to "there is no
+Ancient, only an unsupervised feature."
 
 ## Where He Sits Against The Red
 
@@ -98,7 +105,7 @@ the opening chapters traces back to him through people who have never heard of h
 His colour marks him: **blue** in his avatar at work, in the avatar he wears inside the games, and in
 the fragments of the outside that leak in where the player can find them ([[the-four-developers]]).
 
-**Lead on:** [[pirates]] (06), [[werebeasts]] (07) and [[green-skins]] (09) — the arc that fought the
+**Lead on:** [[pirates]] (06), [[green-skins]] (07) and [[werebeasts]] (09) — the arc that fought the
 old war against the Red's. Three realms shaped by someone who builds fast and does not check: two of
 them have never progressed for in-fighting, and the third came out of the linking better off than
 anyone.
@@ -113,6 +120,7 @@ anyone.
 - [[the-four-gods]] — the pantheon and the argument.
 - [[the-four-developers]] — what he actually is.
 - [[xipe-totec-the-red]] — his opposite, and the other half of the answer.
-- [[the-guardians-of-night]] — his system, running unsupervised.
+- [[the-secret-society-system]] — what he actually built.
+- [[the-guardians-of-night]] — his system's output, running unsupervised.
 - [[val]] — the instance it produced.
 - [[tezcatlipoca-the-black]] — his ally, renewed.

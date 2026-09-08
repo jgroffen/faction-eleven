@@ -1285,3 +1285,161 @@ is left open rather than assumed.
 - *Interviewer's note, for design:* in-fiction witnesses are a **deniability shield**. A glitch a
   character remarks on cannot be mistaken for a bug in the real game, which makes strong-tier
   glitches safest wherever a fixbot or a lich is present.
+
+### Round 31 — 2026-09-07
+
+The author opened with new material: the Secret Society System's game-balance purpose, Val's
+blocked three-realm invasion, the Val/Gargoyle/Minotaur confrontation, and the Ninja's
+barrier-breaching power. The interviewer's questions and the author's answers follow.
+
+**Q59 — The Werebeast gate contradiction.** `sealed-interplane-gates` states as settled fact that
+Val's imbuement opened **both** the Damned's gates to the green-skins *and* the werebeasts. New
+material has her unable to find a path to realm-07 at all. Which is true? (recommendation: the note
+was too broad — only the Damned→Green-skins gate was actually opened; the werebeast leg was the
+Red's intent, never a completed act)
+
+> agreed.
+
+**Q60 — Is game balance a real design goal of the Secret Society System, or emergent/unintended?**
+
+> The Blue developed the Secret Society System to achieve three goals: Introduce interesting events
+> and intrigue into a game, incite conflict, fix game balance issues by having the secret society
+> have goals that rebalance the game. A Secret Society can be created automatically when the need
+> for the above is detected. The elegance is the Secret Society system elegantly created the
+> Guardians of Night to address issues with all three - Gargoyles are too powerful, The Damned
+> faction is stagnating, there is minimal conflict.
+
+**Q61 — Does this resolve "the Ancient's motive," the largest open question in
+`the-manipulation-of-the-green-skins`?** (recommendation: yes — there was never a personal motive,
+just an untested system executing its own goals)
+
+> agreed.
+
+**Q62 — Does the Val/Gargoyle/Minotaur confrontation close chapter two?** (recommendation: yes)
+
+> agreed.
+
+**Q63 — Is Val's Minotaur the same Minotaur from the original smashing?** (recommendation: yes)
+
+> agreed.
+
+**Q64 — What happens after the confrontation, and why does the Gargoyle go to realm-07?**
+
+> The gargoyle doesn't let Val know, but after the confrontation with Val he begins to doubt he is
+> functioning properly. The Gargoyle can help the ninja get through the gate to the Celestials,
+> without the Gargoyle's help the Ninja has no chance of getting through the gate. The ninja
+> encourages the Gargoyle that he may find answers by going to the Celestial realm - where the ninja
+> needs to go. The Gargoyle decides to join up with the Ninja to go to the celestial realm and get
+> answers as the best course of action, so agrees to work with the Ninja to get through the gate.
+> Once the Ninja and Gargoyle meet up with the Templar and Odie determines the Ninja can breach
+> realm barriers they form a new plan of seeking out the Gargoyle's in the Werebeasts realm to find
+> answers. The gargoyle knows that breaching that barrier should awaken the Werebeast gargoyles.
+> Create a handoff to grill on this event.
+
+**Q65 — Is the Ninja's barrier-breaching power the same Red Power as his gate-unsealing ability, and
+does he discover it himself or is he told?**
+
+> it's teh same power to open / breach barriers. He doesn't discover it, Odie notifies him. It
+> explains why he had the urge to attack the barrier to the robot realm - he is motivated by the
+> power bo breach barriers - that's part of the 'Red Power' and why Val is motivated too.
+
+**Q66 — Which barrier do the Mystics and Celestials open with the Ninja's help?**
+
+> I'm thinking the Celestials and Werebeasts gate is open and the Mystics are invading the
+> Werebeasts through their catacombs. The mystics will have developed magic to lock the werebeast
+> gargoyles in stasis. This will be a second secret society and a third occurrance of the red's
+> power. Create a hand-off for this grilling - it will be a big part of chapter three.
+
+## Notes For The Compiler — Round 31
+
+- **Corrects a compiled claim.** `sealed-interplane-gates` and `val` overstate the Red's
+  imbuement's completed effect — narrow to the Damned→Green-skins gate only.
+- **The Secret Society System has three explicit goals**, not one: narrative intrigue, inciting
+  conflict, and correcting game-balance issues — and it can spin up a secret society
+  **automatically** whenever it detects the need for any of them. This is a real, designed
+  capability of the system itself, not something read into it after the fact.
+- **The Guardians of Night is the system's first known instance**, and its elegance is that it
+  answers all three goals in one stroke: the gargoyles were too powerful (balance), the Damned
+  faction was stagnating (balance), and there was minimal conflict (the incite-conflict goal). The
+  Blue built the capacity; the system chose the instance.
+- **This resolves the design's largest open lore question** — the Ancient's motive. There isn't
+  one. The Guardians of Night are the output of an unsupervised system doing exactly the job it was
+  built for.
+- **The Val/Gargoyle/Minotaur confrontation is chapter two's ending**, and the Minotaur in it is the
+  same Minotaur from `the-smashing-of-the-gargoyles`.
+- **New scene, staged in full:** Val investigates the surviving Gargoyle, confronts him, tries "the
+  gargoyles are just old," fails, declares him a threat to the war plan, sets the Minotaur on him
+  (a defend/dodge encounter — he has no attack), and leaves unconvinced the Minotaur wins. She
+  resolves to destroy every remaining gargoyle. He hides his own doubt from her, but the
+  confrontation plants it.
+- **The Gargoyle's later-chapter motivation changes.** He is no longer talked into helping the
+  Werebeasts by another protagonist out of persuasion alone — he goes seeking answers for himself,
+  because Val's accusation is now a live doubt. The Ninja needs him to get through the
+  green-skins→Celestials gate at all; the Ninja's own reason to go there is independent (finding
+  Odie/the mini-fix signal). They agree to travel together for their own separate reasons.
+- **The Ninja's Red Power is one power covering both gates and barriers**, not two separate gifts.
+  It is felt as a compulsion, not merely available as a tool — it is what has been driving the
+  Ninja to keep attacking the gate guardian's gate all along, and the same compulsion explains
+  Val's certainty and drive. Odie is the one who identifies/names the barrier-breaching capability
+  in the Ninja; the Ninja does not work it out himself.
+- **Werebeast gargoyles wake when their barrier is breached**, same mechanism as realm-09's. The
+  Gargoyle already knows this going in.
+- **Two threads explicitly deferred to handoffs, both flagged by the author as needing their own
+  grilling session:**
+  1. The Ninja/Gargoyle/Templar/Odie sequence — the mechanics of the Gargoyle getting the Ninja
+     through the Celestials gate, what "answers" he's actually looking for there, and the exact
+     shape of Odie's detection of the Ninja's power.
+  2. A **second Secret Society**, instigating a Mystics invasion of the Werebeasts through the
+     Mystics' catacombs, using new stasis magic to lock the Werebeast gargoyles down rather than
+     smash them — carrying a **third occurrence of the Red's Power** in an as-yet-unnamed Mystics
+     character. Marked as a major piece of chapter three.
+
+### Round 32 — 2026-09-08
+
+The author asked to swap which realm number the Green Skins and the Werebeasts occupy (Green Skins
+07, Werebeasts 09 — previously the reverse). Two Explore agents swept the whole repo for everything
+tied to those two numbers before any change was made; their findings and the resulting questions are
+recorded here.
+
+**Q67 — When ring geometry and a faction's own story conflict, which should win?** (recommendation:
+the faction — Gargoyle, the broken barrier, the Celestial invasion and the Werebeasts' intact
+gargoyles all move with their factions; only facts that are inherently about ring position, such as
+who is whose numeric "opposite," get recomputed at the new numbers)
+
+> Faction keeps its story.
+
+**Q68 — Chapter two's only route from Ninja to Gargoyle runs through the Ancient Ruin's gate, which
+exists only because Green Skins sit exactly 2 ring-positions from the Institute of Eight (4 at the
+new number). How should this be handled?**
+
+> I have an update to what realm paths with gates exist. In brief there are static gates between
+> allied and enemy realms only. We will go into detail on it immediately after this change, unless
+> you want it now with this change.
+
+## Notes For The Compiler — Round 32
+
+- **Story content follows the faction, not the number.** Applied throughout: Gargoyle's origin, the
+  broken barrier, the smashing, the barrier-direction pairing, Val's "found vs. lost" road, and
+  gargoyle-stone-metroidvania all moved from realm-09 to realm-07 with the Green Skins; the
+  Werebeasts' intact-gargoyle/standing-barrier story moved from realm-07 to realm-09 with them.
+- **Two real content changes, not just relabelling, followed from the swap:**
+  - Green Skins' historic ring-opposite is now [[robots]] (was [[mystics]]); Werebeasts' is now
+    [[mystics]] (was [[robots]]).
+  - [[realm-04]]'s "the wheel and the old notes agree exactly" claim (Mystics' true opposite also
+    being their real-world despoiler) no longer holds — rewritten as a gap, like the Celestials'
+    case, rather than deleted.
+- **One genuine blocker, left open on purpose.** The Ancient Ruin's gate (realm-01 to the Green
+  Skins) was justified as "two places round the ring" at realm-09; at realm-07 that's four places,
+  and the justification doesn't carry over. Per the author's answer to Q68, this is **not** patched
+  here — every affected note ([[the-wheel-of-realms]], [[the-ancient-ruin]], [[the-second-signal]],
+  [[chapter-02]], [[sealed-interplane-gates]], the Green Skins' faction note) is marked with an
+  explicit Open note instead of a silent fix, pending a new gate-topology rule: **static gates exist
+  between allied realms and between enemy (ring-opposite) realms**, not just neighbours. That rule
+  itself is the subject of the very next session, not designed here.
+- **A side effect worth watching:** under the new rule, Mystics (04) and Werebeasts (09) becoming
+  exact ring-opposites (rather than "three seats away," as when Werebeasts were at realm-07) may
+  turn out to *justify* [[the-mystics-second-secret-society]]'s catacomb route rather than complicate
+  it, since opposites would be exactly the "enemy realms" the new rule grants gates to. Flagged in
+  that handover, not resolved.
+- Colours travel with the faction (dark green now realm-07/Green Skins, tan now realm-09/Werebeasts)
+  — adopted as the low-stakes default, not separately confirmed by the author.

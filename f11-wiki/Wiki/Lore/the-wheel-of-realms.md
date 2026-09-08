@@ -39,17 +39,17 @@ are near and historically friendly. Opposites are distant and historically enemi
 | 04 | [[mystics]] | [[realm-04]] | magenta |
 | 05 | [[fey-folk]] | [[realm-05]] | pale lavender |
 | 06 | [[pirates]] | [[realm-06]] | deep indigo |
-| 07 | [[werebeasts]] | [[realm-07]] | tan |
+| 07 | [[green-skins]] | [[realm-07]] | dark green |
 | 08 | [[the-damned]] | [[realm-08]] | dark grey |
-| 09 | [[green-skins]] | [[realm-09]] | dark green |
+| 09 | [[werebeasts]] | [[realm-09]] | tan |
 | 10 | [[aliens]] | [[realm-10]] | light green |
 
 **Opposites — historically enemies** (each faction and the one five places away):
 
 - 01 [[institute-of-eight]] ↔ 06 [[pirates]]
-- 02 [[robots]] ↔ 07 [[werebeasts]]
+- 02 [[robots]] ↔ 07 [[green-skins]]
 - 03 [[celestials]] ↔ 08 [[the-damned]]
-- 04 [[mystics]] ↔ 09 [[green-skins]]
+- 04 [[mystics]] ↔ 09 [[werebeasts]]
 - 05 [[fey-folk]] ↔ 10 [[aliens]]
 
 **Neighbours — historically friendly:** 01–02, 02–03, 03–04, 04–05, 05–06, 06–07, 07–08, 08–09,
@@ -73,15 +73,20 @@ story.
 
 The ring describes the *old* alignments. Several present-day facts sit against them:
 
-- The [[celestials]] (03) are attacked by the [[green-skins]] (09) and the [[werebeasts]] (07) —
+- The [[celestials]] (03) are attacked by the [[green-skins]] (07) and the [[werebeasts]] (09) —
   but the Celestials' historic enemy by position is [[the-damned]] (08). Both attackers sit four
-  places away: far, but not opposite. **The 03–09 gate is load-bearing**: it is the first leg of the
+  places away: far, but not opposite — this holds regardless of which of the two occupies 07 or 09,
+  since both are equidistant from 03. **The 03–07 gate is load-bearing**: it is the first leg of the
   route the second signal travels to reach [[realm-01]] ([[the-second-signal]]). The green-skins'
   invasion road is also the multiverse's telephone line.
 - The [[institute-of-eight]]'s (01) **guarded** gate leads to [[realm-02]], an adjacent,
-  historically friendly neighbour. Their gate to the green-skins (09) exists but is **abandoned and
-  cracked**, in [[the-ancient-ruin]] — two places round the ring, and maintained by nobody.
-- [[the-damned]] (08) open gates into [[aliens]] (10) space — again two places.
+  historically friendly neighbour. Their gate to the green-skins (now [[realm-07]]) exists but is
+  **abandoned and cracked**, in [[the-ancient-ruin]] — described as "two places round the ring"
+  while Green Skins sat at realm-09. At **four** places from realm-01, that description no longer
+  holds arithmetically, and is carried as **open**, pending a new account of which realms a gate can
+  join at all.
+- [[the-damned]] (08) open gates into [[aliens]] (10) space — again two places, and this one is
+  unaffected by the swap.
 
 ### The ring is a map of three things
 
@@ -111,23 +116,27 @@ The old war ran between two **contiguous arcs** sitting opposite each other:
 
 | Bloc | Realms |
 |------|--------|
-| **The invaded** — built the gargoyles | 07 [[werebeasts]] · 08 [[the-damned]] · 09 [[green-skins]] |
+| **The invaded** — built the gargoyles | 07 [[green-skins]] · 08 [[the-damned]] · 09 [[werebeasts]] |
 | **The invaders** — "constantly incurring" | 03 [[celestials]] · 04 [[mystics]] · 05 [[fey-folk]] |
 
 Each bloc is three neighbours in a row, and **two of the three facing pairs are exact opposites** —
 03↔08 and 04↔09, both historic enemies by position. So the wheel does not merely rank nearness;
 **the opposition axis is where the wars actually happened**, and alliance follows adjacency.
 [[the-gargoyle-guardians]] were built by two of the three defenders working together (necromancers
-of 08, shamans of 09), which is adjacency doing exactly what the ring predicts.
+of 08, shamans of 07), which is adjacency doing exactly what the ring predicts.
 
 The present state is the old war restarted by deception ([[the-broken-barrier]]) — so the
 green-skins invading the Celestials is not a scrambling of the old order. It is the old order,
 resumed on false evidence.
 
-**Elsewhere the ring holds:** [[mystics]] (04) and [[green-skins]] (09) are exact opposites, and the
-green-skins mine the Mystics' realm. [[robots]] (02) sits adjacent to the [[institute-of-eight]]
-(01) — historically friendly — which is where the mini-fix bot in the Ninja's family shrine came
-from, and where the guarded gate leads.
+**Elsewhere the ring used to hold exactly, and no longer does.** [[mystics]] (04) and [[green-skins]]
+used to be exact opposites while green-skins sat at 09, and the green-skins mine the Mystics' realm
+regardless of their number — so position and behaviour used to line up. Now that green-skins occupy
+[[realm-07]] (three places from Mystics, not opposite) and [[werebeasts]] hold the true opposite at
+09, the mining stays with the green-skins but the ring's "opposite" no longer points at them — a gap
+like the Celestials' case above, not a match (see [[realm-04]]). [[robots]] (02) sits adjacent to the
+[[institute-of-eight]] (01) — historically friendly — which is where the mini-fix bot in the Ninja's
+family shrine came from, and where the guarded gate leads.
 
 A pattern follows: **gates to neighbours are maintained and watched; gates to distant realms are
 abandoned and broken.** [[realm-01]] guards its door to a friend and has let the door to an enemy

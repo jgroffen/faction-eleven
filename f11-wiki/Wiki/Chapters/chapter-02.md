@@ -22,6 +22,7 @@ quests:
   - the-waking-of-the-last-gargoyle
   - the-calling-of-ancient-allies
   - the-second-signal
+  - the-trial-of-the-last-gargoyle
 ---
 
 # Chapter 2 — The Signals
@@ -39,7 +40,7 @@ Templar belong to [[chapter-03]]. **This shape is provisional.**
 
 0. **[[the-waking-of-the-last-gargoyle]]** — the chapter's own opening, and the lead faction's.
    [[gargoyle]] wakes from torpor in a room of smashed guardians, recovers enough of himself to move
-   and to hide, and concludes [[realm-09]] is under threat. He then works toward the truth in
+   and to hide, and concludes [[realm-07]] is under threat. He then works toward the truth in
    stages: the Celestial barrier is broken → the green-skins blame a Celestial incursion → it was
    broken from inside by [[the-guardians-of-night]] ([[the-broken-barrier]]).
 1. **[[the-calling-of-ancient-allies]]** — [[templar]] loses to the war machine a second time and
@@ -52,8 +53,13 @@ Templar belong to [[chapter-03]]. **This shape is provisional.**
    communicate with — only once beat 1 has happened **and** chapter one's two conditions are met — the crack, and
    [[autofix]]'s Quantum Comms. Mifix and the Ninja pursue it as **an alternative way to reach the
    Robot Realm**, the guarded gate being cracked but still impassable. It leads [[ninja]] to [[the-ancient-ruin]] and its abandoned,
-   already-cracked gate into [[realm-09]] — and to [[gargoyle]], who is **very ancient** and wants
+   already-cracked gate into [[realm-07]] — and to [[gargoyle]], who is **very ancient** and wants
    to stop his own faction's war on the Celestials. They set out together to find the bot.
+3. **[[the-trial-of-the-last-gargoyle]]** — the chapter's ending. [[val]], now aware a Gargoyle
+   survived, hunts him down herself, fails to talk him into believing he's malfunctioning, and sets
+   the Minotaur on him instead. He survives on defence alone and cannot let it show, but privately
+   starts to doubt himself. Val leaves unconvinced the Minotaur can win, and resolves to destroy
+   every remaining gargoyle.
 
 ## Faction Balance
 
@@ -71,14 +77,14 @@ Heavier than chapter one:
 - **Four factions, against chapter one's three.**
 - **One new game style** — [[gargoyle-stone-metroidvania]]. Every faction in this chapter has a
   settled style.
-- **One new realm** at meaningful scope: [[realm-09]].
+- **One new realm** at meaningful scope: [[realm-07]].
 - New locations: [[templar-monastery]] with its ancient parts, [[the-ancient-ruin]].
 - The first cross-realm **travel** by a protagonist, rather than signalling.
 
 **Two things hold the build cost down.** The Gargoyle runs on the **Ninja's platforming engine**
 with a different move set ([[exploration-core-loop]]), so the chapter's headline system is a
 re-skin of chapter one's rather than a new build. And under [[realm-governs-game-style]] the Ninja
-plays the same Metroid map the Gargoyle does — so [[realm-09]] is **built once and played twice**.
+plays the same Metroid map the Gargoyle does — so [[realm-07]] is **built once and played twice**.
 
 **The chapter's real cost is map, not systems.** Metroidvania is the most content-hungry genre on
 the roster: a linear platformer ships level by level, an interconnected map is not playable until
@@ -105,21 +111,30 @@ in the game, and the clearest argument for tracking beats per chapter.
 
 **Sets up:** [[chapter-03]] — the Ninja and Gargoyle's search unresolved at chapter end, the
 [[mystics]]' response to [[the-wand]] still to come, and the Celestials' war machine problem
-unsolved.
+unsolved. [[the-trial-of-the-last-gargoyle]] also sends the Gargoyle out of [[realm-07]] with the
+Ninja, toward [[realm-03]] — deferred to a handoff rather than designed here.
 
 ## Open
 
 - **The chapter's shape is provisional.**
-- **What ends chapter two?** The convergence was its payoff and belongs to [[chapter-03]]. A chapter
-  focused on the Gargoyle needs an ending of its own, and none is written. The obvious candidate is
-  the Gargoyle uncovering [[the-guardians-of-night]] — a chapter-scale revelation with a named
-  antagonist ([[val]]) attached. **Not established.**
 - Whether [[the-calling-of-ancient-allies]] stays here. It must precede [[the-second-signal]]'s
   detection, so it cannot move to chapter three — **inference, not established**.
-- The route from [[realm-09]] to [[realm-03]] is unexplained — see [[the-second-signal]].
+- The route from [[realm-07]] to [[realm-03]] is unexplained — see [[the-second-signal]].
 - The [[mystics]] "receive" the wand's call but what they *do* is unwritten.
 - **How much of the Gargoyle's ability ladder belongs in this chapter**, given that flight ends
   platform gating.
 - **How much of the Guardians' conspiracy is revealed in this chapter** versus held back. The chain
   is three deep and only the bottom two rungs can safely be shown.
-- **Where the broken barrier is** in [[realm-09]], and how they broke gargoyle-shaped stone.
+- **Where the broken barrier is** in [[realm-07]], and how they broke gargoyle-shaped stone.
+- **How the Ancient Ruin's gate to [[realm-07]] still exists.** Green Skins moved from realm-09
+  (two ring-places from the Institute) to realm-07 (four places) — the gate's original
+  justification no longer holds arithmetically. Pending a new account of which realms a gate can
+  join at all; see [[gargoyle-ninja-and-the-celestials-gate]].
+
+## What Ends The Chapter
+
+**Settled:** [[the-trial-of-the-last-gargoyle]] — [[val]] hunts the surviving Gargoyle down herself,
+fails to convince him he's malfunctioning, and sets the Minotaur on him. It is the chapter-scale
+revelation with a named antagonist this chapter needed, and it sends the Gargoyle out of
+[[realm-07]] with [[ninja]] at the start of the next stretch of story — see the handoff on what
+follows.

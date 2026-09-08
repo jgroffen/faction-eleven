@@ -50,7 +50,9 @@
 {"path": "Wiki/GameMechanics/robot-repair-puzzle.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "game-mechanic", "title": "Robot Repair", "topics": [], "updated": "2026-08-12"}
 {"path": "Wiki/GameMechanics/robots-incremental-exploration.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "game-mechanic", "title": "Robots — Incremental Exploration", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Handovers/faction-eleven-story-outline.md", "sources": [], "tag": "handover", "title": "Handover: Faction Eleven story outline", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Handovers/gargoyle-ninja-and-the-celestials-gate.md", "sources": [], "tag": "handover", "title": "Handover: Gargoyle, Ninja and the Celestials' Gate", "topics": [], "updated": "2026-09-07"}
 {"path": "Wiki/Handovers/glitch-causes-and-manifestation.md", "sources": [], "tag": "handover", "title": "Handover: Glitch causes and manifestation", "topics": [], "updated": "2026-08-22"}
+{"path": "Wiki/Handovers/the-mystics-second-secret-society.md", "sources": [], "tag": "handover", "title": "Handover: The Mystics' Second Secret Society", "topics": [], "updated": "2026-09-07"}
 {"path": "Wiki/Items/gargoyle-fragments.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "Gargoyle Fragments", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Items/the-clay-jar.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "The Clay Jar", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Items/the-wand.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "The Wand", "topics": [], "updated": "2026-08-08"}
@@ -60,9 +62,9 @@
 {"path": "Wiki/Locations/realm-04.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 04 — The Mystics", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-05.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 05 — The Fey Folk", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-06.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 06 — The Pirates", "topics": [], "updated": "2026-08-08"}
-{"path": "Wiki/Locations/realm-07.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 07 — The Werebeasts", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Locations/realm-07.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 07 — The Green Skins", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-08.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 08 — The Damned", "topics": [], "updated": "2026-08-08"}
-{"path": "Wiki/Locations/realm-09.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 09 — The Green Skins", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Locations/realm-09.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 09 — The Werebeasts", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-10.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 10 — The Aliens", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/templar-monastery.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "location", "title": "The Templar Monastery", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/the-ancient-ruin.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "location", "title": "The Ancient Ruin", "topics": [], "updated": "2026-08-08"}
@@ -98,6 +100,8 @@
 {"path": "Wiki/Logs/2026-08-24-round-28-consolidation-is-the-retcon-engine-s-job-and-the-guardian-is-a-stopgap.md", "sources": [], "tag": "log", "title": "2026-08-24 — Round 28: consolidation is the retcon engine's job, and the guardian is a stopgap", "topics": [], "updated": "2026-08-24"}
 {"path": "Wiki/Logs/2026-08-24-round-29-the-retcon-cascade-is-the-cause-of-the-glitches.md", "sources": [], "tag": "log", "title": "2026-08-24 — Round 29: the retcon cascade is the cause of the glitches", "topics": [], "updated": "2026-08-24"}
 {"path": "Wiki/Logs/2026-08-24-round-30-a-heal-is-a-patch-and-the-witness-ladder.md", "sources": [], "tag": "log", "title": "2026-08-24 — Round 30: a heal is a patch, and the witness ladder", "topics": [], "updated": "2026-08-24"}
+{"path": "Wiki/Logs/2026-09-07-round-31-the-secret-society-system-s-balance-goal-val-s-blocked-invasion-and-the-gargoyle-s-trial.md", "sources": [], "tag": "log", "title": "2026-09-07 — Round 31: the Secret Society System's balance goal, Val's blocked invasion, and the Gargoyle's trial", "topics": [], "updated": "2026-09-07"}
+{"path": "Wiki/Logs/2026-09-08-round-32-swapped-green-skins-and-werebeasts-realm-numbers-07-09.md", "sources": [], "tag": "log", "title": "2026-09-08 — Round 32: swapped Green Skins and Werebeasts realm numbers (07/09)", "topics": [], "updated": "2026-09-08"}
 {"path": "Wiki/Lore/a-heal-is-a-patch.md", "sources": [], "tag": "lore", "title": "A Heal Is A Patch", "topics": [], "updated": "2026-08-24"}
 {"path": "Wiki/Lore/allied-faction-signals.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "Allied Faction Signals", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Lore/death-and-return.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "Death And Return", "topics": [], "updated": "2026-08-08"}
@@ -117,6 +121,7 @@
 {"path": "Wiki/Lore/the-multiverse-of-realms.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "lore", "title": "The Multiverse Of Realms", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Lore/the-realm-barriers.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Realm Barriers", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Lore/the-retcon-engine.md", "sources": [], "tag": "lore", "title": "The Retcon Engine", "topics": [], "updated": "2026-08-19"}
+{"path": "Wiki/Lore/the-secret-society-system.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Secret Society System", "topics": [], "updated": "2026-09-07"}
 {"path": "Wiki/Lore/the-six-classes.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md", "Raw/Sources/labs-faction-classes.md"], "tag": "lore", "title": "The Six Classes", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Lore/the-smashing-of-the-gargoyles.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/labs-faction-classes.md"], "tag": "lore", "title": "The Smashing Of The Gargoyles", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Lore/the-void.md", "sources": [], "tag": "lore", "title": "The Void", "topics": [], "updated": "2026-08-19"}
@@ -127,6 +132,7 @@
 {"path": "Wiki/Quests/the-fall-of-the-outpost.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Fall Of The Outpost", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Quests/the-first-signal.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The First Signal", "topics": [], "updated": "2026-08-11"}
 {"path": "Wiki/Quests/the-second-signal.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Second Signal", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Quests/the-trial-of-the-last-gargoyle.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Trial Of The Last Gargoyle", "topics": [], "updated": "2026-09-07"}
 {"path": "Wiki/Quests/the-waking-of-the-last-gargoyle.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Waking Of The Last Gargoyle", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Topics/faction-design-status.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "topic", "title": "Faction Design Status", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Topics/faction-eleven-premise.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "topic", "title": "Faction Eleven — Premise", "topics": [], "updated": "2026-08-08"}

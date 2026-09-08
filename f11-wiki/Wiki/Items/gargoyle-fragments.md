@@ -38,7 +38,7 @@ and learning what he is are the same act.** There is no separate codex.
 
 ## How It's Obtained
 
-**From the dead.** Gargoyles are **very rare** and scattered around [[realm-09]] **in important
+**From the dead.** Gargoyles are **very rare** and scattered around [[realm-07]] **in important
 places** — a map of where the realm's defences once stood, and therefore a map of what the realm
 once feared. **All of them have had their heads smashed.** Some still hold fragments he can use.
 

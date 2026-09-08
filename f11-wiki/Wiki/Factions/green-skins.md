@@ -11,7 +11,7 @@ sources:
   - Raw/Sources/labs-faction-classes.md
 source_count: 3
 aliases: []
-homeland: realm-09
+homeland: realm-07
 allies: []
 enemies:
   - celestials
@@ -25,7 +25,7 @@ The most **expansionist** faction in the material, and the one whose realm touch
 others. They are the antagonist of somebody else's story more often than they are the hero of
 their own.
 
-**Homeland:** [[realm-09]] — see [[the-wheel-of-realms]]
+**Homeland:** [[realm-07]] — see [[the-wheel-of-realms]]
 
 ## Identity
 
@@ -53,9 +53,10 @@ the subjugation. The realm's guardians are made from the people who first refuse
 
 **They were the invaded first.** In the old war the [[celestials]],
 [[mystics]] and [[fey-folk]] "constantly incurred" into the green-skin, damned and werebeast
-realms — which is why realms 07, 08 and 09 built [[the-gargoyle-guardians]] out of their own dead
-and walled their gates shut ([[the-realm-barriers]]). Every other faction meets the green-skins as
-an invader; the green-skins remember being the ones invaded.
+realms — which is why realms 07, 08 and 09 (in whatever order the factions occupying them held at
+the time) built [[the-gargoyle-guardians]] out of their own dead and walled their gates shut
+([[the-realm-barriers]]). Every other faction meets the green-skins as an invader; the green-skins
+remember being the ones invaded.
 
 **And their present war rests on a lie.** They believe the [[celestials]] broke the barrier and
 began another incursion. It was broken from the inside by [[the-guardians-of-night]]
@@ -81,7 +82,8 @@ Celestials has an opponent inside the faction.
 
 [[realm-01]] holds an **abandoned, already-cracked gate** into green-skin territory
 ([[the-ancient-ruin]]), which is how [[ninja]] reaches [[gargoyle]] in chapter two
-([[the-second-signal]]).
+([[the-second-signal]]) — though how that gate's existence squares with the ring's distances now
+that Green Skins sit at [[realm-07]] is open, pending a new account of which realms a gate can join.
 
 ## Faction Classes
 

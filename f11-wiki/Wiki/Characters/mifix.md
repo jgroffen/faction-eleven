@@ -92,7 +92,7 @@ Two jobs, one mechanical and one narrative:
    fights ([[death-and-return]]). The player's forgiveness in every ordinary failure is this
    character, present and working.
 
-   In [[realm-09]] this becomes literal: **Mifix is the save/restore mechanic** there ([[gargoyle-stone-metroidvania]]). A Metroid needs save rooms; this one has a companion
+   In [[realm-07]] this becomes literal: **Mifix is the save/restore mechanic** there ([[gargoyle-stone-metroidvania]]). A Metroid needs save rooms; this one has a companion
    instead. It also means the two protagonists sharing that map fail differently — the Ninja
    restores from Mifix, the [[gargoyle]] simply restarts the section — without either needing a
    system the other doesn't.

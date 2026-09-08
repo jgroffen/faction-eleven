@@ -13,7 +13,7 @@ aliases:
 quest_status: design
 quest_type: main
 giver: gargoyle
-location: realm-09
+location: realm-07
 mechanics:
   - gargoyle-stone-metroidvania
 rewards:
@@ -29,13 +29,13 @@ needed him — and he comes to in a room full of his own kind with their heads b
 move properly, not knowing why he is awake.
 
 **Status:** design · **Type:** main · **Chapter:** [[chapter-02]] · **Giver:** [[gargoyle]] ·
-**Location:** [[realm-09]]
+**Location:** [[realm-07]]
 
 ## The Cutscene
 
 Three movements, with the time jumps carrying the weight:
 
-1. **The making.** Necromancers of [[realm-08]] and shamans of [[realm-09]] raise the dead as stone
+1. **The making.** Necromancers of [[realm-08]] and shamans of [[realm-07]] raise the dead as stone
    and imbue them: realm guardians, defenders only, unable to act except against invasion, unable to
    work against their own faction ([[the-gargoyle-guardians]]). They are dispatched, fight back the
    incursions of the [[celestials]], [[mystics]] and [[fey-folk]], **seal the gateways**

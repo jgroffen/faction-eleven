@@ -11,19 +11,19 @@ source_count: 1
 aliases: []
 role: protagonist
 faction: green-skins
-home: realm-09
+home: realm-07
 ---
 
 # Gargoyle
 
-**Role:** protagonist · **Faction:** [[green-skins]] · **Home:** [[realm-09]]
+**Role:** protagonist · **Faction:** [[green-skins]] · **Home:** [[realm-07]]
 
 Protagonist of the [[green-skins]] — an infiltrator playing for the faction that every other faction in the material experiences as an invader.
 
 ## Character
 
 **He is a dead orc, resurrected and golem-ified** — a magical construct made by necromancers of
-[[realm-08]] and shamans of [[realm-09]] to guard the realm ([[the-gargoyle-guardians]]). He was
+[[realm-08]] and shamans of [[realm-07]] to guard the realm ([[the-gargoyle-guardians]]). He was
 made before the old war ended, slept through everything since, and **woke damaged into a world he
 has no information about**.
 
@@ -62,7 +62,7 @@ but **what he was built as**, which is why he cannot simply decide to do otherwi
 the realm is under threat somehow — then discovers the Celestial barrier was broken and that the
 green-skins blame a Celestial incursion — then uncovers [[the-guardians-of-night]].
 
-**Death mechanic:** **he does not die.** His story does not involve dying in [[realm-09]]. Failure
+**Death mechanic:** **he does not die.** His story does not involve dying in [[realm-07]]. Failure
 costs him **progress** instead — he is forced back to the start of the section he is working
 through — and abilities, once earned, are permanent.
 
@@ -90,19 +90,38 @@ signal drew the Ninja out — which [[templar]] has ([[odie]]).
 
 May also meet [[conjurer]] in the Mystics' underworld.
 
-In [[chapter-03]] he leaves [[realm-09]] with the Ninja for the Celestials' realm — and his
+In [[chapter-03]] he leaves [[realm-07]] with the Ninja for the Celestials' realm — and his
 gameplay changes with it, under [[realm-governs-game-style]]. What his stone kit becomes on a tower
 defence field is not designed.
 
 - [[val]] — the one who ordered him destroyed, and who later argues he is broken.
 - [[gargoyle-fragments]] — how he rebuilds himself, from the bodies of his own kind.
+- [[the-trial-of-the-last-gargoyle]] — where Val confronts him and he starts to doubt himself.
+
+## After Val
+
+[[val]] confronts him directly in [[the-trial-of-the-last-gargoyle]], fails to convince him aloud
+that he's malfunctioning, and sets the Minotaur on him instead. **He hides it from her, but the
+accusation lands anyway** — after she leaves, he privately begins to doubt he is functioning
+properly. He has no way to check, and every piece of evidence he has still supports her.
+
+**He can get [[ninja]] through the gate to the Celestials' realm; the Ninja cannot make that
+crossing alone.** The Ninja, in turn, is the one who points out that the Celestial realm — where
+he needs to go regardless — is also where the Gargoyle might find answers. Weighing his own doubt
+against that offer, the Gargoyle decides travelling with the Ninja is his best course of action, and
+the two cross together.
 
 ## A Later Chapter
 
-**The werebeasts' gargoyles were never smashed** and [[realm-07]]'s barriers still stand
-([[the-smashing-of-the-gargoyles]]). In a **much later chapter** the Gargoyle will seek them out for
-help — and he has to be **talked into it by another protagonist**, because he is focused on the
-green-skins and would see this as getting involved in other factions' conflicts.
+**The werebeasts' gargoyles were never smashed** and [[realm-09]]'s barriers still stand
+([[the-smashing-of-the-gargoyles]]). At [[templar-monastery]], once Odie identifies that the Ninja
+can breach realm barriers, the two of them settle on a new plan: seek out the Werebeasts' gargoyles
+for answers. **He is no longer talked into this by another protagonist** — Val's accusation and the
+fate of his own kind have made it personal, not a favour to another faction. He already knows what
+breaching that barrier will do: it will wake the Werebeast gargoyles, the same way [[realm-07]]'s
+barrier woke him.
 
 That is his instruction set as a character arc: the last constraint he sheds is the one that says
-this realm and no other. Left undesigned deliberately — it is a much later chapter.
+this realm and no other. The sequence at the monastery, and what waits on the other side of that
+barrier, is deferred to [[gargoyle-ninja-and-the-celestials-gate]] and
+[[the-mystics-second-secret-society]] — it is a much later chapter.

@@ -60,6 +60,12 @@ Two properties matter and are easy to lose:
    impossible, and no god can build one. The wheel is a compatibility graph before it is anything
    else.
 
+   **Open, pending revision:** [[the-ancient-ruin]]'s gate from [[realm-01]] to the green-skins was
+   justified by exactly this rule when Green Skins sat at realm-09 (two places away). Now that they
+   occupy [[realm-07]] (four places away), that gate sits outside "near means compatible" as stated
+   here — carried as pending a new account of which realms a gate can join, expected to widen this
+   rule to allied *and* enemy realms rather than adjacency alone.
+
 Gate by gate:
 
 - **Fully sealed.** **All** gates from [[realm-02]] are sealed — the [[robots]] are the most
@@ -85,9 +91,11 @@ Gate by gate:
   via a **void** in which ancient Lovecraftian gods dwell — abandoned realities the Black destroyed
   and never fully unmade. The liches are not using gates at all; they bypass the rules of their own
   realm and go around ([[the-void]]).
-- **Unsealed by a god.** [[the-damned]]'s gates to the [[green-skins]] and [[werebeasts]] were opened
-  by [[val]], carrying power [[xipe-totec-the-red]] gave her for the purpose. This is the
-  intervention [[quetzalcoatl-the-white]] noticed too late to stop.
+- **Unsealed by a god.** [[the-damned]]'s gate to the [[green-skins]] was opened by [[val]], carrying
+  power [[xipe-totec-the-red]] gave her for the purpose. This is the intervention
+  [[quetzalcoatl-the-white]] noticed too late to stop. The Red's imbuement was meant to reach the
+  [[werebeasts]] too, but that road was never found — its location is lost to Val, and it never
+  became a completed act.
 
 So the disconnection is **uneven**: some realms are sealed off, others are being invaded, and at
 least one faction is deliberately opening doors.

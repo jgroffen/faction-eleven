@@ -26,6 +26,14 @@ The Ninja carries an inherited punishment rather than a chosen quest. Their fami
 
 Their story opens with a **defeat**: the player is sent at the final boss unprepared and loses, because they do not yet have the skills the fight demands. The back story is revealed in the aftermath.
 
+**Why he keeps attacking that gate is not just the family's sentence.** He carries the same power
+[[xipe-totec-the-red]] gave [[val]] — one gift covering both gates and barriers, felt as a
+compulsion rather than a tool sitting idle. It is what has been driving him at [[the-gate-guardian]]
+all along, underneath the generations of training, and it is the same pull that makes Val certain of
+herself on the other side of the wheel. **He does not work this out himself — [[odie]] identifies it
+in him**, once they meet at [[templar-monastery]], and names what he can do as breaching realm
+barriers specifically, not only gates ([[the-realm-barriers]]).
+
 **Death mechanic:** a cut-scene in which their child grows up, is trained, and replaces them — so death advances the generations rather than reloading.
 
 ## In-Game Role

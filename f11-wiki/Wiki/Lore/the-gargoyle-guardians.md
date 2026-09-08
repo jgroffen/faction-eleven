@@ -26,7 +26,7 @@ locations: []
 
 Gargoyles are **magical constructs**: dead orcs, resurrected and golem-ified, imbued with magical
 power — and with a fixed set of instructions they cannot act outside of. They were made **jointly**
-by **necromancers of [[realm-08]]** and **shamans of [[realm-09]]**, to defend three allied realms
+by **necromancers of [[realm-08]]** and **shamans of [[realm-07]]**, to defend three allied realms
 against a war they were losing.
 
 **Canon:** proposed · **Era:** long before the game
@@ -48,8 +48,8 @@ purpose cannot be turned into somebody's invasion.
 - They **cannot act except in defence of a realm being invaded**.
 - They **cannot work against their own faction**.
 
-**Each realm's gargoyles are loyal to that realm.** There are gargoyles in [[realm-09]], in
-[[realm-08]] and in [[realm-07]] — green-skin, damned and werebeast — and each set answers to its
+**Each realm's gargoyles are loyal to that realm.** There are gargoyles in [[realm-07]], in
+[[realm-08]] and in [[realm-09]] — green-skin, damned and werebeast — and each set answers to its
 own home. They are not one order; they are three, built to the same design by the same two hands.
 
 **They shape rock.** Alongside fighting, gargoyles are builders in stone — the capability that
@@ -106,6 +106,6 @@ Everything he then fails to do makes sense.
 ## Open
 
 - Whether gargoyles were made in the other two realms **at the same time** and by the same hands, or
-  whether realm-09's came first.
+  whether realm-07's came first.
 - Whether the green-skins still remember what gargoyles are, or whether they have become statuary
   nobody thinks about.

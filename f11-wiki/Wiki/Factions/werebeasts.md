@@ -10,7 +10,7 @@ sources:
   - Raw/Sources/labs-faction-classes.md
 source_count: 2
 aliases: []
-homeland: realm-07
+homeland: realm-09
 allies: []
 enemies:
   - celestials
@@ -21,7 +21,7 @@ enemies:
 Known mainly through the [[celestials]], who they attack through an open gate — **less frequently
 than the green-skins, with fewer but very buff units**. Their protagonist is [[werewolf]].
 
-**Homeland:** [[realm-07]] — see [[the-wheel-of-realms]]
+**Homeland:** [[realm-09]] — see [[the-wheel-of-realms]]
 
 ## Identity
 
@@ -43,11 +43,14 @@ by [[the-guardians-of-night]], and some of them are joining the Damned's invasio
 [[mystics]].
 
 **And they are the exception that makes a later chapter possible: their gargoyles were never
-smashed, and their barriers still stand** ([[the-smashing-of-the-gargoyles]]). Realm 07 holds the
+smashed, and their barriers still stand** ([[the-smashing-of-the-gargoyles]]). Realm 09 holds the
 only intact set of realm guardians in the game — which [[gargoyle]] will eventually go looking for.
 
-Why they were spared is unwritten, and it is a real question: the Guardians of Night disabled two
-realms' guardians and left the third alone.
+**Why they were spared is fear, not oversight.** [[the-guardians-of-night]] are commanded from
+[[realm-08]], and [[the-damned]] are afraid of the [[fey-folk]] their barrier faces — so that door
+was left alone on purpose ([[the-realm-barriers]]). Separately, [[val]] never found a path into
+[[realm-09]] at all, which is why the werebeasts were never recruited as a third invading realm
+alongside the green-skins and the Damned ([[the-guardians-of-night]]).
 
 ## Faction Classes
 

@@ -68,7 +68,7 @@ The faction's own one-line description on that site: *"Protectors of the Great M
 
 This makes them the game's most compromised faction:
 
-- **Their necromancers co-created the gargoyles**, with the shamans of [[realm-09]]
+- **Their necromancers co-created the gargoyles**, with the shamans of [[realm-07]]
   ([[the-gargoyle-guardians]]). The Damned are half the reason three realms survived the old war.
 - **Their own gargoyles have been smashed too**, in the same pattern as the green-skins'
   ([[the-smashing-of-the-gargoyles]]).

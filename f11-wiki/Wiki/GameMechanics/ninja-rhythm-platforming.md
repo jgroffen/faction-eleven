@@ -60,10 +60,10 @@ chapter one.
 
 ## The Rhythm Stays Home
 
-When the Ninja crosses into [[realm-09]] in [[chapter-02]] he plays that realm's genre instead ([[realm-governs-game-style]]), and **the rhythm layer does not travel with
+When the Ninja crosses into [[realm-07]] in [[chapter-02]] he plays that realm's genre instead ([[realm-governs-game-style]]), and **the rhythm layer does not travel with
 him**. It belongs to the [[institute-of-eight]] — their music, their training, their dojo.
 
-What travels is the *acquisition model*. He still learns by training: in realm-09 he finds a
+What travels is the *acquisition model*. He still learns by training: in realm-07 he finds a
 **challenge room**, [[mifix]] and the Ninja talk, and he **learns the new skill by practising it in
 the room**. So the Institute's identity survives the genre swap even though its soundtrack does
 not — and the challenge rooms are where this note's hard, section-based platforming lives on inside

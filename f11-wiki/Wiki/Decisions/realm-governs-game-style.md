@@ -32,7 +32,7 @@ mechanics of the realm they are standing in apply.
 [[faction-genre-mechanics]] gives each of the ten factions its own genre on top of the shared
 [[exploration-core-loop]]. That was written while each protagonist was still at home. From
 [[chapter-02]] the protagonists start **travelling**, and the question the design had never answered
-became urgent: when the [[ninja]] walks into [[realm-09]], does he bring
+became urgent: when the [[ninja]] walks into [[realm-07]], does he bring
 [[ninja-rhythm-platforming]] with him, or does he play the Green Skins' game?
 
 The trigger was the Gargoyle's style being settled as a Metroid. The author's answer also disposed
@@ -52,13 +52,13 @@ suit the realm.
 
 **The realm's mechanics apply when gameplay is in that realm.** Concretely:
 
-- The [[ninja]] **swaps to the Metroid style in [[realm-09]]** — ability-gated progression, and no
+- The [[ninja]] **swaps to the Metroid style in [[realm-07]]** — ability-gated progression, and no
   rhythm layer, which stays home in [[realm-01]].
 - In [[chapter-03]], [[ninja]] and [[gargoyle]] move on to the Celestials' realm and **both swap to
   [[celestials-hero-tower-defence]]** — top-down tower defence with hero units.
 
 Each protagonist keeps their **own way of acquiring** power inside the host genre, which is how
-character survives the swap: in realm-09 the Gargoyle finds **lore fragments** while the Ninja finds
+character survives the swap: in realm-07 the Gargoyle finds **lore fragments** while the Ninja finds
 **challenge rooms** and trains with [[mifix]].
 
 ## Consequences
@@ -67,7 +67,7 @@ character survives the swap: in realm-09 the Gargoyle finds **lore fragments** w
 
 - **Genres become reusable content, not one-shot systems.** The largest scope risk in the project
   ([[faction-genre-mechanics]]: ten genres, one developer) is that each genre is built once and
-  played once. This rule makes every genre earn its build cost repeatedly — realm-09's Metroid map
+  played once. This rule makes every genre earn its build cost repeatedly — realm-07's Metroid map
   is played by two protagonists, and the Celestials' tower defence is replayed with new heroes.
 - It gives a mechanical shape to convergence. Meeting another faction is not just a story event; it
   **changes what game you are playing**, which is the premise made playable.
@@ -80,7 +80,7 @@ character survives the swap: in realm-09 the Gargoyle finds **lore fragments** w
   visitor per realm, and it grows as the stories converge.
 - Characters risk **flattening into skins** if the host genre dominates. The
   acquisition-model rule above is the counterweight, and it will need watching.
-- **Progression does not obviously travel.** What happens to the Ninja's realm-09 abilities when he
+- **Progression does not obviously travel.** What happens to the Ninja's realm-07 abilities when he
   reaches [[realm-03]] — carried, converted, or dropped — is **unresolved**.
 
 ## Notes

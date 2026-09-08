@@ -45,10 +45,12 @@ only defence available. She is not a nihilist and not a conqueror. She is certai
 
 **And she is used twice, by two gods who do not know about each other.**
 
-1. **[[xipe-totec-the-red]] imbued her** with the power to unseal gates, so that [[the-damned]] could
-   reach their old allies the [[green-skins]] and [[werebeasts]] before the realm dwindled away. Val
-   opened those doors, and it worked — a small, elegant, precisely scoped gift from a goddess who
-   deliberated for a thousand years before giving it.
+1. **[[xipe-totec-the-red]] imbued her** with the power to breach gates and barriers, so that
+   [[the-damned]] could reach their old allies the [[green-skins]] and [[werebeasts]] before the
+   realm dwindled away. Val opened the door to the green-skins, and it worked — a small, elegant,
+   precisely scoped gift from a goddess who deliberated for a thousand years before giving it. The
+   door to the werebeasts was never found; its location is lost to her, and it stayed the Red's
+   intent rather than a completed act ([[sealed-interplane-gates]]).
 2. **[[huitzilopochtli-the-blue]]'s Secret Society System then found her** — a vampire already
    carrying another god's power — and made her the founder of [[the-guardians-of-night]].
 
@@ -57,9 +59,23 @@ happened. That makes her the game's first sympathetic villain: the person who di
 defences in order to protect it, carrying a power she cannot account for, convinced by a system that
 was built to convince her.
 
+**She wanted three realms, and settled for two.** The plan was to bring the might of the
+[[green-skins]], [[the-damned]] and [[werebeasts]] against the [[celestials]] together. She never
+found a way into [[realm-09]] — the road from either [[realm-08]] or [[realm-07]] is lost to her —
+so she gave up looking and went to war with two. **This is the balance routines of
+[[the-secret-society-system]] showing through, though she has no way to know it:** the gargoyles
+were too powerful, so they were destroyed; three factions against one was too imbalanced, so it was
+blocked from happening. Both look, from inside her story, like her own decisions.
+
+**Once she learns a Gargoyle survived, she goes after him personally.** She seeks out what he is —
+damaged, running on a fraction of his power — before she hunts him down. See
+[[the-trial-of-the-last-gargoyle]]: she fails to talk him into believing he's malfunctioning, sets
+the Minotaur on him instead, and leaves without confidence the Minotaur wins. She resolves,
+afterward, to destroy every remaining gargoyle rather than risk a second survivor.
+
 ## In-Game Role
 
-**Antagonist in [[realm-09]], and the Gargoyle's principal opponent in argument rather than
+**Antagonist in [[realm-07]], and the Gargoyle's principal opponent in argument rather than
 combat** — which suits a protagonist with no combat verb ([[gargoyle-stone-metroidvania]]).
 
 Her weapon is a **claim about him**: she tries to convince him that **he is malfunctioning**.
@@ -76,6 +92,7 @@ manipulated realm is an invaded one. See [[gargoyle]].
 ## Quests
 
 <!-- gd:quests:start -->
+- [[the-trial-of-the-last-gargoyle|The Trial Of The Last Gargoyle]] · design
 <!-- gd:quests:end -->
 
 ## Ties
@@ -89,13 +106,18 @@ manipulated realm is an invaded one. See [[gargoyle]].
 - [[huitzilopochtli-the-blue]] — whose system made her a founder.
 - [[ninja]] — the other character the Red imbued, who will never meet her and is doing the same thing
   at the other end of the wheel.
+- [[the-secret-society-system]] — what actually shaped her decisions, without her knowledge.
+- [[the-trial-of-the-last-gargoyle]] — where she hunts him down and loses the argument.
 
 ## Open
 
-- Whether she **recognises** him as a survivor, or believes he is a gargoyle who was never in that
-  room.
+- She **recognises him as a survivor** — she seeks out what happened to him and finds him damaged
+  and running on limited power before she confronts him. What's still open is how much more she
+  works out: whether she ever connects it to the broken hammer, specifically.
 - Whether the player ever gets to tell her what was done to her.
 - Whether she ever notices the power she opened the gates with was not hers.
+- Whether she ever learns the werebeast path stayed lost because of the balance system, rather than
+  bad luck.
 
 She founded the Guardians of Night, so neither "leads" nor "takes orders" was ever the right
 question — the group exists because a system chose her.

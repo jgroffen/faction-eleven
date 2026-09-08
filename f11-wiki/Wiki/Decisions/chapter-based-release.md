@@ -120,7 +120,7 @@ Recorded as open questions rather than settled facts, since the decision itself 
   question is still open for [[templar]].
 - **The Institute's gate does not open in chapter one.** [[ninja]] cannot open it until every
   faction has been introduced, which makes it a late-game turning point. Chapter one therefore
-  ends with the Ninja *not* winning — and protects [[gargoyle]] and [[realm-09]] for the chapter
+  ends with the Ninja *not* winning — and protects [[gargoyle]] and [[realm-07]] for the chapter
   where the Green Skins are actually built.
 - **Chapter one has a spine:** [[the-first-signal]]. An ability earned in [[autofix]]'s
   incremental skill tree wakes the mini-fix bot in the Ninja's shrine, connecting the chapter's

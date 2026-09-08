@@ -38,15 +38,15 @@ consequence of one.
 | **The Linking**         | The Black proposes connecting the realms and **wins the argument**; every gate opens ([[the-linking-of-the-realms]])                                          | **The Black**, with the room's agreement                          | [[sealed-interplane-gates]] exist to be sealed later                    |
 | The old war             | [[green-skins]] and [[werebeasts]] raid; [[the-damned]] harvest the dead of other realms; [[celestials]], [[mystics]] and [[fey-folk]] ally and turn the tide | consequence                                                       | the horde every faction remembers, and nobody's account of why          |
 | The damage              | Over half the realms take permanent faults. The [[robots]]' is never repaired ([[no-machine-repairs-itself]])                                                 | consequence                                                       | the White's reason for defending what exists                            |
-| The gargoyles           | Necromancers of [[realm-08]] and shamans of [[realm-09]] build [[the-gargoyle-guardians]] out of their own dead; the war stops                                | **mortals** — the one time the four were argued out of a position | [[the-realm-barriers]], and the precedent the protagonists will need    |
+| The gargoyles           | Necromancers of [[realm-08]] and shamans of [[realm-07]] build [[the-gargoyle-guardians]] out of their own dead; the war stops                                | **mortals** — the one time the four were argued out of a position | [[the-realm-barriers]], and the precedent the protagonists will need    |
 | **The Sealing**         | The White proposes closing the ways and **wins**; White, Red and Blue seal the gates together. The Black does not contest it ([[the-long-disconnection]])     | **The White, Red and Blue**                                       | the game's starting condition                                           |
 | The thousand years      | Realms hollow out rather than keep. The eleventh faction is forgotten **entirely**                                                                            | consequence                                                       | the three-part mystery — that they existed, what they did, why          |
-| **The Red's imbuement** | [[ninja]] and [[val]] given the power to unseal gates to their realms' old allies. No proposal, no argument, no review                                        | **The Red** — the **first illegitimate act in the whole history** | two characters who can open doors, and the licence for everything after |
+| **The Red's imbuement** | [[ninja]] and [[val]] given the power to breach gates and barriers, felt as a compulsion, to reach their realms' old allies. No proposal, no argument, no review | **The Red** — the **first illegitimate act in the whole history** | two characters who can open doors, and the licence for everything after |
 | The White's answer      | Guardians placed on the gates of the realms he cares for ([[the-gate-guardian]])                                                                              | **The White**                                                     | chapter one's boss                                                      |
 | The Blue's answer       | [[the-guardians-of-night]] seeded — a secret society across realms, to reignite the old war                                                                   | **The Blue**                                                      | the present-day conspiracy                                              |
 | Unattended              | The high liches break containment and begin quietly looting [[realm-10]] ([[the-void]])                                                                       | **the Black's creation, acting alone** — none of the four knows   | the game's only witnesses to the outside                                |
 | **The smashing**        | [[val]], a minotaur and a giant go along the row with hammers. On the last one the hammer breaks ([[the-smashing-of-the-gargoyles]])                          | [[the-guardians-of-night]], prompted by an Ancient                | one surviving, partly-destroyed gargoyle                                |
-| **The broken barrier**  | [[realm-09]]'s barrier to the [[celestials]] broken **from inside**, and read by everybody as a Celestial incursion ([[the-broken-barrier]])                  | [[the-guardians-of-night]], prompted by an Ancient                | the war, and the bolt that ends [[gargoyle]]'s torpor                   |
+| **The broken barrier**  | [[realm-07]]'s barrier to the [[celestials]] broken **from inside**, and read by everybody as a Celestial incursion ([[the-broken-barrier]])                  | [[the-guardians-of-night]], prompted by an Ancient                | the war, and the bolt that ends [[gargoyle]]'s torpor                   |
 
 The last two rows are where the pre-game history hands off: the barrier breaking **is** the opening
 of the game.
@@ -86,6 +86,12 @@ chapter lead without a style, and they lead chapter three ([[faction-design-stat
 kinds and two loudness tiers; not one has been authored in any of the four settled genres. Every
 count in the table above is therefore unset rather than zero.
 
+**One strong candidate now exists, still unauthored to a kind or tier:** that the gargoyles — a
+green-skin/Damned joint creation that only became possible once [[the-linking-of-the-realms]]
+connected the two realms' shamans and necromancers — were **too powerful**, in the literal sense
+[[the-secret-society-system]] judges balance by. Something in the fiction would have to say so for
+the player to catch it, and nothing has been written yet that does.
+
 What *is* settled is the shape the counts must take:
 
 - **Glitches are present from chapter one**, because they date from [[the-linking-of-the-realms]]
@@ -123,9 +129,11 @@ has never been compiled. What each looks like in a genre remains deferred work.
 ## God Actions
 
 **The four are almost entirely prehistoric.** Every substantial act in the pre-game table is theirs;
-the chapters have **one** between them, and it is indirect — an Ancient manipulating
-[[the-guardians-of-night]], which the player meets as a green-skin invasion and never as a divine
-act ([[the-manipulation-of-the-green-skins]]).
+the chapters have **one** between them, and it is indirect — [[huitzilopochtli-the-blue]], acting
+through [[the-secret-society-system]] rather than in person, which the player meets as a green-skin
+invasion and never as a divine act ([[the-manipulation-of-the-green-skins]]). What was carried for a
+long time as "an Ancient's motive, unknown" is now resolved: there is no motive, only a shipped
+system running its own goals unsupervised.
 
 This is a scheduling problem, and the timeline exists partly to make it visible.
 [[the-revelation-schedule]] runs two ladders that advance by **re-reading evidence the player already
@@ -161,6 +169,7 @@ work read both ways, or it will only ever be a set piece.
 - [[chapter-based-release]] — why the ordering has to be right before anything ships.
 - [[story-outline-requirement]] — the gate this page serves.
 - [[faction-design-status]] — how settled each faction is, behind the gameplay column.
+- [[the-secret-society-system]] — the mechanism behind the chapter table's one god action.
 
 ## Sources
 

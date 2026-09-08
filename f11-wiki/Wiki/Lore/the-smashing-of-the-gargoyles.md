@@ -52,7 +52,7 @@ prophecy, and it means the game's whole chapter-two protagonist exists because o
 
 **The Damned's gargoyles were smashed too**, in the same pattern and to the same end — their realm
 is now leading an invasion into the [[mystics]]' realm. **The werebeasts' gargoyles were not
-touched**, and [[realm-07]]'s barriers still stand.
+touched**, and [[realm-09]]'s barriers still stand.
 
 **Why they were spared is fear, not oversight.** That barrier faces the [[fey-folk]], and
 [[the-guardians-of-night]] are commanded from [[realm-08]] by a vampire. [[the-damned]] are afraid of

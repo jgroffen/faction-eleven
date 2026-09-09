@@ -1542,3 +1542,36 @@ The author also specified who already knows the network and why the Gargoyle doe
   [[chapter-based-release]], [[institute-of-eight]], [[chapter-01]]).
 - **What traversal is now, in full:** the fixed 25-gate network, plus [[the-void]] as the one
   confirmed non-gate route. Nothing else moves between realms by any mechanism on record.
+
+### Round 35 — 2026-09-09
+
+**Q74 — Confirm the scope and manifestation of the Red Power.**
+
+> Check that the 'Red Power' granted to the Ninja and Val (and a third character yet to be
+> specified) is the power to open the closed inter-dimensional pathways between the realms. For the
+> Ninja he breaks the barrier, Val 'unlocks' it, and the third actor is a Mystic that 'dispels' the
+> seal. It's all the same power just manifests in different ways for different characters. The 'Red
+> Power' can work on the gates, they can't break through the barriers between the realms directly.
+> Breaking through realm barriers is only something the Liches have worked out how to do.
+
+## Notes For The Compiler — Round 35
+
+- **Corrected, not merely confirmed.** `ninja` and `val` both stated the Red's gift covered "gates
+  and barriers," and `ninja` had `odie` naming the Ninja's version specifically as breaching
+  barriers. That's wrong per this round: the power is **gates only**, in all three carriers. Both
+  notes rewritten; the author's own word "barrier" for the Ninja's manifestation is read as loose
+  phrasing for "the sealed way through" — the gate — not the gargoyle-built wall, since the same
+  answer states the power flatly cannot touch a barrier.
+- **A third carrier exists and is new:** a Mystic, not yet named, whose manifestation is
+  "dispelling" a seal. No character note authored — flagged open in the new lore note, `mystics`,
+  and `xipe-totec-the-red`.
+- **New lore note:** `the-red-power`, centralizing the single gift and its three manifestations
+  (Ninja breaks a gate, Val unlocks one, the unnamed Mystic dispels one), and its hard boundary —
+  gates only, never a barrier.
+- **New capability, not previously recorded:** the liches of `the-damned` are the only ones who can
+  break a realm barrier *directly* — without disabling the gargoyle behind it first, which is how
+  every barrier broken so far was actually done (`the-smashing-of-the-gargoyles`). Added to
+  `the-void` and cross-linked from `the-realm-barriers`. Not established as ever having been used —
+  recorded as a capability, flagged open.
+- Updated: `ninja`, `val`, `xipe-totec-the-red`, `mystics`, `sealed-interplane-gates`,
+  `the-cracked-gate`, `the-gate-guardian`, `the-realm-barriers`, `the-void`.

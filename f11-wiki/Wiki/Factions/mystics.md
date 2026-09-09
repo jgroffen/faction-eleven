@@ -55,6 +55,10 @@ coordinated war**, and their story connects directly to the Gargoyle's.
 gargoyles were built to stop ([[the-gargoyle-guardians]]). The faction now being invaded was an
 invader first.
 
+**One of them carries [[the-red-power]].** A Mystic, not yet named, holds the same gift
+[[xipe-totec-the-red]] gave [[ninja]] and [[val]] — manifesting for them as *dispelling* a sealed
+gate rather than breaking or unlocking one. Which gate, and who they are, is unwritten.
+
 [[gargoyle]] and [[conjurer]] may meet in this story.
 
 ## Faction Classes

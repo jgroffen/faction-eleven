@@ -30,8 +30,8 @@ generation, and no one has ever beaten it.
 
 **It is a protection, and the Institute did not place it.** [[quetzalcoatl-the-white]] set guardians
 on the gates of the realms he leads, to stop anything from another realm getting in and breaking them
-further — a response to [[xipe-totec-the-red]] imbuing [[ninja]] with the power to unseal gates
-([[the-four-gods]]).
+further — a response to [[xipe-totec-the-red]] imbuing [[ninja]] with
+[[the-red-power|the power to unseal gates]] ([[the-four-gods]]).
 
 **It is a stopgap, and it is a sign of frustration.** The White is not fortifying a position he is
 comfortable in; he is protecting a world he built from a failure he can see coming, with a **quick
@@ -81,6 +81,7 @@ faction's progression.
 - [[ninja]] — sentenced to fight it.
 - [[mifix]] — kept away from it.
 - [[the-cracked-gate]] — what the fight produces.
+- [[the-red-power]] — what its existence is a response to.
 
 ## Naming
 

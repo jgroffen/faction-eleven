@@ -24,9 +24,9 @@ through that crack, for the first time since [[the-long-disconnection]], **a sig
 realms**.
 
 **The gate is not cracked before this.** The Ninja loses the fight repeatedly and keeps coming back,
-and in one of those attempts strikes the guardian with the **red power** — the capability
-[[xipe-totec-the-red]] imbued them with, so that the Institute could reach its old allies before the
-realm decayed further ([[the-four-gods]]).
+and in one of those attempts strikes the guardian with [[the-red-power|the Red power]] — the
+capability [[xipe-totec-the-red]] imbued them with, so that the Institute could reach its old
+allies before the realm decayed further ([[the-four-gods]]).
 
 **It does not hurt the boss.** The guardian is [[quetzalcoatl-the-white]]'s protection, built for
 exactly this, and it holds. The blow goes past it into the gate — and because the Ninja was never
@@ -83,6 +83,7 @@ punched by a stranger who does not know they exist, while failing at something e
 - [[sealed-interplane-gates]] — what cracked.
 - [[the-first-signal]] — what came through.
 - [[allied-faction-signals]] — why a crack is all that was needed.
+- [[the-red-power]] — what the Ninja struck the guardian with.
 
 ## Which Gate
 

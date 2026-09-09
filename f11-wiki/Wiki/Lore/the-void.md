@@ -70,6 +70,13 @@ them — they demonstrated it by breaking out. Everyone else's inner life is an 
 is settled. That the only certainly-sentient faction in the game is also its most repellent one —
 corpse-stealing, gate-breaching, looting a neighbour — is the point, and worth protecting.
 
+**They can also break a [[the-realm-barriers|realm barrier]] directly — nobody else can.** Every
+barrier broken so far was broken the hard way: disable the sleeping gargoyle first, then break the
+wall behind it ([[the-smashing-of-the-gargoyles]]). [[the-red-power|The Red's power]] cannot touch
+a barrier at all — it opens gates only. The liches have worked out how to go straight through a
+barrier, gargoyle still armed, and it is not recorded that they have ever needed to: a capability
+established as theirs alone, not yet used in any story on record.
+
 It also makes them the game's **oracle**: the only entities who have been outside and can testify to
 what is there.
 
@@ -108,6 +115,9 @@ real source of instability.
 - [[sealed-interplane-gates]] — the ordinary way between realms, which this is not.
 - [[realm-nearness-and-traversal]] — the fixed network the void has no gate in, and the map the
   liches already carry.
+- [[the-realm-barriers]] — the other lock, which only the liches can break without disabling the
+  gargoyle first.
+- [[the-red-power]] — the power that can open a gate but never a barrier, unlike the liches.
 
 ## Player-Facing
 

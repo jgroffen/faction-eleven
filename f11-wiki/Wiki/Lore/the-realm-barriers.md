@@ -64,6 +64,11 @@ remembers them doing anything.
 **Not every seal in the game is a barrier.** [[realm-02]] is sealed on every side with no gargoyles
 anywhere near it, so more than one mechanism is at work across the wheel.
 
+**Only one power can break a barrier without disabling the gargoyle first.** [[the-red-power]] —
+carried by [[ninja]], [[val]] and a third, unnamed Mystic — opens sealed *gates* and stops there; it
+has no purchase on a barrier at all. The liches of [[the-damned]] are the only ones who have worked
+out how to go through a barrier directly ([[the-void]]).
+
 ## Which Ones Still Stand
 
 The three barriers mirror the wheel's two arcs: 07→03, 08→04, 09→05.
@@ -85,6 +90,8 @@ the orders did not want that door opened. It is the fact a much later chapter is
 - [[the-broken-barrier]] — the one that was broken, and what it started.
 - [[sealed-interplane-gates]] — the Ancients' layer, underneath.
 - [[the-smashing-of-the-gargoyles]] — why breaking a barrier was safe to do.
+- [[the-red-power]] — the power that can open a gate but never a barrier.
+- [[the-void]] — where the liches, the only ones who can break a barrier directly, get their edge.
 
 ## Player-Facing
 

@@ -40,9 +40,10 @@ innovate — and she deliberated for a thousand years while it happened. When sh
 was **right, and she was late**, and the realms she wanted to save had already been hollowed out.
 
 And what she built was characteristic: not a blunt reopening of the gates but a small, elegant,
-precisely targeted thing — power placed in **two specific people** to unseal **specific** doors to
-compatible neighbours. Beautifully scoped. It still started a war, because an elegant change released
-into a system nobody else knew you had touched is still an unreviewed change.
+precisely targeted thing — [[the-red-power|one power]] placed in **three specific people** to
+unseal **specific** gates to compatible neighbours, and nothing more than gates — never the
+barriers behind them. Beautifully scoped. It still started a war, because an elegant change
+released into a system nobody else knew you had touched is still an unreviewed change.
 
 **Her domain includes disease**, which is the dark half of her: what happens to something that is
 tended too carefully and never let out.
@@ -86,12 +87,19 @@ balance each other instead of arguing about them.
 
 ## Her Power, Still Walking Around
 
-Two of the game's most important characters carry her work and neither knows:
+Three of the game's characters carry [[the-red-power|her work]], and none of them knows what it
+actually is:
 
 - [[ninja]] strikes [[the-gate-guardian]] with it, fails to hurt the boss, and **cracks the gate**
   behind it — the first opening in the multiverse's silence ([[the-cracked-gate]]).
 - [[val]] unseals [[the-damned]]'s gates to the [[green-skins]] and [[werebeasts]], and is then picked
   up by the Blue's Secret Society System and made the founder of [[the-guardians-of-night]].
+- a third carrier, a [[mystics|Mystic]] not yet named, who manifests it as *dispelling* a seal
+  rather than forcing or unlocking one. Which gate, and what it does to their story, is unwritten.
+
+**All three carry the same gift, scoped identically: it opens a sealed gate and nothing else.** None
+of them can touch a [[the-realm-barriers|realm barrier]] with it — that lock belongs to a different
+key entirely, one only the Liches of [[the-damned]] have found ([[the-void]]).
 
 **So the Red is the first cause of both the reconnection and the war.** She intended the first and
 set off the second.
@@ -119,5 +127,6 @@ have since stagnated for want of anyone willing to change them.
 - [[the-four-developers]] — what she actually is.
 - [[huitzilopochtli-the-blue]] — her opposite, and the other half of the answer.
 - [[quetzalcoatl-the-white]] — the senior she aligns with, until she loses patience with him.
-- [[ninja]] · [[val]] — the two she imbued.
+- [[the-red-power]] — what she gave, and its scope.
+- [[ninja]] · [[val]] — two of the three she imbued.
 - [[the-cracked-gate]] — what her power produced, by accident.

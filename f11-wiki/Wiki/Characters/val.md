@@ -50,12 +50,13 @@ only defence available. She is not a nihilist and not a conqueror. She is certai
 
 **And she is used twice, by two gods who do not know about each other.**
 
-1. **[[xipe-totec-the-red]] imbued her** with the power to breach gates and barriers, so that
-   [[the-damned]] could reach their old allies the [[green-skins]] and [[werebeasts]] before the
-   realm dwindled away. Val opened the door to the green-skins, and it worked — a small, elegant,
-   precisely scoped gift from a goddess who deliberated for a thousand years before giving it. The
-   door to the werebeasts was never found; its location is lost to her, and it stayed the Red's
-   intent rather than a completed act ([[sealed-interplane-gates]]).
+1. **[[xipe-totec-the-red]] imbued her** with [[the-red-power|the power to unlock a sealed gate]],
+   so that [[the-damned]] could reach their old allies the [[green-skins]] and [[werebeasts]]
+   before the realm dwindled away — gates only, never the barrier behind one. Val opened the door
+   to the green-skins, and it worked — a small, elegant, precisely scoped gift from a goddess who
+   deliberated for a thousand years before giving it. The door to the werebeasts was never found;
+   its location is lost to her, and it stayed the Red's intent rather than a completed act
+   ([[sealed-interplane-gates]]).
 2. **[[huitzilopochtli-the-blue]]'s Secret Society System then found her** — a vampire already
    carrying another god's power — and made her the founder of [[the-guardians-of-night]].
 
@@ -107,10 +108,11 @@ manipulated realm is an invaded one. See [[gargoyle]].
 - [[the-broken-barrier]] — what it was for.
 - [[gargoyle]] — the one she failed to finish, and later tries to talk out of existing.
 - [[the-damned]] — her people, and the gargoyles' co-makers.
+- [[the-red-power]] — what she carries, and its two other carriers.
 - [[xipe-totec-the-red]] — whose power she carries.
 - [[huitzilopochtli-the-blue]] — whose system made her a founder.
-- [[ninja]] — the other character the Red imbued, who will never meet her and is doing the same thing
-  at the other end of the wheel.
+- [[ninja]] — another carrier of the same power, who will never meet her and is doing the same
+  thing at the other end of the wheel. A third carrier, a Mystic, is unnamed.
 - [[the-secret-society-system]] — what actually shaped her decisions, without her knowledge.
 - [[the-trial-of-the-last-gargoyle]] — where she hunts him down and loses the argument.
 - [[realm-nearness-and-traversal]] — the map she's old enough to know without asking.

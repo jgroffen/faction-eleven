@@ -88,10 +88,10 @@ Gate by gate, where the state has actually been decided:
   it believe the Celestials did it. Whether the werebeasts' gate to the Celestials was opened the
   same way, or some other, is unstated.
 - **Unsealed by a god.** [[the-damned]]'s allied gate to the [[green-skins]] was opened by [[val]],
-  carrying power [[xipe-totec-the-red]] gave her for the purpose. This is the intervention
-  [[quetzalcoatl-the-white]] noticed too late to stop. The Red's imbuement was meant to reach the
-  [[werebeasts]] too — the Damned's *other* allied gate — but that road was never found, despite
-  being exactly the kind of ordinary allied gate a very old entity should simply know
+  carrying [[the-red-power|power]] [[xipe-totec-the-red]] gave her for the purpose. This is the
+  intervention [[quetzalcoatl-the-white]] noticed too late to stop. The Red's imbuement was meant
+  to reach the [[werebeasts]] too — the Damned's *other* allied gate — but that road was never
+  found, despite being exactly the kind of ordinary allied gate a very old entity should simply know
   ([[realm-nearness-and-traversal]] flags this as an open tension, not yet resolved).
 - **Not a gate at all.** [[the-damned]]'s high-level liches reach [[aliens]] space through a **void**
   instead of a door — and the reason is now concrete: the Damned and the Aliens sit at ring-distance
@@ -113,6 +113,7 @@ gate to begin with.
 - [[the-linking-of-the-realms]] — when [[tezcatlipoca-the-black]] built the network.
 - [[faction-eleven-antagonist]] — who locked and guarded what the Black built.
 - [[the-wheel-of-realms]] — the ring the network's distances are measured on.
+- [[the-red-power]] — the one power that unseals a gate without touching the barrier behind it.
 
 ## Player-Facing
 

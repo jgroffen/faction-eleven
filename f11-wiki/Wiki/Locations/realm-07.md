@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-09
 sources:
   - Raw/Sources/faction-diagram.md
 source_count: 1
@@ -37,11 +37,10 @@ number, which is canon but is not what the people who live here call home.
 See [[the-wheel-of-realms]].
 
 The realm with the most traffic out of it: green-skins press into [[realm-03]], [[realm-04]] and
-[[realm-01]] — the same three enemies as before the faction's realm number changed. **Open:** the
-specific gate that lets them reach [[realm-01]] was justified as "two places round the ring" when
-Green Skins sat at realm-09; at four places from realm-01, that justification no longer holds
-arithmetically and is pending a new account of which realms a gate can join at all. Why they are
-expanding at all has a partial answer — they are **being manipulated and used**
+[[realm-01]]. The gate to [[realm-01]] is one of the faction's three enemy gates, per the fixed
+network ([[realm-nearness-and-traversal]]) — an ordinary distance-4 gate, abandoned and cracked in
+[[the-ancient-ruin]] because nobody there is currently fighting. Why they are expanding at all has a
+partial answer — they are **being manipulated and used**
 ([[the-manipulation-of-the-green-skins]]) — though by whom is unwritten.
 
 ## As A Playable Space

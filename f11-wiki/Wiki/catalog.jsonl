@@ -15,7 +15,7 @@
 {"path": "Wiki/Characters/templar.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "character", "title": "Templar", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Characters/tezcatlipoca-the-black.md", "sources": [], "tag": "character", "title": "Tezcatlipoca the Black", "topics": [], "updated": "2026-08-19"}
 {"path": "Wiki/Characters/the-gate-guardian.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "character", "title": "The Gate Guardian", "topics": [], "updated": "2026-08-11"}
-{"path": "Wiki/Characters/val.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/labs-faction-classes.md"], "tag": "character", "title": "Val", "topics": [], "updated": "2026-08-16"}
+{"path": "Wiki/Characters/val.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/labs-faction-classes.md"], "tag": "character", "title": "Val", "topics": [], "updated": "2026-09-09"}
 {"path": "Wiki/Characters/werewolf.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "character", "title": "Werewolf", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Characters/wraith.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "character", "title": "Wraith", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Characters/xipe-totec-the-red.md", "sources": [], "tag": "character", "title": "Xipe-Totec the Red", "topics": [], "updated": "2026-08-19"}
@@ -46,7 +46,7 @@
 {"path": "Wiki/GameMechanics/nested-map-navigation.md", "sources": ["Raw/Sources/factions-retro-readme.md"], "tag": "game-mechanic", "title": "Nested Map Navigation", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/GameMechanics/ninja-rhythm-platforming.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "game-mechanic", "title": "Ninja — Rhythm Platforming", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/GameMechanics/protagonist-swapping-and-story-gating.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "game-mechanic", "title": "Protagonist Swapping And Story Gating", "topics": [], "updated": "2026-08-08"}
-{"path": "Wiki/GameMechanics/realm-nearness-and-traversal.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "game-mechanic", "title": "Realm Nearness And Traversal", "topics": [], "updated": "2026-09-08"}
+{"path": "Wiki/GameMechanics/realm-nearness-and-traversal.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "game-mechanic", "title": "Realm Nearness And Traversal", "topics": [], "updated": "2026-09-09"}
 {"path": "Wiki/GameMechanics/robot-repair-puzzle.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md"], "tag": "game-mechanic", "title": "Robot Repair", "topics": [], "updated": "2026-08-12"}
 {"path": "Wiki/GameMechanics/robots-incremental-exploration.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "game-mechanic", "title": "Robots — Incremental Exploration", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Handovers/faction-eleven-story-outline.md", "sources": [], "tag": "handover", "title": "Handover: Faction Eleven story outline", "topics": [], "updated": "2026-08-08"}
@@ -59,10 +59,10 @@
 {"path": "Wiki/Locations/realm-01.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 01 — The Institute of Eight", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-02.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 02 — The Robots", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-03.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 03 — The Celestials", "topics": [], "updated": "2026-08-08"}
-{"path": "Wiki/Locations/realm-04.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 04 — The Mystics", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Locations/realm-04.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 04 — The Mystics", "topics": [], "updated": "2026-09-09"}
 {"path": "Wiki/Locations/realm-05.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 05 — The Fey Folk", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-06.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 06 — The Pirates", "topics": [], "updated": "2026-08-08"}
-{"path": "Wiki/Locations/realm-07.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 07 — The Green Skins", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Locations/realm-07.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 07 — The Green Skins", "topics": [], "updated": "2026-09-09"}
 {"path": "Wiki/Locations/realm-08.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 08 — The Damned", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-09.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 09 — The Werebeasts", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Locations/realm-10.md", "sources": ["Raw/Sources/faction-diagram.md"], "tag": "location", "title": "Realm 10 — The Aliens", "topics": [], "updated": "2026-08-08"}
@@ -103,6 +103,7 @@
 {"path": "Wiki/Logs/2026-09-07-round-31-the-secret-society-system-s-balance-goal-val-s-blocked-invasion-and-the-gargoyle-s-trial.md", "sources": [], "tag": "log", "title": "2026-09-07 — Round 31: the Secret Society System's balance goal, Val's blocked invasion, and the Gargoyle's trial", "topics": [], "updated": "2026-09-07"}
 {"path": "Wiki/Logs/2026-09-08-round-32-swapped-green-skins-and-werebeasts-realm-numbers-07-09.md", "sources": [], "tag": "log", "title": "2026-09-08 — Round 32: swapped Green Skins and Werebeasts realm numbers (07/09)", "topics": [], "updated": "2026-09-08"}
 {"path": "Wiki/Logs/2026-09-08-round-33-the-fixed-gate-network-its-diagram-and-who-already-knows-the-map.md", "sources": [], "tag": "log", "title": "2026-09-08 — Round 33: the fixed gate network, its diagram, and who already knows the map", "topics": [], "updated": "2026-09-08"}
+{"path": "Wiki/Logs/2026-09-09-cleanup-pass-removed-drafting-history-sediment-left-by-the-realm-swap.md", "sources": [], "tag": "log", "title": "2026-09-09 — Cleanup pass: removed drafting-history sediment left by the realm swap", "topics": [], "updated": "2026-09-09"}
 {"path": "Wiki/Logs/2026-09-09-round-34-removed-the-nearness-cycle.md", "sources": [], "tag": "log", "title": "2026-09-09 — Round 34: removed the nearness cycle", "topics": [], "updated": "2026-09-09"}
 {"path": "Wiki/Lore/a-heal-is-a-patch.md", "sources": [], "tag": "lore", "title": "A Heal Is A Patch", "topics": [], "updated": "2026-08-24"}
 {"path": "Wiki/Lore/allied-faction-signals.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "Allied Faction Signals", "topics": [], "updated": "2026-08-08"}
@@ -113,7 +114,7 @@
 {"path": "Wiki/Lore/the-ancient-language.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Ancient Language", "topics": [], "updated": "2026-08-19"}
 {"path": "Wiki/Lore/the-broken-barrier.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Broken Barrier", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Lore/the-continuity-system.md", "sources": [], "tag": "lore", "title": "The Continuity System", "topics": [], "updated": "2026-08-24"}
-{"path": "Wiki/Lore/the-cracked-gate.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Cracked Gate", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Lore/the-cracked-gate.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Cracked Gate", "topics": [], "updated": "2026-09-09"}
 {"path": "Wiki/Lore/the-four-developers.md", "sources": [], "tag": "lore", "title": "The Four Developers", "topics": [], "updated": "2026-08-19"}
 {"path": "Wiki/Lore/the-four-gods.md", "sources": [], "tag": "lore", "title": "The Four Gods", "topics": [], "updated": "2026-08-19"}
 {"path": "Wiki/Lore/the-gargoyle-guardians.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/labs-faction-classes.md"], "tag": "lore", "title": "The Gargoyle Guardians", "topics": [], "updated": "2026-08-16"}
@@ -127,7 +128,7 @@
 {"path": "Wiki/Lore/the-six-classes.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/factions-retro-readme.md", "Raw/Sources/labs-faction-classes.md"], "tag": "lore", "title": "The Six Classes", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Lore/the-smashing-of-the-gargoyles.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/labs-faction-classes.md"], "tag": "lore", "title": "The Smashing Of The Gargoyles", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Lore/the-void.md", "sources": [], "tag": "lore", "title": "The Void", "topics": [], "updated": "2026-08-19"}
-{"path": "Wiki/Lore/the-wheel-of-realms.md", "sources": ["Raw/Sources/faction-diagram.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Wheel Of Realms", "topics": [], "updated": "2026-08-08"}
+{"path": "Wiki/Lore/the-wheel-of-realms.md", "sources": ["Raw/Sources/faction-diagram.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "lore", "title": "The Wheel Of Realms", "topics": [], "updated": "2026-09-09"}
 {"path": "Wiki/Quests/the-calling-of-ancient-allies.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Calling Of Ancient Allies", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Quests/the-convergence-at-the-monastery.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Convergence At The Monastery", "topics": [], "updated": "2026-08-12"}
 {"path": "Wiki/Quests/the-cracking-of-the-gate.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Cracking Of The Gate", "topics": [], "updated": "2026-08-08"}

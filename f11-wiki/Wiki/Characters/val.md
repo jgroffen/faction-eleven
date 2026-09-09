@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-09-09
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
   - Raw/Sources/labs-faction-classes.md
@@ -125,10 +125,10 @@ manipulated realm is an invaded one. See [[gargoyle]].
 - Whether she ever learns the werebeast path stayed lost because of the balance system, rather than
   bad luck.
 - **A real tension, not yet resolved:** as one of the [[realm-nearness-and-traversal|very old
-  entities]] who should simply know the gate network, an allied gate from her own realm to the
-  Werebeasts is exactly the kind of thing Val shouldn't need to search for — yet it's established as
-  "lost" to her. Either her map-knowledge has a specific gap, or something else is blocking that one
-  gate beyond not knowing where it is. Left for the author.
+  entities]] who should simply know the gate network, Val shouldn't need to search for the allied
+  gate from her own realm to the Werebeasts — yet it's established as "lost" to her. Whether her
+  map-knowledge has a specific gap, or something else is blocking that one gate, is open — see
+  [[realm-nearness-and-traversal]].
 
 She founded the Guardians of Night, so neither "leads" nor "takes orders" was ever the right
 question — the group exists because a system chose her.

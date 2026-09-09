@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-09
 sources:
   - Raw/Sources/faction-diagram.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
@@ -132,12 +132,11 @@ The present state is the old war restarted by deception ([[the-broken-barrier]])
 green-skins invading the Celestials is not a scrambling of the old order. It is the old order,
 resumed on false evidence.
 
-**Elsewhere the ring used to hold exactly, and no longer does.** [[mystics]] (04) and [[green-skins]]
-used to be exact opposites while green-skins sat at 09, and the green-skins mine the Mystics' realm
-regardless of their number — so position and behaviour used to line up. Now that green-skins occupy
-[[realm-07]] (three places from Mystics, not opposite) and [[werebeasts]] hold the true opposite at
-09, the mining stays with the green-skins but the ring's "opposite" no longer points at them — a gap
-like the Celestials' case above, not a match (see [[realm-04]]). [[robots]] (02) sits adjacent to the
+**Elsewhere the ring's position and behaviour don't line up.** [[mystics]] (04) and [[green-skins]]
+are a gap, not a match: the green-skins mine the Mystics' realm, but [[green-skins]] occupy
+[[realm-07]] (three places from Mystics, not opposite), while [[werebeasts]] hold the true opposite
+at 09. The Mystics' historic enemy-by-position and their actual despoiler are different factions — a
+gap like the Celestials' case above (see [[realm-04]]). [[robots]] (02) sits adjacent to the
 [[institute-of-eight]] (01) — historically friendly — which is where the mini-fix bot in the Ninja's
 family shrine came from, and where the guarded gate leads.
 

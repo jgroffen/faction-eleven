@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-09
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -114,15 +114,13 @@ The reason is the chain: the monastery bot is a **mini-fix** bot, and what reach
 Autofix's Quantum Comms — which needs the crack to escape [[realm-02]]. No crack, no signal out of
 the Robot Realm, so nothing for either mini-fix bot to answer. The crack is upstream of everything.
 
-## Consequence — a prototype beat is now homeless
+## Why The Robot Gate Is Guarded
 
-An earlier version had the guardian's gate leading to the [[green-skins]]: beat the guardian, learn
-"the gate was sealed and guarded **for a reason**", then hold off waves of green-skins. With the
-guardian now facing the robots, that beat has nowhere obvious to land.
+A "sealed and guarded **for a reason**" beat, followed by holding off waves of green-skins, is not
+placed here — the guardian's gate faces the robots, not the green-skins. That beat's natural home is
+[[the-ancient-ruin]]'s gate, which does face [[realm-07]]; see its own Open section.
 
-The natural home for it is [[the-ancient-ruin]]'s gate, which does face [[realm-07]].
-
-**Why the robot gate is guarded is now answered, and it is not the Institute's doing.**
+**Why the robot gate is guarded, and it is not the Institute's doing:**
 [[quetzalcoatl-the-white]] placed the guardian to keep other realms' code out of a game he leads.
 The Institute's account — a traitor family serving a sentence — is history the realm generated
 afterwards to explain a boss that had appeared without one ([[the-gate-guardian]],

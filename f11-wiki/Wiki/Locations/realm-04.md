@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-09
 sources:
   - Raw/Sources/faction-diagram.md
 source_count: 1
@@ -41,12 +41,11 @@ fixed network's twenty-five gates**: realm-04 and realm-07 sit at ring-distance 
 network has nothing at all ([[realm-nearness-and-traversal]]). Whatever this route actually is
 remains unwritten.
 
-**This used to be the one place where the wheel and the old notes agreed exactly** — Green Skins sat
-at this realm's true numeric opposite and were also the ones despoiling it. Now that Green Skins
-occupy [[realm-07]] (three places away, not opposite) and [[werebeasts]] sit at this realm's true
-opposite, [[realm-09]], the two no longer coincide: the Mystics' historic enemy-by-position and
-their actual despoiler are different factions — and their despoiler doesn't even reach them by a
-gate. A gap, like the Celestials' case, rather than a match.
+The Mystics' historic enemy-by-position and their actual despoiler are different factions.
+[[green-skins]] occupy [[realm-07]] (three places away, not opposite) and mine this realm for
+magic; [[werebeasts]] sit at the true opposite, [[realm-09]]. Their despoiler doesn't even reach
+them by a gate — a gap, like the Celestials' case, rather than a match (see
+[[the-wheel-of-realms]]).
 
 ## Set Here
 

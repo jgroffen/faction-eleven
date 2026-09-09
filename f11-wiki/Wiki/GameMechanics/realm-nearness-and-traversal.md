@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-08
+updated: 2026-09-09
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -149,8 +149,7 @@ myths say. It is the diegetic reveal of this very page.
   perfectly ordinary allied gate under this rule — exactly the kind of thing a "very old entity" like
   Val should simply know. But [[val]] and [[the-guardians-of-night]] both state that road was "never
   found" and is "lost to her." Either her map-knowledge has a gap this rule doesn't explain, or
-  something else is blocking that specific gate beyond not knowing where it is. Left for the author to
-  resolve.
+  something else is blocking that specific gate beyond not knowing where it is.
 - **[[the-void]] is the one confirmed non-gate route** — the Damned and the Aliens sit at
   ring-distance 2, which has no gate at all, which is exactly why the liches need it instead of a
   door. Whether anything else in the material moves between realms by a means that isn't a gate and

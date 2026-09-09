@@ -44,7 +44,10 @@ are near and historically friendly. Opposites are distant and historically enemi
 | 09 | [[werebeasts]] | [[realm-09]] | tan |
 | 10 | [[aliens]] | [[realm-10]] | light green |
 
-**Opposites — historically enemies** (each faction and the one five places away):
+**Opposites — historically enemies** (each faction and the one five places away — its *direct*
+enemy; each realm actually carries three, the direct opposite plus the two realms four places away
+on either side, all gated identically — see [[realm-nearness-and-traversal]] for the complete
+network):
 
 - 01 [[institute-of-eight]] ↔ 06 [[pirates]]
 - 02 [[robots]] ↔ 07 [[green-skins]]
@@ -62,10 +65,10 @@ story.
 
 ## Ties
 
-- [[realm-nearness-and-traversal]] — the ring is the map of nearness, so it governs which
-  realms can reach each other at all.
-- [[sealed-interplane-gates]] — the Ancients built gates to *near-by* realms, so the ring
-  predicts roughly where gates should be.
+- [[realm-nearness-and-traversal]] — the complete, fixed gate network this ring's distances define:
+  allied at distance 1, enemy at distance 4 or 5, nothing in between.
+- [[sealed-interplane-gates]] — gate *state* (sealed, guarded, open, cracked), layered on top of
+  the network this page's distances fix.
 - [[faction-eleven-antagonist]] — whose catalogue this is, and whose eleventh entry the game is
   named for.
 
@@ -80,13 +83,13 @@ The ring describes the *old* alignments. Several present-day facts sit against t
   route the second signal travels to reach [[realm-01]] ([[the-second-signal]]). The green-skins'
   invasion road is also the multiverse's telephone line.
 - The [[institute-of-eight]]'s (01) **guarded** gate leads to [[realm-02]], an adjacent,
-  historically friendly neighbour. Their gate to the green-skins (now [[realm-07]]) exists but is
-  **abandoned and cracked**, in [[the-ancient-ruin]] — described as "two places round the ring"
-  while Green Skins sat at realm-09. At **four** places from realm-01, that description no longer
-  holds arithmetically, and is carried as **open**, pending a new account of which realms a gate can
-  join at all.
-- [[the-damned]] (08) open gates into [[aliens]] (10) space — again two places, and this one is
-  unaffected by the swap.
+  historically friendly neighbour. Their gate to the green-skins ([[realm-07]]) exists too, but is
+  **abandoned and cracked**, in [[the-ancient-ruin]] — not because it's an anomaly, but because it's
+  one of Institute's three ordinary *enemy* gates ([[realm-nearness-and-traversal]]) and nobody
+  currently fighting that enemy bothers to watch it. "Near" was never actually the rule.
+- [[the-damned]] (08) reach [[aliens]] (10) space, but **not through a gate** — that pair sits at
+  ring-distance two, where the fixed network puts nothing at all, which is exactly why the liches
+  need [[the-void]] instead of a door.
 
 ### The ring is a map of three things
 

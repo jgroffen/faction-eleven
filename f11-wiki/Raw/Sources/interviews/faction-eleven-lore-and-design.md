@@ -1443,3 +1443,102 @@ new number). How should this be handled?**
   that handover, not resolved.
 - Colours travel with the faction (dark green now realm-07/Green Skins, tan now realm-09/Werebeasts)
   — adopted as the low-stakes default, not separately confirmed by the author.
+
+### Round 33 — 2026-09-08
+
+The author gave the actual rule behind interplane gates, which `realm-nearness-and-traversal` had
+never specified. The interviewer worked out the full ten-realm graph from it, found two places
+where the rule and existing lore disagreed, and put both to the author before writing anything.
+
+**Q69 — What determines which realms have gates to which?**
+
+> The gate system between the realms only work in a very specific manner - There are gates between
+> adjacent, allied realms and opposing realms. For example, the Celestial Realm has allied gates to
+> the Robots and the Mystics, and to the three enemy realms of Green Skins, Damned, and Werebeasts.
+
+**Q70 — Do the four realms outside the old war's two three-realm alliances (Institute, Robots,
+Pirates, Aliens) get an enemy gate too, via the simple mirror-opposite pairing, or none at all?**
+
+> Every realm had gates to five realms - two allied and three enemy. These routes are static. This
+> was how the realms were connected together by the Black originally. Current status of gates is
+> varied; all were sealed but use of the 'Red Power' causes unseals.
+
+**Q71 — The only formula that gives every realm exactly five gates (a rotating pattern: each
+realm's three enemies are the realms 4, 5 and 6 steps around the ring) breaks the established fact
+that Green Skins mine the Mystics' realm through an open gate — under that formula Green Skins and
+Mystics sit three steps apart, which has no gate at all. Which gives?**
+
+> Rotating rule wins — the mining route isn't one of these 25 gates.
+
+**Q72 — Separately, and not put to the author this round: the Damned's gate to the Werebeasts
+(distance 1, an entirely ordinary allied gate) is exactly the kind of thing a "very old entity"
+should simply know, yet `val` and `the-guardians-of-night` both say that road was "lost" to her.
+Flagged as an open tension rather than silently resolved.**
+
+The author also specified who already knows the network and why the Gargoyle doesn't:
+
+> Very old entities are aware of what paths between realms exist - this includes all Gargoyles, Val,
+> the Liches. The Gargoyle protagonist is missing this information but re-attains it when he finds a
+> lore fragment from a smashed gargoyle during chapter 2.
+
+## Notes For The Compiler — Round 33
+
+- **The gate network is now fully specified**, in `realm-nearness-and-traversal`, with a diagram
+  (`realm-gate-network.svg`): every realm connects to its two ring-neighbours (allied, distance 1)
+  and to the three realms at distance 4 and 5 (enemy) — twenty-five gates total, built once by
+  [[tezcatlipoca-the-black]] at [[the-linking-of-the-realms]], all sealed by
+  [[the-long-disconnection]], unsealed only by the Red's power.
+- **This resolves last session's Ancient Ruin problem outright.** Institute (01) and Green Skins
+  (07) sit at distance 4 — an ordinary enemy gate, not an anomaly. The real anomaly is that
+  Institute guards its one ally obsessively and has let this enemy gate rot, which is why Ninja gets
+  through it. Every "pending, awaiting the gate-topology rule" flag from Round 32 is now resolved
+  and removed.
+- **Three of the fifteen enemy gates also carry a gargoyle-built barrier** — 07↔03, 08↔04, 09↔05,
+  the specific pairs the old war was fought through. The other twelve enemy gates and all ten allied
+  gates never had one.
+- **Two casualties, both flagged in the wiki rather than silently patched:**
+  1. Green Skins' access to the Mystics' underworld is **not** one of the twenty-five gates
+     (distance 3, no gate exists there) — flagged in `mystics`, `green-skins`, `realm-04`, and
+     `realm-nearness-and-traversal`'s Open section as needing its own, still-unwritten mechanism.
+  2. The Damned→Werebeasts gate (08↔09) is an ordinary allied gate that a "very old entity" like Val
+     should know — flagged as a real, unresolved tension in `val` and
+     `the-guardians-of-night`, not fixed.
+- **A validating side effect, not asked for but confirmed by the math:** the Damned and the Aliens
+  sit at ring-distance 2, which has no gate at all — exactly why the liches need [[the-void]] rather
+  than a door. Added to `the-void`.
+- **Very old entities who carry the true map:** gargoyles as a kind, [[val]], and the liches — all
+  predate the thousand years that reduced the network to myth for everyone else. [[gargoyle]] is the
+  named exception: his copy of this knowledge was lost to the smashing specifically, not the
+  ordinary torpor-amnesia, and is restored by a [[gargoyle-fragments|lore fragment]] found somewhere
+  in [[chapter-02]] — the diegetic reveal of this whole page to the player.
+- All ten `realm-NN` location notes and `sealed-interplane-gates` updated to match; the old "near
+  means compatible, far is impossible" framing is retired — allied-or-enemy means compatible, and
+  the middle distances (2-3) are the ones with nothing at all.
+
+### Round 34 — 2026-09-09
+
+**Q73 — Remove the concept of a cycle that makes crossing between realms easier or harder.**
+
+> remove the concept of a cycle that makes the crossing between realms easier or harder.
+
+## Notes For The Compiler — Round 34
+
+- **The nearness cycle is gone.** It was always separate from the fixed gate network and never
+  specified beyond "traversal drifts from easy to almost impossible" — now that the network is fully
+  static, it had nothing left to explain and directly contradicted "gates never change."
+- Removed from [[realm-nearness-and-traversal]] (the intro framing, the whole "does nearness
+  interact with the network" Open bullet and its sub-questions, and the Tuning section's "period of
+  the cycle" framing — replaced with "nothing to tune, it's a fixed graph"),
+  [[sealed-interplane-gates]] ("shut by the cycle," "bottom of the cycle"),
+  [[the-multiverse-of-realms]] (the "realms drift through cycles... easy to almost impossible"
+  paragraph, rewritten around the fixed network), [[the-long-disconnection]] (the "natural cycle...
+  held at that cycle's trough" paragraph, removed outright), and [[the-realm-barriers]] ("hold the
+  cycle down," replaced with "sealed the realms shut... for a thousand years").
+- **Not touched, a different concept with the same word:** [[tezcatlipoca-the-black]]'s cycle of
+  creating and destroying whole realities ([[the-four-gods]], [[the-linking-of-the-realms]],
+  [[the-void]], [[story-continuity-timeline]]) — unrelated, left exactly as it was. Also untouched:
+  the "boss fight → defeat → training cycle" gameplay-loop phrasing used for chapter one
+  ([[ninja]], [[the-gate-guardian]], [[the-cracking-of-the-gate]], [[death-and-return]],
+  [[chapter-based-release]], [[institute-of-eight]], [[chapter-01]]).
+- **What traversal is now, in full:** the fixed 25-gate network, plus [[the-void]] as the one
+  confirmed non-gate route. Nothing else moves between realms by any mechanism on record.

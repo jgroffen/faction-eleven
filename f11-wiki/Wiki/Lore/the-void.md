@@ -37,6 +37,11 @@ of their own world**, and they used that to leave it entirely, out into the void
 quietly stealing from the [[aliens]] ever since: taking pieces of a neighbouring realm home to use in
 their own.
 
+**There was never a gate to bypass in the first place.** The Damned and the Aliens sit at
+ring-distance two on [[the-wheel-of-realms]], exactly where the fixed gate network has nothing at
+all ([[realm-nearness-and-traversal]]). The void isn't a shortcut around a locked door between them —
+it's the only route that has ever existed.
+
 They cover their tracks. **None of the four gods knows this is happening.**
 
 ## What Dwells There
@@ -75,6 +80,11 @@ gives them the self-awareness to notice, and having hacked out into the void giv
 knowledge of the realms and of **the infrastructure the games run on** — the layer beneath the world,
 which nobody else has ever stood in.
 
+They are also one of the very old entities who still carry the true gate network as fact rather than
+the myth it's become for everyone else ([[realm-nearness-and-traversal]]) — alongside gargoyles and
+[[val]]. For the liches this is barely worth mentioning next to what else they know; the twenty-five
+gates are the least eldritch thing in their repertoire.
+
 **They present all of it as ancient eldritch lore.** Not a lie, exactly: a costume. What they actually
 possess is systems knowledge, and what they offer is the forbidden wisdom of things that have looked
 upon the outer dark. The framing is doing two jobs — it fits what a lich is supposed to be, and it
@@ -96,6 +106,8 @@ real source of instability.
 - [[tezcatlipoca-the-black]] — who built them, and does not know what they did.
 - [[the-four-developers]] — what the void is, one layer down.
 - [[sealed-interplane-gates]] — the ordinary way between realms, which this is not.
+- [[realm-nearness-and-traversal]] — the fixed network the void has no gate in, and the map the
+  liches already carry.
 
 ## Player-Facing
 

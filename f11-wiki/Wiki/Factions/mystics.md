@@ -35,9 +35,11 @@ revive them.
 
 ## Standing
 
-Deep in the underworld is an **open gate** to the [[green-skins]] realm — which is why the
+Deep in the underworld is an **open connection** to the [[green-skins]] realm — which is why the
 dungeons keep repopulating. The green-skins have been **mining the magic-rich plane**, making the
-Mystics a resource colony as much as a rival.
+Mystics a resource colony as much as a rival. **This isn't one of the fixed network's twenty-five
+gates** — realm-04 and realm-07 sit at ring-distance three, where the Black's network has nothing at
+all ([[realm-nearness-and-traversal]]) — so whatever this connection actually is remains unwritten.
 
 **They are under invasion — and it is not mainly the green-skins.** The Mystics
 are being invaded **mostly by [[the-damned]], with some [[werebeasts]]**, and that invasion was

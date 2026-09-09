@@ -35,13 +35,11 @@ another, and the difference is meant to be felt immediately — the art style it
 the player crosses over. The ten protagonists are not ten people in one place; they are ten people
 in ten places who do not, at first, know the others exist.
 
-The realms are not fixed in relation to each other. They drift through **cycles** in which
-traversal between them goes from easy to almost impossible, and they have a sense of **nearness** —
-close realms are easier to traverse between than distant ones. See
-[[realm-nearness-and-traversal]]. Their arrangement is a ring: [[the-wheel-of-realms]].
-
-Independent of the cycle, the Ancients built **gates** between near-by realms that always work
-([[sealed-interplane-gates]]).
+The realms sit in a fixed ring — [[the-wheel-of-realms]] — and traversal between them runs on a
+permanent network the Black built once and for all: **gates** to a realm's two allies and its three
+enemies, twenty-five in total, none anywhere else ([[sealed-interplane-gates]],
+[[realm-nearness-and-traversal]]). Which gates exist never changes; which are sealed, guarded, or
+open is what actually moves.
 
 The game is set **after an extended period of disconnection**. See [[the-long-disconnection]].
 
@@ -70,6 +68,6 @@ places, "the realities" reads as an abstraction.
 
 ## Player-Facing
 
-Directly and unmissably — a realm's art style is how the player knows where they are. The
-cyclical nature of traversal and the concept of nearness are presumably learned rather than
-stated, but how much the player is told, and when, is not yet established.
+Directly and unmissably — a realm's art style is how the player knows where they are. Which of the
+twenty-five gates exist is fixed and never dramatised as a question; which ones are sealed, guarded,
+cracked or open is what the player actually discovers, one realm at a time.

@@ -39,6 +39,11 @@ suits her exactly: she does not swing the hammer, she says "do it!" and leaves. 
 it, the **Minotaur** and the **Giant**, are the [[green-skins]]' Heavy Weapons and Front Liner. She
 gave an order to another faction's soldiers and they took it.
 
+**She is old enough to know the true map.** As a long-lived vampire of [[the-damned]], she predates
+the thousand years that reduced the gate network to myth for everyone else — she carries the whole
+twenty-five-gate wheel as fact, not legend ([[realm-nearness-and-traversal]]). It's part of why she
+moves so decisively: she never had to discover a route, only act on knowledge she'd always had.
+
 **What she believes:** with the rest of the Guardians, that the unsealing of the gates proves the
 [[celestials]], [[fey-folk]] and [[mystics]] mean to invade again, and that striking first is the
 only defence available. She is not a nihilist and not a conqueror. She is certain.
@@ -108,6 +113,7 @@ manipulated realm is an invaded one. See [[gargoyle]].
   at the other end of the wheel.
 - [[the-secret-society-system]] — what actually shaped her decisions, without her knowledge.
 - [[the-trial-of-the-last-gargoyle]] — where she hunts him down and loses the argument.
+- [[realm-nearness-and-traversal]] — the map she's old enough to know without asking.
 
 ## Open
 
@@ -118,6 +124,11 @@ manipulated realm is an invaded one. See [[gargoyle]].
 - Whether she ever notices the power she opened the gates with was not hers.
 - Whether she ever learns the werebeast path stayed lost because of the balance system, rather than
   bad luck.
+- **A real tension, not yet resolved:** as one of the [[realm-nearness-and-traversal|very old
+  entities]] who should simply know the gate network, an allied gate from her own realm to the
+  Werebeasts is exactly the kind of thing Val shouldn't need to search for — yet it's established as
+  "lost" to her. Either her map-knowledge has a specific gap, or something else is blocking that one
+  gate beyond not knowing where it is. Left for the author.
 
 She founded the Guardians of Night, so neither "leads" nor "takes orders" was ever the right
 question — the group exists because a system chose her.

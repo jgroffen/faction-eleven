@@ -33,7 +33,7 @@ The [[gargoyle]] wants to protect and save the green-skins, and to stop the fact
 
 That is one clause, and it moves more of this game than anything else said about the faction. Every
 other faction in the material meets the green-skins as an invading horde: swarms breaking on the
-[[celestials]]' walls, an open gate repopulating the [[mystics]]' dungeons, a sealed door in
+[[celestials]]' walls, an open connection repopulating the [[mystics]]' dungeons, a sealed door in
 [[realm-01]] holding them out. The horde has always had an unanswered question attached to it —
 **why are they expanding?** ([[green-skins]]). This is the first answer: they may not be expanding
 of their own accord.

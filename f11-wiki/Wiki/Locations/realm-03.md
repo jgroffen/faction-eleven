@@ -32,7 +32,7 @@ number, which is canon but is not what the people who live here call home.
 ## Position On The Wheel
 
 - **Neighbours (near, historically friendly):** [[realm-02]], [[realm-04]]
-- **Opposite (distant, historically enemies):** [[realm-08]]
+- **Enemy gates (three, per [[realm-nearness-and-traversal]]):** [[realm-07]], [[realm-08]] (the direct opposite), [[realm-09]]
 
 See [[the-wheel-of-realms]].
 

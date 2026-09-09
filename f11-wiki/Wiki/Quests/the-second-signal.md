@@ -88,10 +88,10 @@ Two things follow, and both are good:
    from realm-09 to realm-07 (equidistant from realm-03 either way).
 2. **The Ninja follows the signal back up its own path.** Going to [[realm-07]] is not a detour; it
    is the first leg of the route the signal took. That is why the trail leads to [[gargoyle]]
-   before it leads to [[templar]]. **The second leg does not survive the move unscathed:** the
-   cracked gate in [[the-ancient-ruin]] was "two places round the ring" from [[realm-01]] when Green
-   Skins sat at realm-09. At four places, this leg of the route is open, pending a new account of
-   which realms a gate can join at all — see the handoff on the Ninja/Gargoyle route.
+   before it leads to [[templar]]. **The second leg is resolved:** the cracked gate in
+   [[the-ancient-ruin]] is one of realm-01's three *enemy* gates under the fixed network
+   ([[realm-nearness-and-traversal]]) — "near" was never the actual rule, and distance-4 is exactly
+   where an enemy gate belongs.
 
 ## Preconditions
 

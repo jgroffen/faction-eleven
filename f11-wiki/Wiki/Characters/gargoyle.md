@@ -54,6 +54,13 @@ destroyed**, even though the player watched it happen.
 He has **never heard of [[faction-eleven-antagonist]]**. His knowledge is deep and stops precisely
 where the game's secret begins.
 
+**He should also know the true gate network, and doesn't.** Gargoyles are among the very old
+entities who carry the whole wheel as fact rather than the myth it's become for everyone else
+([[realm-nearness-and-traversal]]) — but this specific piece is one the smashing took along with his
+power, not something the ordinary torpor-amnesia erased. He gets it back the way he gets everything
+back: a [[gargoyle-fragments|fragment]] from a smashed kinsman, found somewhere in [[chapter-02]],
+hands him — and the player — the real shape of the wheel.
+
 **He is a protector.** He wants to **protect and save** the green-skins and to stop them being
 manipulated and used — gargoyles see themselves as protectors. This is not a personal conviction
 but **what he was built as**, which is why he cannot simply decide to do otherwise.
@@ -97,6 +104,8 @@ defence field is not designed.
 - [[val]] — the one who ordered him destroyed, and who later argues he is broken.
 - [[gargoyle-fragments]] — how he rebuilds himself, from the bodies of his own kind.
 - [[the-trial-of-the-last-gargoyle]] — where Val confronts him and he starts to doubt himself.
+- [[realm-nearness-and-traversal]] — the map every gargoyle should know, and the one thing his
+  damage cost him specifically.
 
 ## After Val
 

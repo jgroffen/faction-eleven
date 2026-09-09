@@ -126,10 +126,6 @@ Ninja, toward [[realm-03]] — deferred to a handoff rather than designed here.
 - **How much of the Guardians' conspiracy is revealed in this chapter** versus held back. The chain
   is three deep and only the bottom two rungs can safely be shown.
 - **Where the broken barrier is** in [[realm-07]], and how they broke gargoyle-shaped stone.
-- **How the Ancient Ruin's gate to [[realm-07]] still exists.** Green Skins moved from realm-09
-  (two ring-places from the Institute) to realm-07 (four places) — the gate's original
-  justification no longer holds arithmetically. Pending a new account of which realms a gate can
-  join at all; see [[gargoyle-ninja-and-the-celestials-gate]].
 
 ## What Ends The Chapter
 

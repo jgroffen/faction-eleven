@@ -44,10 +44,6 @@ power of the three combined is what sealed the gates.**
 [[tezcatlipoca-the-black]] did not contest it. The war had produced enough change and entropy to be
 going on with, so he let the world run closed for **a thousand years** and waited.
 
-There is also a natural cycle in which the realms drift from easy to almost impossible to traverse
-([[realm-nearness-and-traversal]]); the sealing held the world at that cycle's trough far past its
-natural length.
-
 **The sealing did not stop the instability, and there is a reason it could not.** The damage was
 never in the traffic between realms; it was in the ten tangled histories the linking had already
 produced. [[the-retcon-engine]] has been working on those ever since, one detected error at a time,

@@ -50,6 +50,13 @@ The first three come in the opening minutes ([[the-waking-of-the-last-gargoyle]]
    power, **stealth without moving**.
 3. **His head remains damaged**, and stays that way.
 
+**Not every fragment restores an ability.** Somewhere later in [[chapter-02]], one fragment gives
+back **the gate network** instead — the sense of the true wheel that every gargoyle should carry as
+fact and his damage specifically cost him ([[realm-nearness-and-traversal]]). Mechanically it's the
+same act as every other pickup — a piece of a dead kinsman, restoring something the hammer took —
+but the payoff is knowledge rather than a move, and it's the moment the player sees the real shape of
+the multiverse rather than piecing it together gate by gate.
+
 ## Flavour
 
 Not written. The design note that matters more than any flavour text: the player is picking up
@@ -63,6 +70,7 @@ that become weightless.
 - [[the-gargoyle-guardians]] — what a gargoyle is, and why the head is what was destroyed.
 - [[the-smashing-of-the-gargoyles]] — why there are pieces to find.
 - [[the-waking-of-the-last-gargoyle]] — the opening sequence.
+- [[realm-nearness-and-traversal]] — what the map-restoring fragment gives back.
 
 ## Open
 

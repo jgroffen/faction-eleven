@@ -71,8 +71,10 @@ by itself.
 Seen from elsewhere, they are everywhere:
 
 - [[celestials]] — attacked relentlessly by green-skin swarms and war machines.
-- [[mystics]] — an open gate in the Mystics' underworld repopulates the dungeons; the green-skins
-  are **mining** that realm for magic.
+- [[mystics]] — an open connection in the Mystics' underworld repopulates the dungeons; the
+  green-skins are **mining** that realm for magic. **Not one of the fixed network's twenty-five
+  gates** — realm-07 and realm-04 sit at ring-distance three, where no gate exists
+  ([[realm-nearness-and-traversal]]) — so this route needs its own explanation, still unwritten.
 - [[institute-of-eight]] — their gate is the one the Institute's gate guardian was sealed to hold
   shut.
 
@@ -82,8 +84,8 @@ Celestials has an opponent inside the faction.
 
 [[realm-01]] holds an **abandoned, already-cracked gate** into green-skin territory
 ([[the-ancient-ruin]]), which is how [[ninja]] reaches [[gargoyle]] in chapter two
-([[the-second-signal]]) — though how that gate's existence squares with the ring's distances now
-that Green Skins sit at [[realm-07]] is open, pending a new account of which realms a gate can join.
+([[the-second-signal]]) — one of Institute's three *enemy* gates, per the fixed network
+([[realm-nearness-and-traversal]]), just never guarded because nobody there is currently fighting.
 
 ## Faction Classes
 

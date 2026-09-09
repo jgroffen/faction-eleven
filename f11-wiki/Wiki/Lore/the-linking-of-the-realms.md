@@ -22,8 +22,10 @@ locations: []
 # The Linking Of The Realms
 
 For thousands of years the ten realms were separate and reality was stable — so stable that the
-Black's cycle of creation and destruction had **stalled**. So he opened pathways from every realm to
-every other, and reality began racing toward its own destruction.
+Black's cycle of creation and destruction had **stalled**. So he built pathways — not from every
+realm to every other, but a fixed, deliberate network: each realm wired to its two allies and its
+three enemies, twenty-five gates in all ([[sealed-interplane-gates]],
+[[realm-nearness-and-traversal]]) — and reality began racing toward its own destruction.
 
 **More than half the realms were damaged by it, and some were never repaired.**
 
@@ -99,6 +101,7 @@ become unbearable — each of them is watching the thing they warned about get w
 - [[the-long-disconnection]] — the thousand years that followed.
 - [[no-machine-repairs-itself]] — the fault that was never repaired.
 - [[the-wheel-of-realms]] — the two arcs the old war ran between.
+- [[sealed-interplane-gates]] · [[realm-nearness-and-traversal]] — the specific network built here.
 
 ## Player-Facing
 

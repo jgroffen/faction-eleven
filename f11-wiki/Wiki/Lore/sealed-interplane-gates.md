@@ -20,11 +20,12 @@ locations: []
 
 # Sealed Interplane Gates
 
-**The Ancients built the gates.** Each faction's realm has gates to its **near-by** realms,
-and they are **static** — a gate always allows traversal, even when every other way between
-realms is shut by the cycle. That is precisely why [[faction-eleven-antagonist]] **locked and
-guarded** them: a permanent door is the one thing an extended disconnection cannot close by
-itself.
+**[[tezcatlipoca-the-black]] built the gates, once, at [[the-linking-of-the-realms]].** Each realm
+has exactly **five** — two to its allies, three to its enemies — never to anyone else
+([[realm-nearness-and-traversal]] has the full rule and the complete network). They are
+**static** — fixed forever, whether or not they are currently passable. That is precisely why
+[[faction-eleven-antagonist]] **locked and guarded** them: a permanent door is the one thing an
+extended disconnection cannot close by itself.
 
 Some are sealed, some stand open, some are guarded — and the difference is what drives most of the
 ten stories.
@@ -46,66 +47,72 @@ which is the thread the whole mystery hangs from.
 
 Two properties matter and are easy to lose:
 
-1. **Static.** Gates do not care about [[realm-nearness-and-traversal]]'s cycle. Other means of
-   crossing rise and fall with nearness; a gate is always passable. This makes gates the only
-   reliable route in a game set at the bottom of the cycle — and it means the design has, and
-   needs, **at least two kinds of traversal**.
-2. **Near-by only.** Gates connect realms that are close on [[the-wheel-of-realms]]. There
-   is no gate from one side of the wheel to the other, so reaching a historic enemy means going
-   *the long way round*, realm by realm — which is a ready-made spine for a ten-faction
-   journey.
+1. **Static.** A gate's existence never changes — only its seal does. Gates are the multiverse's
+   only *reliable* route: fixed, findable, and (once unsealed) always passable. The one confirmed
+   exception is [[the-void]], which isn't a gate at all.
+2. **Allied or enemy only — never in between.** A gate exists at ring-distance 1 (the two
+   neighbours) and at ring-distance 4 or 5 (the three enemies). Distances 2 and 3 get **no gate at
+   all**. This is stranger than plain "nearness," and it is precise: reaching a realm two or three
+   places round the ring means going the long way — through realm after realm — while reaching an
+   enemy clear across the wheel is a single door away. That asymmetry is a ready-made spine for a
+   ten-faction journey.
 
-   **This is not a choice the Ancients made; it is a limit they were under.** *Near* means
-   **compatible** ([[the-four-developers]]). A gate between distant realms is not forbidden, it is
-   impossible, and no god can build one. The wheel is a compatibility graph before it is anything
-   else.
+   **This is not a choice the Ancients made; it is the shape the Black built.** *Allied or enemy*
+   means **compatible** ([[the-four-developers]]) — the two relationships the old order actually
+   cared about. A gate at distance 2 or 3 is not forbidden, it is simply not there, and no later act
+   creates one. See [[realm-nearness-and-traversal]] for the full twenty-five-gate table and the
+   diagram.
 
-   **Open, pending revision:** [[the-ancient-ruin]]'s gate from [[realm-01]] to the green-skins was
-   justified by exactly this rule when Green Skins sat at realm-09 (two places away). Now that they
-   occupy [[realm-07]] (four places away), that gate sits outside "near means compatible" as stated
-   here — carried as pending a new account of which realms a gate can join, expected to widen this
-   rule to allied *and* enemy realms rather than adjacency alone.
+**The default is sealed.** All twenty-five gates were sealed at once by [[the-long-disconnection]],
+and almost all of them are still exactly that — most of the network has no stated state at all yet.
+[[robots]]' isolation is not special in kind, only in degree: **all five** of their gates are sealed
+and none has been touched by any exception below, which is why they hunt for rumours of **who
+created the gates, why they are sealed, and how to unseal them**, and crucially *cannot unseal them
+on their own*. A total seal also stops signals: **Quantum Comms cannot operate without an
+opening**, so until [[the-cracked-gate]] the robots can neither leave nor call.
 
-Gate by gate:
+Gate by gate, where the state has actually been decided:
 
-- **Fully sealed.** **All** gates from [[realm-02]] are sealed — the [[robots]] are the most
-  isolated faction in the game. They hunt for rumours of **who created the gates, why they are
-  sealed, and how to unseal them**, and crucially *cannot unseal them on their own*. A total seal
-  also stops signals: **Quantum Comms cannot operate without an opening**, so until
-  [[the-cracked-gate]] the robots can neither leave nor call. Needing outside help is not a
-  preference; it is the only option they have.
-- **Guarded.** The [[institute-of-eight]]'s gate to the **[[robots]]** is held by a **gate
-  guardian**, and [[ninja]]'s traitor family is sentenced to fight it endlessly. The guardian is
-  [[quetzalcoatl-the-white]]'s protection against foreign code entering a realm he leads; the
-  sentence is history [[realm-01]] generated to explain it ([[the-gate-guardian]]).
-- **Abandoned and already cracked.** [[realm-01]] has a *second* gate, to the [[green-skins]],
-  lying forgotten in [[the-ancient-ruin]]. Nobody guards it and it has been cracked for a long
-  time — which is how [[ninja]] eventually leaves [[realm-01]] ([[the-second-signal]]).
-- **Open.** The [[celestials]] have gates standing open to both the [[green-skins]] and the
-  [[werebeasts]], and are attacked through both. The [[mystics]] have an open gate deep in their
-  underworld, which is why the dungeons repopulate and how the green-skins mine the realm.
-  **Why they are open is now answered:** their barriers were broken deliberately, from the inside,
-  by [[the-guardians-of-night]] ([[the-broken-barrier]]) — and the realms behind them believe the
-  Celestials did it.
-- **Being opened.** [[the-damned]]'s high-level liches are **opening gates** into alien space,
-  via a **void** in which ancient Lovecraftian gods dwell — abandoned realities the Black destroyed
-  and never fully unmade. The liches are not using gates at all; they bypass the rules of their own
-  realm and go around ([[the-void]]).
-- **Unsealed by a god.** [[the-damned]]'s gate to the [[green-skins]] was opened by [[val]], carrying
-  power [[xipe-totec-the-red]] gave her for the purpose. This is the intervention
+- **Guarded, on top of sealed.** The [[institute-of-eight]]'s allied gate to the **[[robots]]** is
+  held by a **gate guardian**, and [[ninja]]'s traitor family is sentenced to fight it endlessly.
+  The guardian is [[quetzalcoatl-the-white]]'s protection against foreign code entering a realm he
+  leads; the sentence is history [[realm-01]] generated to explain it ([[the-gate-guardian]]).
+- **Abandoned and already cracked.** [[realm-01]] has a second gate — one of its three *enemy*
+  gates, to the [[green-skins]] — lying forgotten in [[the-ancient-ruin]]. Nobody guards it and it
+  has been cracked for a long time, which is how [[ninja]] eventually leaves [[realm-01]]
+  ([[the-second-signal]]). The Institute watches the ally it fears and neglects the enemy nobody is
+  currently fighting — a genuine oversight, not a design.
+- **Open, barrier broken.** The [[celestials]]' enemy gates to the [[green-skins]] and the
+  [[werebeasts]] stand open. **Why is now answered:** [[the-guardians-of-night]] broke the gargoyle
+  barrier on the green-skins' side from the inside ([[the-broken-barrier]]), and the realms behind
+  it believe the Celestials did it. Whether the werebeasts' gate to the Celestials was opened the
+  same way, or some other, is unstated.
+- **Unsealed by a god.** [[the-damned]]'s allied gate to the [[green-skins]] was opened by [[val]],
+  carrying power [[xipe-totec-the-red]] gave her for the purpose. This is the intervention
   [[quetzalcoatl-the-white]] noticed too late to stop. The Red's imbuement was meant to reach the
-  [[werebeasts]] too, but that road was never found — its location is lost to Val, and it never
-  became a completed act.
+  [[werebeasts]] too — the Damned's *other* allied gate — but that road was never found, despite
+  being exactly the kind of ordinary allied gate a very old entity should simply know
+  ([[realm-nearness-and-traversal]] flags this as an open tension, not yet resolved).
+- **Not a gate at all.** [[the-damned]]'s high-level liches reach [[aliens]] space through a **void**
+  instead of a door — and the reason is now concrete: the Damned and the Aliens sit at ring-distance
+  2, where **no gate exists**. The void is not a shortcut around a sealed door; it is the only route
+  there is ([[the-void]]).
+- **Real, but not one of these twenty-five.** The green-skins mine the Mystics' realm through an
+  open connection in their underworld — but Green Skins and Mystics sit at ring-distance 3, which
+  has no gate under this rule. That connection needs its own explanation, not this one
+  ([[realm-nearness-and-traversal]]).
 
-So the disconnection is **uneven**: some realms are sealed off, others are being invaded, and at
-least one faction is deliberately opening doors.
+So the disconnection is **uneven**: most of the network is sealed and untouched, a few gates have
+been forced open by very different hands, and at least one connection in the material was never a
+gate to begin with.
 
 ## Ties
 
 - [[the-long-disconnection]] — the state the gates enforce.
-- [[realm-nearness-and-traversal]] — the mechanic of moving between realms.
-- [[faction-eleven-antagonist]] — who built the gates, then locked and guarded them.
-- [[the-wheel-of-realms]] — which realms are near enough to be joined by a gate.
+- [[realm-nearness-and-traversal]] — the full network, the diagram, and who still knows it.
+- [[the-linking-of-the-realms]] — when [[tezcatlipoca-the-black]] built the network.
+- [[faction-eleven-antagonist]] — who locked and guarded what the Black built.
+- [[the-wheel-of-realms]] — the ring the network's distances are measured on.
 
 ## Player-Facing
 

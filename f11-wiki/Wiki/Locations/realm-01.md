@@ -32,7 +32,7 @@ number, which is canon but is not what the people who live here call home.
 ## Position On The Wheel
 
 - **Neighbours (near, historically friendly):** [[realm-10]], [[realm-02]]
-- **Opposite (distant, historically enemies):** [[realm-06]]
+- **Enemy gates (three, per [[realm-nearness-and-traversal]]):** [[realm-05]], [[realm-06]] (the direct opposite), [[realm-07]]
 
 See [[the-wheel-of-realms]].
 
@@ -41,11 +41,14 @@ Home to the [[institute-of-eight]]'s **family shrine**, which holds **two**
 [[realm-02]] for the first time in [[the-first-signal]], and [[the-clay-jar]], which holds an alien egg and can call
 [[realm-10]].
 
-**Two gates.** The gate to [[realm-02]] is **guarded** — this is the gate guardian [[ninja]]'s
-family is sentenced to fight for ever, and the one cracked by their defeat
-([[the-cracked-gate]]). A second gate, to [[realm-07]], stands **abandoned and already cracked** in
-[[the-ancient-ruin]] — its distance justification is open, pending the incoming gate-topology rule.
-See [[sealed-interplane-gates]].
+**Five gates, per the fixed network** ([[realm-nearness-and-traversal]]): allied to [[realm-10]] and
+[[realm-02]]; enemy to [[realm-05]], [[realm-06]] and [[realm-07]]. Only two have any dramatised
+state. The gate to [[realm-02]] is **guarded** — this is the gate guardian [[ninja]]'s family is
+sentenced to fight for ever, and the one cracked by their defeat ([[the-cracked-gate]]). The enemy
+gate to [[realm-07]] stands **abandoned and already cracked** in [[the-ancient-ruin]] — nobody's
+watching an enemy that isn't currently attacking, while the guarded ally-gate gets all the
+attention. The other three (to [[realm-10]], [[realm-05]] and [[realm-06]]) have no stated state and
+default to sealed. See [[sealed-interplane-gates]].
 
 ## Set Here
 

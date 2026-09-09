@@ -52,13 +52,14 @@ because they are different layers:**
 
 | Layer | Who | What |
 |-------|-----|------|
-| **The gate** | [[faction-eleven-antagonist]] | built the doors between near-by realms, then locked and guarded them ([[sealed-interplane-gates]]) |
+| **The gate** | [[faction-eleven-antagonist]] | built the doors between allied and enemy realms, then locked and guarded them ([[sealed-interplane-gates]]) |
 | **The barrier** | the gargoyles | walled the gate from **inside** their own realm, and left themselves listening to it |
 
 So the seals on the green-bloc's gates are **faction-made** — the realms did that part to
-themselves, out of an entirely reasonable fear. What the Ancients then did was hold the cycle down
-so nobody came out ([[the-long-disconnection]]). It is a quieter and better-hidden kind of
-antagonism than turning the key personally, and it is why nobody remembers them doing anything.
+themselves, out of an entirely reasonable fear. What the Ancients then did was seal the realms shut
+behind them and hold that seal for a thousand years ([[the-long-disconnection]]). It is a quieter
+and better-hidden kind of antagonism than turning the key personally, and it is why nobody
+remembers them doing anything.
 
 **Not every seal in the game is a barrier.** [[realm-02]] is sealed on every side with no gargoyles
 anywhere near it, so more than one mechanism is at work across the wheel.

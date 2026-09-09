@@ -54,7 +54,9 @@ Everything else follows from that belief:
 **The plan was three realms, not two.** [[val]] intended to bring the might of the [[green-skins]],
 [[the-damned]] and [[werebeasts]] against the [[celestials]] together. No path to [[realm-09]] was
 ever found — the road is lost to her from both [[realm-08]] and [[realm-07]] — so the invasion went
-ahead with two. **Neither she nor anyone in the Guardians knows this is [[the-secret-society-system]]
+ahead with two. (The [[realm-08]]-to-[[realm-09]] leg is an ordinary allied gate under the fixed
+network, which is exactly what makes "lost to her" strange for someone this old — see
+[[realm-nearness-and-traversal]].) **Neither she nor anyone in the Guardians knows this is [[the-secret-society-system]]
 balancing itself**: the same routine that judged the gargoyles too powerful to leave standing also
 judges three factions against one too imbalanced to allow, and blocks it the only way the fiction
 can — by losing the road.

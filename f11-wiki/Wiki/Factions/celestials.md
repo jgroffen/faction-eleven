@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-13
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
@@ -81,6 +81,19 @@ the [[robots]] ([[the-calling-of-ancient-allies]]).
 
 So the faction that appears to be simply losing is in fact the one that **works out what the game
 is about first**: nobody wins alone.
+
+And they are answered: [[conjurer]] arrives first ([[the-answering-of-the-wand]]), and with the
+Templar works out that the relics are **links to ancient allies and a way to call for help**
+([[allied-faction-signals]]). Then [[ninja]], [[gargoyle]] and [[mifix]] arrive
+([[the-convergence-at-the-monastery]]).
+
+## What They Have Forgotten
+
+**Their awareness of the gates has faded.** The Celestials hold two open gates because the enemy
+comes through them; the sealed ones — to the [[robots]] and the [[mystics]], their old allies — they
+can no longer find ([[realm-nearness-and-traversal]]). They kept the relics of two friendships and
+lost the doors. It is why, when the party at the monastery wants to reach the Robots, nobody in the
+Celestials' own house can say where the way is, and the answer has to come from a gargoyle.
 
 ## Notes
 

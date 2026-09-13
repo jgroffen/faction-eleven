@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-13
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -31,7 +31,7 @@ Where the premise starts to pay. Three protagonists move toward **one machine** 
 none of them knows the others are looking. [[templar]] holds him, [[autofix]] detects him, and
 [[ninja]] and [[gargoyle]] set out after him.
 
-The chapter **focuses on [[gargoyle]]'s gameplay**. The [[mystics]] and the four-way arrival at the
+The chapter **focuses on [[gargoyle]]'s gameplay**. The [[mystics]] and the arrivals at the
 Templar belong to [[chapter-03]]. **This shape is provisional.**
 
 **Status:** outline · **Lead faction:** [[green-skins]]
@@ -112,7 +112,8 @@ in the game, and the clearest argument for tracking beats per chapter.
 **Sets up:** [[chapter-03]] — the Ninja and Gargoyle's search unresolved at chapter end, the
 [[mystics]]' response to [[the-wand]] still to come, and the Celestials' war machine problem
 unsolved. [[the-trial-of-the-last-gargoyle]] also sends the Gargoyle out of [[realm-07]] with the
-Ninja, toward [[realm-03]] — deferred to a handoff rather than designed here.
+Ninja, toward [[realm-03]] — and the doubt it plants in him is the first thing chapter three shows
+([[the-diagnosis-of-the-last-gargoyle]]).
 
 ## Open
 
@@ -120,7 +121,8 @@ Ninja, toward [[realm-03]] — deferred to a handoff rather than designed here.
 - Whether [[the-calling-of-ancient-allies]] stays here. It must precede [[the-second-signal]]'s
   detection, so it cannot move to chapter three — **inference, not established**.
 - The route from [[realm-07]] to [[realm-03]] is unexplained — see [[the-second-signal]].
-- The [[mystics]] "receive" the wand's call but what they *do* is unwritten.
+- The [[mystics]] "receive" the wand's call; [[conjurer]] answers it in chapter three, but the
+  journey is unwritten ([[the-answering-of-the-wand]]).
 - **How much of the Gargoyle's ability ladder belongs in this chapter**, given that flight ends
   platform gating.
 - **How much of the Guardians' conspiracy is revealed in this chapter** versus held back. The chain

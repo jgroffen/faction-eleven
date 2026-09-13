@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-13
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -96,6 +96,19 @@ and a single crack in the right place can connect realms that are nowhere near e
 
 That is what makes [[the-cracked-gate]] the hinge of chapter one: a fracture in a single sealed
 gate is the first place a signal can get through, and it is caused by [[ninja]] **losing**.
+
+## Who Works It Out
+
+For most of the game nobody knows what these things are. The first characters to understand are
+[[templar]] and [[conjurer]], together at [[templar-monastery]] ([[the-answering-of-the-wand]]):
+**the Templar's relics are links to ancient allies, and a way to call for help.** When [[ninja]],
+[[gargoyle]] and [[mifix]] arrive, the same reading extends to Mifix — **the
+[[institute-of-eight]]'s link to the [[robots]]**, kept for generations as an ancestor spirit
+([[the-convergence-at-the-monastery]]).
+
+That is the moment the pattern above stops being something only the player can see and becomes the characters': a relic is
+a relative, and calling one is how you ask a friend for help. What it does *not* tell them is where
+the doors are — the devices carry a signal, not a map ([[realm-nearness-and-traversal]]).
 
 ## Ties To The Antagonist
 

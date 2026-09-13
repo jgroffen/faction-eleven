@@ -4,10 +4,11 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-13
 sources:
   - Raw/Sources/factions-retro-readme.md
-source_count: 1
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 2
 aliases: []
 role: protagonist
 faction: institute-of-eight
@@ -72,3 +73,12 @@ signal is **worth investigating as an alternative route to the Robot Realm** —
 being cracked but not passable — and follow it out through the abandoned cracked gate in
 [[the-ancient-ruin]] ([[the-second-signal]]). The two then hunt together for
 [[odie]] — which [[templar]] has.
+
+On the way, [[gargoyle]] admits to him and Mifix that he may be malfunctioning, and Mifix's attempt
+to diagnose him glitches Mifix ([[the-diagnosis-of-the-last-gargoyle]]).
+
+At [[templar-monastery]] ([[the-convergence-at-the-monastery]]) the Ninja states the goal plainly to
+everyone: **they are trying to reach the [[robots]].** Nobody there knows where the gate is, and he
+joins the plan to find a [[werebeasts|Werebeast]] gargoyle who would. He also learns there what
+Mifix is — not an ancestor spirit but the [[institute-of-eight]]'s link to an ancient ally, the same
+kind of thing as the Templar's relics ([[allied-faction-signals]]).

@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-13
 sources: []
 source_count: 0
 aliases:
@@ -88,6 +88,10 @@ tier is *how hard it pushes*, and the manifestation is *what actually went wrong
 **Freezes and crashes are the hardest things in the design to place**, because they are exactly what a
 genuinely broken game does. They carry the least deniability of anything here and should be used where
 the fiction claims them first — a frozen fixbot is a character, not an error ([[autofix]]).
+
+**The first glitch shown on purpose is [[mifix]]'s**, when he tries to diagnose [[gargoyle]] and
+cannot ([[the-diagnosis-of-the-last-gargoyle]]). Which manifestation it takes is not decided; it is
+the one concrete instance the design has to build from.
 
 Four kinds, in rough order of how loud they are:
 
@@ -194,6 +198,7 @@ No values yet. The knobs to expect:
 ## Used In
 
 <!-- gd:used-in:start -->
+- [[the-diagnosis-of-the-last-gargoyle|The Diagnosis Of The Last Gargoyle]] · quest
 <!-- gd:used-in:end -->
 
 ## Related

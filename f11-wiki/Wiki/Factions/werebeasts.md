@@ -4,11 +4,12 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-13
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/labs-faction-classes.md
-source_count: 2
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 3
 aliases: []
 homeland: realm-09
 allies: []
@@ -46,6 +47,11 @@ by [[the-guardians-of-night]], and some of them are joining the Damned's invasio
 smashed, and their barriers still stand** ([[the-smashing-of-the-gargoyles]]). Realm 09 holds the
 only intact set of realm guardians in the game — which [[gargoyle]] will eventually go looking for.
 
+**The party at [[templar-monastery]] is coming for them** ([[the-convergence-at-the-monastery]]):
+to ask an intact gargoyle where the Celestials' gate to the [[robots]] is, to give [[gargoyle]] a
+judge he would trust on whether he is malfunctioning, to **reactivate** the Werebeast gargoyles and
+have them seal the gate to the [[mystics]], and to warn them that [[val]] means to destroy them.
+
 **Why they were spared is fear, not oversight.** [[the-guardians-of-night]] are commanded from
 [[realm-08]], and [[the-damned]] are afraid of the [[fey-folk]] their barrier faces — so that door
 was left alone on purpose ([[the-realm-barriers]]). Separately, [[val]] never found a path into
@@ -73,6 +79,15 @@ The faction's own one-line description on that site: *"Shapechanging eco-terrori
 <!-- gd:members:start -->
 - [[werewolf|Werewolf]] · protagonist
 <!-- gd:members:end -->
+
+## Open
+
+- **What state the Werebeast gargoyles are in.** "Never smashed" and "need reactivating" are both
+  on record; whether that is ordinary torpor or something done to them is unresolved — the
+  competing sketch (a stasis spell, cast by the Mystics) is held in
+  [[the-mystics-second-secret-society]] and contradicts the account above.
+- Which gate to the Mystics a reactivated gargoyle would seal, given no barrier is recorded on the
+  09↔04 gate ([[the-realm-barriers]]).
 
 ## Notes
 

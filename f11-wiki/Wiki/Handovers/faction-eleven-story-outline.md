@@ -4,7 +4,7 @@ tags:
 topics: []
 status: open
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-13
 expires: 2026-11-06
 sources: []
 source_count: 0
@@ -56,13 +56,16 @@ round was asked. What remains is what was **never settled**:
   the games are destabilising, they cannot agree on the fix, and the group may break up
   ([[the-four-developers]]). What the player actually *sees* of that, through avatars and leaked
   fragments, is unwritten. **No real-world business problems** — that framing was withdrawn.
-- **What a glitch looks like in each settled genre** — [[continuity-glitches]] names four kinds but
-  no concrete instance exists in any of the four genres that are locked down.
+- **What a glitch looks like in each settled genre** — [[continuity-glitches]] names the kinds; one
+  concrete instance now exists ([[the-diagnosis-of-the-last-gargoyle]] — Mifix, in the Gargoyle's
+  Metroidvania) but its manifestation is undecided and no other genre has one.
 - **Whether [[ninja]] ever learns what he is**, given that he carries [[xipe-totec-the-red]]'s power
   and his family's whole history is a retcon written around somebody else's edit.
 - **How much of the labs faction-class material is still current.** It is legacy; only the
   protagonists and their archetypes are confirmed. Do not build against the other 50 rows.
-- **What ends [[chapter-02]]**, now that the convergence has moved to [[chapter-03]].
+- **What ends [[chapter-02]]** is settled ([[the-trial-of-the-last-gargoyle]]); what *opens*
+  [[chapter-03]] is too ([[the-diagnosis-of-the-last-gargoyle]]). The Mystics' answer to the wand
+  now has a quest ([[the-answering-of-the-wand]]) but no journey.
 - **Whether the chapter restructure sticks.** Proposed 2026-08-12 and explicitly provisional.
 - **Which trained skill** the Ninja returns to the boss battle with — the move that cracks the
   guarded gate. Marked TBD by the author and it is the hinge of chapter one.

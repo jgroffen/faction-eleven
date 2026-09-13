@@ -4,7 +4,7 @@ tags:
 topics: []
 status: open
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-13
 expires: 2026-12-06
 sources: []
 source_count: 0
@@ -69,11 +69,50 @@ author as a **big part of chapter three**, entirely unresolved beyond this sketc
    from a different direction. Whether these are the same event seen from two sides, sequential, or
    need deconflicting is unresolved.
 
+### Added in Round 37 (Q83, Q87) — still unresolved, and now contradicting canon
+
+The monastery council ([[the-convergence-at-the-monastery]]) settles that the party will seek out a
+Werebeast gargoyle, and two of its four reasons land in this thread: **"if they can reactivate the
+Werebeast Gargoyles they should seal the gate to the Mystics"**, and Val is coming for them. Asked
+which gate and how this sits with the catacombs idea above, the author said **"Leave this as an open
+question to be resolved — I'm not sure yet"**, and sketched, in these words:
+
+> The Mystics have someone with the Red Power that can open gates and have used that power to get
+> to the Werebeasts via a different route (I'm thinking via the Mystics-to-Aliens gate, then
+> Aliens-to-Werebeasts). They used this second route to shut down the Werebeast Gargoyles (they are
+> in a statis spell) so the Gargoyle barrier to the Mystic Realm could be destroyed and the mystics
+> could invade.
+
+This replaces the catacombs route (point 1 above) with a **Mystics→Aliens→Werebeasts** gate route
+(04↔10 is an enemy gate, 10↔09 an allied one — both exist under [[realm-nearness-and-traversal]]),
+and it gives the stasis magic (point 3) its purpose. It was **not compiled into any note as fact**,
+because it contradicts current canon in three places that the next session has to resolve:
+
+- **No barrier is recorded on the 09↔04 gate.** [[the-realm-barriers]] lists three barrier-carrying
+  gates — 07↔03, 08↔04, 09↔05. "The Gargoyle barrier to the Mystic Realm" would be a fourth, or the
+  09↔05 one misremembered. If a fourth, the old war's geometry (each defender realm walled one
+  invader) changes.
+- **The Werebeast gargoyles are "never smashed, barriers still stand."** [[werebeasts]], [[gargoyle]]
+  and [[the-smashing-of-the-gargoyles]] all say realm-09 holds the only intact set of guardians. A
+  stasis spell is not smashing, but it *is* neutralising, and "need reactivating" (now on record in
+  the compiled notes, without a reason) would be why. Reconcile by deciding what "intact" means.
+- **The Mystics are the invaded party, not an invader.** [[mystics]] says they are being invaded by
+  [[the-damned]] and some [[werebeasts]] at [[the-guardians-of-night]]'s instigation. The sketch has
+  the Mystics invading the Werebeasts. Both can be true (a second front, a second society) but
+  nothing says so yet — and the council's "seal the gate to the Mystics" reads differently
+  depending on which way the invasion runs.
+
+Also relevant: whether the Mystics' Red Power carrier is [[conjurer]] (point 4 above) matters more
+now that the Conjurer is at the monastery agreeing to seal a gate their own faction may have
+opened.
+
 ## Next step
 
-Run a dedicated grilling session (**llm-wiki-grilling** via **grill-into-wiki**) on point 5 first —
-it determines whether this is one chapter-three story or two competing ones — then work down to the
-route, the second society's specific balance target, and the stasis mechanic.
+Run a dedicated grilling session (**llm-wiki-grilling** via **grill-into-wiki**) on the three
+contradictions above first — they decide what the Werebeast gargoyles *are* when the party reaches
+them — then the route (Aliens or catacombs), the second society's specific balance target, and the
+stasis mechanic's reversal. Point 5 is half-answered: the monastery party's side is settled
+([[the-convergence-at-the-monastery]]); the Mystics' side is this handover.
 
 ## Suggested skills
 

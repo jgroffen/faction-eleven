@@ -39,6 +39,7 @@ rather than a fortress. Falling back to it is an act of research.
 ## Set Here
 
 <!-- gd:set-here:start -->
+- [[the-answering-of-the-wand|The Answering Of The Wand]] · quest
 - [[the-calling-of-ancient-allies|The Calling Of Ancient Allies]] · quest
 - [[the-convergence-at-the-monastery|The Convergence At The Monastery]] · quest
 <!-- gd:set-here:end -->

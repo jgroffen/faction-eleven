@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-09
+updated: 2026-09-13
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -125,6 +125,15 @@ carry the whole network as fact rather than myth:
 - **The liches** — already established as carrying real infrastructure knowledge and dressing it as
   "ancient eldritch lore" ([[the-void]]); the gate network is exactly the kind of fact that dressing
   covers.
+
+**Knowing the shape is not knowing the door.** The network's *topology* — which realms connect —
+is one thing; *where in a realm a gate physically stands* is another, and the party at
+[[templar-monastery]] has the first without the second ([[the-convergence-at-the-monastery]]).
+[[odie]] knows the interplane gates exist but not where any are. The [[celestials]]' awareness of
+their own gates has faded — they hold two open ones because the enemy uses them, and cannot find a
+sealed one. So everyone in the room can agree that a Celestials↔Robots gate exists (it is 03's
+allied gate to 02, in the table above) and nobody can walk to it. An intact gargoyle, carrying the
+network as fact, could — which is one of the four reasons the party goes looking for one.
 
 **[[gargoyle]] is the exception.** He should know the whole map like any gargoyle — but his is one of
 the pieces the smashing took, along with the rest of his power ([[the-smashing-of-the-gargoyles]]).

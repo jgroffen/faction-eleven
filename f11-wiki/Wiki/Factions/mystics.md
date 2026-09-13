@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-13
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
@@ -59,7 +59,19 @@ invader first.
 [[xipe-totec-the-red]] gave [[ninja]] and [[val]] — manifesting for them as *dispelling* a sealed
 gate rather than breaking or unlocking one. Which gate, and who they are, is unwritten.
 
-[[gargoyle]] and [[conjurer]] may meet in this story.
+**Their protagonist answers the Templar's call.** [[conjurer]] is the first ally to reach
+[[templar]] ([[the-answering-of-the-wand]]), and sits on the council at [[templar-monastery]] that
+decides to seek out a [[werebeasts|Werebeast]] gargoyle — one aim of which is to have the Werebeast
+gargoyles **seal the gate to the Mystics** ([[the-convergence-at-the-monastery]]).
+
+## Open
+
+- **Which gate "the gate to the Mystics" is**, and what the Mystics' Red Power carrier has done with
+  their gift. There is an unresolved sketch in which that carrier opened a route to the Werebeasts
+  through other realms and the Mystics are the aggressor there, which does not sit with this note's
+  account of the Mystics as the invaded party — held, unreconciled, in
+  [[the-mystics-second-secret-society]].
+- Whether [[conjurer]] is the Red Power carrier.
 
 ## Faction Classes
 

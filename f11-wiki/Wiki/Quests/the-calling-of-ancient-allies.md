@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-13
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -66,4 +66,6 @@ Follows [[the-fall-of-the-outpost]].
 ## Open
 
 - Whether the two signals arrive simultaneously, and whether the player chooses which to send.
-- What the mystics and robots *do* about it, and in which chapter.
+- The [[mystics]]' answer is [[conjurer]] reaching the monastery in [[chapter-03]]
+  ([[the-answering-of-the-wand]]); the journey itself is unwritten. What the [[robots]] do about it
+  is open.

@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-13
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -79,5 +79,6 @@ settled the original smashing: in person, briefly, and leaving the violence to s
 - **This closes [[chapter-02]].** It is the chapter-scale revelation with a named antagonist that
   the chapter's open ending question was waiting on.
 - Sets up [[gargoyle]]'s decision to leave [[realm-07]] with [[ninja]] — not persuasion by another
-  protagonist, but his own doubt sending him looking for answers. See the [[gargoyle]] and
-  [[ninja]] notes, and the handoff on what follows at the Celestials' gate.
+  protagonist, but his own doubt sending him looking for answers. The doubt is spoken aloud in the
+  next scene, [[the-diagnosis-of-the-last-gargoyle]], which opens [[chapter-03]]. See the
+  [[gargoyle]] and [[ninja]] notes, and the handoff on what follows at the Celestials' gate.

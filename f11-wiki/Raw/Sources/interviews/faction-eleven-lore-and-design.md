@@ -1681,3 +1681,98 @@ Autofix?**
   `the-linking-of-the-realms`, `the-first-signal`, `chapter-01`, `allied-faction-signals`,
   `faction-eleven-premise`, `the-revelation-schedule`, `the-four-developers`,
   `tezcatlipoca-the-black`, `the-damned`, `aliens`, `realm-08`, `faction-genre-mechanics`.
+
+### Round 37 — 2026-09-13
+
+**Q81 — What happens after Val's confrontation, now that the Gargoyle privately doubts himself?**
+
+> After the confrontation with Val where she claims the Gargoyle is malfunctioning the Gargoyle
+> voices his doubt as to whether he is malfunctioning to the Ninja and Mifix, Mifix knows he can't
+> fix the gargoyle but offers to see if he can diagnose the Gargoyle - but it fails and trying
+> causes a glitch for Mifix.
+
+**Q82 — Who is the Mystics' protagonist, and how do they arrive at the convergence?**
+
+> The Conjurer is the protagonist of the Mystics - I haven't worked out the details yet but the
+> Conjurer is going to meet up with the Templar first, then the Ninja and Gargoyle will meet up
+> with the Templar and the Conjurer.
+
+**Q83 — What happens once the Gargoyle, Ninja and Mifix reach the Templar?**
+
+> When the Gargoyle, Ninja, and Mifix meet up with the Templar they let everyone know they are
+> trying to get to the Robots. Odie doesn't know why he is on the Celestial Plane, but The Templar
+> and Conjurer have worked out that the Templar's relics are links to ancient allies and a way to
+> call for help, and Mifix is the same for the Institute of Eight. Problem is Odie and the Crusader
+> don't know how to get there - Odie knows about the interplane gates but not where any are, and
+> awareness of the gates has faded for the celestials. They all decide that talking to a Werebeast
+> Gargoyle is their best way forward - Gargoyle can find out if he is malfunctioning, if they can
+> reactivate the Werebeast Gargoyles they should seal the gate to the Mystics. Also Val is likely
+> to try to destroy them if she can get to them, so they want to warn them.
+
+**Q84 — Is "the Crusader" the Templar, or a different character?**
+
+> It's the Templar.
+
+**Q85 — Where does the diagnosis scene sit — the end of chapter two, after the Trial, or the start
+of chapter three?**
+
+> Start of chapter 3.
+
+**Q86 — Why does talking to a Werebeast Gargoyle get them to the Robots? Is the reading that they
+all know a Celestials↔Robots gate exists, but nobody present knows where in realm-03 it physically
+is, and an intact gargoyle would?**
+
+> Yes, that's the reading. Also, a functioning Gargoyle could help the Gargoyle understand if he is
+> malfunctioning or not. The Gargoyle doesn't trust Val, but would trust another Gargoyle to know if
+> he should be trying to stop the war even though it appears to be against the wishes of the Green
+> Skins.
+
+**Q87 — "Seal the gate to the Mystics" — which gate, and how does this sit with the earlier idea
+that the Mystics invade the Werebeasts through their own catacombs?**
+
+> Leave this as an open question to be resolved - I'm not sure yet. The Mystics have someone with
+> the Red Power that can open gates and have used that power to get to the Werebeasts via a
+> different route (I'm thinking via the Mystics-to-Aliens gate, then Aliens-to-Werebeasts). They
+> used this second route to shut down the Werebeast Gargoyles (they are in a statis spell) so the
+> Gargoyle barrier to the Mystic Realm could be destroyed and the mystics could invade.
+
+## Notes For The Compiler — Round 37
+
+- **Resolves three of the six points in the `gargoyle-ninja-and-the-celestials-gate` handover.**
+  Point 5 (what becomes of the Gargoyle's doubt): he voices it to the Ninja and Mifix; Mifix tries
+  to diagnose him, fails, and glitches. Point 4 (sequencing against the convergence): this *is* the
+  convergence — the Conjurer is already with the Templar when the three arrive. Point 2 (what
+  answers the Gargoyle is after): a functioning gargoyle's judgement, which he would trust where he
+  does not trust Val, and the physical location of the Celestials' gate to the Robots.
+- **"The Crusader" is the Templar** (Q84). Compiled as the Templar throughout.
+- **The diagnosis scene opens chapter three** (Q85). Chapter two still ends on the Trial. New quest
+  note `the-diagnosis-of-the-last-gargoyle`.
+- **The Conjurer is confirmed as the Mystics' protagonist** and reaches the Templar first. The
+  journey itself is not worked out. New quest note `the-answering-of-the-wand`, mostly open.
+- **The convergence is now sequential, not simultaneous** — `the-convergence-at-the-monastery`
+  rewritten: the Conjurer arrives first, the Ninja/Gargoyle/Mifix second, and the quest gains the
+  council and its decision. Four reasons for seeking a Werebeast gargoyle: the gate's location, the
+  Gargoyle's malfunction question, sealing the gate to the Mystics, and warning them about Val.
+- **The topology/location distinction** (Q86): the gate network's *shape* is known at the monastery
+  (Odie knows gates exist; the Gargoyle has the fragment map from chapter two); *where in realm-03*
+  the gate to the Robots sits is what nobody present knows, and what an intact gargoyle would.
+  The chapter-two fragment-map beat stands.
+- **The first concrete on-screen glitch instance.** Mifix's failed diagnosis is the first glitch
+  the wiki can name as a scene. Its manifestation (bug/freeze/other) is not stated.
+- **New in-world discovery:** the Templar and Conjurer work out that the Templar's relics are links
+  to ancient allies and a way to call for help, and that Mifix is the same for the Institute of
+  Eight. This is the first time characters understand what `allied-faction-signals` are.
+- **Explicitly open, not compiled as fact (Q87):** which gate "the gate to the Mystics" is, and the
+  sketch of a Mystic Red-Power carrier reaching the Werebeasts via Mystics→Aliens→Werebeasts, putting
+  the Werebeast gargoyles into stasis, and destroying a gargoyle barrier to the Mystic realm so the
+  Mystics could invade. The author says "I'm not sure yet." It contradicts current canon in three
+  places — `the-realm-barriers` lists no 09↔04 barrier; `werebeasts`/`gargoyle`/
+  `the-smashing-of-the-gargoyles` say the Werebeast gargoyles were never touched and their barriers
+  stand; `mystics` says the Mystics are the invaded party — so it is recorded in the
+  `the-mystics-second-secret-society` handover and in `## Open` sections only. The compiled notes
+  say the Werebeast gargoyles need *reactivating*, which is the one word of this the author stated
+  as part of the settled plan, without saying why.
+- Updated: `gargoyle`, `mifix`, `ninja`, `conjurer`, `templar`, `odie`, `celestials`, `mystics`,
+  `werebeasts`, `allied-faction-signals`, `realm-nearness-and-traversal`, `continuity-glitches`,
+  `the-convergence-at-the-monastery`, `the-trial-of-the-last-gargoyle`,
+  `the-calling-of-ancient-allies`, `chapter-02`, `chapter-03`, `story-continuity-timeline`.

@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-13
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -87,10 +87,15 @@ He is **detectable long before he is reachable**: too far away to communicate wi
 chapter he is a direction rather than a conversation.
 
 **He is also the one who tells [[ninja]] what the Ninja is.** Once they meet at the monastery, Odie
-identifies that the Ninja carries the power to breach realm barriers — [[xipe-totec-the-red]]'s
-imbuement, which the Ninja has felt only as an unexplained compulsion until then. Odie names it; the
-Ninja does not work it out himself. It is deferred design work — see the handoff on what the Ninja,
-[[gargoyle]] and the Templar do next.
+identifies that the Ninja carries the power to breach a sealed gate — [[xipe-totec-the-red]]'s
+imbuement ([[the-red-power]]), which the Ninja has felt only as an unexplained compulsion until
+then. Odie names it; the Ninja does not work it out himself.
+
+**What he cannot tell anyone is the way home.** He knows the interplane gates exist — but not where
+any of them are. And **he does not know why he is in the Celestial realm at all**: whatever put him
+there was not explained to him before he was switched off, or did not survive it. So at the council
+([[the-convergence-at-the-monastery]]) the one uncorrupted memory in the game has nothing to say
+about the one thing the party needs, and the party goes to ask a gargoyle instead.
 
 ## Quests
 
@@ -104,10 +109,12 @@ Ninja does not work it out himself. It is deferred design work — see the hando
 - [[autofix]] — whose `ACCESS DENIED` branch he holds hints for.
 - [[celestials]] — who named him twice, and remember neither name's origin.
 - [[ninja]] — whose Red Power he identifies at the monastery.
+- [[gargoyle]] — who knows the network's shape where Odie only knows it exists.
 
 ## Open
 
-- Why the Celestials put him into stand-by, and what they expected to wake him for.
+- Why the Celestials put him into stand-by, and what they expected to wake him for. He does not
+  know either.
 - What "St Archivus" was a corruption of, and whether the Celestials can be told.
 - **What his uncorrupted memory says about the end of the fixbots.** He predates the retcon that
   blames the Creators ([[robots]]), so he may be the only witness who remembers no purge happening —

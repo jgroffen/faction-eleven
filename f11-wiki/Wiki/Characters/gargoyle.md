@@ -4,10 +4,11 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-13
 sources:
   - Raw/Sources/factions-retro-readme.md
-source_count: 1
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 2
 aliases: []
 role: protagonist
 faction: green-skins
@@ -104,6 +105,8 @@ defence field is not designed.
 - [[val]] — the one who ordered him destroyed, and who later argues he is broken.
 - [[gargoyle-fragments]] — how he rebuilds himself, from the bodies of his own kind.
 - [[the-trial-of-the-last-gargoyle]] — where Val confronts him and he starts to doubt himself.
+- [[the-diagnosis-of-the-last-gargoyle]] — where he says so, and Mifix fails to read him.
+- [[the-convergence-at-the-monastery]] — where he chooses the judge he would trust.
 - [[realm-nearness-and-traversal]] — the map every gargoyle should know, and the one thing his
   damage cost him specifically.
 
@@ -114,23 +117,42 @@ that he's malfunctioning, and sets the Minotaur on him instead. **He hides it fr
 accusation lands anyway** — after she leaves, he privately begins to doubt he is functioning
 properly. He has no way to check, and every piece of evidence he has still supports her.
 
-**He can get [[ninja]] through the gate to the Celestials' realm; the Ninja cannot make that
+**He does not carry it silently for long.** At the start of [[chapter-03]] he tells [[ninja]] and
+[[mifix]] outright that he may be malfunctioning and cannot tell
+([[the-diagnosis-of-the-last-gargoyle]]). Mifix knows he cannot fix a gargoyle but offers to try to
+*diagnose* him — and fails, and the attempt glitches Mifix. So the one instrument in reach that
+reads code cannot read him, and trying damages the instrument. The question stays open, and it is
+now a question the party shares.
+
+**He can get the Ninja through the gate to the Celestials' realm; the Ninja cannot make that
 crossing alone.** The Ninja, in turn, is the one who points out that the Celestial realm — where
 he needs to go regardless — is also where the Gargoyle might find answers. Weighing his own doubt
 against that offer, the Gargoyle decides travelling with the Ninja is his best course of action, and
 the two cross together.
 
+## The Council, And The Judge He Would Trust
+
+At [[templar-monastery]] ([[the-convergence-at-the-monastery]]) the party settles on seeking out the
+[[werebeasts|Werebeasts']] gargoyles, and his reason is his own. **He does not trust Val. He would
+trust another gargoyle.** A functioning one could tell him whether he is malfunctioning — whether
+trying to stop the war is what he was built for, even though it looks like acting against the
+[[green-skins]]' own wishes. That is the answer he has been looking for since the Trial, and nobody
+in the room can give it to him except one of his own kind.
+
+He is also why the party knows what it is looking for: he knows the network's *shape*
+([[realm-nearness-and-traversal]]) — that a Celestials↔Robots gate exists — but not where in
+[[realm-03]] it is. An intact gargoyle would. And he knows what Val has resolved to do to every
+remaining gargoyle; the intact set in [[realm-09]] is hers to find next, and he means to warn them.
+
+**He is no longer talked into this by another protagonist** — Val's accusation and the fate of his
+own kind have made it personal, not a favour to another faction. That is his instruction set as a
+character arc: the last constraint he sheds is the one that says this realm and no other.
+
 ## A Later Chapter
 
-**The werebeasts' gargoyles were never smashed** and [[realm-09]]'s barriers still stand
-([[the-smashing-of-the-gargoyles]]). At [[templar-monastery]], once Odie identifies that the Ninja
-can breach realm barriers, the two of them settle on a new plan: seek out the Werebeasts' gargoyles
-for answers. **He is no longer talked into this by another protagonist** — Val's accusation and the
-fate of his own kind have made it personal, not a favour to another faction. He already knows what
-breaching that barrier will do: it will wake the Werebeast gargoyles, the same way [[realm-07]]'s
-barrier woke him.
-
-That is his instruction set as a character arc: the last constraint he sheds is the one that says
-this realm and no other. The sequence at the monastery, and what waits on the other side of that
-barrier, is deferred to [[gargoyle-ninja-and-the-celestials-gate]] and
-[[the-mystics-second-secret-society]] — it is a much later chapter.
+**The Werebeast gargoyles need reactivating.** Whether that means waking them from torpor as
+[[realm-07]]'s barrier woke him, or something has been done to them, is open —
+[[the-mystics-second-secret-society]] holds the competing sketches. Once reactivated, the party
+wants them to seal the gate to the [[mystics]]. The journey from the monastery to [[realm-09]], and
+what waits there, is deferred to [[gargoyle-ninja-and-the-celestials-gate]] and
+[[the-mystics-second-secret-society]] — it is a later chapter.

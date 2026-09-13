@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-09-13
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
   - Raw/Sources/factions-retro-readme.md
@@ -83,6 +83,24 @@ to defeat the [[the-gate-guardian]], because **the family's legacy is to reunite
 factions**. Two parties with corrupted, mythologised reasons, fighting the same door for
 generations.
 
+## The Diagnosis He Cannot Make
+
+When [[gargoyle]] admits he may be malfunctioning ([[the-diagnosis-of-the-last-gargoyle]]), Mifix
+is the only thing in reach that reads code at all. He knows he cannot *fix* a gargoyle — it is not
+a robot, and he cannot even repair himself ([[no-machine-repairs-itself]]) — but he offers to see
+whether he can **diagnose** him. He cannot. And the attempt **glitches Mifix** — the first glitch
+the game shows on screen ([[continuity-glitches]]).
+
+It is the same shape of act that froze [[autofix]]: a fixbot reaching for something that is not a
+robot and comes from another realm. Read that as a parallel; what the glitch actually is, and
+whether it is the act or the exposure to a second foreign realm ([[realm-07]] is his second, after a
+lifetime on one) that costs him, is not stated.
+
+**A link, and a way to call for help.** At [[templar-monastery]], [[templar]] and [[conjurer]] have
+already worked out that the Templar's relics are links to ancient allies and a way to call for help
+([[allied-faction-signals]]) — and that **Mifix is the same thing for the [[institute-of-eight]]**.
+An ancestor spirit in a toy car, understood at last as an old ally's telephone.
+
 ## Why He Is His Own
 
 Mini-fix bots are **autonomous by design** — [[autofix]] can communicate with them but not command
@@ -141,6 +159,8 @@ Two jobs, one mechanical and one narrative:
 - [[odie]] — the other surviving mini-fix bot, in [[realm-03]], and the source of the second signal.
 - [[the-setting-statement]] — why a fixbot degrades away from home, and why one realm's worth of it
   has not killed him.
+- [[gargoyle]] — the one thing he tries to read and cannot.
+- [[templar]] and [[conjurer]] — who work out what he is.
 
 ## Open
 
@@ -149,5 +169,5 @@ Two jobs, one mechanical and one narrative:
   mini-fix bots meet it can restore the lost history of the Robot Realm. Mifix's myth would then be
   corrected by a stranger of his own kind rather than by going home.
 - Whether he is right that he is the last. He is not: see above.
-- Whether the degradation continues to advance on screen, now that the gate is cracked and more than
-  one foreign realm is reachable.
+- How far the degradation advances on screen. The diagnosis attempt is its first visible step;
+  whether more follow, and how fast, is open.

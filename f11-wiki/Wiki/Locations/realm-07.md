@@ -56,6 +56,7 @@ That double use is deliberate: it is what pays for the most content-hungry genre
 ## Set Here
 
 <!-- gd:set-here:start -->
+- [[the-diagnosis-of-the-last-gargoyle|The Diagnosis Of The Last Gargoyle]] · quest
 - [[the-trial-of-the-last-gargoyle|The Trial Of The Last Gargoyle]] · quest
 - [[the-waking-of-the-last-gargoyle|The Waking Of The Last Gargoyle]] · quest
 <!-- gd:set-here:end -->

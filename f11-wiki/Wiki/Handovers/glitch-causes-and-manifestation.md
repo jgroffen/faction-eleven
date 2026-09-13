@@ -17,49 +17,38 @@ aliases: []
 
 _What is already written down. Link it, do not restate it._
 
-- [[continuity-glitches]] — the **symptoms**: five kinds, and the subtle/strong tier split. This is
-  the note the session's output mostly lands in.
-- [[the-retcon-engine]] — **half of the cause**: how a god's edit gets papered over by the realm's
-  own history, coherent locally and contradictory globally.
+- [[the-setting-statement]] — **the half that was missing, now written.** One engine, one Setting
+  Statement per realm, no character aware of any of it, self-correction on crossing, and the four
+  manifestations.
+- [[continuity-glitches]] — the **symptoms**: five kinds, the subtle/strong tier split, and now the
+  two causes and the manifestation axis.
+- [[the-retcon-engine]] — **the other half of the cause**: how a god's edit gets papered over by the
+  realm's own history, coherent locally and contradictory globally.
+- [[a-heal-is-a-patch]] · [[the-lich-experiment]] — the two code-aware exceptions, and the only
+  entities that can see past a Setting Statement.
 - [[the-four-developers]] — why any of it happens: ten games, four people with commit access, three
   sets of unreviewed changes, and the games actively destabilising.
 - [[story-continuity-timeline]] — where the per-chapter budget of each tier gets filled in, once
   there is anything to count.
 
-## The Brief
+## The Brief — Answered
 
-The author's framing, deferred from the session that built the timeline:
+**Both causes are now recorded**, and they are two mechanisms rather than one:
 
-**Go deeper into the cause of the glitches, and how they manifest in the game.** There are two
-distinct causes, and the wiki currently records only one of them.
+1. **Self-correction** ([[the-setting-statement]]) — the mechanical half. Ten realms are ten games on
+   one engine, each with its own Setting Statement, and a character crossing realms can only
+   *translate* foreign content into its home realm's terms. Where the translation cannot close, the
+   engine fails: **hard-retcon, bug, freeze, crash.** It also causes **imbalance**, which is not a
+   glitch but a standing tax on cross-realm play.
+2. **Lore reconciliation** ([[the-retcon-engine]]) — the narrative half, reactive and local, still
+   running and diverging rather than converging.
 
-1. **Mechanical leakage — in the source, never compiled.** The ten realms are ten *different games*,
-   with different code and different mechanics, and they are **leaking into each other**. The author
-   stated this directly in round 20: the White "is trying to add protections to the game to stop
-   other code from other games getting into the games he cares about and breaking them further."
-   No wiki note carries it. It is not the same thing as a retcon, and it should produce a
-   different-feeling class of glitch: not a story that fails to add up, but a rule that behaves like
-   it belongs to somebody else's game.
+The difference in feel is the useful part: a retcon is **a story that does not add up**; a
+self-correction is **a rule that belongs to somebody else's game.**
 
-   **This reframes [[the-gate-guardian]].** The White's guardians are not only gate security in the
-   fiction — they are *protections against code leakage*, which makes chapter one's boss a piece of
-   anti-glitch machinery. Whether that is player-visible is unexamined.
-2. **Lore reconciliation — now mechanised, and largely answered.** Ten sets of lore are trying to
-   **reconcile into a single narrative**, and cannot. That is no longer a loose description: it is
-   precisely the job of [[the-retcon-engine]], which exists to **retroactively force ten
-   already-valid continuities into one** after [[the-linking-of-the-realms]] made them a single
-   continuity space. [[the-continuity-system]] could not help, because an inherited contradiction is
-   not an event there is anything to reject.
-
-   **And the causation is now settled.** The engine is **reactive and local**: it acts only on a
-   detected error, and never has the scope of all ten histories when it picks a fix. Brute-forcing
-   changes into settled history is itself destabilising, and a fix can seed unforeseen errors in
-   realms whose histories were never compatible — which are then detected and fixed in turn. It is
-   **still running, and diverging rather than converging.**
-
-   So most glitches are **manufactured by the repair**, not merely revealed by it, and the density
-   should **accelerate** rather than climb steadily. What remains for this session is not *why* but
-   **what it looks like**.
+**This still reframes [[the-gate-guardian]].** The White's guardians are protections against code
+from other games reaching the games he cares about, which makes chapter one's boss a piece of
+anti-glitch machinery. Whether that is player-visible remains unexamined.
 
 The two causes almost certainly map onto the five kinds unevenly — **foreign object** and
 **leakage** read mechanical, **continuity**, **chronology** and **witness** read narrative — but
@@ -71,21 +60,20 @@ _What only exists in this conversation: what was mid-flight, what is unverified,
 what was tried and rejected. Anything here that deserves to persist should become a
 real note instead._
 
-- **The mechanical-leakage cause in full.** Nothing exists. It is the substance of this session.
-- **Whether the two causes are one mechanism or two.** Under [[the-four-developers]] a mechanic *is*
-  code and lore *is* data, so a single "the games are bleeding" cause may explain both. Untested.
 - **Any concrete glitch instance, anywhere.** Zero exist in the wiki, in any of the four settled
-  genres. This is flagged in [[faction-eleven-story-outline]] and is the oldest open gap in the
-  design.
-- **Whether tier is a property of the cause.** Mechanical leakage may be inherently louder than a
-  narrative contradiction, in which case the subtle/strong budget is partly determined by cause
-  rather than freely chosen. Not examined.
-- **Where mechanical leakage sits against the two named systems.** [[the-continuity-system]] and
-  [[the-retcon-engine]] are both about *lore* continuity. Code from one game getting into another is
-  a different kind of breach, and it is not obvious that either system even sees it — the White
-  built the gate guardians separately, which suggests it does not. If leakage is invisible to both
-  layers, it is the one glitch class with no safety net, and that is a strong reason to make it the
-  loudest.
+  genres. This is flagged in [[faction-eleven-story-outline]] and is now the oldest open gap in the
+  design. **It is the whole of what is left of this brief.**
+- **How the four manifestations map onto the two tiers.** A freeze or a crash carries almost no
+  deniability — it is exactly what a broken game does — so the loudness budget in
+  [[continuity-glitches]] may not be freely choosable for them. Unexamined.
+- **What imbalance costs mechanically.** [[the-setting-statement]] establishes that a character
+  leveraging another game's content is outside everything their own statement was balanced against,
+  and [[realm-governs-game-style]] leaves progression-across-realms unresolved. Nobody has costed it.
+- **Where self-correction sits against the two named systems.** [[the-continuity-system]] and
+  [[the-retcon-engine]] are both about *lore* continuity. A character translating another game's rules
+  is a different kind of breach, and it is not obvious that either system even sees it — the White
+  built the gate guardians separately, which suggests it does not. If it is invisible to both layers,
+  it is the one glitch class with no safety net, and that is a strong reason to make it the loudest.
 - **The Red's motive is recorded too narrowly.** [[the-four-gods]] and [[the-long-disconnection]]
   give her one reason for imbuing [[ninja]] and [[val]]: the sealed realms were **decaying**. The
   author has since added a second, and it is the one that touches this session — she also acted on
@@ -112,12 +100,12 @@ leakage-versus-the-rest.
 
 _The single thing the next session should do first._
 
-**Grill the author on mechanical leakage**, since it is the half with nothing written. What does one
-game's code showing up in another actually *look like* to a player standing in a realm — and how
-does it stay on the right side of the deniability rule in [[continuity-glitches]], where a glitch
-read as a real bug has failed?
+**Author a concrete instance in each of the four settled genres.** Both causes are now written, so
+what is missing is no longer *why* or *what kind* — it is a single worked example a designer could
+build. The open question to answer while doing it: how does a self-correction stay on the right side
+of the deniability rule in [[continuity-glitches]], where a glitch read as a real bug has failed?
 
-Then work outward to a **concrete instance in each of the four settled genres** —
+Work through the four settled genres —
 [[ninja-rhythm-platforming]], [[robots-incremental-exploration]],
 [[celestials-hero-tower-defence]], [[gargoyle-stone-metroidvania]] — **starting with
 [[robots-incremental-exploration]]**. That is where the instrument is: a fixbot's heal edits code, so
@@ -132,7 +120,7 @@ three.
 
 _Which skills the next agent should reach for._
 
-- **grill-into-wiki** — the material is in the author's head; this is how it gets out. A grilling
-  session was agreed for immediately after the timeline was built.
-- **gdd-mechanic** — for updating [[continuity-glitches]] once the causes are settled.
+- **gdd-mechanic** — for authoring the instances into [[continuity-glitches]] and the four genre
+  notes.
+- **llm-wiki-grilling** — if the instances need author input rather than derivation.
 - **llm-wiki-maintain** — before any commit.

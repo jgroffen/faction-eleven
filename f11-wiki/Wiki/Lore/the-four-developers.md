@@ -68,6 +68,11 @@ The Red is a woman; the other three are men.
 **evolves its own gameplay** — the thing every one of the ten realms runs on. He got it working and
 could not get it stable.
 
+**What makes ten games out of one engine is ten Setting Statements**, one per realm, each declaring
+what that world is and which rules hold in it ([[the-setting-statement]]). It is the most consequential
+piece of the architecture and the least visible: every character is written against exactly one of
+them, nobody inside can read one, and connecting the realms is what turned that into a fault.
+
 **The White stabilised it**, with [[the-continuity-system]] — a layer that tracks the world's
 evolution into key continuity events and rejects anything that would break them. Only then did the
 two of them start making game worlds on it.
@@ -232,7 +237,8 @@ Facts that were arbitrary become necessary:
 
 - **Ten realms play as ten genres** ([[faction-genre-mechanics]]) because they are ten different
   games. [[realm-governs-game-style]] — the realm's mechanics apply to whoever stands in it — stops
-  being a design rule and becomes a fact about which engine the code is running in.
+  being a design rule and becomes a fact about which Setting Statement the engine is reading
+  ([[the-setting-statement]]).
 - **Gates only reach near-by realms** ([[sealed-interplane-gates]]) because *near* means
   **compatible**. The wheel is a compatibility graph. Nobody chose to build gates only between
   neighbours; neighbours are the only places a gate can work.
@@ -355,7 +361,8 @@ the goal beneath it to converge in a single ending rather than merely rhyme.
 ## Are They Anyone?
 
 The developers believe none of the characters are sentient. **The liches provably are** — they were
-built as AI, and they broke containment ([[the-void]]). Everyone else is unresolved on purpose,
+built as AI, they broke containment, and they are now hiding from the four on purpose
+([[the-lich-experiment]], [[the-void]]). Everyone else is unresolved on purpose,
 which makes the White's position a bet rather than a fact: he argues for the survival of things he
 cannot prove are anyone. The one faction demonstrably awake is [[the-damned]] — hostile,
 gate-breaching, corpse-stealing, and the game's least sympathetic faction.

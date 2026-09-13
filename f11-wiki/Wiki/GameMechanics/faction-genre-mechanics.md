@@ -41,6 +41,11 @@ as a different loadout or stat spread. **Incremental**, **tower defence**, **RPG
   [[realm-07]], and both he and the [[gargoyle]] play [[celestials-hero-tower-defence]] in
   [[chapter-03]]. This turns ten one-shot genre systems into systems that get **played more than
   once**, and is the direct mitigation for the scope risk below.
+- **The fiction supplies the reason.** A genre is a realm's [[the-setting-statement|Setting
+  Statement]] — the rules the engine reads for that world — so a visitor plays the host genre because
+  the host statement is the only one in force. The visiting character's own code does not switch off;
+  it **self-corrects** what it meets into home terms, which is where cross-realm imbalance comes from
+  and why carrying a capability across is a balancing problem by construction.
 
 ## Game Style By Faction
 

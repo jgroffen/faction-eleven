@@ -22,6 +22,12 @@ The faction most entangled with the multiverse's machinery. Their **high-level l
 gates** to the alien worlds, and they hold **ancient Lovecraftian gods that dwell in a void** —
 a void which connects alien space to the Damned's own realm.
 
+**The liches are not what the faction thinks they are.** They are [[tezcatlipoca-the-black]]'s
+experiment in characters backed by autonomous AI, they can read the rules the world runs on, and they
+are hiding from the gods rather than serving them ([[the-lich-experiment]]). That makes the Damned the
+only faction whose most powerful members know what the world is — and tell nobody, including their
+own.
+
 **Homeland:** [[realm-08]] — see [[the-wheel-of-realms]]
 
 ## Identity

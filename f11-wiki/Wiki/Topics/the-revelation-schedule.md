@@ -19,6 +19,11 @@ aliases:
 view, no narrator standing above the realms, and no cutaway to the studio. Whatever the four
 developers do, the player meets it the way an inhabitant meets it: as an act of a god.
 
+**That constraint is not a stylistic choice — it is a property of the characters.** No protagonist is
+aware they are in a game, and none can become aware: their code explains everything through their home
+realm's terms ([[the-setting-statement]]). So the ladders below are the player's, never a character's,
+and no rung on either can be delivered by someone in the fiction working it out.
+
 The mystery unfolds along **two ladders at once**, and neither moves quickly.
 
 ## Overview
@@ -85,6 +90,8 @@ of divine acts that only ever made sense as workplace disagreements.
 - [[the-four-gods]] · [[the-four-developers]] — the top and bottom of ladder one.
 - [[continuity-glitches]] · [[the-ancient-language]] — the channels the evidence arrives through.
 - [[the-retcon-engine]] — why the realms' own account is always coherent and always wrong.
+- [[the-setting-statement]] — why no character can reach the top of either ladder.
+- [[the-lich-experiment]] — the exception, which is why the liches speak in costume.
 - [[story-continuity-timeline]] — when the evidence actually lands, chapter by chapter.
 - [[chapter-based-release]] — the constraint the pacing has to survive.
 - [[story-outline-requirement]] — the outline this is part of.

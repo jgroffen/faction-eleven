@@ -38,6 +38,9 @@ See [[the-wheel-of-realms]].
 
 Connected to alien space by a **void** in which ancient Lovecraftian gods dwell. High-level liches here are **opening** gates into [[realm-10]] — the only faction shown deliberately making new ways through.
 
+It is also **where the Black's AI experiment lives** ([[the-lich-experiment]]): the one realm holding
+characters who can read the rules their world runs on, and who left it to hide from the gods.
+
 ## Set Here
 
 <!-- gd:set-here:start -->

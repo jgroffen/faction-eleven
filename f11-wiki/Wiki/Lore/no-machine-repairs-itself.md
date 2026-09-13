@@ -42,16 +42,22 @@ One rule, and almost everything about the [[robots]] follows from it.
 
 - It is why the faction is dying. The robots are old and broken and **do not know how to fix
   themselves** — not as ignorance, but as a hard limit.
-- It is why the **autofix line existed at all**, and why destroying it was enough to doom everyone.
-  The creators did not have to break the robots; they only had to remove the ones who could mend
-  them.
+- It is why the **autofix line existed at all**, and why losing it was enough to doom everyone.
+  Nothing had to break the robots; the ones who could mend them simply stopped
+  ([[the-setting-statement]]). The realm's account blames the Creators and gives no reason
+  ([[robots]]).
 - It is why [[autofix]] is precious and precarious at once. He is the only known functioning
   Autofix, and **he cannot repair himself either**. Whatever wears out in him, stays worn.
 - It is why [[mifix]]'s **memory is corrupted**: he has been awake and alone in [[realm-01]] for
-  generations with no one to maintain him. Degradation is simply what happens to a machine nobody
-  can reach.
+  generations with no one to maintain him, and the realm he is standing in is not the one he was
+  written for. Degradation is simply what happens to a machine nobody can reach.
 - It is why [[odie]] is intact: the [[celestials]] put him into **stand-by to preserve his memory
   module from long-term degradation**. Not being repaired, he was instead not run.
+
+**And it is what makes the fixbots' other flaw fatal.** Code-awareness degrades a fixbot once it has
+been exposed to another realm ([[the-setting-statement]]). A fixbot that could patch itself would
+survive that. None can, so every one of them ran until it crashed or froze — which is the real end of
+the autofix line, and not what [[realm-02]] remembers.
 - And it is why **mini-fix bot production is the culmination** of [[autofix-skill-tree]]: bots that
   can mend bots is the only escape from the rule, and the point at which [[realm-02]] can begin to
   self-repair as a *society* even though no individual can.

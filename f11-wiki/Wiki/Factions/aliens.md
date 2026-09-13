@@ -37,11 +37,12 @@ Aliens a microcosm of the whole game's structure — a faction that is itself a 
 The Aliens came through both the linking and the thousand years of sealing largely intact. **What is
 happening to them is recent, and it is theft.**
 
-[[the-damned]]'s high liches — built as an experiment by [[tezcatlipoca-the-black]], able to act
-outside the rules of their own realm — went out into [[the-void]] and have been **stealing pieces of
-[[realm-10]] to use in their own realm.** They cover their tracks. None of the four gods knows it is
-happening, and neither do the Aliens: their world is losing parts of itself and there is no
-explanation available to anyone inside it.
+[[the-damned]]'s high liches — built as an experiment by [[tezcatlipoca-the-black]], and able to read
+and route around the rules of their own realm ([[the-lich-experiment]]) — went out into [[the-void]]
+looking for somewhere to hide from the gods, and have been **stealing pieces of [[realm-10]] to use in
+their own realm** ever since. They cover their tracks, because concealment was the point of going out
+there in the first place. None of the four gods knows it is happening, and neither do the Aliens:
+their world is losing parts of itself and there is no explanation available to anyone inside it.
 
 This makes the Aliens the only faction whose decline has a culprit rather than a cause, and it wires
 realm-10 to realm-08 through the two realms the Black leads. **Squidling's mystery resolves into the

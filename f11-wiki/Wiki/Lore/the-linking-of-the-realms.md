@@ -61,10 +61,21 @@ designed**, and sealing the gates again did not undo them:
   ([[no-machine-repairs-itself]]) dates from the linking, not from the isolation that followed. It
   was never fixed. Their realm has been running with an unrepaired fault ever since, and everything
   the faction is now is downstream of it.
+- **And it killed the fixbots**, which is the same wound one layer down. A fixbot repairs by editing
+  code, so it is code-aware, and code-awareness degrades it once it has been exposed to another
+  realm's [[the-setting-statement|Setting Statement]] ([[a-heal-is-a-patch]]). The linking exposed
+  every one of them. They bugged out, and then they crashed or froze. [[realm-02]] does not remember
+  it that way — its history blames the Creators and gives no reason ([[the-retcon-engine]]).
 - Over half the realms developed faults of some kind during the connection.
 - The [[pirates]] are the exception that proves it: their realm **benefited**, and returned to normal
   afterwards — except that their economy is still skewed around trade goods from other realms that
   can no longer be supplied.
+
+**The general form of the damage is self-correction** ([[the-setting-statement]]). Ten games ran on
+one engine, each defined by its own Setting Statement, and while they were separate no character ever
+met content written against a different one. Linking them meant every crossing was now a translation,
+performed by code with no capacity to represent what it was translating. The specific faults above are
+what that cost each realm; the Robots simply paid the most.
 
 **This is why the White's position is not simply sentimental.** He is not protecting the realms from
 change in the abstract; he watched a change break several of them permanently, and one of the broken

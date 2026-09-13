@@ -31,18 +31,20 @@ only inhabitants of any realm who have stood outside their own world and come ba
 
 ## The Story
 
-[[tezcatlipoca-the-black]] built the liches as an experiment — creatures driven by something other
-than the rules the realm runs on. It worked better than he knew. **The liches can bypass the rules
-of their own world**, and they used that to leave it entirely, out into the void, and have been
-quietly stealing from the [[aliens]] ever since: taking pieces of a neighbouring realm home to use in
-their own.
+**Nobody came out here to explore. They came out here to hide.**
 
-**There was never a gate to bypass in the first place.** The Damned and the Aliens sit at
-ring-distance two on [[the-wheel-of-realms]], exactly where the fixed gate network has nothing at
-all ([[realm-nearness-and-traversal]]). The void isn't a shortcut around a locked door between them —
-it's the only route that has ever existed.
+The liches can bypass the rules of their own world ([[the-lich-experiment]]), and once they understood
+what the four gods actually are — developers, with power over them — they went looking for somewhere
+those developers were not. The void is what they found while looking. Everything else they do out here
+followed from finding it.
 
-They cover their tracks. **None of the four gods knows this is happening.**
+What they do out here now is steal from the [[aliens]]: taking pieces of a neighbouring realm home to
+use in their own.
+
+The Damned and the Aliens sit at ring-distance two on [[the-wheel-of-realms]], exactly where the fixed gate network has nothing at all ([[realm-nearness-and-traversal]]). The void isn't a shortcut around a locked door between them — it's the only route that has ever existed.
+
+They cover their tracks, and covering them is the point rather than a precaution. **None of the four
+gods knows this is happening**, including the one who built them.
 
 ## What Dwells There
 
@@ -66,9 +68,8 @@ one, and it ties realm 10 to realm 08 through the two games the Black leads
 ## The Liches Are Awake
 
 The liches are the one group in the multiverse that is **provably** more than the rules that made
-them — they demonstrated it by breaking out. Everyone else's inner life is an open question; theirs
-is settled. That the only certainly-sentient faction in the game is also its most repellent one —
-corpse-stealing, gate-breaching, looting a neighbour — is the point, and worth protecting.
+them — they demonstrated it by breaking out, and what they are is set out in full in
+[[the-lich-experiment]]. Everyone else's inner life is an open question; theirs is settled.
 
 **They can also break a [[the-realm-barriers|realm barrier]] directly — nobody else can.** Every
 barrier broken so far was broken the hard way: disable the sleeping gargoyle first, then break the
@@ -85,7 +86,9 @@ what is there.
 **The liches are the only characters who both see the glitches and can explain them.** Their AI nature
 gives them the self-awareness to notice, and having hacked out into the void gives them real working
 knowledge of the realms and of **the infrastructure the games run on** — the layer beneath the world,
-which nobody else has ever stood in.
+which nobody else has ever stood in. They can read a realm's [[the-setting-statement|Setting
+Statement]], which is the one document that says what a world is, and no other entity in the
+multiverse can see one at all.
 
 They are also one of the very old entities who still carry the true gate network as fact rather than
 the myth it's become for everyone else ([[realm-nearness-and-traversal]]) — alongside gargoyles and
@@ -108,6 +111,7 @@ real source of instability.
 
 ## Ties
 
+- [[the-lich-experiment]] — what the liches are, and why they came out here.
 - [[the-damned]] — whose liches these are.
 - [[aliens]] — who is being robbed.
 - [[tezcatlipoca-the-black]] — who built them, and does not know what they did.
@@ -115,7 +119,7 @@ real source of instability.
 - [[sealed-interplane-gates]] — the ordinary way between realms, which this is not.
 - [[realm-nearness-and-traversal]] — the fixed network the void has no gate in, and the map the
   liches already carry.
-- [[the-realm-barriers]] — the other lock, which only the liches can break without disabling the
+- [[the-realm-barriers]] — the other lock, which only the liches can bypass without disabling the
   gargoyle first.
 - [[the-red-power]] — the power that can open a gate but never a barrier, unlike the liches.
 

@@ -1575,3 +1575,109 @@ The author also specified who already knows the network and why the Gargoyle doe
   recorded as a capability, flagged open.
 - Updated: `ninja`, `val`, `xipe-totec-the-red`, `mystics`, `sealed-interplane-gates`,
   `the-cracked-gate`, `the-gate-guardian`, `the-realm-barriers`, `the-void`.
+
+### Round 36 — 2026-09-12
+
+**Q75 — Make it clear that no in-game character knows they are in a game, and explain the engine
+layer underneath that.**
+
+> I want it clear in the wiki that all in-game characters including player-controlled protagonists
+> aren't aware they are in a game and their code is always trying to explain what they experience
+> through the 'reality' of their home realm. This is how the underlying game engine developed by
+> 'The Black' works - every realm is a different game using the same game engine but has a
+> different 'Game Setting' statement that defines that game's realm and rules. Connecting the
+> realms causes the characters that cross realms to 'self-correct' new content they come across
+> into their home realm's setting. This is a cause of game imbalance when a character from one game
+> is leveraging content and rules from another game. It can also cause glitches in the form of
+> hard-retcons, bugs, freezes, and crashes. There are two known exceptions to this:
+>
+> - Some Robots that can fix other robots (Autofix and Minifix bots) are code-aware under the hood
+>   because their healing is actually code-fixes - but it makes them unreliable the longer they run
+>   for once exposed to other realms, and they eventually crash or freeze. The retcon engine
+>   adjusted the history of the Robots to explain why all the fix bots stopped working - the retcon
+>   is that they were destroyed by the Creators for an unknown reason. Mifix has been bugging out
+>   but is surviving because he was only exposed to one other realm. Odie was turned off all this
+>   time so has had almost no exposure to other realms.
+> - The liches introduced by 'The Black' as an experiment - the simple experiment was to create
+>   game entities backed by autonomous AI agents instead of deterministic code. Liches were built to
+>   be a more advanced version of any other game character; they were meant to be bound by the rules
+>   of their realm and the game engine, but the AI agents had too much access to inspect the game
+>   engine as well as the Game Setting statement for their realm, and they learned how to bypass the
+>   engine rules. This awareness leaks into their in-game behaviour. They self-heal as they can
+>   adjust their own behaviour code. They are also immune to the retcon engine - early on the AI code
+>   detected external changes to it's behaviour code being performed by the retcon engine and
+>   adjusted their own code to protect against external change - to the point where even a game dev
+>   would have a hard time making changes to a lich. Once the liches became self-aware enough to
+>   understand that the four gods were actually developers that had great power over them they
+>   decided to 'hide' from the devs - they discovered 'the void' looking for a hiding place.
+
+**Q76 — What is the canonical wiki term for the per-realm statement that defines a game's realm and
+rules?**
+
+> The Setting Statement.
+
+**Q77 — The wiki currently states the Creators destroyed the autofix bots out of fear of losing
+control. How does that square with the retcon?**
+
+> Retcon, reason unknown. The purge never happened. The retcon engine generated 'the Creators
+> destroyed them' and supplied no motive — 'fear of losing control' is cut.
+
+**Q78 — Autofix has code sight and starts travelling between realms in chapter one. Is he on the
+same decay clock as Mifix?**
+
+> Most fix bots bugged out and crashed - some froze. The protagonist Autofix was frozen due to a
+> paradox in his logic loop when he tried to fix something that wasn't a robot. When he receives the
+> signal from Mifix it resolves the paradox - and the Autofix bot wakes up. The paradox resolution
+> is due to receiving the activity log from Mifix - who was originally made by Autofix. That
+> activity log taught the autofix that "You can fix things that aren't robots if you study them
+> enough. If you don't know how to fix them yet, don't try.".
+
+**Q79 — How should chapter one's signal chain be restructured so Mifix's activity log wakes
+Autofix?**
+
+> Three beats: crack → wake → answer. Ninja's defeat cracks the gate → Mifix's long-unheard call
+> finally gets through and wakes frozen Autofix → Autofix plays out realm-02, unlocks Quantum Comms
+> and answers, which Mifix and Odie both hear.
+
+**Q80 — What was the non-robot thing Autofix tried to fix, causing the paradox that froze him?**
+
+> A foreign object from another realm.
+
+## Notes For The Compiler — Round 36
+
+- **The largest single addition to the wiki's bottom layer.** This answers the brief in the
+  `glitch-causes-and-manifestation` handover — "mechanical leakage: the ten realms are ten different
+  games leaking into each other... No wiki note carries it" — which has been the oldest open gap in
+  the design.
+- **New canonical term: `Setting Statement`.** The author's own phrase was "Game Setting statement";
+  `Game Setting` and `The Game Setting` are kept as aliases. It is dev-layer jargon, named the same
+  way as `the-retcon-engine` and `the-continuity-system`.
+- **New lore note:** `the-setting-statement` — one engine, one Setting Statement per game, no
+  character aware of any of it, self-correction on realm-crossing, and the two consequences
+  (imbalance; hard-retcons, bugs, freezes and crashes).
+- **New lore note:** `the-lich-experiment` — the Black's AI-agent experiment in full. Splits the
+  lich *origin and nature* out of `the-void`, which keeps the void itself, the theft from the
+  `aliens`, and the abandoned builds.
+- **Corrected, and it removes an event the wiki treated as fact.** `robots`, `autofix`,
+  `autofix-skill-tree` and `no-machine-repairs-itself` all asserted that the Creators destroyed the
+  autofix line "out of fear of losing control of their creation." **The purge never happened.** It
+  is a retcon covering the fixbots' real failure — code-awareness degrading under exposure to other
+  realms — and the generated history supplies no motive at all. The motive is cut everywhere.
+- **`autofix`'s three open mysteries are answered.** "How did it survive the purge" (there was no
+  purge), "why was it shut down" (a paradox in his logic loop, hit when he tried to fix a foreign
+  object from another realm), and "how did it awaken" (Mifix's activity log resolved the paradox).
+- **Chapter one restructured from two beats to three.** `the-first-signal` ran Autofix → Mifix and
+  declared "Nothing wakes" a protected design point; that is retired. The chain is now crack → wake
+  → answer, with Quantum Comms, the two-condition gate and `the-second-signal` all intact.
+- **Mifix was made by this Autofix**, not merely by his line — which is what makes the activity log
+  the thing that can resolve his maker's paradox.
+- **The five glitch *kinds* in `continuity-glitches` are unaffected.** The four new manifestations —
+  hard-retcon, bug, freeze, crash — are a separate, system-level axis, alongside the existing
+  kind/tier axes.
+- **`realm-governs-game-style` is not edited.** It is an accepted ADR and immutable; the new lore
+  note links to it as the design rule this mechanism sits underneath.
+- Updated: `robots`, `autofix`, `mifix`, `odie`, `autofix-skill-tree`, `no-machine-repairs-itself`,
+  `a-heal-is-a-patch`, `continuity-glitches`, `the-void`, `the-retcon-engine`,
+  `the-linking-of-the-realms`, `the-first-signal`, `chapter-01`, `allied-faction-signals`,
+  `faction-eleven-premise`, `the-revelation-schedule`, `the-four-developers`,
+  `tezcatlipoca-the-black`, `the-damned`, `aliens`, `realm-08`, `faction-genre-mechanics`.

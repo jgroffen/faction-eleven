@@ -108,6 +108,36 @@ The sentence is a fiction the realm wrote to make sense of a change from outside
 Institute is lying.** The records are real, the shame is real, and generations of a family have
 lived and died inside an explanation that was generated to cover an edit.
 
+## The Second Worked Example
+
+[[realm-02]] holds the other one, and it is the more revealing of the two because of what it leaves
+out.
+
+Every fixbot in the world failed at roughly the same time — the real reason being what a fixbot is
+([[a-heal-is-a-patch]]) — and the realm needed an account of it. What it generated is that **the
+Creators destroyed them**, and **it supplies no reason at all** ([[robots]]).
+
+**That absence is the tell.** The engine covers an edit with whatever local history it can reach, and
+the reach here was short: there was nothing in [[realm-02]] that could motivate a purge, so the
+generated history names an actor and stops. A civilisation has organised its entire decline around an
+act nobody can explain, and has never noticed the hole in the middle of it.
+
+Set beside the Institute's case, the pair shows the engine's range: given material, it writes a
+treason, a sentence and a shrine; given none, it writes a culprit and leaves the rest blank. Both are
+believed completely.
+
+## What It Cannot Touch
+
+**The liches are immune, and they are the only thing that is** ([[the-lich-experiment]]).
+
+The engine edits behaviour code from outside, which is exactly what it does to everyone. The
+difference is that the liches' AI **noticed it happening** and hardened their own code against
+external modification — well enough that even one of the four would struggle to change a lich now.
+
+So there is one group in the multiverse whose past has never been revised, which makes them the only
+available check on everyone else's. It is also the sharpest thing the engine's author never intended:
+a stabilisation layer that provoked the one entity capable of defending itself into doing so.
+
 ## What It Does Not Smooth Over
 
 The engine is not perfect, and it works hardest on things it cannot fully absorb:
@@ -119,6 +149,7 @@ The engine is not perfect, and it works hardest on things it cannot fully absorb
   one.
 - **Contradiction with a surviving witness.** [[gargoyle]] holds an unedited memory of the world
   before the torpor, which makes him the one character able to notice that the past has moved.
+- **Entities it cannot edit.** The liches, and nothing else — see below.
 
 ## Whose Engine It Is
 
@@ -142,6 +173,9 @@ and the paper is where the player finds every single clue.
 - [[continuity-glitches]] — where the engine fails, and what the player does about it.
 - [[the-four-gods]] · [[the-four-developers]] — whose changes it is absorbing.
 - [[the-gate-guardian]] — the worked example, live from chapter one.
+- [[robots]] — the second worked example, and the one with a hole in it.
+- [[the-setting-statement]] — the other thing editing the world underneath its inhabitants.
+- [[the-lich-experiment]] — the one thing it cannot reach.
 - [[the-ancient-language]] — the other channel, and the one the engine cannot rewrite.
 
 ## Player-Facing

@@ -40,7 +40,7 @@ Known devices:
 
 | Device | Where it lies | Who it calls |
 |--------|--------------|--------------|
-| [[mifix]] | [[realm-01]], [[institute-of-eight]] | [[robots]] — **awake the whole time**; hears its first signal in [[the-first-signal]] and a second in [[the-second-signal]] |
+| [[mifix]] | [[realm-01]], [[institute-of-eight]] | [[robots]] — **awake the whole time**, and calling the whole time; his call is the first thing through the crack in [[the-first-signal]], and he detects a second in [[the-second-signal]] |
 | [[the-clay-jar]], holding an alien egg | [[realm-01]], the same shrine | [[aliens]] |
 | [[odie]] | [[templar-monastery]], [[realm-03]] | [[robots]] |
 | [[the-wand]] | [[templar-monastery]], [[realm-03]] | [[mystics]] |
@@ -76,13 +76,18 @@ to the factions themselves. The Ancients did not build them and did not need to 
 that does not arrive.
 
 Which means every device in the game is **already working and already unheard**. Nothing needs
-repairing except the space between. [[mifix]] makes the point sharply: he has been
-awake for generations in a realm where nothing could reach him.
+repairing except the space between. [[mifix]] makes the point sharply: he has spent generations
+calling a realm that could not receive him, in a realm nothing could reach him from.
 
 **A signal needs an opening to leave a realm.** A fully sealed realm is mute as well as deaf —
-[[realm-02]] is sealed on every side, so [[autofix]]'s Quantum Comms cannot get out at all until
-[[the-cracked-gate]]. This is why the devices went quiet: not because they failed, but because the
-walls closed.
+[[realm-02]] is sealed on every side, so nothing can get in or out until [[the-cracked-gate]]. This is
+why the devices went quiet: not because they failed, but because the walls closed.
+
+**The first thing through the crack is a call that was already being made.** Nothing is switched on and
+nothing is repaired in [[the-first-signal]]; a signal that has been running for generations simply
+arrives somewhere for the first time — and what it arrives at is a frozen [[autofix]], who wakes
+because of what the call happens to be carrying. **A device left behind by an ally turns out to be the
+thing that restarts the faction that left it.**
 
 **Signals route, they do not leap.** A signal travels realm to realm through whatever gates are
 open or cracked along the way — the second signal reaches [[realm-01]] from [[realm-03]] by way of

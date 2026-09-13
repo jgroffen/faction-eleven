@@ -20,9 +20,10 @@ home: realm-01
 
 # Mifix
 
-A **mini-fix bot** from [[realm-02]], housed in a small toy car in the [[institute-of-eight]]'s
-family shrine and venerated by them as an **ancestor spirit**. Mifix is the [[ninja]]'s **companion
-and mentor**, and has been **online and maturing for generations of the Ninja's family**.
+A **mini-fix bot** from [[realm-02]] — **built by [[autofix]]** — housed in a small toy car in the
+[[institute-of-eight]]'s family shrine and venerated by them as an **ancestor spirit**. Mifix is the
+[[ninja]]'s **companion and mentor**, and has been **online and maturing for generations of the
+Ninja's family**.
 
 **Role:** companion · **Faction:** [[robots]] · **Home:** [[realm-01]]
 
@@ -61,6 +62,22 @@ whatsoever to tell those two apart**, and no instrument that could settle it.
 That is the same corruption that turned his purpose into myth, seen from a second angle: a machine
 whose job is verifying other things, and which is the one thing it cannot verify.
 
+## Why He Is Still Running
+
+Every other fixbot crashed or froze. Mifix has been bugging out for generations and is **still
+working**, and the reason is arithmetic rather than luck.
+
+Code-awareness is what degrades a fixbot, and what drives the degradation is **exposure to another
+realm's [[the-setting-statement|Setting Statement]]**. Mifix has been exposed to exactly **one**:
+[[realm-01]], where he has sat in a shrine the whole time. One foreign statement, held for
+generations, is survivable. It is not survivable *well* — the bugs are his corrupted memory and his
+mythologised purpose — but it is survivable.
+
+Compare the two ends of the same rule. [[odie]] was switched off and has had almost **no** exposure,
+so he is pristine. The fixbots who crossed and kept crossing are gone. Mifix sits between them, which
+is precisely why he is the one character who has been damaged enough to have a framework and not
+enough to stop.
+
 That shared purpose is what binds him to the family: Mifix and the Ninja's line are both motivated
 to defeat the [[the-gate-guardian]], because **the family's legacy is to reunite the allied
 factions**. Two parties with corrupted, mythologised reasons, fighting the same door for
@@ -75,13 +92,18 @@ is what mini-fix bots *are*.
 
 ## The Irony He Cannot See
 
-Mifix believes he may be the last with autofix capability. One realm away, [[autofix]] wakes alone
-in a ruined factory as **the only known functioning Autofix** — believing much the same thing.
+Mifix believes he may be the last with autofix capability. One realm away lies [[autofix]] — **the
+only other functioning fixbot in the world, frozen, and the machine that built Mifix in the first
+place.**
 
-Two machines, each certain they are the last of their kind, separated by one gate and a silence
-neither can cross — and the silence is total, because [[realm-02]] is sealed on every side and
-Autofix's Quantum Comms cannot even leave it. When [[the-first-signal]] finally arrives, that is
-what it means.
+Two machines of one make, each the other's answer, separated by one gate and a silence neither can
+cross: [[realm-02]] is sealed on every side, so nothing Mifix sends can get in and nothing Autofix
+sends could get out. When the gate cracks, the generations Mifix spent working alone in a realm that
+was never his turn out to be **exactly the record his maker needed** to resolve the paradox that
+stopped him ([[the-first-signal]]).
+
+He does not know he built nothing and was built. He does not know the call he has been making for
+generations is the thing that saves the last Autofix. He is simply still calling.
 
 ## In-Game Role
 
@@ -99,9 +121,12 @@ Two jobs, one mechanical and one narrative:
 
    He is also the Ninja's teacher inside it: the challenge rooms open with **dialogue between Mifix
    and the Ninja** before the new skill is practised.
-2. **He is the receiver.** Sealed realms stop signals ([[allied-faction-signals]]), so he has heard
-   nothing of his own kind in living memory. Once the guarded gate cracks he hears two calls —
-   [[the-first-signal]] and [[the-second-signal]].
+2. **He is the caller, and then the receiver.** Sealed realms stop signals
+   ([[allied-faction-signals]]), so for generations he has been calling home and hearing nothing
+   back. Once the guarded gate cracks, **his call is the first thing through it** — and it carries his
+   activity log, which wakes [[autofix]] ([[the-first-signal]]). Autofix's answer is the first thing
+   Mifix has ever heard from his own kind. A second, fainter call follows in
+   [[the-second-signal]].
 
 ## Quests
 
@@ -112,13 +137,17 @@ Two jobs, one mechanical and one narrative:
 
 - [[ninja]] — his student, and the latest of many.
 - [[the-gate-guardian]] — the thing he cannot get past, and cannot protect the Ninja from.
-- [[autofix]] — his own kind, and the source of the first signal he hears.
-- [[odie]] — the second, in [[realm-03]].
+- [[autofix]] — **his maker**, frozen one realm away, and woken by Mifix's activity log.
+- [[odie]] — the other surviving mini-fix bot, in [[realm-03]], and the source of the second signal.
+- [[the-setting-statement]] — why a fixbot degrades away from home, and why one realm's worth of it
+  has not killed him.
 
 ## Open
 
 - Whether the family knows he is a machine, and whether the Ninja learns it during the game.
-- **What corrupted his memory**, and whether it can be repaired. One proposed answer: [[odie]] has **uncorrupted** memory, and when the two
+- **Whether his memory can be repaired.** [[odie]] has **uncorrupted** memory, and when the two
   mini-fix bots meet it can restore the lost history of the Robot Realm. Mifix's myth would then be
   corrected by a stranger of his own kind rather than by going home.
 - Whether he is right that he is the last. He is not: see above.
+- Whether the degradation continues to advance on screen, now that the gate is cracked and more than
+  one foreign realm is reachable.

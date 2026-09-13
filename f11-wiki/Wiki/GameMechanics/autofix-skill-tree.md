@@ -45,8 +45,10 @@ something new.
 | **Repair** | what kinds of damage can be fixed |
 | **Robotics** | building minibots — and, behind a lock, **building Robots: true reproduction** |
 
-Robotics is the branch with the story in it. Building whole robots is what the creators destroyed
-the autofix line to prevent ([[robots]]), so the deepest node of the tree is the forbidden act.
+Robotics is the branch with the story in it. Building whole robots is what [[realm-02]]'s history
+holds the Creators destroyed the autofix line to stop — an account that names no reason and did not
+happen ([[robots]]) — so the deepest node of the tree is an act the realm believes is forbidden and
+nobody can say why.
 
 ### ACCESS DENIED
 

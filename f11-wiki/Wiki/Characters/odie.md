@@ -37,6 +37,12 @@ switched off on purpose. Mini-fix bots and autofix bots **cannot repair themselv
 ([[no-machine-repairs-itself]]), so an awake mini-fix bot degrades and a sleeping one does not.
 [[mifix]] stayed awake for generations and his memory rotted; Odie slept and kept everything.
 
+**Being off is also why he was never exposed.** What actually destroys a fixbot is running while
+exposed to another realm's [[the-setting-statement|Setting Statement]] — the thing that crashed or
+froze every other fixbot in the world. Odie has sat in [[realm-03]], switched off, through all of it.
+He has had **almost no exposure at all**, which makes him the only fixbot that is not part-way through
+failing.
+
 The Celestials did that *for* him. They knew him well enough to nickname him and understood enough
 to preserve him — which means [[realm-03]] and [[realm-02]] were once in real contact, close enough
 for a robot to be a friend rather than a curiosity. The Celestials have forgotten all of it. They
@@ -103,4 +109,7 @@ Ninja does not work it out himself. It is deferred design work — see the hando
 
 - Why the Celestials put him into stand-by, and what they expected to wake him for.
 - What "St Archivus" was a corruption of, and whether the Celestials can be told.
-- How much of the purge he witnessed — see [[robots]].
+- **What his uncorrupted memory says about the end of the fixbots.** He predates the retcon that
+  blames the Creators ([[robots]]), so he may be the only witness who remembers no purge happening —
+  which would make him the hardest piece of evidence in the game and is not yet decided.
+- Whether waking him starts his exposure clock, and how long he has once he is running.

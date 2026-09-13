@@ -24,11 +24,8 @@ locations: []
 
 # The Red Power
 
-**One power, three carriers, one scope.** [[xipe-totec-the-red]] placed the same gift in three
-people so that compatible neighbours could reach each other again before their realms dwindled
-away. It does exactly one thing: it **opens a closed gate** ([[sealed-interplane-gates]]). It does
-not touch a [[the-realm-barriers|realm barrier]] — the gargoyle-built wall on the *inside* of a
-gate is a different lock entirely, and the Red's gift has no key for it.
+[[xipe-totec-the-red]] placed the a gift in three people so that compatible neighbours could reach each other again before their realms dwindled away. It does exactly one thing: it **opens a closed interplane gate** ([[sealed-interplane-gates]]). It does not affect a [[the-realm-barriers|realm barrier]] — the gargoyle-built wall on the *inside* of a
+gate is a different lock entirely, and the Red's gift has no key for it. This gift comes to be known as 'The Red Power'. It was granted by 'The Red' and users of it glow red when using it.
 
 **Canon:** proposed · **Era:** present, granted before the game
 
@@ -37,11 +34,11 @@ gate is a different lock entirely, and the Red's gift has no key for it.
 **Same gift, three manifestations.** Each carrier experiences and expresses it differently — the
 power is identical, only the flavour changes:
 
-| Carrier | Manifestation | Gate |
-|---|---|---|
-| [[ninja]] | **breaks** it — force, a blow that lands wrong and still gets through | [[realm-01]]'s guarded gate to [[realm-02]] ([[the-cracked-gate]]) |
-| [[val]] | **unlocks** it — deliberate, precise, like a key she was always going to find | [[the-damned]]'s allied gate to the [[green-skins]] ([[sealed-interplane-gates]]) |
-| a Mystic, not yet named | **dispels** it — the seal is treated as a working that can be undone rather than a wall that must be forced | unestablished |
+| Carrier                 | Manifestation                                                                                               | Gate                                                                              |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [[ninja]]               | **breaks** it — force, a blow that lands wrong and still gets through                                       | [[realm-01]]'s guarded gate to [[realm-02]] ([[the-cracked-gate]])                |
+| [[val]]                 | **unlocks** it — deliberate, precise, like a key she was always going to find                               | [[the-damned]]'s allied gate to the [[green-skins]] ([[sealed-interplane-gates]]) |
+| a Mystic, not yet named | **dispels** it — the seal is treated as a working that can be undone rather than a wall that must be forced | unestablished                                                                     |
 
 None of the three understands the gift for what it is. [[ninja]] does not even know it is
 happening — [[odie]] is the one who eventually identifies it in him ([[templar-monastery]]).
@@ -52,12 +49,9 @@ across the wheel is doing the same thing with it ([[val]]).
 ([[the-realm-barriers]]) are a separate, faction-made lock on top of the Ancients' gate — and
 every barrier broken so far was broken the hard way: [[the-guardians-of-night]] smashed the
 sleeping gargoyles' heads first, to disable the alarm, and only then broke the wall behind them
-([[the-smashing-of-the-gargoyles]], [[the-broken-barrier]]). Neither [[ninja]] nor [[val]] has ever
-put the Red's power anywhere near a barrier — the gift was never scoped to reach one.
+([[the-smashing-of-the-gargoyles]], [[the-broken-barrier]]).
 
-**Something else can.** Breaking a barrier *directly* — without disabling the gargoyle behind it
-first — is a capability nobody in this list has. It belongs to the Liches of [[the-damned]] alone
-([[the-void]]).
+Until the Liches of [[the-damned]] discovered how to traverse [[the-void]], there was no other way to traverse between realms except via the interplane gates, making control of the gates strategically important. This void traversal ability belongs to the Liches alone.
 
 ## Ties
 
@@ -67,7 +61,7 @@ first — is a capability nobody in this list has. It belongs to the Liches of [
 - [[mystics]] — home of the third, unnamed carrier.
 - [[sealed-interplane-gates]] — what the power actually opens.
 - [[the-realm-barriers]] — what it explicitly cannot touch.
-- [[the-void]] — where the one power that *can* break a barrier directly comes from instead.
+- [[the-void]] — the gap between planes that only the Liches have recently worked out how to traverse.
 
 ## Player-Facing
 

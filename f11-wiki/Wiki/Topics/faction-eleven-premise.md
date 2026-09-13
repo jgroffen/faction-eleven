@@ -44,6 +44,11 @@ The world is a **multiverse**: each faction lives in its own realm, with its own
 art-style ([[the-multiverse-of-realms]]). The game opens after [[the-long-disconnection]], and
 the player braids the stories together by [[protagonist-swapping-and-story-gating]].
 
+**None of the ten protagonists knows any of this.** No character in any realm is aware they are in a
+game; each one explains everything it meets through the reality of its home realm
+([[the-setting-statement]]). The player is the only party holding more than one realm's account at a
+time, which is what makes the mystery detectable at all.
+
 ## Concepts
 
 - [[exploration-core-loop]] — the shared platforming/top-down exploration all ten stories use.
@@ -73,6 +78,8 @@ the player braids the stories together by [[protagonist-swapping-and-story-gatin
 - [[the-four-developers]] — what the pantheon is.
 - [[the-retcon-engine]] · [[continuity-glitches]] — how the realms cover for them, and how the
   player catches them at it.
+- [[the-setting-statement]] — the engine layer underneath all of it, and why nobody inside can see it.
+- [[the-lich-experiment]] — the one group of characters that can.
 - [[chapter-based-release]] — how it's intended to ship.
 
 ## Chapters

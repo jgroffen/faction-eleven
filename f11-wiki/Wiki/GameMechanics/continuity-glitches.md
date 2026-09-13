@@ -48,6 +48,47 @@ history that already happened is itself destabilising, and a fix that solves the
 can seed several unforeseen ones in realms whose histories were never compatible. Those get detected
 and patched in turn. **The player is walking through the exhaust of a machine trying to help.**
 
+### Two Causes, Not One
+
+The retcon engine is half of it. The other half is **self-correction**, and it is a different failure
+with a different feel ([[the-setting-statement]]).
+
+Every realm is a separate game with its own **Setting Statement**, and every character's code can only
+represent what its own statement allows. A character who crosses a realm therefore does not perceive
+the other realm; it **translates** it into the terms of home, and believes the translation completely.
+Where the translation cannot close, the engine fails.
+
+| | [[the-retcon-engine]] | Self-correction |
+|---|---|---|
+| What is being reconciled | ten histories that must become one | one character's code and a foreign realm's rules |
+| Acts on | the past | the present, continuously |
+| Feels like | **a story that does not add up** | **a rule that belongs to somebody else's game** |
+| Fails at | not seeding new contradictions | representing anything it was not written for |
+
+The two are not competing explanations — they are the narrative and mechanical halves of the same
+breakage, and a realm can be carrying both at once.
+
+**Self-correction also causes imbalance, which is not a glitch at all.** A character leveraging
+content and rules from another game is running outside everything their own statement was balanced
+against. It is the design's standing tax on cross-realm play and it needs managing per encounter
+rather than authoring per instance.
+
+### The Manifestations
+
+**Kind, tier and manifestation are three independent axes.** The kind is *what the glitch is*, the
+tier is *how hard it pushes*, and the manifestation is *what actually went wrong underneath*:
+
+| Manifestation | What has happened | What the player gets |
+|---|---|---|
+| **Hard-retcon** | the correction is forced through at the level of history rather than perception | the world simply **is** different now, and everyone agrees it always was |
+| **Bug** | the translation half-succeeds | behaviour belonging to neither realm — the richest and safest kind |
+| **Freeze** | the code cannot resolve the correction and stops, still running | something caught mid-action, indefinitely |
+| **Crash** | it cannot resolve it and stops entirely | something that was there and is not |
+
+**Freezes and crashes are the hardest things in the design to place**, because they are exactly what a
+genuinely broken game does. They carry the least deniability of anything here and should be used where
+the fiction claims them first — a frozen fixbot is a character, not an error ([[autofix]]).
+
 Four kinds, in rough order of how loud they are:
 
 | Kind | What the player sees |
@@ -86,8 +127,10 @@ someone who has been in two places, so the mechanic that braids the ten stories 
 that makes the mystery detectable. Nothing extra needs building to surface them — they surface when
 the player does what the game already asks.
 
-**Most characters cannot see them; the player always can.** Ordinary inhabitants absorb a rewrite
-completely and behave as though the new continuity was always the case. The player holds ten realms
+**Most characters cannot see them; the player always can.** No character in any realm knows they are
+in a game, and every one of them explains what they meet through their home realm's Setting Statement
+([[the-setting-statement]]) — so ordinary inhabitants absorb a rewrite completely and behave as though
+the new continuity was always the case. The player holds ten realms
 at once. This is the same asymmetry the game already uses in [[the-smashing-of-the-gargoyles]], where
 the player watches a cutscene the protagonist has no memory of — scaled up to become the spine of the
 mystery.
@@ -100,7 +143,9 @@ list includes a chapter-one protagonist:
 - **Preserved memory.** Dormancy keeps a mind out of the retcon's reach — [[gargoyle]]'s torpor and
   [[odie]]'s stand-by both do it.
 - **The liches** are the only ones who both see *and* explain, and they present real knowledge of the
-  realms' infrastructure as **ancient eldritch lore** ([[the-void]]).
+  realms' infrastructure as **ancient eldritch lore** ([[the-lich-experiment]], [[the-void]]). They
+  are also the only characters a retcon cannot reach, so they are the one place the player can find
+  an unedited account of anything.
 
 **Seeing, understanding and self-trust are three different things**, and no character has all three
 — the ladder is set out in [[a-heal-is-a-patch]]. That is what keeps the witnesses from short-circuiting
@@ -154,7 +199,8 @@ No values yet. The knobs to expect:
 ## Related
 
 - [[story-continuity-timeline]] — where the per-chapter budget of each tier is tracked.
-- [[the-retcon-engine]] — what produces them.
+- [[the-retcon-engine]] — what produces half of them.
+- [[the-setting-statement]] — what produces the other half, and why no character can see past it.
 - [[the-four-developers]] — what they are evidence of.
 - [[the-ancient-language]] — the other evidence channel, and the more legible one.
 - [[protagonist-swapping-and-story-gating]] — how the player comes to hold two facts at once.

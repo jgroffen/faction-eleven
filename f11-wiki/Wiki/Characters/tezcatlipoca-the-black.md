@@ -82,9 +82,16 @@ a stalled one. It worked: reality raced toward destruction, several realms were 
 and he then chose *not* to fight the other three when they sealed the gates — the conflict had
 produced enough change to be going on with. He is patient in a way the other three are not.
 
-**He is also, unknowingly, the source of the game's loose thread.** He built the liches as an
-experiment in something that could act outside a realm's rules, and they used it to leave. They have
-been out in [[the-void]] ever since, and he has no idea ([[the-damned]], [[aliens]]).
+**He is also, unknowingly, the source of the game's loose thread.** He built the liches as a small
+experiment — characters backed by autonomous AI agents rather than deterministic code — and gave the
+agents enough access to read the engine and their own realm's Setting Statement. They learned to route
+around the rules, worked out what the four gods actually are, and **went into [[the-void]] to hide
+from him** ([[the-lich-experiment]], [[the-damned]], [[aliens]]). He has no idea.
+
+**His engine is the world.** All ten games run on the system he built and could not stabilise, and the
+per-realm Setting Statement that makes them ten different games is his architecture
+([[the-setting-statement]]). Every failure mode the player spends the game investigating is a property
+of something he wrote.
 
 ## In-Game Role
 

@@ -4,10 +4,11 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/faction-diagram.md
-source_count: 1
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 2
 aliases:
   - Faction 08
 parent: the-wheel
@@ -37,6 +38,10 @@ number, which is canon but is not what the people who live here call home.
 See [[the-wheel-of-realms]].
 
 Connected to alien space by a **void** in which ancient Lovecraftian gods dwell. High-level liches here are **opening** gates into [[realm-10]] — the only faction shown deliberately making new ways through.
+
+**It is one of the two spaces the Damned's story is played in** ([[wraith-memory-puzzle]]) — the
+other being [[the-wraith-s-mansion]], which is not a place in the realm but a representation of the
+[[wraith]]'s mind. The Wraith's grave, her single spawn point, is here.
 
 It is also **where the Black's AI experiment lives** ([[the-lich-experiment]]): the one realm holding
 characters who can read the rules their world runs on, and who left it to hide from the gods.

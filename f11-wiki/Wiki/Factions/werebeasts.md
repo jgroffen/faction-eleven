@@ -63,14 +63,14 @@ alongside the green-skins and the Damned ([[the-guardians-of-night]]).
 Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
 website, recorded as the last written state and not as confirmed current design.
 
-| Class | Faction class | |
-|-------|---------------|---|
-| Commander | Wendigo | Half human, half monster. |
-| Front Liner | [[werewolf]] | Defenders of the pack. **← protagonist** |
-| Heavy Weapons | Werebear | Unstoppable powerhouse. |
-| Infiltrator | Werebird | Cunning reconnaissance. |
-| Medic | Mermaid | Grows legs when they leave the water. Their blood is a powerful healing agent. |
-| Specialist | Werecat | I can haz item? Kthxbye! |
+| Class         | Faction class |                                                                                |
+| ------------- | ------------- | ------------------------------------------------------------------------------ |
+| Commander     | Wendigo       | Half human, half monster.                                                      |
+| Front Liner   | [[werewolf]]  | Defenders of the pack. **← protagonist**                                       |
+| Heavy Weapons | Werebear      | Unstoppable powerhouse.                                                        |
+| Infiltrator   | Werebird      | Cunning reconnaissance.                                                        |
+| Medic         | Mermaid       | Grows legs when they leave the water. Their blood is a powerful healing agent. |
+| Specialist    | Werecat       | I can haz item? Kthxbye!                                                       |
 
 The faction's own one-line description on that site: *"Shapechanging eco-terrorists."*
 

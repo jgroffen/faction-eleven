@@ -1776,3 +1776,85 @@ that the Mystics invade the Werebeasts through their own catacombs?**
   `werebeasts`, `allied-faction-signals`, `realm-nearness-and-traversal`, `continuity-glitches`,
   `the-convergence-at-the-monastery`, `the-trial-of-the-last-gargoyle`,
   `the-calling-of-ancient-allies`, `chapter-02`, `chapter-03`, `story-continuity-timeline`.
+
+### Round 38 — 2026-09-15
+
+**Volunteered — the Wraith and the Damned's game style.** Not in answer to a question; the author
+brought it to the session and asked for the wiki to be updated with it.
+
+> The wraith is a puzzle game where she has to rediscover who they were when they were alive.
+> Gameplay is in the Damned realm or in a mansion that is a representation of the Wraiths' mind and
+> memories. The wraith was a Pirate - a First Mate. As she unlocks memories she becomes less
+> ghost-like and more like a real person.
+>
+> The wraith includes an ability to touch objects and know their history and deep, emotional
+> connections related to the object. This also allows the wraith to sometimes access under-the-hood
+> game information like code comments and commit messages, and is another way the 'reality' of the
+> four gods is revealed to the player. When the Wraith accesses information his head glows ... but
+> when that info is source code, comments, commit messages etc, he flickers and his eyes flash ascii
+> symbols - representing his power is glitching.
+
+## Notes For The Compiler — Round 38
+
+- **The Damned's game style is settled: a puzzle game.** The prototype's "puzzle / point-and-click"
+  label was the one unconfirmed row that survives as stated. New mechanic note
+  `wraith-memory-puzzle`; `faction-genre-mechanics` and `faction-design-status` move the Damned's
+  row to settled (five of ten).
+- **Two play spaces:** realm-08, and a mansion that represents the Wraith's mind and memories. New
+  location note `the-wraith-s-mansion`, with no `parent` — it is not a physical place in the realm,
+  and whether it can be entered from realm-08 or is a separate mode is not stated.
+- **The Wraith was a Pirate First Mate in life.** First Mate is the Pirates' Specialist class on the
+  legacy class table (`the-six-classes`), and the Wraith is the Damned's Specialist — the same role
+  in two factions. Recorded as a cross-reference, not as a claim about why. How a pirate of realm-06
+  came to be buried in realm-08 is not stated and goes in `## Open`.
+- **Progression fiction:** unlocking memories makes the Wraith less ghost-like and more like a real
+  person. Compiled as the progression curve of the memory puzzle.
+- **Object reading** is a second, separate mechanic (`wraith-object-reading`): touch an object,
+  know its history and its emotional connections. It sometimes returns dev-layer data — code
+  comments, commit messages — and is a further channel by which the reality of the four gods reaches
+  the player. Added to the channel lists in `the-ancient-language`, `the-four-developers` and
+  `the-revelation-schedule`.
+- **Two visual states:** head glows for an ordinary reading; for dev-layer data the Wraith flickers
+  and the eyes flash ASCII symbols — the power glitching. Compiled as a bug-manifestation of
+  self-correction (`the-setting-statement`): the Wraith's code reaching data it cannot represent.
+  That mapping is an inference and is marked as one.
+- **Pronouns are mixed in the source** — "she", "they" and "he/his" all appear for the Wraith.
+  Compiled with "they" throughout, and the pronoun recorded as open on `wraith`.
+- **Not stated, left open:** whether the Wraith understands what dev-layer text is (the
+  `the-revelation-schedule` rule that no character can become aware still stands — the channel is
+  the player's); whether the Wraith's ability relates to the liches' engine access; what the puzzles
+  actually are; what "less ghost-like" does mechanically.
+- Updated: `wraith`, `the-damned`, `pirates`, `realm-08`, `faction-genre-mechanics`,
+  `faction-design-status`, `the-ancient-language`, `the-four-developers`,
+  `the-revelation-schedule`, `continuity-glitches`, `the-six-classes`, `death-and-return`.
+
+### Round 39 — 2026-09-15
+
+**Q88 — Three follow-ups from compiling Round 38: which pronoun for the Wraith; whether being the
+Specialist of two factions is intended; and whether the Wraith ever understands what a glitched
+reading is.**
+
+> Normalise the pronound for the Wraith as 'She'. Being the specialist of two factions is
+> intentional, providing a clear gameplay style and party role for the character when a game calls
+> for party mechanics. The Wraith isn't self-aware when they glitch initially - awareness of the
+> information that get when glitching comes slowly and the Wraith and all other characters will try
+> to fit information from the glitches into game logic, often treating the information as messages
+> from the gods.
+
+## Notes For The Compiler — Round 39
+
+- **Pronoun settled: she.** All Wraith prose normalised; the open item on `wraith` removed.
+- **Specialist of two factions is intentional**, and the reason is mechanical: it gives the Wraith
+  a clear gameplay style and a **party role** for any game that calls for party mechanics. Compiled
+  on `wraith` and `the-six-classes`. No party mechanic exists in the wiki yet; recorded as the
+  reason, not as a mechanic.
+- **The glitch and awareness.** The Wraith is not self-aware when she glitches at first; awareness
+  that she is receiving *information* comes slowly; and she — like every other character — fits
+  what the glitches give her into game logic, often as **messages from the gods.** This is
+  consistent with `the-setting-statement` (everything explained in home-realm terms) and keeps the
+  `the-revelation-schedule` rule intact: a character can hold dev-layer text and still never know
+  what it is. Compiled on `wraith`, `wraith-object-reading`, `continuity-glitches`,
+  `the-revelation-schedule` and `the-setting-statement`; the "does she ever understand" open item
+  is answered and removed.
+- "All other characters" is read as a general rule about glitch information, not just the
+  Wraith's — added as such to `continuity-glitches`.

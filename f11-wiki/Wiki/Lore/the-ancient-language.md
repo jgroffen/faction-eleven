@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-19
+updated: 2026-09-15
 sources:
   - "Raw/Sources/factions-retro-readme.md"
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
@@ -50,9 +50,11 @@ the game ([[the-four-developers]]).
 
 It is the **one channel [[the-retcon-engine]] cannot rewrite.** A realm generates history to cover
 what is done to it, and that history is persuasive and internally consistent. The dots are not part
-of the realm's account of itself; they sit underneath it. So the game has exactly two kinds of
-evidence — contradictions between realms ([[continuity-glitches]]), which the player must infer from,
-and this, which they can actually *read*.
+of the realm's account of itself; they sit underneath it. So the game has two kinds of evidence —
+contradictions between realms ([[continuity-glitches]]), which the player must infer from, and
+dev-layer text, which they can actually *read*. The dots are the ciphered form of the second;
+[[wraith-object-reading]] is the raw one — the same commit messages and comments handed to the
+[[wraith]] by an object, with no decoding at all.
 
 This is how the metafiction lands without a cutscene.
 
@@ -61,6 +63,7 @@ This is how the metafiction lands without a cutscene.
 - [[faction-eleven-antagonist]] — whose it is.
 - [[the-four-developers]] — what it decodes to.
 - [[the-retcon-engine]] · [[continuity-glitches]] — the other evidence channel.
+- [[wraith-object-reading]] — the same text, undecoded, when the Wraith touches the wrong object.
 - [[the-clay-jar]] — carries the first symbol the player reads, in chapter one.
 
 ## Player-Facing

@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -88,7 +88,11 @@ of divine acts that only ever made sense as workplace disagreements.
 
 - [[faction-eleven-antagonist]] — the three-layer structure this paces.
 - [[the-four-gods]] · [[the-four-developers]] — the top and bottom of ladder one.
-- [[continuity-glitches]] · [[the-ancient-language]] — the channels the evidence arrives through.
+- [[continuity-glitches]] · [[the-ancient-language]] · [[wraith-object-reading]] — the channels the
+  evidence arrives through. The last is the only one that shows a protagonist *failing* to hold the
+  evidence: the [[wraith]] reads dev-layer text and glitches, and the rule above still stands —
+  the player reads it; the Wraith slowly comes to know she is receiving *something*, and files it
+  as messages from the gods.
 - [[the-retcon-engine]] — why the realms' own account is always coherent and always wrong.
 - [[the-setting-statement]] — why no character can reach the top of either ladder.
 - [[the-lich-experiment]] — the exception, which is why the liches speak in costume.

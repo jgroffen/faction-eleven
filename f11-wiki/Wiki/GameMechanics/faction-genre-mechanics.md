@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -49,7 +49,7 @@ as a different loadout or stat spread. **Incremental**, **tower defence**, **RPG
 
 ## Game Style By Faction
 
-Four are settled. The rest carry an inherited genre from the earlier prototype which is
+Five are settled. The rest carry an inherited genre from the earlier prototype which is
 **unconfirmed** — the genre list has moved since then, and a per-faction review of game style and
 mechanics is outstanding.
 
@@ -63,7 +63,7 @@ mechanics is outstanding.
 | [[fey-folk]] | Bullet-hell / 1941 | **unconfirmed**, explicitly not locked down |
 | [[pirates]] | 4X | **unconfirmed** |
 | [[werebeasts]] | RPG | **unconfirmed** |
-| [[the-damned]] | Puzzle / point-and-click | **unconfirmed** |
+| [[the-damned]] | [[wraith-memory-puzzle]] | settled |
 | [[aliens]] | Choplifter / Metroid-like | **unconfirmed** |
 
 Do not build against the unconfirmed rows. See [[faction-design-status]].

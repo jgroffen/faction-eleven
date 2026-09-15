@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
   - Raw/Sources/factions-retro-readme.md
@@ -99,6 +99,9 @@ of *which* class each protagonist was drawn from, not of any faction lacking a r
   and **with wings folded can appear to be flesh and bone**. The second is a disguise, and a strong
   candidate for a rung the ladder lacks.
 - **Wraith appears twice** — the Damned's Specialist and the protagonist's name. Same thing.
+- **The Wraith was a First Mate** — the Pirates' Specialist — before she died ([[wraith]]). One
+  character, the Specialist of two factions, alive and then dead — deliberately, so that she has a
+  clear gameplay style and a party role whenever a game calls for party mechanics.
 
 ## Ties
 

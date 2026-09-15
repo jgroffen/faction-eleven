@@ -4,10 +4,11 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
-source_count: 1
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 2
 aliases: []
 role: protagonist
 faction: the-damned
@@ -18,15 +19,42 @@ home: realm-08
 
 **Role:** protagonist · **Faction:** [[the-damned]] · **Home:** [[realm-08]]
 
-Protagonist of [[the-damned]], bound to a **single spawn point** — a grave they must return to.
+Protagonist of [[the-damned]], bound to a **single spawn point** — a grave she must return to. A
+ghost who does not know who she was, and whose story is finding out.
 
 ## Character
 
-Not yet established. Being tied to one fixed point is unusual among the ten and suits the puzzle / point-and-click gameplay: a protagonist who cannot roam freely.
+**In life the Wraith was a Pirate — a First Mate** ([[pirates]]). First Mate is the Pirates'
+Specialist, and the Wraith is the Damned's Specialist ([[the-six-classes]]): the same role, alive
+and dead. **That is deliberate.** Being the Specialist of two factions gives her a clear gameplay
+style, and a **party role** for any game that calls for party mechanics. She does not remember any of
+this at the start.
+
+**The arc is recovery.** The Wraith has to rediscover who she was when she was alive, and as
+memories unlock she becomes **less ghost-like and more like a real person.** Her body is the progress
+bar: the more of a self she has back, the more solid she is.
+
+Being tied to one fixed point is unusual among the ten and suits a puzzle protagonist who cannot
+roam freely.
 
 ## In-Game Role
 
 Player character. Specialist archetype.
+
+**Game style:** [[wraith-memory-puzzle]] — a puzzle game played in [[realm-08]] and in
+[[the-wraith-s-mansion]], a mansion that is a representation of her mind and memories.
+
+**Ability:** [[wraith-object-reading]] — touch an object and know its history and the deep,
+emotional connections tied to it. Sometimes the reading returns **under-the-hood game information** —
+code comments, commit messages — and her power visibly glitches: an ordinary reading makes her
+**head glow**; a dev-layer reading makes her **flicker, with ASCII symbols flashing in her eyes.**
+This makes the Wraith one of the channels through which the reality of the four gods reaches the
+player ([[the-four-developers]]).
+
+**She does not know what she is holding.** She is not self-aware when she glitches at first;
+awareness that the glitches carry *information* comes slowly, and — like every other character
+handed glitch information — she fits it into game logic, most often as **messages from the gods**
+([[the-setting-statement]]). The player reads a commit message; the Wraith receives an oracle.
 
 ## Quests
 
@@ -35,6 +63,21 @@ Player character. Specialist archetype.
 
 ## Ties
 
-Their faction's liches open gates into alien space and attack the [[aliens]]; whether the Wraith is complicit, opposed, or unaware is unrecorded.
+- [[the-damned]] — her faction; [[realm-08]] — her grave.
+- [[pirates]] · [[realm-06]] — her life.
+- [[wraith-memory-puzzle]] · [[wraith-object-reading]] · [[the-wraith-s-mansion]] — how she plays.
+- [[death-and-return]] — the grave as spawn point.
+- [[continuity-glitches]] — what the flicker is, and what characters make of it.
 
-**Unconfirmed** — carried over from the earlier prototype.
+Her faction's liches open gates into alien space and attack the [[aliens]]; whether the Wraith is
+complicit, opposed, or unaware is unrecorded.
+
+## Open
+
+- How a Pirate of realm-06 came to be buried in realm-08 — and how long ago.
+- Whether her code-layer readings have anything to do with the liches' access
+  ([[the-lich-experiment]]), who are the same faction and the only characters who *understand* it.
+- How fast her awareness that the glitches carry information grows, and what marks each step.
+- Whether she knows the [[captain]] — the Pirates' protagonist — or served under them.
+- What "party mechanics" means in a game that has none yet, and which realm's style would call
+  for them.

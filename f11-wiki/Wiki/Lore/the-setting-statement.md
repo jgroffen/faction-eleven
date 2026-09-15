@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -104,6 +104,12 @@ Statement can express. Both were built that way on purpose, and neither was buil
   engine's rules entirely ([[the-lich-experiment]]).
 
 **Neither exception is a way out.** One degrades and dies of what it knows; the other went and hid.
+
+**The [[wraith]] is not a third exception.** Her [[wraith-object-reading]] sometimes returns raw code
+comments and commit messages, but she is not code-aware: her Setting Statement explains the reading
+the way it explains everything else, and she — like every character handed glitch information —
+fits it into game logic, most often as **messages from the gods.** Code reaching a character is not
+the same as a character reading code.
 
 ## Ties
 

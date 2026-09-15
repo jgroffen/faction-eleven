@@ -4,11 +4,12 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/labs-faction-classes.md
-source_count: 2
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 3
 aliases: []
 homeland: realm-06
 allies: []
@@ -47,8 +48,14 @@ that is entirely self-interested.
 
 ## Standing
 
-No relationships to other factions recorded. Worth noting that a seafaring, raiding culture is a
-natural fit for **traversal between realms** — pirates who sail between worlds — but nothing in
+**One of their dead is another faction's protagonist.** The [[wraith]] — [[the-damned]]' protagonist
+— was a Pirate **First Mate** in life, and does not remember it; recovering that life is her whole
+story ([[wraith-memory-puzzle]]). First Mate is the Pirates' Specialist class below, and the Wraith is
+the Damned's Specialist. How a First Mate of [[realm-06]] came to be buried in [[realm-08]] is not
+stated.
+
+Otherwise no relationships to other factions recorded. Worth noting that a seafaring, raiding culture
+is a natural fit for **traversal between realms** — pirates who sail between worlds — but nothing in
 the material says that yet.
 
 **Lead developer:** [[huitzilopochtli-the-blue]] ([[the-four-developers]]). Realm-06 is the one
@@ -66,7 +73,7 @@ website, recorded as the last written state and not as confirmed current design.
 | Heavy Weapons | Cannoneer | They like things that go BOOM! |
 | Infiltrator | Quatermaster | Boarding party leaders. |
 | Medic | Jester | A saw in one hand, a sword in the other. |
-| Specialist | First Mate | Second in command to the Captain. |
+| Specialist | First Mate | Second in command to the Captain. **← the [[wraith]], in life** |
 
 The faction's own one-line description on that site: *"Rum loving scags of the sea."*
 

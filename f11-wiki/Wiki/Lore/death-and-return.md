@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
@@ -39,7 +39,7 @@ game convention rather than ignoring it. **Lore only for now**, not a systems co
 | [[squidling]] | Beamed up and restored (unconfirmed) |
 | [[templar]] | TBD |
 | [[gargoyle]] | TBD |
-| [[wraith]] | Bound to a single spawn point — a grave to return to |
+| [[wraith]] | Bound to a single spawn point — a grave to return to; the grave anchors a story about becoming less dead ([[wraith-memory-puzzle]]) |
 
 The strongest of these is [[ninja]]'s, because it is the only one where **death advances the
 fiction instead of undoing it**: the family's sentence is generational, so dying is how the story

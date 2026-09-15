@@ -4,11 +4,12 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/labs-faction-classes.md
-source_count: 2
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 3
 aliases: []
 homeland: realm-08
 allies: []
@@ -32,8 +33,12 @@ own.
 
 ## Identity
 
-Not yet established as a playable faction — neither their game description nor their story exists. Their protagonist is [[wraith]], a specialist tied to a **single spawn point / grave
-to return to**.
+**Game style: [[wraith-memory-puzzle]]** — a puzzle game in which their protagonist [[wraith]], a
+specialist tied to a **single spawn point / grave to return to**, rediscovers who she was when
+alive: a Pirate First Mate ([[pirates]]). It is played in [[realm-08]] and in
+[[the-wraith-s-mansion]], a representation of the Wraith's mind and memories, and the Wraith's
+[[wraith-object-reading]] — touch an object, know its history — sometimes returns the dev layer
+itself. The faction's own story beyond that is not yet written.
 
 **Currency:** _unrecorded. "Return to grave / single spawn point" sits in the currency row of the
 inherited material, but reads as a misplaced death mechanic._
@@ -97,5 +102,5 @@ The Damned are the only faction shown **deliberately opening gates**. They are a
 [[faction-eleven-antagonist]] by proxy: an Ancient manipulates [[the-guardians-of-night]], and
 [[val]] is a Guardian.
 
-**Partly unconfirmed** — carried over from the earlier prototype. Their protagonist [[wraith]],
-game style and story are untouched.
+**Partly unconfirmed** — carried over from the earlier prototype. Their game style and their
+protagonist's arc are settled; the faction's own story is untouched.

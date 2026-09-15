@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-15
 sources: []
 source_count: 0
 aliases:
@@ -382,6 +382,9 @@ studio: a dev scene turns the best mystery in the design into an ordinary twist 
 human characters the game has no other use for. The four stay **presences with hands** — a change
 appears, a boss exists that did not yesterday, a notification fires somewhere out of frame.
 
-Four channels carry it: decoded [[the-ancient-language]]; accumulated [[continuity-glitches]]; the
+Five channels carry it: decoded [[the-ancient-language]]; accumulated [[continuity-glitches]]; the
 **avatars and the leaked fragments of the outside**, which are the most direct and the earliest
-available; and the liches, who are the only entities that have been outside and can testify.
+available; the liches, who are the only entities that have been outside and can testify; and
+[[wraith-object-reading]], which sometimes hands the [[wraith]] a commit message or a code comment
+instead of an object's history — raw dev-layer text, with the Wraith flickering and flashing ASCII
+as her power fails to hold it.

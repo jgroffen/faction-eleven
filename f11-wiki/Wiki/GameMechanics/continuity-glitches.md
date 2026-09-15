@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-19
-updated: 2026-09-13
+updated: 2026-09-15
 sources: []
 source_count: 0
 aliases:
@@ -146,6 +146,16 @@ list includes a chapter-one protagonist:
   to it as an edit ([[a-heal-is-a-patch]]). [[autofix]], [[mifix]] and [[odie]] all have it.
 - **Preserved memory.** Dormancy keeps a mind out of the retcon's reach — [[gargoyle]]'s torpor and
   [[odie]]'s stand-by both do it.
+- **Object reading.** The [[wraith]]'s [[wraith-object-reading]] sometimes returns code comments and
+  commit messages instead of an object's history, and the Wraith flickers with ASCII in her eyes
+  while it does — a leakage glitch carried on the protagonist's own body. She is not self-aware when
+  it happens; awareness that the glitches carry information comes slowly, and she never learns what
+  the information is.
+
+**What a character does with glitch information is fit it into game logic.** The Wraith and every
+other character who receives it will explain it in their realm's own terms — most often as
+**messages from the gods.** That is [[the-setting-statement]] doing its job: a commit message read
+in-world is an oracle.
 - **The liches** are the only ones who both see *and* explain, and they present real knowledge of the
   realms' infrastructure as **ancient eldritch lore** ([[the-lich-experiment]], [[the-void]]). They
   are also the only characters a retcon cannot reach, so they are the one place the player can find

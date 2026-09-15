@@ -72,7 +72,7 @@ The faction's own one-line description on that site: *"Protectors of the Great M
 ## Members
 
 <!-- gd:members:start -->
-- [[wraith|Wraith]] · protagonist
+- [[wraith|Delahaye, the Wraith]] · protagonist
 <!-- gd:members:end -->
 
 ## Role In The Gargoyle's Story

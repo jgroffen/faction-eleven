@@ -18,7 +18,7 @@ enemies: []
 
 # The Pirates
 
-Little is established. Their protagonist is [[captain]], a commander archetype; on death they
+Little is established. Their protagonist is [[captain]] — **Leon** — a commander archetype; on death they
 **pay the ferryman**, losing booty.
 
 **Homeland:** [[realm-06]] — see [[the-wheel-of-realms]]
@@ -49,8 +49,10 @@ that is entirely self-interested.
 ## Standing
 
 **One of their dead is another faction's protagonist.** The [[wraith]] — [[the-damned]]' protagonist
-— was a Pirate **First Mate** in life, and does not remember it; recovering that life is her whole
-story ([[wraith-memory-puzzle]]). First Mate is the Pirates' Specialist class below, and the Wraith is
+— was a Pirate **First Mate** named **Delahaye** in life, and does not remember it; recovering that
+life is her whole story ([[wraith-memory-puzzle]]). **She comes back.** Once she travels to
+[[realm-06]] and word gets out that she has returned, the Pirates know her as **Back from the Dead
+Del**. When that happens, and what the Pirates make of it, is not established. First Mate is the Pirates' Specialist class below, and the Wraith is
 the Damned's Specialist. How a First Mate of [[realm-06]] came to be buried in [[realm-08]] is not
 stated.
 
@@ -80,7 +82,7 @@ The faction's own one-line description on that site: *"Rum loving scags of the s
 ## Members
 
 <!-- gd:members:start -->
-- [[captain|Captain]] · protagonist
+- [[captain|Leon, the Captain]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

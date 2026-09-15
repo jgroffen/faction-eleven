@@ -4,11 +4,12 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/labs-faction-classes.md
-source_count: 2
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 3
 aliases: []
 homeland: realm-10
 allies: []
@@ -72,10 +73,16 @@ website, recorded as the last written state and not as confirmed current design.
 
 The faction's own one-line description on that site: *"Unknowable intelligence, unfathomable motives."*
 
+## Squidlings
+
+**Squidlings reproduce asexually, through parthenogenesis.** The species has no gender and its
+language has no gendered pronouns: a Squidling is **"it"**, and Squidlings use **names** in
+preference to pronouns when talking to or about anyone. Their protagonist is [[squidling|Calamari]].
+
 ## Members
 
 <!-- gd:members:start -->
-- [[squidling|Squidling]] · protagonist
+- [[squidling|Calamari, the Squidling]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

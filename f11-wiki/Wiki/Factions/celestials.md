@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-13
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
@@ -62,10 +62,15 @@ website, recorded as the last written state and not as confirmed current design.
 
 The faction's own one-line description on that site: *"Righteous warriors on a militant pilgrim."*
 
+## Sister Ermengarda
+
+Their protagonist, the [[templar]], is **Ermengarda of Oluja**; Celestials address her and refer to
+her with the honorific **"Sister"**.
+
 ## Members
 
 <!-- gd:members:start -->
-- [[templar|Templar]] · protagonist
+- [[templar|Ermengarda of Oluja, the Templar]] · protagonist
 <!-- gd:members:end -->
 
 ## The Retreat

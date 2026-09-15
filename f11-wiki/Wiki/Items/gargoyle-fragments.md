@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -74,7 +74,9 @@ that become weightless.
 
 ## Open
 
-- Whether a fragment carries anything of the gargoyle it came from — memory, personality, a name.
-  Not established, and the answer decides whether this system is melancholy or horrifying.
+- How much a fragment carries of the gargoyle it came from. **At least a name**: [[gargoyle|Granite]]
+  learns his own from a fragment in the first room ([[the-waking-of-the-last-gargoyle]]). Whether a
+  fragment also carries memory or personality is not established, and the answer decides whether
+  this system is melancholy or horrifying.
 - **Whether his head can ever be made whole.** It is still damaged after the opening, and
   **Gargoyle Legacy** sits at the top of the ladder as the obvious candidate.

@@ -90,7 +90,7 @@ The faction's own one-line description on that site: *"Highly trained specialist
 ## Members
 
 <!-- gd:members:start -->
-- [[ninja|Ninja]] · protagonist
+- [[ninja|Sato Kazuma, the Ninja]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

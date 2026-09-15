@@ -4,21 +4,29 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
-source_count: 1
-aliases: []
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 2
+aliases:
+  - Gill
+  - The Werewolf
 role: protagonist
 faction: werebeasts
 home: realm-09
 ---
 
-# Werewolf
+# Gill, the Werewolf
 
 **Role:** protagonist · **Faction:** [[werebeasts]] · **Home:** [[realm-09]]
 
 Protagonist of the [[werebeasts]].
+
+## Name
+
+**Gill.** Male. The name is a reference to **Gilles Garnier**, a serial killer who was convicted of
+being a werewolf.
 
 ## Character
 

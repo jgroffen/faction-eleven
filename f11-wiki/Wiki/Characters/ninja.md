@@ -4,28 +4,43 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-13
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 2
-aliases: []
+aliases:
+  - Sato Kazuma
+  - Kazuma
+  - Kaz
+  - 佐藤和真
+  - The Ninja
 role: protagonist
 faction: institute-of-eight
 home: realm-01
 ---
 
-# Ninja
+# Sato Kazuma, the Ninja
 
 **Role:** protagonist · **Faction:** [[institute-of-eight]] · **Home:** [[realm-01]]
 
 Protagonist of the [[institute-of-eight]] and the **first playable character to be built** ([[chapter-based-release]]). Born into a family branded traitors, sentenced to endlessly fight the gate guardian.
 
+## Name
+
+**Sato Kazuma** — 佐藤 和真. Male. **[[mifix]] calls him Kaz.**
+
+The kanji carry the character: **佐** (*sa*) means to aid, protect or assist; **藤** (*to*) is
+wisteria, a flower associated in Japan with nobility, longevity and endurance; **和** (*kazu*) is
+harmony, peace or balance, and the root character of *Yamato*, ancient Japan; **真** (*ma*) is truth,
+reality, the genuine. Together: **"True Harmony"**, or **"Peaceful Truth"** — a name that promises
+the ending the family's sentence denies.
+
 ## Character
 
-The Ninja carries an inherited punishment rather than a chosen quest. Their family's secret ally is an ancestor spirit housed in a small toy car — really a **mini-fix bot** from the [[robots]] realm, which has been training the family for generations so that it can one day get home.
+The Ninja carries an inherited punishment rather than a chosen quest. His family's secret ally is an ancestor spirit housed in a small toy car — really a **mini-fix bot** from the [[robots]] realm, which has been training the family for generations so that it can one day get home.
 
-Their story opens with a **defeat**: the player is sent at the final boss unprepared and loses, because they do not yet have the skills the fight demands. The back story is revealed in the aftermath.
+His story opens with a **defeat**: the player is sent at the final boss unprepared and loses, because they do not yet have the skills the fight demands. The back story is revealed in the aftermath.
 
 **Why he keeps attacking that gate is not just the family's sentence.** He carries
 [[the-red-power|the same power]] [[xipe-totec-the-red]] gave [[val]] — one gift, scoped to gates
@@ -36,7 +51,7 @@ himself — [[odie]] identifies it in him**, once they meet at [[templar-monaste
 he can do as breaching gates — gates only, never the [[the-realm-barriers|realm barrier]] behind
 one.
 
-**Death mechanic:** a cut-scene in which their child grows up, is trained, and replaces them — so death advances the generations rather than reloading.
+**Death mechanic:** a cut-scene in which his child grows up, is trained, and replaces him — so death advances the generations rather than reloading.
 
 ## In-Game Role
 

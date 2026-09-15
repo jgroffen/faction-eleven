@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -72,6 +72,8 @@ It teaches the whole game without a single instruction:
 - **Stealth is motivated before it is used.** He hides because he is frightened and ignorant, not
   because a designer wanted a stealth section.
 - **The upgrade fiction is established on the first pickup** — power comes from the dead.
+- **He learns his name in this room.** One of the [[gargoyle-fragments|fragments]] here gives him
+  **Granite** — the first thing a fragment returns is not an ability but who he is.
 - **The mood is set by the room.** The first thing the player does is search the bodies of the only
   others like him.
 

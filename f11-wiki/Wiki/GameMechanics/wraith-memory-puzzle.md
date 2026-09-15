@@ -37,8 +37,9 @@ genre that survives as stated.
 The realm is the world; the mansion is the protagonist. How the player moves between the two is not
 stated.
 
-**The goal is a person, not a place.** The Wraith was a **Pirate — a First Mate** — and does not
-know it ([[pirates]]). She is the Specialist of two factions on purpose: it gives her a clear
+**The goal is a person, not a place.** The Wraith was a **Pirate — a First Mate** named
+**Delahaye** — and does not know it ([[pirates]]). **Her name is one of the memories**: she starts
+without it and learns it through play. She is the Specialist of two factions on purpose: it gives her a clear
 gameplay style, and a **party role** for any game that calls for party mechanics. Progress is measured in memories unlocked, and the memories are the answer to
 the question the whole story asks.
 

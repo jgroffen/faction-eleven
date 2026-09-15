@@ -77,7 +77,7 @@ The faction's own one-line description on that site: *"Shapechanging eco-terrori
 ## Members
 
 <!-- gd:members:start -->
-- [[werewolf|Werewolf]] · protagonist
+- [[werewolf|Gill, the Werewolf]] · protagonist
 <!-- gd:members:end -->
 
 ## Open

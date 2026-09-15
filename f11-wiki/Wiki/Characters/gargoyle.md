@@ -4,22 +4,31 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-13
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 2
-aliases: []
+aliases:
+  - Granite
+  - The Gargoyle
 role: protagonist
 faction: green-skins
 home: realm-07
 ---
 
-# Gargoyle
+# Granite, the Gargoyle
 
 **Role:** protagonist · **Faction:** [[green-skins]] · **Home:** [[realm-07]]
 
 Protagonist of the [[green-skins]] — an infiltrator playing for the faction that every other faction in the material experiences as an invader.
+
+## Name
+
+**Granite.** Male. He does not wake knowing it: **he learns his name from a
+[[gargoyle-fragments|fragment]] in the first room** ([[the-waking-of-the-last-gargoyle]]), among the
+smashed heads of his own kind. "The Gargoyle" is what the wiki calls him where the role matters;
+*Granite* is who he is, and the name to use where gargoyles in general are also in play.
 
 ## Character
 

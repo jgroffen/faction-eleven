@@ -1858,3 +1858,63 @@ reading is.**
   is answered and removed.
 - "All other characters" is read as a general rule about glitch information, not just the
   Wraith's — added as such to `continuity-glitches`.
+
+### Round 40 — 2026-09-15
+
+**Volunteered — names for the protagonists.** Not in answer to a question.
+
+> We should ensure every protagonist has an actual name - so we can talk about THE Gargoyle clearly
+> without confusion when talking about Gargoyles generally. Here are some names:
+>
+> - The Gargoyle - Granite - Male - he learns his name from a fragment in the first room.
+> - The Ninja - Sato Kazuma - Male - Mifix calls him Kaz. Kanji is 佐藤 (Sato) 和真 (Kazuma)
+>   Historically, the "Sa" (佐) character means to aid, protect, or assist. The "to" (藤) refers to
+>   wisteria, a deeply symbolic flower associated with nobility, longevity, and endurance in Japan.
+>   Kazu (和): Means "harmony," "peace," or "balance". Historically, it is also the root character
+>   for Yamato (ancient Japan).Ma (真): Means "truth," "reality," or "genuine". Combined Meaning:
+>   "True Harmony" or "Peaceful Truth".
+> - The Templar - Ermengarda of Oluja - Female - Celestials use the honorific 'Sister' when
+>   interacting with her.
+> - The Wraith - Delahaye - Female - initially doesn't remember her name when she was alive but
+>   learns it through the Wraith gameplay. She comes to be known as Back from the Dead Del once she
+>   travels to the Pirate realm and word gets out that she has returned. She is based on the
+>   stories of Jacquotte Delahaye - a pirate of the Carribean Sea.
+> - The Conjurer - Voisin - Female
+> - Autofix Bot - AF-C-382-D - No gender but is fine with male pronouns. Delahaye names the Autofix
+>   Bot 'Alto' when they meet.
+> - The Squidling - Calamari - Squidling aliens reproduce asexually through parthenogenesis - they
+>   use It in their language and don't have any gendered pronouns - they use names when talking to
+>   or referring to others.
+> - Werewolf - Gill - Male - his name is a reference to Gilles Garnier - a serial killer who was
+>   convicted of being a werewolf.
+> - Phoenix - (TBD) - (TBD)
+> - Captain - Leon - Male - named after Leon Treich, a French fiction writer from the 1940's that,
+>   along with oral storytelling, contributed to the stories of Jacquotte Delahaye.
+
+## Notes For The Compiler — Round 40
+
+- **Slugs kept, titles and aliases changed.** Every character note keeps its slug (`gargoyle`,
+  `ninja`, …) so the hundreds of existing wikilinks stand; the H1 becomes "Granite, the Gargoyle"
+  and so on, so indexes and rollups show the name, and the name(s) go in `aliases`. A slug rename
+  is a separate, mechanical job if wanted.
+- **Every protagonist note gains a `## Name` section** with the name, gender/pronouns, how the
+  name is used in play, and the real-world reference where one was given. References are recorded
+  as the author gave them, with nothing added from recall.
+- **Granite learns his name from a fragment in the first room** — a new beat in
+  `the-waking-of-the-last-gargoyle`, and it narrows an open item on `gargoyle-fragments`: a fragment
+  can carry a name.
+- **Kaz** — `mifix` calls him that; recorded on both notes. Kanji and meanings on `ninja`.
+- **Sister** — the Celestials' honorific for Ermengarda; on `templar` and `celestials`.
+- **Delahaye's name is a memory to unlock** in `wraith-memory-puzzle`. **Back from the Dead Del**
+  implies two new story facts: the Wraith travels to realm-06, and the Pirates learn she has
+  returned. Recorded on `wraith` and `pirates`; when this happens is open.
+- **Alto** — Delahaye names the Autofix Bot when they meet. That is a new story fact too: the
+  Wraith and Autofix meet. On `autofix` and `wraith`; when and where is open.
+- **Calamari, and Squidling pronouns** — "it", and names in preference to pronouns; the
+  parthenogenesis is a fact about the species and goes on `aliens` as well as `squidling`.
+- **Gill** and **Leon** — names and references on `werewolf` and `captain`. Leon's and
+  Delahaye's names come from the same body of stories; whether that means anything in-fiction is
+  open on both.
+- **Phoenix** stays unnamed; the note says so.
+- Pronouns: the Templar and the Conjurer are now "she"; normalised inside their own character
+  notes. Other notes that refer to them as "they" are not swept in this round.

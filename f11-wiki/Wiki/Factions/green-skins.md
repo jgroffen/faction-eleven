@@ -106,7 +106,7 @@ The faction's own one-line description on that site: *"The old tribes of the ear
 ## Members
 
 <!-- gd:members:start -->
-- [[gargoyle|Gargoyle]] · protagonist
+- [[gargoyle|Granite, the Gargoyle]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

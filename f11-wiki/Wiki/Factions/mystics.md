@@ -92,7 +92,7 @@ The faction's own one-line description on that site: *"Magical order with a hidd
 ## Members
 
 <!-- gd:members:start -->
-- [[conjurer|Conjurer]] · protagonist
+- [[conjurer|Voisin, the Conjurer]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

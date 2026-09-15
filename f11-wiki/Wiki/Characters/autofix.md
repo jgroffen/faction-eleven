@@ -4,21 +4,33 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
-source_count: 1
-aliases: []
+  - Raw/Sources/interviews/faction-eleven-lore-and-design.md
+source_count: 2
+aliases:
+  - Alto
+  - AF-C-382-D
+  - Autofix
+  - The Autofix Bot
 role: protagonist
 faction: robots
 home: realm-02
 ---
 
-# Autofix
+# Alto, the Autofix Bot
 
 **Role:** protagonist · **Faction:** [[robots]] · **Home:** [[realm-02]]
 
 Protagonist of the [[robots]]: a late-model Autofix, **the only known functioning example**, who wakes alone in a ruined factory long after the Creators vanished — with a full complement of raw materials and the plans for mini-fix bots.
+
+## Name
+
+**AF-C-382-D** by designation; **Alto** by name — [[wraith|Delahaye]] names him that when they
+meet. He has no gender and is fine with male pronouns.
+
+When and where the Wraith and the Autofix Bot meet is not established.
 
 ## Character
 

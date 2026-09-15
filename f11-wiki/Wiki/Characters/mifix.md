@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-11
-updated: 2026-09-13
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
   - Raw/Sources/factions-retro-readme.md
@@ -22,7 +22,7 @@ home: realm-01
 
 A **mini-fix bot** from [[realm-02]] — **built by [[autofix]]** — housed in a small toy car in the
 [[institute-of-eight]]'s family shrine and venerated by them as an **ancestor spirit**. Mifix is the
-[[ninja]]'s **companion and mentor**, and has been **online and maturing for generations of the
+[[ninja]]'s **companion and mentor** — the Ninja is Sato Kazuma, and **Mifix calls him Kaz**, and has been **online and maturing for generations of the
 Ninja's family**.
 
 **Role:** companion · **Faction:** [[robots]] · **Home:** [[realm-01]]

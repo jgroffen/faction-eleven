@@ -87,7 +87,7 @@ The faction's own one-line description on that site: *"Self replicating artifici
 ## Members
 
 <!-- gd:members:start -->
-- [[autofix|Autofix]] · protagonist
+- [[autofix|Alto, the Autofix Bot]] · protagonist
 - [[mifix|Mifix]] · companion
 - [[odie|Odie]] · npc
 <!-- gd:members:end -->

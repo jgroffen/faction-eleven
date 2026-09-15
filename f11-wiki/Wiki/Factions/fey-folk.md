@@ -17,7 +17,7 @@ enemies: []
 
 # The Fey Folk
 
-Little is established. Their protagonist is [[phoenix]], a heavy-weapons archetype whose death
+Little is established. Their protagonist is [[phoenix-ember]], a heavy-weapons archetype whose death
 mechanic is to be **reborn from ashes**.
 
 **Homeland:** [[realm-05]] — see [[the-wheel-of-realms]]
@@ -41,7 +41,7 @@ website, recorded as the last written state and not as confirmed current design.
 |-------|---------------|---|
 | Commander | Fairy | Hereditary rulers of the Fey. |
 | Front Liner | Elf | Nature spirits in human form. |
-| Heavy Weapons | [[phoenix]] | Living fury. **← protagonist** |
+| Heavy Weapons | [[phoenix-ember]] | Living fury. **← protagonist** |
 | Infiltrator | Pixie | Mischievous winged little people |
 | Medic | Unicorn | Elusive aspects of living nature. |
 | Specialist | Banshee | A fairy with a close connection to the underworld. |
@@ -51,7 +51,7 @@ The faction's own one-line description on that site: *"Creatures of folk lore an
 ## Members
 
 <!-- gd:members:start -->
-- [[phoenix|Phoenix]] · protagonist
+- [[phoenix-ember|Ember, the Phoenix]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

@@ -52,8 +52,8 @@ blended; they are both available in the shell, and a faction's game style picks 
 A faction may use both: the [[celestials]] fight top-down but **explore in platforming sections
 between battles**. So the split is per *activity*, not strictly per faction.
 
-**One platformer, three factions.** The [[gargoyle]] uses **the same
-platforming engine as the [[ninja]]**, with a different move set and no rhythm layer — which makes
+**One platformer, three factions.** The [[gargoyle-granite]] uses **the same
+platforming engine as the [[ninja-kazuma]]**, with a different move set and no rhythm layer — which makes
 a character, mechanically, **a list of abilities** over a shared controller. With the [[robots]]
 platforming too, that is three of the ten factions running one build. It is the largest scope lever
 in the project, and the Gargoyle is its first test.

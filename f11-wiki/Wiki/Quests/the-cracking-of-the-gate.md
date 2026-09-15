@@ -22,7 +22,7 @@ prerequisites: []
 
 # The Cracking Of The Gate
 
-[[ninja]]'s entire chapter-one arc, and the event that makes the rest of chapter one possible: a
+[[ninja-kazuma]]'s entire chapter-one arc, and the event that makes the rest of chapter one possible: a
 single cycle of **boss fight, defeat, training** against the gate guardian. The Ninja **loses** —
 but the battle **cracks the gate** ([[the-cracked-gate]]).
 
@@ -44,7 +44,7 @@ It makes chapter one causally tight. The Ninja's failure is the **precondition**
 [[the-first-signal]] — so the chapter's two reduced factions and its lead faction are not
 three parallel demos but one chain of events:
 
-> Ninja fights and loses → the gate cracks → [[autofix]]'s Quantum Comms reach through →
+> Ninja fights and loses → the gate cracks → [[autofix-alto]]'s Quantum Comms reach through →
 > [[mifix]] hears them.
 
 Losing is load-bearing. That is worth protecting through every later revision.

@@ -18,8 +18,8 @@ enemies: []
 
 # The Pirates
 
-Little is established. Their protagonist is [[captain]] — **Leon** — a commander archetype; on death they
-**pay the ferryman**, losing booty.
+Little is established. Their protagonist is [[captain-leon]] — **Leon** — a commander archetype; on death he
+**pays the ferryman**, losing booty.
 
 **Homeland:** [[realm-06]] — see [[the-wheel-of-realms]]
 
@@ -48,7 +48,7 @@ that is entirely self-interested.
 
 ## Standing
 
-**One of their dead is another faction's protagonist.** The [[wraith]] — [[the-damned]]' protagonist
+**One of their dead is another faction's protagonist.** The [[wraith-delahaye]] — [[the-damned]]' protagonist
 — was a Pirate **First Mate** named **Delahaye** in life, and does not remember it; recovering that
 life is her whole story ([[wraith-memory-puzzle]]). **She comes back.** Once she travels to
 [[realm-06]] and word gets out that she has returned, the Pirates know her as **Back from the Dead
@@ -70,19 +70,19 @@ website, recorded as the last written state and not as confirmed current design.
 
 | Class | Faction class | |
 |-------|---------------|---|
-| Commander | [[captain]] | Master of a crew. Arg. **← protagonist** |
+| Commander | [[captain-leon]] | Master of a crew. Arg. **← protagonist** |
 | Front Liner | Swashbuckler | Staple of the fleets. |
 | Heavy Weapons | Cannoneer | They like things that go BOOM! |
 | Infiltrator | Quatermaster | Boarding party leaders. |
 | Medic | Jester | A saw in one hand, a sword in the other. |
-| Specialist | First Mate | Second in command to the Captain. **← the [[wraith]], in life** |
+| Specialist | First Mate | Second in command to the Captain. **← the [[wraith-delahaye]], in life** |
 
 The faction's own one-line description on that site: *"Rum loving scags of the sea."*
 
 ## Members
 
 <!-- gd:members:start -->
-- [[captain|Leon, the Captain]] · protagonist
+- [[captain-leon|Leon, the Captain]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

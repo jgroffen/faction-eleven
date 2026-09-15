@@ -16,7 +16,7 @@ controlling_faction: ""
 
 # The Wraith's Mansion
 
-A mansion that is a **representation of the [[wraith]]'s mind and memories** — one of the two spaces
+A mansion that is a **representation of the [[wraith-delahaye]]'s mind and memories** — one of the two spaces
 [[the-damned]]' story is played in, the other being [[realm-08]] itself.
 
 **Part of:** — · **Controlled by:** —
@@ -32,7 +32,7 @@ representation, and how the player enters it is not stated.
 
 ## Who's Here
 
-The [[wraith]]. Whether anyone else is — remembered people from her life as a Pirate First
+The [[wraith-delahaye]]. Whether anyone else is — remembered people from her life as a Pirate First
 Mate ([[pirates]]), say — is not yet defined.
 
 ## Set Here

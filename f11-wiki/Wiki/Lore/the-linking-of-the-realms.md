@@ -116,7 +116,7 @@ become unbearable — each of them is watching the thing they warned about get w
 
 ## Player-Facing
 
-**As history, not as a scene.** This is the war [[gargoyle]] fought and remembers, and the one every
+**As history, not as a scene.** This is the war [[gargoyle-granite]] fought and remembers, and the one every
 other faction has reduced to legend. The player meets it first as a green-skin horde breaking on
 somebody's wall, and only later learns the green-skins were the invaded — and later still that a god
 opened the doors.

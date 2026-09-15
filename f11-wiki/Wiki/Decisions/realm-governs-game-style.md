@@ -32,7 +32,7 @@ mechanics of the realm they are standing in apply.
 [[faction-genre-mechanics]] gives each of the ten factions its own genre on top of the shared
 [[exploration-core-loop]]. That was written while each protagonist was still at home. From
 [[chapter-02]] the protagonists start **travelling**, and the question the design had never answered
-became urgent: when the [[ninja]] walks into [[realm-07]], does he bring
+became urgent: when the [[ninja-kazuma]] walks into [[realm-07]], does he bring
 [[ninja-rhythm-platforming]] with him, or does he play the Green Skins' game?
 
 The trigger was the Gargoyle's style being settled as a Metroid. The author's answer also disposed
@@ -52,9 +52,9 @@ suit the realm.
 
 **The realm's mechanics apply when gameplay is in that realm.** Concretely:
 
-- The [[ninja]] **swaps to the Metroid style in [[realm-07]]** — ability-gated progression, and no
+- The [[ninja-kazuma]] **swaps to the Metroid style in [[realm-07]]** — ability-gated progression, and no
   rhythm layer, which stays home in [[realm-01]].
-- In [[chapter-03]], [[ninja]] and [[gargoyle]] move on to the Celestials' realm and **both swap to
+- In [[chapter-03]], [[ninja-kazuma]] and [[gargoyle-granite]] move on to the Celestials' realm and **both swap to
   [[celestials-hero-tower-defence]]** — top-down tower defence with hero units.
 
 Each protagonist keeps their **own way of acquiring** power inside the host genre, which is how
@@ -85,6 +85,6 @@ character survives the swap: in realm-07 the Gargoyle finds **lore fragments** w
 
 ## Notes
 
-Party/squad mechanics were considered for the [[gargoyle]] and **rejected as unsuited to the
+Party/squad mechanics were considered for the [[gargoyle-granite]] and **rejected as unsuited to the
 realm**, not as a bad idea: the author has reserved them for a different faction. Do not re-propose
 them for the Green Skins.

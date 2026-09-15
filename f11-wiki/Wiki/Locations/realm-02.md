@@ -38,7 +38,7 @@ See [[the-wheel-of-realms]].
 
 **Sealed on every side.** All of its gates are fully sealed and the robots cannot open them on
 their own — the discovery that drives their story. The seal stops signals as well as travellers, so
-even [[autofix]]'s Quantum Comms cannot leave the realm until someone outside makes an opening.
+even [[autofix-alto]]'s Quantum Comms cannot leave the realm until someone outside makes an opening.
 
 The one opening is [[the-cracked-gate]], made from [[realm-01]] by a stranger losing a fight.
 

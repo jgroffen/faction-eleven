@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-13
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
@@ -27,9 +27,9 @@ is friendly; below it are dungeons and an underworld.
 ## Identity
 
 Scholarly and dispersed rather than organised — individual practitioners in their own homes rather
-than an army. Their protagonist is [[conjurer]], whose cottage is the hub: gear comes back from
+than an army. Their protagonist is [[conjurer-voisin]], whose cottage is the hub: gear comes back from
 dungeons to be refined and enhanced, and **homunculi** retrieve the Conjurer's gear and body and
-revive them.
+revive her.
 
 **Currency:** Scrolls · **Role archetype:** Specialist
 
@@ -56,11 +56,11 @@ gargoyles were built to stop ([[the-gargoyle-guardians]]). The faction now being
 invader first.
 
 **One of them carries [[the-red-power]].** A Mystic, not yet named, holds the same gift
-[[xipe-totec-the-red]] gave [[ninja]] and [[val]] — manifesting for them as *dispelling* a sealed
+[[xipe-totec-the-red]] gave [[ninja-kazuma]] and [[val]] — manifesting for them as *dispelling* a sealed
 gate rather than breaking or unlocking one. Which gate, and who they are, is unwritten.
 
-**Their protagonist answers the Templar's call.** [[conjurer]] is the first ally to reach
-[[templar]] ([[the-answering-of-the-wand]]), and sits on the council at [[templar-monastery]] that
+**Their protagonist answers the Templar's call.** [[conjurer-voisin]] is the first ally to reach
+[[templar-ermengarda]] ([[the-answering-of-the-wand]]), and sits on the council at [[templar-monastery]] that
 decides to seek out a [[werebeasts|Werebeast]] gargoyle — one aim of which is to have the Werebeast
 gargoyles **seal the gate to the Mystics** ([[the-convergence-at-the-monastery]]).
 
@@ -71,7 +71,7 @@ gargoyles **seal the gate to the Mystics** ([[the-convergence-at-the-monastery]]
   through other realms and the Mystics are the aggressor there, which does not sit with this note's
   account of the Mystics as the invaded party — held, unreconciled, in
   [[the-mystics-second-secret-society]].
-- Whether [[conjurer]] is the Red Power carrier.
+- Whether [[conjurer-voisin]] is the Red Power carrier.
 
 ## Faction Classes
 
@@ -85,14 +85,14 @@ website, recorded as the last written state and not as confirmed current design.
 | Heavy Weapons | Battle Mage | Combat specialist spell slingers. |
 | Infiltrator | Illusionist | Weavers of new realities. |
 | Medic | Witch Doctor | Mystic guardians of tribal lore. |
-| Specialist | [[conjurer]] | Physics Twisters **← protagonist** |
+| Specialist | [[conjurer-voisin]] | Physics Twisters **← protagonist** |
 
 The faction's own one-line description on that site: *"Magical order with a hidden purpose."*
 
 ## Members
 
 <!-- gd:members:start -->
-- [[conjurer|Voisin, the Conjurer]] · protagonist
+- [[conjurer-voisin|Voisin, the Conjurer]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

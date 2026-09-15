@@ -16,7 +16,7 @@ canon: proposed
 era: "the shape of the engine, not an event in it"
 characters:
   - tezcatlipoca-the-black
-  - autofix
+  - autofix-alto
   - mifix
   - odie
 factions: []
@@ -105,7 +105,7 @@ Statement can express. Both were built that way on purpose, and neither was buil
 
 **Neither exception is a way out.** One degrades and dies of what it knows; the other went and hid.
 
-**The [[wraith]] is not a third exception.** Her [[wraith-object-reading]] sometimes returns raw code
+**The [[wraith-delahaye]] is not a third exception.** Her [[wraith-object-reading]] sometimes returns raw code
 comments and commit messages, but she is not code-aware: her Setting Statement explains the reading
 the way it explains everything else, and she — like every character handed glitch information —
 fits it into game logic, most often as **messages from the gods.** Code reaching a character is not
@@ -133,7 +133,7 @@ The rule to protect: **a protagonist never gets closer to the truth than their s
 Characters can be puzzled, can be wrong, and can notice — but the moment one of them reasons their way
 to *this is a game*, the game has no mystery left. That is why the characters who genuinely know
 ([[the-lich-experiment]]) present it as eldritch lore, and why the ones who can see it
-([[autofix]], [[mifix]], [[odie]]) cannot interpret what they see.
+([[autofix-alto]], [[mifix]], [[odie]]) cannot interpret what they see.
 
 ## Open
 

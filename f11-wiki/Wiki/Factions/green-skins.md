@@ -29,7 +29,7 @@ their own.
 
 ## Identity
 
-Their protagonist [[gargoyle]] is **very ancient** and **wants to stop the war the green-skins are fighting with the [[celestials]]** — so the faction has an
+Their protagonist [[gargoyle-granite]] is **very ancient** and **wants to stop the war the green-skins are fighting with the [[celestials]]** — so the faction has an
 internal opposition at its centre, and the player's window into it is a dissenter.
 
 That resolves the oddity of an *infiltrator* protagonist fronting a horde: the Gargoyle is not the
@@ -83,7 +83,7 @@ every direction, which the player eventually plays — and it is now partly take
 Celestials has an opponent inside the faction.
 
 [[realm-01]] holds an **abandoned, already-cracked gate** into green-skin territory
-([[the-ancient-ruin]]), which is how [[ninja]] reaches [[gargoyle]] in chapter two
+([[the-ancient-ruin]]), which is how [[ninja-kazuma]] reaches [[gargoyle-granite]] in chapter two
 ([[the-second-signal]]) — one of Institute's three *enemy* gates, per the fixed network
 ([[realm-nearness-and-traversal]]), just never guarded because nobody there is currently fighting.
 
@@ -97,7 +97,7 @@ website, recorded as the last written state and not as confirmed current design.
 | Commander | Orc | Masters of the tribes. |
 | Front Liner | Giant | Regal mountains. |
 | Heavy Weapons | Minotaur | Part man, part bull, all beef. |
-| Infiltrator | [[gargoyle]] | Bat-winged and Stone Skinned. **← protagonist** |
+| Infiltrator | [[gargoyle-granite]] | Bat-winged and Stone Skinned. **← protagonist** |
 | Medic | Shaman | If they can't fix you, they've got your afterlife covered. |
 | Specialist | Troll | Do not feed the trolls. |
 
@@ -106,7 +106,7 @@ The faction's own one-line description on that site: *"The old tribes of the ear
 ## Members
 
 <!-- gd:members:start -->
-- [[gargoyle|Granite, the Gargoyle]] · protagonist
+- [[gargoyle-granite|Granite, the Gargoyle]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

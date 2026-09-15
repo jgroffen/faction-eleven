@@ -87,9 +87,9 @@ tier is *how hard it pushes*, and the manifestation is *what actually went wrong
 
 **Freezes and crashes are the hardest things in the design to place**, because they are exactly what a
 genuinely broken game does. They carry the least deniability of anything here and should be used where
-the fiction claims them first — a frozen fixbot is a character, not an error ([[autofix]]).
+the fiction claims them first — a frozen fixbot is a character, not an error ([[autofix-alto]]).
 
-**The first glitch shown on purpose is [[mifix]]'s**, when he tries to diagnose [[gargoyle]] and
+**The first glitch shown on purpose is [[mifix]]'s**, when he tries to diagnose [[gargoyle-granite]] and
 cannot ([[the-diagnosis-of-the-last-gargoyle]]). Which manifestation it takes is not decided; it is
 the one concrete instance the design has to build from.
 
@@ -143,10 +143,10 @@ mystery.
 list includes a chapter-one protagonist:
 
 - **Code sight.** A fixbot's heal repairs the *code* of whatever it is fixing, so a retcon is visible
-  to it as an edit ([[a-heal-is-a-patch]]). [[autofix]], [[mifix]] and [[odie]] all have it.
-- **Preserved memory.** Dormancy keeps a mind out of the retcon's reach — [[gargoyle]]'s torpor and
+  to it as an edit ([[a-heal-is-a-patch]]). [[autofix-alto]], [[mifix]] and [[odie]] all have it.
+- **Preserved memory.** Dormancy keeps a mind out of the retcon's reach — [[gargoyle-granite]]'s torpor and
   [[odie]]'s stand-by both do it.
-- **Object reading.** The [[wraith]]'s [[wraith-object-reading]] sometimes returns code comments and
+- **Object reading.** The [[wraith-delahaye]]'s [[wraith-object-reading]] sometimes returns code comments and
   commit messages instead of an object's history, and the Wraith flickers with ASCII in her eyes
   while it does — a leakage glitch carried on the protagonist's own body. She is not self-aware when
   it happens; awareness that the glitches carry information comes slowly, and she never learns what
@@ -165,7 +165,7 @@ in-world is an oracle.
 — the ladder is set out in [[a-heal-is-a-patch]]. That is what keeps the witnesses from short-circuiting
 the mystery: every one of them is missing a different piece.
 
-**[[gargoyle]] is the loudest case.** He wakes with an unedited memory of the world before his torpor
+**[[gargoyle-granite]] is the loudest case.** He wakes with an unedited memory of the world before his torpor
 and a realm whose history has moved underneath him. He is a continuity checker by construction, and
 unlike the fixbots his evidence is a *narrative* contradiction rather than a diff — which is why he
 carries the mechanic for the player even though he is not the first to notice.
@@ -200,7 +200,7 @@ No values yet. The knobs to expect:
   tiers ramp differently: subtle density can climb freely, strong instances are spent carefully.
 - **Confirmability** — whether the player can ever *check* a suspicion, or only accumulate them.
 - **Acknowledgement** — which characters notice out loud, and how often. This is now a real budget
-  rather than a question: [[autofix]], [[mifix]], [[odie]], [[gargoyle]] and the liches can all
+  rather than a question: [[autofix-alto]], [[mifix]], [[odie]], [[gargoyle-granite]] and the liches can all
   notice, and **acknowledgement buys deniability.** A glitch a character remarks on cannot be read as
   a bug in the real game, so **strong-tier glitches are safest in their company** and must be spent
   more carefully everywhere else ([[a-heal-is-a-patch]]).

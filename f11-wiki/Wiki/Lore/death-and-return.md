@@ -30,18 +30,18 @@ game convention rather than ignoring it. **Lore only for now**, not a systems co
 
 | Protagonist | How they come back |
 |-------------|--------------------|
-| [[autofix]] | A restore-bot, left outside of locations |
-| [[ninja]] | A cut-scene: their child grows up, is trained, and replaces them |
-| [[conjurer]] | Homunculi from the cottage retrieve their gear and body, and revive them |
-| [[phoenix]] | Reborn from ashes |
-| [[captain]] | Pay the ferryman, losing booty |
-| [[werewolf]] | Reverts to a puppy or baby for a while |
-| [[squidling]] | Beamed up and restored (unconfirmed) |
-| [[templar]] | TBD |
-| [[gargoyle]] | TBD |
-| [[wraith]] | Bound to a single spawn point — a grave to return to; the grave anchors a story about becoming less dead ([[wraith-memory-puzzle]]) |
+| [[autofix-alto]] | A restore-bot, left outside of locations |
+| [[ninja-kazuma]] | A cut-scene: his child grows up, is trained, and replaces him |
+| [[conjurer-voisin]] | Homunculi from the cottage retrieve her gear and body, and revive her |
+| [[phoenix-ember]] | Reborn from ashes |
+| [[captain-leon]] | Pay the ferryman, losing booty |
+| [[werewolf-gill]] | Reverts to a puppy or baby for a while |
+| [[squidling-calamari]] | Beamed up and restored (unconfirmed) |
+| [[templar-ermengarda]] | TBD |
+| [[gargoyle-granite]] | TBD |
+| [[wraith-delahaye]] | Bound to a single spawn point — a grave to return to; the grave anchors a story about becoming less dead ([[wraith-memory-puzzle]]) |
 
-The strongest of these is [[ninja]]'s, because it is the only one where **death advances the
+The strongest of these is [[ninja-kazuma]]'s, because it is the only one where **death advances the
 fiction instead of undoing it**: the family's sentence is generational, so dying is how the story
 moves. It's also the only one that costs the player something irreversible — the character they
 were.
@@ -61,7 +61,7 @@ different from the level, and means chapter one's single boss-fight/defeat/train
 actual generational loss.
 
 **The in-universe explanation is [[mifix]].** It can
-**"repair" the Ninja whenever it is near them**, but it **cannot get near the gate guardian**. So the Ninja recovers
+**"repair" the Ninja whenever it is near him**, but it **cannot get near the gate guardian**. So the Ninja recovers
 from every failure in the world except the one fight the bot cannot attend.
 
 This is the strongest reconciliation available, because it makes the shrine bot **load-bearing for

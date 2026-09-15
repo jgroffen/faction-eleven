@@ -12,7 +12,7 @@ aliases:
   - The Gargoyle's Opening
 quest_status: design
 quest_type: main
-giver: gargoyle
+giver: gargoyle-granite
 location: realm-07
 mechanics:
   - gargoyle-stone-metroidvania
@@ -24,11 +24,11 @@ chapter: chapter-02
 
 # The Waking Of The Last Gargoyle
 
-The [[gargoyle]]'s opening. A bolt of power ends a torpor that should have lasted until the realm
+The [[gargoyle-granite]]'s opening. A bolt of power ends a torpor that should have lasted until the realm
 needed him — and he comes to in a room full of his own kind with their heads broken open, unable to
 move properly, not knowing why he is awake.
 
-**Status:** design · **Type:** main · **Chapter:** [[chapter-02]] · **Giver:** [[gargoyle]] ·
+**Status:** design · **Type:** main · **Chapter:** [[chapter-02]] · **Giver:** [[gargoyle-granite]] ·
 **Location:** [[realm-07]]
 
 ## The Cutscene

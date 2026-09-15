@@ -27,7 +27,7 @@ A besieged holy order defending a castle. Their realm has gates standing **open*
 
 ## Identity
 
-Defenders by circumstance. Their protagonist is [[templar]]. "Knight" is a *different faction class
+Defenders by circumstance. Their protagonist is [[templar-ermengarda]]. "Knight" is a *different faction class
 of the same faction* — the Celestials' Front Liner — not another name for the protagonist.
 
 **Game style:** [[celestials-hero-tower-defence]] — top-down tower defence with the Templar as a
@@ -53,7 +53,7 @@ website, recorded as the last written state and not as confirmed current design.
 
 | Class | Faction class | |
 |-------|---------------|---|
-| Commander | [[templar]] | Knights of a religious military order. **← protagonist** |
+| Commander | [[templar-ermengarda]] | Knights of a religious military order. **← protagonist** |
 | Front Liner | Knight | Protect the weak, defenseless, helpless, and fight for the general welfare of all. |
 | Heavy Weapons | Monk | Peace on the inside, chaos on the outside. |
 | Infiltrator | Reaper | Death Angels |
@@ -64,13 +64,13 @@ The faction's own one-line description on that site: *"Righteous warriors on a m
 
 ## Sister Ermengarda
 
-Their protagonist, the [[templar]], is **Ermengarda of Oluja**; Celestials address her and refer to
+Their protagonist, the [[templar-ermengarda]], is **Ermengarda of Oluja**; Celestials address her and refer to
 her with the honorific **"Sister"**.
 
 ## Members
 
 <!-- gd:members:start -->
-- [[templar|Ermengarda of Oluja, the Templar]] · protagonist
+- [[templar-ermengarda|Ermengarda of Oluja, the Templar]] · protagonist
 <!-- gd:members:end -->
 
 ## The Retreat
@@ -79,17 +79,17 @@ The Celestials' story is a **fighting withdrawal**. They lose [[the-outpost]] in
 ([[the-fall-of-the-outpost]]) and lose again in chapter two, falling back both times to
 [[templar-monastery]].
 
-The second retreat is a decision, not a rout: the Templar picks the monastery because they believe
-the Celestials need **ancient allies** to defeat the war machine — and they are right. In its
-ancient parts they find [[the-wand]] and [[odie]] and call the [[mystics]] and
+The second retreat is a decision, not a rout: the Templar picks the monastery because she believes
+the Celestials need **ancient allies** to defeat the war machine — and she is right. In its
+ancient parts she finds [[the-wand]] and [[odie]] and call the [[mystics]] and
 the [[robots]] ([[the-calling-of-ancient-allies]]).
 
 So the faction that appears to be simply losing is in fact the one that **works out what the game
 is about first**: nobody wins alone.
 
-And they are answered: [[conjurer]] arrives first ([[the-answering-of-the-wand]]), and with the
+And she is answered: [[conjurer-voisin]] arrives first ([[the-answering-of-the-wand]]), and with the
 Templar works out that the relics are **links to ancient allies and a way to call for help**
-([[allied-faction-signals]]). Then [[ninja]], [[gargoyle]] and [[mifix]] arrive
+([[allied-faction-signals]]). Then [[ninja-kazuma]], [[gargoyle-granite]] and [[mifix]] arrive
 ([[the-convergence-at-the-monastery]]).
 
 ## What They Have Forgotten

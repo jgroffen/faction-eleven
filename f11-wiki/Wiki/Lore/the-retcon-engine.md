@@ -101,7 +101,7 @@ retconning would give the player nothing to find; the seams are the evidence
 [[the-gate-guardian]] is the clearest case and the one the player stands inside from chapter one.
 [[quetzalcoatl-the-white]] added protective code to the gates of the realms he leads. The
 [[institute-of-eight]] now has a boss nobody placed, guarding a door nobody closed — and a complete
-account of why: [[ninja]]'s family are traitors, sentenced to fight it endlessly, generation after
+account of why: [[ninja-kazuma]]'s family are traitors, sentenced to fight it endlessly, generation after
 generation.
 
 The sentence is a fiction the realm wrote to make sense of a change from outside. **Nobody in the
@@ -147,7 +147,7 @@ The engine is not perfect, and it works hardest on things it cannot fully absorb
   does not always close.
 - **Objects from elsewhere.** Things that arrive from another game have no local history to be given
   one.
-- **Contradiction with a surviving witness.** [[gargoyle]] holds an unedited memory of the world
+- **Contradiction with a surviving witness.** [[gargoyle-granite]] holds an unedited memory of the world
   before the torpor, which makes him the one character able to notice that the past has moved.
 - **Entities it cannot edit.** The liches, and nothing else — see below.
 
@@ -163,7 +163,7 @@ as long as the worlds were separate. The retcon engine exists because prevention
 on when the contradiction is **inherited rather than committed**.
 
 **This is the sharpest thing in the White's characterisation.** The mechanism that sentenced
-[[ninja]]'s family to a treason they did not commit is not an impersonal property of reality. It is
+[[ninja-kazuma]]'s family to a treason they did not commit is not an impersonal property of reality. It is
 his fix, doing exactly what he designed it to do. He is the god who papers over the gods' mistakes,
 and the paper is where the player finds every single clue.
 

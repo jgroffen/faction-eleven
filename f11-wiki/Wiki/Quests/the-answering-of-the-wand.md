@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -13,7 +13,7 @@ aliases:
 quest_status: design
 quest_type: main
 chapter: chapter-03
-giver: templar
+giver: templar-ermengarda
 location: templar-monastery
 mechanics: []
 rewards: []
@@ -23,11 +23,11 @@ prerequisites:
 
 # The Answering Of The Wand
 
-[[conjurer]] hears [[the-wand]] and comes. The [[mystics]]' protagonist is the **first** ally to
-reach [[templar]] at [[templar-monastery]] — before [[ninja]], [[gargoyle]] and [[mifix]] arrive
+[[conjurer-voisin]] hears [[the-wand]] and comes. The [[mystics]]' protagonist is the **first** ally to
+reach [[templar-ermengarda]] at [[templar-monastery]] — before [[ninja-kazuma]], [[gargoyle-granite]] and [[mifix]] arrive
 ([[the-convergence-at-the-monastery]]).
 
-**Status:** design · **Type:** main · **Chapter:** [[chapter-03]] · **Giver:** [[templar]] ·
+**Status:** design · **Type:** main · **Chapter:** [[chapter-03]] · **Giver:** [[templar-ermengarda]] ·
 **Location:** [[templar-monastery]]
 
 ## Hook
@@ -66,7 +66,7 @@ The Templar's call reached the Mystics ([[the-calling-of-ancient-allies]]). Some
   ([[realm-nearness-and-traversal]]); whether it is sealed, and if so how the Conjurer gets through,
   is unwritten. The Mystics have a carrier of [[the-red-power]] whose manifestation is *dispelling*
   a seal — whether that is the Conjurer, or how it bears on this crossing, is open.
-- What the Conjurer contributes to the siege on arrival, and whether they join
+- What the Conjurer contributes to the siege on arrival, and whether she joins
   [[celestials-hero-tower-defence]] as a hero unit.
 - How the Templar and Conjurer arrive at the relics insight — what each knew that the other didn't.
 - Whether the Conjurer's own faction's war ([[mystics]] under invasion by [[the-damned]] and some

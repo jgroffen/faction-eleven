@@ -27,7 +27,7 @@ Protagonist of the [[robots]]: a late-model Autofix, **the only known functionin
 
 ## Name
 
-**AF-C-382-D** by designation; **Alto** by name — [[wraith|Delahaye]] names him that when they
+**AF-C-382-D** by designation; **Alto** by name — [[wraith-delahaye|Delahaye]] names him that when they
 meet. He has no gender and is fine with male pronouns.
 
 When and where the Wraith and the Autofix Bot meet is not established.
@@ -68,7 +68,7 @@ explained to anybody; a problem is simply solved by contact, which is what the [
 multiverse reopened for at all ([[no-machine-repairs-itself]]).
 
 **And the lesson is load-bearing.** *Study it enough and you can fix it* is why he can later heal
-[[ninja]] — the same skill, on something that is not a robot, applied by a bot who now knows when to
+[[ninja-kazuma]] — the same skill, on something that is not a robot, applied by a bot who now knows when to
 attempt it ([[a-heal-is-a-patch]]).
 
 **Death mechanic:** a restore-bot left outside of locations.

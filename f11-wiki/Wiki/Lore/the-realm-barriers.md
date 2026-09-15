@@ -65,7 +65,7 @@ remembers them doing anything.
 anywhere near it, so more than one mechanism is at work across the wheel.
 
 **Only one power can break a barrier without disabling the gargoyle first.** [[the-red-power]] —
-carried by [[ninja]], [[val]] and a third, unnamed Mystic — opens sealed *gates* and stops there; it
+carried by [[ninja-kazuma]], [[val]] and a third, unnamed Mystic — opens sealed *gates* and stops there; it
 has no purchase on a barrier at all. The liches of [[the-damned]] are the only ones who have worked
 out how to go through a barrier directly ([[the-void]]).
 

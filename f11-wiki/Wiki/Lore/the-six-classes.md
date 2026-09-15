@@ -36,21 +36,21 @@ The six roles, and the protagonist who carries each:
 
 | Class | Protagonists |
 |-------|--------------|
-| Commander | [[templar]] ([[celestials]]), [[captain]] ([[pirates]]) |
-| Medic | [[autofix]] ([[robots]]), [[squidling]] ([[aliens]]) |
-| Infiltrator | [[ninja]] ([[institute-of-eight]]), [[gargoyle]] ([[green-skins]]) |
-| Specialist | [[conjurer]] ([[mystics]]), [[wraith]] ([[the-damned]]) |
-| Front Liner | [[werewolf]] ([[werebeasts]]) |
-| Heavy Weapons | [[phoenix]] ([[fey-folk]]) |
+| Commander | [[templar-ermengarda]] ([[celestials]]), [[captain-leon]] ([[pirates]]) |
+| Medic | [[autofix-alto]] ([[robots]]), [[squidling-calamari]] ([[aliens]]) |
+| Infiltrator | [[ninja-kazuma]] ([[institute-of-eight]]), [[gargoyle-granite]] ([[green-skins]]) |
+| Specialist | [[conjurer-voisin]] ([[mystics]]), [[wraith-delahaye]] ([[the-damned]]) |
+| Front Liner | [[werewolf-gill]] ([[werebeasts]]) |
+| Heavy Weapons | [[phoenix-ember]] ([[fey-folk]]) |
 
 Ten protagonists over six classes: four classes are doubled, and **Front Liner and Heavy Weapons are
 held by one faction each**. That asymmetry is unexplained.
 
-Note what the doubled classes pair up: two Commanders are [[templar]] and [[captain]]. Two
-Infiltrators are [[ninja]] and [[gargoyle]] — the two protagonists who meet first. Two Specialists
-are [[conjurer]] and [[wraith]]. Two Medics are [[autofix]] and [[squidling]].
+Note what the doubled classes pair up: two Commanders are [[templar-ermengarda]] and [[captain-leon]]. Two
+Infiltrators are [[ninja-kazuma]] and [[gargoyle-granite]] — the two protagonists who meet first. Two Specialists
+are [[conjurer-voisin]] and [[wraith-delahaye]]. Two Medics are [[autofix-alto]] and [[squidling-calamari]].
 
-**[[templar]] being a Commander fits the design.** Their game style is
+**[[templar-ermengarda]] being a Commander fits the design.** Her game style is
 [[celestials-hero-tower-defence]] — the player directs a defence while fighting inside it, and later
 allies join as hero units under the same wall. That is a commander's game, and the two protagonists
 who lead are the two whose factions are built around a **crew** and a **garrison**.
@@ -63,20 +63,20 @@ of *which* class each protagonist was drawn from, not of any faction lacking a r
 
 | Class | 01 [[institute-of-eight]] | 02 [[robots]] | 03 [[celestials]] | 04 [[mystics]] | 05 [[fey-folk]] |
 |---|---|---|---|---|---|
-| Commander | Samurai | Tactical Cortex | **[[templar]]** | Oracle | Fairy |
+| Commander | Samurai | Tactical Cortex | **[[templar-ermengarda]]** | Oracle | Fairy |
 | Front Liner | Mercenary | Battlebot | Knight | Summoner | Elf |
-| Heavy Weapons | Sniper | MWP Killbot | Monk | Battle Mage | **[[phoenix]]** |
-| Infiltrator | **[[ninja]]** | Android | Reaper | Illusionist | Pixie |
-| Medic | Kami | **[[autofix]]** | Angel | Witch Doctor | Unicorn |
-| Specialist | Secret Agent | Raptorbot | Exorcist | **[[conjurer]]** | Banshee |
+| Heavy Weapons | Sniper | MWP Killbot | Monk | Battle Mage | **[[phoenix-ember]]** |
+| Infiltrator | **[[ninja-kazuma]]** | Android | Reaper | Illusionist | Pixie |
+| Medic | Kami | **[[autofix-alto]]** | Angel | Witch Doctor | Unicorn |
+| Specialist | Secret Agent | Raptorbot | Exorcist | **[[conjurer-voisin]]** | Banshee |
 
 | Class | 06 [[pirates]] | 07 [[werebeasts]] | 08 [[the-damned]] | 09 [[green-skins]] | 10 [[aliens]] |
 |---|---|---|---|---|---|
-| Commander | **[[captain]]** | Wendigo | Vampire | Orc | Grey |
-| Front Liner | Swashbuckler | **[[werewolf]]** | Zombie | Giant | Thunder Lizard |
+| Commander | **[[captain-leon]]** | Wendigo | Vampire | Orc | Grey |
+| Front Liner | Swashbuckler | **[[werewolf-gill]]** | Zombie | Giant | Thunder Lizard |
 | Heavy Weapons | Cannoneer | Werebear | Demon | Minotaur | Tripod |
-| Infiltrator | Quatermaster | Werebird | Mummy | **[[gargoyle]]** | Martian |
-| Medic | Jester | Mermaid | Necromancer | Shaman | **[[squidling]]** |
+| Infiltrator | Quatermaster | Werebird | Mummy | **[[gargoyle-granite]]** | Martian |
+| Medic | Jester | Mermaid | Necromancer | Shaman | **[[squidling-calamari]]** |
 | Specialist | First Mate | Werecat | Wraith | Troll | Feline |
 
 **Bold** = the faction's protagonist. Each faction note carries its own six with the taglines.
@@ -92,14 +92,14 @@ of *which* class each protagonist was drawn from, not of any faction lacking a r
 - **The gargoyles were made by two factions' Medics.** Necromancer is the Damned's Medic; Shaman is
   the green-skins'. The healers of two realms built the guardians out of the dead
   ([[the-gargoyle-guardians]]) — a far better fit than warriors doing it.
-- **[[templar]] and Knight are two different classes of the same faction**, not two names for one
+- **[[templar-ermengarda]] and Knight are two different classes of the same faction**, not two names for one
   character: the Celestials' Commander and their Front Liner respectively.
 - **Gargoyle is the green-skins' Infiltrator**, matching [[gargoyle-stone-metroidvania]]. Two
   gargoyle abilities appear here that the ability ladder does not have: they **move through stone**,
   and **with wings folded can appear to be flesh and bone**. The second is a disguise, and a strong
   candidate for a rung the ladder lacks.
 - **Wraith appears twice** — the Damned's Specialist and the protagonist's name. Same thing.
-- **The Wraith was a First Mate** — the Pirates' Specialist — before she died ([[wraith]]). One
+- **The Wraith was a First Mate** — the Pirates' Specialist — before she died ([[wraith-delahaye]]). One
   character, the Specialist of two factions, alive and then dead — deliberately, so that she has a
   clear gameplay style and a party role whenever a game calls for party mechanics.
 
@@ -134,6 +134,6 @@ Also unresolved:
 - **Which faction classes are still current.** **Unconfirmed** — carried over from the earlier
   prototype. Only the protagonists and their archetypes hold.
 - Whether faction classes are *populations* (all green-skin Minotaurs are Heavy Weapons) or
-  *individuals*. The [[gargoyle]] is one of very few of his kind
+  *individuals*. The [[gargoyle-granite]] is one of very few of his kind
   ([[the-gargoyle-guardians]]) while Orcs are clearly a whole people, so the grid mixes species
   with professions with — in Autofix's case — a single surviving machine.

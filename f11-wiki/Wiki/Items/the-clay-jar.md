@@ -18,7 +18,7 @@ source: "Kept in the Ninja's family shrine, Realm 01"
 
 # The Clay Jar
 
-A clay jar kept in [[ninja]]'s **family shrine** in [[realm-01]], alongside the mini-fix bot. It
+A clay jar kept in [[ninja-kazuma]]'s **family shrine** in [[realm-01]], alongside the mini-fix bot. It
 contains an **alien egg**, and it **can be activated to signal the [[aliens]]**.
 
 The jar carries **a symbol on it that will reveal the nature of the jar to the player**.

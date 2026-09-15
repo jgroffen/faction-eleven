@@ -13,7 +13,7 @@ aliases:
 canon: proposed
 era: ""
 characters:
-  - gargoyle
+  - gargoyle-granite
 factions:
   - green-skins
 locations: []
@@ -22,13 +22,13 @@ locations: []
 # The Manipulation Of The Green Skins
 
 The green-skins did not start their own war. Somebody is **manipulating and using** them
-— and the [[gargoyle]] knows it.
+— and the [[gargoyle-granite]] knows it.
 
 **Canon:** proposed
 
 ## The Story
 
-The [[gargoyle]] wants to protect and save the green-skins, and to stop the faction being
+The [[gargoyle-granite]] wants to protect and save the green-skins, and to stop the faction being
 **manipulated and used**.
 
 That is one clause, and it moves more of this game than anything else said about the faction. Every
@@ -38,7 +38,7 @@ other faction in the material meets the green-skins as an invading horde: swarms
 **why are they expanding?** ([[green-skins]]). This is the first answer: they may not be expanding
 of their own accord.
 
-It also reframes the [[gargoyle]]. He is not a traitor to his faction, and he is not merely a
+It also reframes the [[gargoyle-granite]]. He is not a traitor to his faction, and he is not merely a
 pacifist objecting to a war. He is a **protector**, doing what gargoyles believe they are for, and
 what he is protecting them from is **whoever is using them**.
 
@@ -46,7 +46,7 @@ what he is protecting them from is **whoever is using them**.
 
 - [[the-guardians-of-night]] — who is doing it.
 - [[the-broken-barrier]] — how.
-- [[gargoyle]] — uncovers it, and acts on it. It is his motive.
+- [[gargoyle-granite]] — uncovers it, and acts on it. It is his motive.
 - [[green-skins]] — the used party, and they believe they are defending themselves.
 - [[gargoyle-stone-metroidvania]] — why he has no combat verb. You do not fight the people you are
   trying to save.
@@ -86,6 +86,6 @@ took it.
 
 ## Player-Facing
 
-Not decided. One route is already implied by the design: the [[gargoyle]]'s abilities are unlocked
+Not decided. One route is already implied by the design: the [[gargoyle-granite]]'s abilities are unlocked
 by finding **Gargoyle lore fragments**, so the faction's own history is a collectible — and what is
 being done to his people could be told through the same channel that makes him stronger.

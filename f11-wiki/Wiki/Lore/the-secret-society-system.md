@@ -48,7 +48,7 @@ to all three goals landing in the same place:
 
 | Goal | What was wrong | How the Guardians fix it |
 |---|---|---|
-| Balance | The [[gargoyle]] guardians were too powerful — an autonomous, uncommandable defence that a pre-emptive war could never get past | Smash them first ([[the-smashing-of-the-gargoyles]]) |
+| Balance | The [[gargoyle-granite]] guardians were too powerful — an autonomous, uncommandable defence that a pre-emptive war could never get past | Smash them first ([[the-smashing-of-the-gargoyles]]) |
 | Balance | [[the-damned]] had been stagnating | Give their vampire commander a war to fight |
 | Conflict | The old war had been over for a thousand years — minimal conflict anywhere on that side of the wheel | Restart it, on false evidence ([[the-broken-barrier]]) |
 

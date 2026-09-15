@@ -20,7 +20,7 @@ related_mechanics:
 
 # Minibot Command
 
-[[autofix]] builds **minibots** from modules and components, and **controls** them — issuing
+[[autofix-alto]] builds **minibots** from modules and components, and **controls** them — issuing
 commands — within a **short range of himself**. Range and capability both come from
 [[autofix-skill-tree]].
 

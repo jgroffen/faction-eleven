@@ -33,7 +33,7 @@ own.
 
 ## Identity
 
-**Game style: [[wraith-memory-puzzle]]** — a puzzle game in which their protagonist [[wraith]], a
+**Game style: [[wraith-memory-puzzle]]** — a puzzle game in which their protagonist [[wraith-delahaye]], a
 specialist tied to a **single spawn point / grave to return to**, rediscovers who she was when
 alive: a Pirate First Mate ([[pirates]]). It is played in [[realm-08]] and in
 [[the-wraith-s-mansion]], a representation of the Wraith's mind and memories, and the Wraith's
@@ -65,14 +65,14 @@ website, recorded as the last written state and not as confirmed current design.
 | Heavy Weapons | Demon | Minions of the Morning Star. |
 | Infiltrator | Mummy | Specially prepared for the afterlife. |
 | Medic | Necromancer | Rulers of the great majority. |
-| Specialist | [[wraith]] | Spectors that feed on the dying. **← protagonist** |
+| Specialist | [[wraith-delahaye]] | Spectors that feed on the dying. **← protagonist** |
 
 The faction's own one-line description on that site: *"Protectors of the Great Majority."*
 
 ## Members
 
 <!-- gd:members:start -->
-- [[wraith|Delahaye, the Wraith]] · protagonist
+- [[wraith-delahaye|Delahaye, the Wraith]] · protagonist
 <!-- gd:members:end -->
 
 ## Role In The Gargoyle's Story

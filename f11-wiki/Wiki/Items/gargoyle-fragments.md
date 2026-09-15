@@ -21,7 +21,7 @@ mechanics:
 
 # Gargoyle Fragments
 
-**Pieces of other gargoyles**, which [[gargoyle]] can use to restore himself. They are the whole of
+**Pieces of other gargoyles**, which [[gargoyle-granite]] can use to restore himself. They are the whole of
 his progression system: every ability he gains, he takes from the broken body of one of his own kind
 ([[the-smashing-of-the-gargoyles]]).
 
@@ -74,7 +74,7 @@ that become weightless.
 
 ## Open
 
-- How much a fragment carries of the gargoyle it came from. **At least a name**: [[gargoyle|Granite]]
+- How much a fragment carries of the gargoyle it came from. **At least a name**: [[gargoyle-granite|Granite]]
   learns his own from a fragment in the first room ([[the-waking-of-the-last-gargoyle]]). Whether a
   fragment also carries memory or personality is not established, and the answer decides whether
   this system is melancholy or horrifying.

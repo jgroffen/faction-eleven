@@ -34,7 +34,7 @@ progress**.
 - Reputation gates progress, not just rewards.
 - As the player meets protagonists from other factions and storylines merge, **reputation bars can
   merge** too.
-- The [[aliens]] story applies the same idea *within* a faction: [[squidling]] builds reputation
+- The [[aliens]] story applies the same idea *within* a faction: [[squidling-calamari]] builds reputation
   with each alien species separately, by rescuing them and doing tasks for them.
 
 Representing merged reputation on the start screen is an open UI problem

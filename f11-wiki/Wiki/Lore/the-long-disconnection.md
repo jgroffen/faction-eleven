@@ -80,7 +80,7 @@ nobody is permitted to change decays anyway. **She watched it happen for most of
 before she acted**, which is its own kind of failure and entirely in character
 ([[xipe-totec-the-red]]).
 
-This matters for what a protagonist can plausibly know at the start. [[gargoyle]] is the extreme
+This matters for what a protagonist can plausibly know at the start. [[gargoyle-granite]] is the extreme
 case: a construct built for the old war, who knows the other realms as **facts he fought**, not as
 stories. He begins his game better informed about the multiverse than any other protagonist —
 and knows nothing whatsoever about the present ([[the-gargoyle-guardians]]).

@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -90,8 +90,8 @@ long enough that a musical phrase completes.
 
 ## Tension To Resolve
 
-[[death-and-return]] gives the Ninja a **generational death mechanic** — a cut-scene in which their
-child grows up, is trained, and replaces them. That was written for a game where death is rare.
+[[death-and-return]] gives the Ninja a **generational death mechanic** — a cut-scene in which his
+child grows up, is trained, and replaces him. That was written for a game where death is rare.
 This is a game where **death is constant and respawn is instant**. The two cannot both be literal.
 Flagged, not resolved.
 

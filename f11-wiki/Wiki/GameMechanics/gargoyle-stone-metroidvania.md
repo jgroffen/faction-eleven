@@ -28,7 +28,7 @@ runs on **the same platforming engine as [[ninja-rhythm-platforming]]**, with a 
 and **no rhythm layer** — and it is structured as a **Metroid-style** game: a gated map opened by
 acquiring abilities.
 
-The [[gargoyle]] **starts with almost nothing.** His entire opening kit is *stealth while
+The [[gargoyle-granite]] **starts with almost nothing.** His entire opening kit is *stealth while
 stationary*. Everything else on the ladder below is earned.
 
 **State:** concept · **Category:** exploration
@@ -88,7 +88,7 @@ justify all three.
 
 ## The Ninja In Realm 07
 
-Under [[realm-governs-game-style]], the [[ninja]] plays the **same Metroid structure** when he
+Under [[realm-governs-game-style]], the [[ninja-kazuma]] plays the **same Metroid structure** when he
 crosses into [[realm-07]] in [[chapter-02]] — the rhythm layer stays home in [[realm-01]], and his
 progression becomes ability-gated too.
 

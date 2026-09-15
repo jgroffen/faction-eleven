@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
   - Raw/Sources/factions-retro-readme.md
@@ -23,8 +23,8 @@ related_mechanics:
 # Templar — Hero Tower Defence
 
 The [[celestials]]' game style: **top-down tower defence with a directly-controlled hero unit**.
-The [[templar]] is not a cursor or a menu — they are a unit the player moves around the top-down
-defence field, while the defence plays out around them.
+The [[templar-ermengarda]] is not a cursor or a menu — she is a unit the player moves around the top-down
+defence field, while the defence plays out around her.
 
 Between battles, the player **explores in platforming sections** — so this faction uses both of
 the shell's presentations ([[exploration-core-loop]]).
@@ -56,7 +56,7 @@ the shell's presentations ([[exploration-core-loop]]).
 **The war machine:** the green-skins bring siege machinery, and the
 Templar's eventual answer is to take one, upgrade it, and turn it on its owners.
 
-**Visitors play this style too** ([[realm-governs-game-style]]): when [[ninja]] and [[gargoyle]]
+**Visitors play this style too** ([[realm-governs-game-style]]): when [[ninja-kazuma]] and [[gargoyle-granite]]
 reach the Celestials' realm in [[chapter-03]], **their gameplay swaps to this one**. "Later allies
 become hero units" is therefore not a bonus feature but the general rule — and it means this system is built once and played by at least three protagonists.
 

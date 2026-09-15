@@ -22,7 +22,7 @@ home: realm-03
 # Odie
 
 A **mini-fix bot** lying dormant in the ancient parts of [[templar-monastery]], venerated by the
-[[celestials]] as the **Relic of St Archivus**. [[templar]] is able to turn him back on.
+[[celestials]] as the **Relic of St Archivus**. [[templar-ermengarda]] is able to turn him back on.
 
 Once activated he knows his own designation: **MF-710D** — `MF-28941` in decimal — and he remembers
 that the Celestials **nicknamed him Odie**, before they put him into **stand-by mode to preserve
@@ -54,7 +54,7 @@ He **remembers the history of the Robot Realm that was lost**. When he and [[mif
 he can restore it ([[the-convergence-at-the-monastery]]).
 
 He also holds **hints on what is needed to unblock the `ACCESS DENIED` robotics skills** —
-the autonomous-robotics branch of [[autofix-skill-tree]] that [[autofix]] cannot reach alone.
+the autonomous-robotics branch of [[autofix-skill-tree]] that [[autofix-alto]] cannot reach alone.
 
 So Odie is the game's **key to two locked doors at once**: Mifix's corrupted past, and the Robots'
 forbidden future.
@@ -66,7 +66,7 @@ Odie has **both** mechanisms for noticing a retcon, and no other character has m
 - **Code sight**, like every fixbot — his heal repairs the code of whatever he fixes, so an edit is
   visible to him as an edit ([[a-heal-is-a-patch]]).
 - **A memory that predates the retcons**, because he was switched off through the period they
-  happened in — the same preservation [[gargoyle]] gets from torpor, arrived at from the other end of
+  happened in — the same preservation [[gargoyle-granite]] gets from torpor, arrived at from the other end of
   the map.
 
 **And he does not understand any of it**, because he has barely been running. He is the control case:
@@ -79,14 +79,14 @@ can be trusted meets a witness who knows what the evidence means.
 
 ## In-Game Role
 
-Found and activated by [[templar]] in [[templar-monastery]]. His reactivation is one of the two
+Found and activated by [[templar-ermengarda]] in [[templar-monastery]]. His reactivation is one of the two
 signals the Templar sends in [[the-calling-of-ancient-allies]] — and it is his own faint call that
 [[mifix]] detects and pursues in [[the-second-signal]].
 
 He is **detectable long before he is reachable**: too far away to communicate with, so for a whole
 chapter he is a direction rather than a conversation.
 
-**He is also the one who tells [[ninja]] what the Ninja is.** Once they meet at the monastery, Odie
+**He is also the one who tells [[ninja-kazuma]] what the Ninja is.** Once they meet at the monastery, Odie
 identifies that the Ninja carries the power to breach a sealed gate — [[xipe-totec-the-red]]'s
 imbuement ([[the-red-power]]), which the Ninja has felt only as an unexplained compulsion until
 then. Odie names it; the Ninja does not work it out himself.
@@ -105,11 +105,11 @@ about the one thing the party needs, and the party goes to ask a gargoyle instea
 ## Ties
 
 - [[mifix]] — the other mini-fix bot, and the one whose memory he can restore.
-- [[templar]] — who wakes him without knowing what he is.
-- [[autofix]] — whose `ACCESS DENIED` branch he holds hints for.
+- [[templar-ermengarda]] — who wakes him without knowing what he is.
+- [[autofix-alto]] — whose `ACCESS DENIED` branch he holds hints for.
 - [[celestials]] — who named him twice, and remember neither name's origin.
-- [[ninja]] — whose Red Power he identifies at the monastery.
-- [[gargoyle]] — who knows the network's shape where Odie only knows it exists.
+- [[ninja-kazuma]] — whose Red Power he identifies at the monastery.
+- [[gargoyle-granite]] — who knows the network's shape where Odie only knows it exists.
 
 ## Open
 

@@ -27,21 +27,21 @@ quests:
 
 The first release. [[robots]] carry the main plot; [[institute-of-eight]] and [[celestials]]
 appear in genuinely reduced form. **Every faction fails**, and the failures are what connect them:
-[[ninja]] loses a boss fight, which cracks a gate, which lets a call [[mifix]] has been making into
-silence for generations finally reach the frozen [[autofix]] and wake him.
+[[ninja-kazuma]] loses a boss fight, which cracks a gate, which lets a call [[mifix]] has been making into
+silence for generations finally reach the frozen [[autofix-alto]] and wake him.
 
 **Status:** outline · **Lead faction:** [[robots]]
 
 ## Story
 
-1. **[[the-cracking-of-the-gate]]** — [[ninja]] is sent at [[the-gate-guardian]] unprepared and
+1. **[[the-cracking-of-the-gate]]** — [[ninja-kazuma]] is sent at [[the-gate-guardian]] unprepared and
    beaten. Back story opens; training begins. The Ninja returns to the boss battle with a **newly
    trained skill**, loses again, and the fight **cracks the gate** to [[realm-02]]
    ([[the-cracked-gate]]).
-2. **[[the-fall-of-the-outpost]]** — [[templar]] holds [[the-outpost]] through a simple siege and
+2. **[[the-fall-of-the-outpost]]** — [[templar-ermengarda]] holds [[the-outpost]] through a simple siege and
    loses it on the last wave to the siege machine, leading a retreat to [[templar-monastery]].
 3. **[[the-first-signal]]** — three beats of its own. [[mifix]]'s call reaches through the crack
-   carrying his **activity log**, which resolves the paradox that froze [[autofix]] and **wakes him**;
+   carrying his **activity log**, which resolves the paradox that froze [[autofix-alto]] and **wakes him**;
    Autofix then plays out [[realm-02]], unlocks **Quantum Comms**, and **answers**, reaching both
    [[mifix]] and [[odie]].
 
@@ -77,10 +77,10 @@ Tracked across all chapters in [[story-continuity-timeline]].
 **Sets up:**
 
 - The crack in the 01↔02 gate, which every later robot/Institute signal depends on.
-- [[autofix]]'s remote communication, which pays off again in
+- [[autofix-alto]]'s remote communication, which pays off again in
   [[the-calling-of-ancient-allies]] — chapter two.
 - [[mifix]] listening, which is how [[the-second-signal]] is detected in chapter two.
-- **[[autofix]] running at all**, and therefore degrading — a fixbot's exposure clock starts the
+- **[[autofix-alto]] running at all**, and therefore degrading — a fixbot's exposure clock starts the
   moment the realms reconnect ([[a-heal-is-a-patch]]).
 - The Templar's retreat to [[templar-monastery]], chapter two's Celestial setting.
 
@@ -91,7 +91,7 @@ Tracked across all chapters in [[story-continuity-timeline]].
 - **Ending on three defeats.** Thematically right — nobody wins alone — but this is a commercial
   release ([[chapter-based-release]]) and it closes with the player losing three times. Whether
   that is a satisfying purchase is unexamined.
-- **How much of [[realm-02]] is playable before [[autofix]] wakes.** The three beats are causally
+- **How much of [[realm-02]] is playable before [[autofix-alto]] wakes.** The three beats are causally
   ordered, so either the Robots' story opens after the Ninja's defeat or its opening stretch is played
   some other way. This is the chapter's biggest structural question and it is unresolved
   ([[the-first-signal]]).

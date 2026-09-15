@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/factions-retro-readme.md
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
@@ -19,7 +19,7 @@ enemies:
 
 # The Institute of Eight
 
-A martial order whose protagonist, [[ninja]], comes from a family **considered traitors**. Their
+A martial order whose protagonist, [[ninja-kazuma]], comes from a family **considered traitors**. Their
 punishment is to endlessly fight the gate guardian — who holds **the gate to [[realm-02]], the
 [[robots]]**.
 
@@ -63,7 +63,7 @@ friendly [[robots]], and an abandoned, already-cracked gate to the hostile [[gre
 forgotten in a ruin. Why the order guards a friend and ignores an enemy is unwritten and is one of
 the better questions the setting has produced.
 
-[[ninja]] does not reach [[gargoyle]] through the guardian's gate. They go out through the ruin, in
+[[ninja-kazuma]] does not reach [[gargoyle-granite]] through the guardian's gate. He goes out through the ruin, in
 chapter two, following [[the-second-signal]].
 
 **The gate does not open until every faction has been introduced.** The
@@ -81,7 +81,7 @@ website, recorded as the last written state and not as confirmed current design.
 | Commander | Samurai | Followers of Bushido, the Way of the Warrior. |
 | Front Liner | Mercenary | Highly trained military forces for hire. |
 | Heavy Weapons | Sniper | Pitch a tent and set up camp. |
-| Infiltrator | [[ninja]] | Sabotage, espionage, scouting, assassination. **← protagonist** |
+| Infiltrator | [[ninja-kazuma]] | Sabotage, espionage, scouting, assassination. **← protagonist** |
 | Medic | Kami | Animal spirits. |
 | Specialist | Secret Agent | The suave, sophisticated, gadgets and guns kind. |
 
@@ -90,7 +90,7 @@ The faction's own one-line description on that site: *"Highly trained specialist
 ## Members
 
 <!-- gd:members:start -->
-- [[ninja|Sato Kazuma, the Ninja]] · protagonist
+- [[ninja-kazuma|Sato Kazuma, the Ninja]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

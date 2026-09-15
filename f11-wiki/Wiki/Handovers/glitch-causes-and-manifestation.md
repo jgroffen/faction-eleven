@@ -75,7 +75,7 @@ real note instead._
   built the gate guardians separately, which suggests it does not. If it is invisible to both layers,
   it is the one glitch class with no safety net, and that is a strong reason to make it the loudest.
 - **The Red's motive is recorded too narrowly.** [[the-four-gods]] and [[the-long-disconnection]]
-  give her one reason for imbuing [[ninja]] and [[val]]: the sealed realms were **decaying**. The
+  give her one reason for imbuing [[ninja-kazuma]] and [[val]]: the sealed realms were **decaying**. The
   author has since added a second, and it is the one that touches this session — she also acted on
   **instability**, and her fix was to turn combating instability into *interesting gameplay*. That
   makes the Red Power an anti-glitch mechanic as much as a gate key, and it means a protagonist's
@@ -109,7 +109,7 @@ Work through the four settled genres —
 [[ninja-rhythm-platforming]], [[robots-incremental-exploration]],
 [[celestials-hero-tower-defence]], [[gargoyle-stone-metroidvania]] — **starting with
 [[robots-incremental-exploration]]**. That is where the instrument is: a fixbot's heal edits code, so
-[[autofix]] and [[mifix]] both *see* retcons land ([[a-heal-is-a-patch]]), and the Robots' core verb
+[[autofix-alto]] and [[mifix]] both *see* retcons land ([[a-heal-is-a-patch]]), and the Robots' core verb
 is already the detection mechanic. [[realm-01]] is also the realm the author named as still
 glitching, and chapter one has no glitch-free baseline to protect.
 

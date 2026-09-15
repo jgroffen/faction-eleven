@@ -90,7 +90,7 @@ of divine acts that only ever made sense as workplace disagreements.
 - [[the-four-gods]] · [[the-four-developers]] — the top and bottom of ladder one.
 - [[continuity-glitches]] · [[the-ancient-language]] · [[wraith-object-reading]] — the channels the
   evidence arrives through. The last is the only one that shows a protagonist *failing* to hold the
-  evidence: the [[wraith]] reads dev-layer text and glitches, and the rule above still stands —
+  evidence: the [[wraith-delahaye]] reads dev-layer text and glitches, and the rule above still stands —
   the player reads it; the Wraith slowly comes to know she is receiving *something*, and files it
   as messages from the gods.
 - [[the-retcon-engine]] — why the realms' own account is always coherent and always wrong.

@@ -15,7 +15,7 @@ aliases:
 canon: proposed
 era: shortly before the game
 characters:
-  - gargoyle
+  - gargoyle-granite
   - val
 factions:
   - the-guardians-of-night
@@ -61,7 +61,7 @@ somebody in another realm was frightened of the neighbours.
 
 ## What The Player Knows That He Doesn't
 
-The player sees this happen. [[gargoyle]] does not — he was in torpor throughout, and gargoyles
+The player sees this happen. [[gargoyle-granite]] does not — he was in torpor throughout, and gargoyles
 retain nothing from between one waking and the next.
 
 So the game opens with the player holding a piece of knowledge the protagonist is missing, and

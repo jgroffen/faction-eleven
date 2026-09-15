@@ -101,11 +101,11 @@ exactly one thing — **stealth while standing still** — and ends in sonic fli
 
 ## Ties
 
-Meets [[ninja]] in chapter two, when the Ninja follows [[the-second-signal]] through the abandoned
+Meets [[ninja-kazuma]] in chapter two, when the Ninja follows [[the-second-signal]] through the abandoned
 cracked gate in [[the-ancient-ruin]]. The two then **work together to find the mini-fix bot** whose
-signal drew the Ninja out — which [[templar]] has ([[odie]]).
+signal drew the Ninja out — which [[templar-ermengarda]] has ([[odie]]).
 
-May also meet [[conjurer]] in the Mystics' underworld.
+May also meet [[conjurer-voisin]] in the Mystics' underworld.
 
 In [[chapter-03]] he leaves [[realm-07]] with the Ninja for the Celestials' realm — and his
 gameplay changes with it, under [[realm-governs-game-style]]. What his stone kit becomes on a tower
@@ -126,7 +126,7 @@ that he's malfunctioning, and sets the Minotaur on him instead. **He hides it fr
 accusation lands anyway** — after she leaves, he privately begins to doubt he is functioning
 properly. He has no way to check, and every piece of evidence he has still supports her.
 
-**He does not carry it silently for long.** At the start of [[chapter-03]] he tells [[ninja]] and
+**He does not carry it silently for long.** At the start of [[chapter-03]] he tells [[ninja-kazuma]] and
 [[mifix]] outright that he may be malfunctioning and cannot tell
 ([[the-diagnosis-of-the-last-gargoyle]]). Mifix knows he cannot fix a gargoyle but offers to try to
 *diagnose* him — and fails, and the attempt glitches Mifix. So the one instrument in reach that

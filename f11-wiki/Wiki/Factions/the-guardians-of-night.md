@@ -27,7 +27,7 @@ three realms believe they were defending themselves.
 their own agendas, built to add intrigue, incite conflict, and fix game-balance issues — and the
 Guardians of Night are its first instance. He did not recruit [[val]] or instruct her. The system
 found a vampire already carrying [[xipe-totec-the-red]]'s power and made her a founder, because she
-was, at that moment, its most elegant available answer to **three** problems: the [[gargoyle]]
+was, at that moment, its most elegant available answer to **three** problems: the [[gargoyle-granite]]
 guardians were too powerful, [[the-damned]] were stagnating, and there was nowhere near enough
 conflict on that side of the wheel. Everything downstream followed from a system doing exactly what
 it was built to do, unsupervised.

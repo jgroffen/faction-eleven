@@ -59,7 +59,7 @@ round was asked. What remains is what was **never settled**:
 - **What a glitch looks like in each settled genre** — [[continuity-glitches]] names the kinds; one
   concrete instance now exists ([[the-diagnosis-of-the-last-gargoyle]] — Mifix, in the Gargoyle's
   Metroidvania) but its manifestation is undecided and no other genre has one.
-- **Whether [[ninja]] ever learns what he is**, given that he carries [[xipe-totec-the-red]]'s power
+- **Whether [[ninja-kazuma]] ever learns what he is**, given that he carries [[xipe-totec-the-red]]'s power
   and his family's whole history is a retcon written around somebody else's edit.
 - **How much of the labs faction-class material is still current.** It is legacy; only the
   protagonists and their archetypes are confirmed. Do not build against the other 50 rows.
@@ -74,10 +74,10 @@ round was asked. What remains is what was **never settled**:
 
 Rejected during the interview, so do not re-propose: the Ancients building the signalling devices
 (they are [[allied-faction-signals]], faction-made); renaming Templar to Knight (**Knight is a
-separate faction class** — the Celestials' Front Liner — and [[templar]] is their **Commander**,
+separate faction class** — the Celestials' Front Liner — and [[templar-ermengarda]] is their **Commander**,
 settled 2026-08-16); chapter one as
 Institute + Green Skins; the Ninja's genre as rogue-like; **party/squad mechanics for the
-[[gargoyle]]** (unsuited to the realm — reserved for a different faction); **failure costing the
+[[gargoyle-granite]]** (unsuited to the realm — reserved for a different faction); **failure costing the
 Gargoyle an ability** (it costs position instead).
 
 ## The Spine Now Exists

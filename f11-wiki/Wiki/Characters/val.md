@@ -28,7 +28,7 @@ walked into the gargoyles' chamber, said **"do it!"**, and left before the hamme
 
 She appears for one line and one word of dialogue, and she is the reason the player's protagonist
 exists in the state he does. That is a strong entrance — the player will recognise her the moment
-she reappears, hours later, and will know something [[gargoyle]] does not.
+she reappears, hours later, and will know something [[gargoyle-granite]] does not.
 
 **She is a vampire of [[the-damned]] — and the Damned's own necromancers helped build the
 gargoyles** ([[the-gargoyle-guardians]]). So the order to destroy them comes from a co-author's
@@ -93,7 +93,7 @@ who saw the cutscene, knows what the damage actually was and can only watch him 
 
 Whether he *is* malfunctioning is the open question of his story: either the smashed head took the
 leash along with the power, or he is obeying his instructions exactly, having concluded that a
-manipulated realm is an invaded one. See [[gargoyle]].
+manipulated realm is an invaded one. See [[gargoyle-granite]].
 
 ## Quests
 
@@ -106,12 +106,12 @@ manipulated realm is an invaded one. See [[gargoyle]].
 - [[the-guardians-of-night]] — her group, and her conviction.
 - [[the-smashing-of-the-gargoyles]] — her order.
 - [[the-broken-barrier]] — what it was for.
-- [[gargoyle]] — the one she failed to finish, and later tries to talk out of existing.
+- [[gargoyle-granite]] — the one she failed to finish, and later tries to talk out of existing.
 - [[the-damned]] — her people, and the gargoyles' co-makers.
 - [[the-red-power]] — what she carries, and its two other carriers.
 - [[xipe-totec-the-red]] — whose power she carries.
 - [[huitzilopochtli-the-blue]] — whose system made her a founder.
-- [[ninja]] — another carrier of the same power, who will never meet her and is doing the same
+- [[ninja-kazuma]] — another carrier of the same power, who will never meet her and is doing the same
   thing at the other end of the wheel. A third carrier, a Mystic, is unnamed.
 - [[the-secret-society-system]] — what actually shaped her decisions, without her knowledge.
 - [[the-trial-of-the-last-gargoyle]] — where she hunts him down and loses the argument.

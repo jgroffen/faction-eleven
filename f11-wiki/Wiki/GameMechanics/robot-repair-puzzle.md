@@ -22,7 +22,7 @@ related_mechanics:
 
 # Robot Repair
 
-The [[robots]]' core activity and the source of [[autofix]]'s progression: find a broken robot,
+The [[robots]]' core activity and the source of [[autofix-alto]]'s progression: find a broken robot,
 work out what it needs, supply the modules and components, and bring it back. **A parts puzzle
 with varied outcomes.**
 
@@ -76,7 +76,7 @@ many and the realm is a wall, too few and diagnosis is decoration.
 
 Repairs carry the faction's exposition twice over. Lore and quests arrive attached to the robots you
 save — and the **Data Fragments** they yield are literally recovered history, the raw material
-[[autofix]] researches to rediscover lost technology ([[autofix-skill-tree]]). Mending a robot and
+[[autofix-alto]] researches to rediscover lost technology ([[autofix-skill-tree]]). Mending a robot and
 reading its memory are the same act. So
 the more of his people Autofix restores, the more of his own history he recovers — which is the
 same shape as [[mifix]]'s corrupted memory on the other side of the gate, and the same shape as the

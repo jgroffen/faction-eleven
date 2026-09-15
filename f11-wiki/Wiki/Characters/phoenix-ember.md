@@ -16,7 +16,7 @@ faction: fey-folk
 home: realm-05
 ---
 
-# Phoenix
+# Ember, the Phoenix
 
 **Role:** protagonist · **Faction:** [[fey-folk]] · **Home:** [[realm-05]]
 
@@ -24,7 +24,7 @@ Protagonist of the [[fey-folk]]. A heavy-weapons archetype who is **reborn from 
 
 ## Name
 
-**Not yet named**, and gender not yet decided — the one protagonist still without either.
+**Ember.** Male.
 
 ## Character
 

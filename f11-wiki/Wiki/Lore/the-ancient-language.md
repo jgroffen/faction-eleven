@@ -54,7 +54,7 @@ of the realm's account of itself; they sit underneath it. So the game has two ki
 contradictions between realms ([[continuity-glitches]]), which the player must infer from, and
 dev-layer text, which they can actually *read*. The dots are the ciphered form of the second;
 [[wraith-object-reading]] is the raw one — the same commit messages and comments handed to the
-[[wraith]] by an object, with no decoding at all.
+[[wraith-delahaye]] by an object, with no decoding at all.
 
 This is how the metafiction lands without a cutscene.
 

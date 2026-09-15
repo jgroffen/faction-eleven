@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-13
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -29,10 +29,10 @@ prerequisites:
 The climax of chapter two for the [[celestials]], and **the moment the multiverse starts talking
 to itself.**
 
-Having lost to the war machine a second time, [[templar]] retreats to [[templar-monastery]] —
-chosen deliberately, because they believe the Celestials need to find **ancient allies** to beat
+Having lost to the war machine a second time, [[templar-ermengarda]] retreats to [[templar-monastery]] —
+chosen deliberately, because she believes the Celestials need to find **ancient allies** to beat
 the machine. Exploring the monastery's ancient parts between battles, the Templar finds and uses
-**two ancient devices** to signal for aid: [[odie]], which they are able to
+**two ancient devices** to signal for aid: [[odie]], which she is able to
 turn back on, and [[the-wand]].
 
 **The signal is received by the [[robots]] — whose remote communications are working again — and by
@@ -53,7 +53,7 @@ Two devices, two calls, two factions who hear them. See [[allied-faction-signals
 - It is the **first deliberate act of reconnection in the game.** [[the-first-signal]] was
   an accident — a signal that happened to land. This is somebody *choosing* to call.
 - It **pays off the Robots' chapter-one ability a second time**, in a different faction's story
-  and a different chapter. [[autofix]]'s remote comms are what make the monastery bot audible.
+  and a different chapter. [[autofix-alto]]'s remote comms are what make the monastery bot audible.
 - It makes the [[mystics]]' realm a **major setting in chapter two**.
 - The Templar is reaching for "ancient allies" and reaching, in fact, for two of the ten factions.
   Whether they are also reaching for [[faction-eleven-antagonist]] without knowing it is the
@@ -66,6 +66,6 @@ Follows [[the-fall-of-the-outpost]].
 ## Open
 
 - Whether the two signals arrive simultaneously, and whether the player chooses which to send.
-- The [[mystics]]' answer is [[conjurer]] reaching the monastery in [[chapter-03]]
+- The [[mystics]]' answer is [[conjurer-voisin]] reaching the monastery in [[chapter-03]]
   ([[the-answering-of-the-wand]]); the journey itself is unwritten. What the [[robots]] do about it
   is open.

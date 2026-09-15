@@ -74,12 +74,12 @@ opening**, so until [[the-cracked-gate]] the robots can neither leave nor call.
 Gate by gate, where the state has actually been decided:
 
 - **Guarded, on top of sealed.** The [[institute-of-eight]]'s allied gate to the **[[robots]]** is
-  held by a **gate guardian**, and [[ninja]]'s traitor family is sentenced to fight it endlessly.
+  held by a **gate guardian**, and [[ninja-kazuma]]'s traitor family is sentenced to fight it endlessly.
   The guardian is [[quetzalcoatl-the-white]]'s protection against foreign code entering a realm he
   leads; the sentence is history [[realm-01]] generated to explain it ([[the-gate-guardian]]).
 - **Abandoned and already cracked.** [[realm-01]] has a second gate — one of its three *enemy*
   gates, to the [[green-skins]] — lying forgotten in [[the-ancient-ruin]]. Nobody guards it and it
-  has been cracked for a long time, which is how [[ninja]] eventually leaves [[realm-01]]
+  has been cracked for a long time, which is how [[ninja-kazuma]] eventually leaves [[realm-01]]
   ([[the-second-signal]]). The Institute watches the ally it fears and neglects the enemy nobody is
   currently fighting — a genuine oversight, not a design.
 - **Open, barrier broken.** The [[celestials]]' enemy gates to the [[green-skins]] and the

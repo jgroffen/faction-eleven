@@ -77,19 +77,19 @@ unnamed, Mystic carrier.
 
 [[mifix]] is the Ninja's companion and mentor, awake and teaching the family for
 generations — and the reason the Ninja survives everything except a boss fight. In
-[[the-first-signal]] it hears [[autofix]] through the cracked gate: the Ninja's first contact with
+[[the-first-signal]] it hears [[autofix-alto]] through the cracked gate: the Ninja's first contact with
 [[realm-02]].
 
 The guardian's gate faces [[realm-02]], the [[robots]] — not the green-skins, as the prototype
 notes had it. The Ninja does not beat it until **every faction has been introduced**.
 
-They reach [[gargoyle]] another way. In chapter two the Ninja and [[mifix]] decide the faint second
+They reach [[gargoyle-granite]] another way. In chapter two the Ninja and [[mifix]] decide the faint second
 signal is **worth investigating as an alternative route to the Robot Realm** — the guarded gate
 being cracked but not passable — and follow it out through the abandoned cracked gate in
 [[the-ancient-ruin]] ([[the-second-signal]]). The two then hunt together for
-[[odie]] — which [[templar]] has.
+[[odie]] — which [[templar-ermengarda]] has.
 
-On the way, [[gargoyle]] admits to him and Mifix that he may be malfunctioning, and Mifix's attempt
+On the way, [[gargoyle-granite]] admits to him and Mifix that he may be malfunctioning, and Mifix's attempt
 to diagnose him glitches Mifix ([[the-diagnosis-of-the-last-gargoyle]]).
 
 At [[templar-monastery]] ([[the-convergence-at-the-monastery]]) the Ninja states the goal plainly to

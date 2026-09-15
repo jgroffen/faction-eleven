@@ -20,9 +20,9 @@ home: realm-01
 
 # Mifix
 
-A **mini-fix bot** from [[realm-02]] — **built by [[autofix]]** — housed in a small toy car in the
+A **mini-fix bot** from [[realm-02]] — **built by [[autofix-alto]]** — housed in a small toy car in the
 [[institute-of-eight]]'s family shrine and venerated by them as an **ancestor spirit**. Mifix is the
-[[ninja]]'s **companion and mentor** — the Ninja is Sato Kazuma, and **Mifix calls him Kaz**, and has been **online and maturing for generations of the
+[[ninja-kazuma]]'s **companion and mentor** — the Ninja is Sato Kazuma, and **Mifix calls him Kaz**, and has been **online and maturing for generations of the
 Ninja's family**.
 
 **Role:** companion · **Faction:** [[robots]] · **Home:** [[realm-01]]
@@ -39,7 +39,7 @@ sentiment; as far as he knows, he is the last chance his entire people have.
 **What he wants, immediately:** to get home to [[realm-02]]. Every gate from the Robot Realm is
 sealed, and after [[the-first-signal]] he knows for certain that someone is alive on the other
 side — which turns a generational article of faith into a destination. When a second, fainter
-signal appears, he and [[ninja]] pursue it as **an alternative way to reach the Robot Realm**
+signal appears, he and [[ninja-kazuma]] pursue it as **an alternative way to reach the Robot Realm**
 ([[the-second-signal]]), because the direct gate cannot be opened until [[the-gate-guardian]] falls.
 
 **Why he can't be sure:** his **memory has become corrupted**. The details are gone and the reasons
@@ -85,32 +85,32 @@ generations.
 
 ## The Diagnosis He Cannot Make
 
-When [[gargoyle]] admits he may be malfunctioning ([[the-diagnosis-of-the-last-gargoyle]]), Mifix
+When [[gargoyle-granite]] admits he may be malfunctioning ([[the-diagnosis-of-the-last-gargoyle]]), Mifix
 is the only thing in reach that reads code at all. He knows he cannot *fix* a gargoyle — it is not
 a robot, and he cannot even repair himself ([[no-machine-repairs-itself]]) — but he offers to see
 whether he can **diagnose** him. He cannot. And the attempt **glitches Mifix** — the first glitch
 the game shows on screen ([[continuity-glitches]]).
 
-It is the same shape of act that froze [[autofix]]: a fixbot reaching for something that is not a
+It is the same shape of act that froze [[autofix-alto]]: a fixbot reaching for something that is not a
 robot and comes from another realm. Read that as a parallel; what the glitch actually is, and
 whether it is the act or the exposure to a second foreign realm ([[realm-07]] is his second, after a
 lifetime on one) that costs him, is not stated.
 
-**A link, and a way to call for help.** At [[templar-monastery]], [[templar]] and [[conjurer]] have
+**A link, and a way to call for help.** At [[templar-monastery]], [[templar-ermengarda]] and [[conjurer-voisin]] have
 already worked out that the Templar's relics are links to ancient allies and a way to call for help
 ([[allied-faction-signals]]) — and that **Mifix is the same thing for the [[institute-of-eight]]**.
 An ancestor spirit in a toy car, understood at last as an old ally's telephone.
 
 ## Why He Is His Own
 
-Mini-fix bots are **autonomous by design** — [[autofix]] can communicate with them but not command
+Mini-fix bots are **autonomous by design** — [[autofix-alto]] can communicate with them but not command
 them, even ones he built himself ([[minibot-command]]). So Mifix living his own life in another
 realm for generations, choosing a family to train and a purpose to keep, is not a malfunction. It
 is what mini-fix bots *are*.
 
 ## The Irony He Cannot See
 
-Mifix believes he may be the last with autofix capability. One realm away lies [[autofix]] — **the
+Mifix believes he may be the last with autofix capability. One realm away lies [[autofix-alto]] — **the
 only other functioning fixbot in the world, frozen, and the machine that built Mifix in the first
 place.**
 
@@ -127,14 +127,14 @@ generations is the thing that saves the last Autofix. He is simply still calling
 
 Two jobs, one mechanical and one narrative:
 
-1. **He is why the Ninja can retry.** He **repairs the Ninja whenever he is near them**, but he
+1. **He is why the Ninja can retry.** He **repairs the Ninja whenever he is near him**, but he
    **cannot approach [[the-gate-guardian]]** — which is exactly why the Ninja dies only in boss
    fights ([[death-and-return]]). The player's forgiveness in every ordinary failure is this
    character, present and working.
 
    In [[realm-07]] this becomes literal: **Mifix is the save/restore mechanic** there ([[gargoyle-stone-metroidvania]]). A Metroid needs save rooms; this one has a companion
    instead. It also means the two protagonists sharing that map fail differently — the Ninja
-   restores from Mifix, the [[gargoyle]] simply restarts the section — without either needing a
+   restores from Mifix, the [[gargoyle-granite]] simply restarts the section — without either needing a
    system the other doesn't.
 
    He is also the Ninja's teacher inside it: the challenge rooms open with **dialogue between Mifix
@@ -142,7 +142,7 @@ Two jobs, one mechanical and one narrative:
 2. **He is the caller, and then the receiver.** Sealed realms stop signals
    ([[allied-faction-signals]]), so for generations he has been calling home and hearing nothing
    back. Once the guarded gate cracks, **his call is the first thing through it** — and it carries his
-   activity log, which wakes [[autofix]] ([[the-first-signal]]). Autofix's answer is the first thing
+   activity log, which wakes [[autofix-alto]] ([[the-first-signal]]). Autofix's answer is the first thing
    Mifix has ever heard from his own kind. A second, fainter call follows in
    [[the-second-signal]].
 
@@ -153,14 +153,14 @@ Two jobs, one mechanical and one narrative:
 
 ## Ties
 
-- [[ninja]] — his student, and the latest of many.
+- [[ninja-kazuma]] — his student, and the latest of many.
 - [[the-gate-guardian]] — the thing he cannot get past, and cannot protect the Ninja from.
-- [[autofix]] — **his maker**, frozen one realm away, and woken by Mifix's activity log.
+- [[autofix-alto]] — **his maker**, frozen one realm away, and woken by Mifix's activity log.
 - [[odie]] — the other surviving mini-fix bot, in [[realm-03]], and the source of the second signal.
 - [[the-setting-statement]] — why a fixbot degrades away from home, and why one realm's worth of it
   has not killed him.
-- [[gargoyle]] — the one thing he tries to read and cannot.
-- [[templar]] and [[conjurer]] — who work out what he is.
+- [[gargoyle-granite]] — the one thing he tries to read and cannot.
+- [[templar-ermengarda]] and [[conjurer-voisin]] — who work out what he is.
 
 ## Open
 

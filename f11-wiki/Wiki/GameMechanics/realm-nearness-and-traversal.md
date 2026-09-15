@@ -90,7 +90,7 @@ two independent layers:
 
 1. **The seal** (the Black's/Ancients' layer). **All twenty-five gates were sealed at once** by
    [[the-long-disconnection]]. The only thing that unseals one is [[xipe-totec-the-red]]'s power,
-   exercised by [[val]] or [[ninja]] — which is why most of the network is still sealed and dark, and
+   exercised by [[val]] or [[ninja-kazuma]] — which is why most of the network is still sealed and dark, and
    the handful of open or cracked gates in the material are the exceptions, not the rule.
 2. **The barrier** (the gargoyles' layer, [[the-realm-barriers]]), which exists **only** on the three
    old-war gates (07↔03, 08↔04, 09↔05). Breaking it is a second, separate act from unsealing the
@@ -103,7 +103,7 @@ gate in the material now reads as one specific state on top of a network that wa
   [[quetzalcoatl-the-white]].
 - [[the-ancient-ruin]]'s gate (01↔07, **enemy**, distance 4) — **abandoned and cracked**. It is one
   of Institute's three enemy gates, not an anomaly: the Institute guards the ally it fears might turn
-  and has simply neglected the enemy gate nobody was watching. That neglect is why [[ninja]] gets
+  and has simply neglected the enemy gate nobody was watching. That neglect is why [[ninja-kazuma]] gets
   through it at all.
 - The Damned's gate to the Green Skins (08↔07, allied) — **unsealed by Red Power**, [[val]]'s.
 - The Celestials' gates to the Green Skins and the Werebeasts (03↔07, 03↔09, both enemy,
@@ -135,7 +135,7 @@ sealed one. So everyone in the room can agree that a Celestials↔Robots gate ex
 allied gate to 02, in the table above) and nobody can walk to it. An intact gargoyle, carrying the
 network as fact, could — which is one of the four reasons the party goes looking for one.
 
-**[[gargoyle]] is the exception.** He should know the whole map like any gargoyle — but his is one of
+**[[gargoyle-granite]] is the exception.** He should know the whole map like any gargoyle — but his is one of
 the pieces the smashing took, along with the rest of his power ([[the-smashing-of-the-gargoyles]]).
 This is damage, not the ordinary torpor-amnesia that only erases what happened *while* a gargoyle
 sleeps: his backstory and everything he knew before the hammer came down should have survived intact,

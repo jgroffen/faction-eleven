@@ -26,7 +26,7 @@ Protagonist of the [[pirates]]. A commander rather than a lone adventurer — th
 ## Name
 
 **Leon.** Male. Named after **Leon Treich**, a French fiction writer of the 1940s who — along with
-oral storytelling — contributed to the stories of Jacquotte Delahaye, the pirate the [[wraith]] is
+oral storytelling — contributed to the stories of Jacquotte Delahaye, the pirate the [[wraith-delahaye]] is
 based on. The two Pirate protagonists, one alive and one dead, are drawn from the same legend;
 whether that means anything in-fiction is not established.
 
@@ -47,7 +47,7 @@ Player character. Commander archetype. Currency: Booty.
 
 ## Ties
 
-- [[wraith]] — Delahaye, a First Mate of his realm, comes back from the dead and word gets out
+- [[wraith-delahaye]] — Delahaye, a First Mate of his realm, comes back from the dead and word gets out
   ([[pirates]]). Whether she served under him is not established.
 
 **Unconfirmed** — carried over from the earlier prototype.

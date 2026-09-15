@@ -90,7 +90,7 @@ balance each other instead of arguing about them.
 Three of the game's characters carry [[the-red-power|her work]], and none of them knows what it
 actually is:
 
-- [[ninja]] strikes [[the-gate-guardian]] with it, fails to hurt the boss, and **cracks the gate**
+- [[ninja-kazuma]] strikes [[the-gate-guardian]] with it, fails to hurt the boss, and **cracks the gate**
   behind it — the first opening in the multiverse's silence ([[the-cracked-gate]]).
 - [[val]] unseals [[the-damned]]'s gates to the [[green-skins]] and [[werebeasts]], and is then picked
   up by the Blue's Secret Society System and made the founder of [[the-guardians-of-night]].
@@ -128,5 +128,5 @@ have since stagnated for want of anyone willing to change them.
 - [[huitzilopochtli-the-blue]] — her opposite, and the other half of the answer.
 - [[quetzalcoatl-the-white]] — the senior she aligns with, until she loses patience with him.
 - [[the-red-power]] — what she gave, and its scope.
-- [[ninja]] · [[val]] — two of the three she imbued.
+- [[ninja-kazuma]] · [[val]] — two of the three she imbued.
 - [[the-cracked-gate]] — what her power produced, by accident.

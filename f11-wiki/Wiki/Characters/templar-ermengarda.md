@@ -44,10 +44,10 @@ hold [[the-outpost]] until it cannot be held, lead her people out
 Acting on that belief, she finds and uses [[the-wand]] and [[odie]] to call the
 [[mystics]] and the [[robots]] ([[the-calling-of-ancient-allies]]).
 
-**And she is answered.** [[conjurer]] reaches the monastery first ([[the-answering-of-the-wand]]),
+**And she is answered.** [[conjurer-voisin]] reaches the monastery first ([[the-answering-of-the-wand]]),
 and together the two of them work out what the Templar has actually been holding: the relics are
-**links to ancient allies, and a way to call for help** ([[allied-faction-signals]]). When [[ninja]],
-[[gargoyle]] and [[mifix]] arrive, the two can name Mifix as the same thing for the
+**links to ancient allies, and a way to call for help** ([[allied-faction-signals]]). When [[ninja-kazuma]],
+[[gargoyle-granite]] and [[mifix]] arrive, the two can name Mifix as the same thing for the
 [[institute-of-eight]] ([[the-convergence-at-the-monastery]]).
 
 **What the Templar does not know is where the gates are.** The [[celestials]]' awareness of their
@@ -85,8 +85,8 @@ faction class in the same faction.
 Defends against [[green-skins]] and [[werebeasts]].
 
 - [[odie]] — the relic she wakes, and the first she understands.
-- [[conjurer]] — the first ally to answer, and co-author of the relics insight.
-- [[ninja]], [[gargoyle]], [[mifix]] — the second party to arrive.
+- [[conjurer-voisin]] — the first ally to answer, and co-author of the relics insight.
+- [[ninja-kazuma]], [[gargoyle-granite]], [[mifix]] — the second party to arrive.
 
 ## Open
 

@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-09
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -19,7 +19,7 @@ locations: []
 
 # The Cracked Gate
 
-[[ninja]] fights [[the-gate-guardian]] and **loses**. But the battle **cracks the gate** — and
+[[ninja-kazuma]] fights [[the-gate-guardian]] and **loses**. But the battle **cracks the gate** — and
 through that crack, for the first time since [[the-long-disconnection]], **a signal gets between
 realms**.
 
@@ -37,13 +37,13 @@ In-fiction the Institute will call it a technique the Ninja trained and finally 
 is the kind of explanation a realm generates ([[the-retcon-engine]]). Both accounts are true. The
 distance between them is the game.
 
-The crack is what lets [[mifix]] and [[autofix]]'s **Quantum Comms** reach each other
+The crack is what lets [[mifix]] and [[autofix-alto]]'s **Quantum Comms** reach each other
 ([[the-first-signal]]). Mifix does not wake — he has been awake for generations — he simply, for
 the first time in living memory, **hears something**.
 
 **Why the crack matters is a transmission problem, not a reception one.** **All gates from
 [[realm-02]] are fully sealed**, and **Quantum Comms cannot operate without an opening**. So
-[[autofix]] is not unheard because nobody is listening — he is unheard because his signal cannot
+[[autofix-alto]] is not unheard because nobody is listening — he is unheard because his signal cannot
 leave his own realm at all.
 
 And he is not trying to be heard. Quantum Comms is a **local** upgrade, for controlling his own
@@ -62,8 +62,8 @@ The sealed gates do not merely stop travellers; they stop **signals**
 space between them did. So the first reconnection in the game does not need a device to be
 repaired or a gate to be opened. It needs a **flaw**.
 
-The Ninja provides it by failing. Beaten as their family has always been beaten, they strike hard
-enough to fracture the thing they could not pass.
+The Ninja provides it by failing. Beaten as his family has always been beaten, he strikes hard
+enough to fracture the thing he could not pass.
 
 That is the game's quietest and best idea: **the first crack in the multiverse's silence is made by
 someone losing.** The generational sentence that looked like futility turns out to have been the only
@@ -92,7 +92,7 @@ punched by a stranger who does not know they exist, while failing at something e
 robots.
 
 This makes the geometry exact. The crack is in the **01 ↔ 02** wall, and the signal that comes
-through it runs between the mini-fix bot in [[realm-01]]'s shrine and [[autofix]] in [[realm-02]].
+through it runs between the mini-fix bot in [[realm-01]]'s shrine and [[autofix-alto]] in [[realm-02]].
 No leakage, no membrane — one cracked door between two specific realms.
 
 It is also the arrangement the wheel predicts: [[realm-01]] and [[realm-02]] are **neighbours and

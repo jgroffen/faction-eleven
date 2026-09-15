@@ -33,7 +33,7 @@ him down herself. Closes [[chapter-02]].
 
 ## Hook
 
-By this point the [[gargoyle]] has traced the broken barrier back to [[the-guardians-of-night]] —
+By this point the [[gargoyle-granite]] has traced the broken barrier back to [[the-guardians-of-night]] —
 loud enough that Val notices him noticing. She seeks him out to settle it herself, the same way she
 settled the original smashing: in person, briefly, and leaving the violence to somebody else.
 
@@ -69,7 +69,7 @@ settled the original smashing: in person, briefly, and leaving the violence to s
 
 - **He hides the doubt.** Val's claim doesn't convince him in the room, but it plants something he
   does not show her: after she leaves, he privately begins to doubt he is functioning properly. See
-  [[gargoyle]].
+  [[gargoyle-granite]].
 - **The Minotaur is the same Minotaur** who helped smash the gargoyles in
   [[the-smashing-of-the-gargoyles]] — the soldier who did the hammer-work is the one being talked
   out of finishing the job.
@@ -78,7 +78,7 @@ settled the original smashing: in person, briefly, and leaving the violence to s
   other gargoyles herself rather than risk this one surviving a second time.
 - **This closes [[chapter-02]].** It is the chapter-scale revelation with a named antagonist that
   the chapter's open ending question was waiting on.
-- Sets up [[gargoyle]]'s decision to leave [[realm-07]] with [[ninja]] — not persuasion by another
+- Sets up [[gargoyle-granite]]'s decision to leave [[realm-07]] with [[ninja-kazuma]] — not persuasion by another
   protagonist, but his own doubt sending him looking for answers. The doubt is spoken aloud in the
   next scene, [[the-diagnosis-of-the-last-gargoyle]], which opens [[chapter-03]]. See the
-  [[gargoyle]] and [[ninja]] notes, and the handoff on what follows at the Celestials' gate.
+  [[gargoyle-granite]] and [[ninja-kazuma]] notes, and the handoff on what follows at the Celestials' gate.

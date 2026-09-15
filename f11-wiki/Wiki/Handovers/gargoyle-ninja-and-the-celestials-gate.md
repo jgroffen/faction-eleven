@@ -17,14 +17,14 @@ aliases: []
 
 _What is already written down. Link it, do not restate it._
 
-- [[gargoyle]] — see "After Val", "The Council, And The Judge He Would Trust" and "A Later
+- [[gargoyle-granite]] — see "After Val", "The Council, And The Judge He Would Trust" and "A Later
   Chapter": his doubt after [[the-trial-of-the-last-gargoyle]], spoken aloud in
   [[the-diagnosis-of-the-last-gargoyle]]; that he can get the Ninja through the gate to the
   Celestials, which the Ninja cannot manage alone; and why he wants a Werebeast gargoyle.
-- [[ninja]] — carries [[xipe-totec-the-red]]'s power to breach a sealed gate (gates only —
+- [[ninja-kazuma]] — carries [[xipe-totec-the-red]]'s power to breach a sealed gate (gates only —
   [[the-red-power]]), felt as a compulsion rather than known as a tool, until [[odie]] identifies it.
 - [[odie]] — the one who identifies the Ninja's power, at [[templar-monastery]].
-- [[templar]] — where the meeting happens; already the point [[chapter-02]] and [[chapter-03]]
+- [[templar-ermengarda]] — where the meeting happens; already the point [[chapter-02]] and [[chapter-03]]
   converge on via [[the-second-signal]] and [[the-calling-of-ancient-allies]].
 - [[the-trial-of-the-last-gargoyle]] — the scene immediately before this thread starts.
 - [[the-realm-barriers]] — the gate/barrier distinction this whole sequence turns on: the Gargoyle
@@ -44,7 +44,7 @@ sequence; Round 37 (Q81–Q86) resolved three of its six open points. Now writte
 - **#2 — what "answers" the Gargoyle is after: resolved.** Two things, both only an intact gargoyle
   can give: a judgement he would trust on whether he is malfunctioning (he does not trust Val; he
   would trust his own kind), and the physical location of the Celestials' gate to the Robots. See
-  [[gargoyle]] ("The Council, And The Judge He Would Trust") and
+  [[gargoyle-granite]] ("The Council, And The Judge He Would Trust") and
   [[the-convergence-at-the-monastery]] ("The Council").
 - **#4 — sequencing against the convergence: resolved.** This thread *is* the convergence. The
   Conjurer reaches the Templar first ([[the-answering-of-the-wand]]); the Ninja, Gargoyle and Mifix

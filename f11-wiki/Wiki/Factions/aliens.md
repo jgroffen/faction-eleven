@@ -20,7 +20,7 @@ enemies:
 # The Aliens
 
 Not one people but **many species**, under attack from [[the-damned]]. Their protagonist is
-[[squidling]], a medic, whose story is one of **rescue** rather than conquest.
+[[squidling-calamari]], a medic, whose story is one of **rescue** rather than conquest.
 
 **Homeland:** [[realm-10]] — alien space, reached from [[realm-08]] through a void. See
 [[the-wheel-of-realms]].
@@ -68,7 +68,7 @@ website, recorded as the last written state and not as confirmed current design.
 | Front Liner | Thunder Lizard | Reptilian dinosaur-like humanoids. |
 | Heavy Weapons | Tripod | Installed with a death ray. |
 | Infiltrator | Martian | Little Green Men from the Red Planet. |
-| Medic | [[squidling]] | Cute Squiddish Aliens. **← protagonist** |
+| Medic | [[squidling-calamari]] | Cute Squiddish Aliens. **← protagonist** |
 | Specialist | Feline | A race of alien humanoid cats. |
 
 The faction's own one-line description on that site: *"Unknowable intelligence, unfathomable motives."*
@@ -77,12 +77,12 @@ The faction's own one-line description on that site: *"Unknowable intelligence, 
 
 **Squidlings reproduce asexually, through parthenogenesis.** The species has no gender and its
 language has no gendered pronouns: a Squidling is **"it"**, and Squidlings use **names** in
-preference to pronouns when talking to or about anyone. Their protagonist is [[squidling|Calamari]].
+preference to pronouns when talking to or about anyone. Their protagonist is [[squidling-calamari|Calamari]].
 
 ## Members
 
 <!-- gd:members:start -->
-- [[squidling|Calamari, the Squidling]] · protagonist
+- [[squidling-calamari|Calamari, the Squidling]] · protagonist
 <!-- gd:members:end -->
 
 ## Notes

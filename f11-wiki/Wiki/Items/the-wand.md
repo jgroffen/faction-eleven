@@ -18,7 +18,7 @@ source: "Found in the ancient parts of the Templar Monastery, chapter two"
 
 # The Wand
 
-One of the two **ancient devices** the [[templar]] finds in the ancient parts of the
+One of the two **ancient devices** the [[templar-ermengarda]] finds in the ancient parts of the
 [[templar-monastery]] and uses to signal for aid before retreating. **The wand calls the
 [[mystics]]** — and the mystics receive it.
 

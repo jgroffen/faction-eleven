@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -16,7 +16,7 @@ controlling_faction: celestials
 
 # The Templar Monastery
 
-The [[celestials]]' fallback, and **the setting for their realm in chapter two**. The [[templar]]
+The [[celestials]]' fallback, and **the setting for their realm in chapter two**. The [[templar-ermengarda]]
 retreats here twice — first from [[the-fall-of-the-outpost]] in chapter one, then again after
 losing to the war machine a second time.
 
@@ -32,7 +32,7 @@ Two monasteries in one building:
   levels**. This is where the past is kept, and where [[the-wand]] and
   [[odie]] are found.
 
-The Templar does not retreat here by accident. **They choose it**, believing the Celestials need to
+The Templar does not retreat here by accident. **She chooses it**, believing the Celestials need to
 find **ancient allies** to defeat the war machine — so the monastery is picked as an *archive*
 rather than a fortress. Falling back to it is an act of research.
 

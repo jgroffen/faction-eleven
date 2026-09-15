@@ -35,7 +35,7 @@ memory puzzle** ([[wraith-memory-puzzle]]) — the name is one of the memories.
 ([[realm-06]]) and word gets out that she has returned ([[pirates]]). When in the story that happens
 is not established.
 
-She is based on the stories of **Jacquotte Delahaye**, a pirate of the Caribbean Sea. The [[captain]]
+She is based on the stories of **Jacquotte Delahaye**, a pirate of the Caribbean Sea. The [[captain-leon]]
 — Leon — is named after one of the writers who contributed to those stories.
 
 ## Character
@@ -81,7 +81,7 @@ handed glitch information — she fits it into game logic, most often as **messa
 
 - [[the-damned]] — her faction; [[realm-08]] — her grave.
 - [[pirates]] · [[realm-06]] — her life, and where she is *Back from the Dead Del*.
-- [[autofix]] — Alto, the name she gives him when they meet.
+- [[autofix-alto]] — Alto, the name she gives him when they meet.
 - [[wraith-memory-puzzle]] · [[wraith-object-reading]] · [[the-wraith-s-mansion]] — how she plays.
 - [[death-and-return]] — the grave as spawn point.
 - [[continuity-glitches]] — what the flicker is, and what characters make of it.
@@ -95,8 +95,8 @@ complicit, opposed, or unaware is unrecorded.
 - Whether her code-layer readings have anything to do with the liches' access
   ([[the-lich-experiment]]), who are the same faction and the only characters who *understand* it.
 - How fast her awareness that the glitches carry information grows, and what marks each step.
-- Whether she knows the [[captain]] — Leon — or served under him. Their names come from the same
+- Whether she knows the [[captain-leon]] — Leon — or served under him. Their names come from the same
   legend; whether that connects them in-fiction is not stated.
-- When she reaches realm-06, and when she meets [[autofix]] — whom she names **Alto**.
+- When she reaches realm-06, and when she meets [[autofix-alto]] — whom she names **Alto**.
 - What "party mechanics" means in a game that has none yet, and which realm's style would call
   for them.

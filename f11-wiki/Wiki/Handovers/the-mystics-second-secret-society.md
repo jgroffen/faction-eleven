@@ -4,7 +4,7 @@ tags:
 topics: []
 status: open
 created: 2026-09-07
-updated: 2026-09-13
+updated: 2026-09-15
 expires: 2026-12-06
 sources: []
 source_count: 0
@@ -23,7 +23,7 @@ _What is already written down. Link it, do not restate it._
 - [[mystics]] — currently the invaded party (by [[the-damned]] and some [[werebeasts]], instigated
   by the Guardians of Night), with **no game style designed at all**.
 - [[werebeasts]] — the one realm whose gargoyles were never smashed and whose barriers still stand;
-  [[gargoyle]] is already headed there in a separate thread (see
+  [[gargoyle-granite]] is already headed there in a separate thread (see
   [[gargoyle-ninja-and-the-celestials-gate]]).
 - [[the-realm-barriers]] — the werebeasts→fey-folk barrier (09→05) is what's `standing`; this new
   thread is a different route (Mystics→Werebeasts) not yet in that page's table at all. (Green
@@ -61,9 +61,9 @@ author as a **big part of chapter three**, entirely unresolved beyond this sketc
    is; hammering destroys the instructions" — does stasis leave the instructions intact but
    inaccessible, and can it be reversed (by the player)?
 4. **A third occurrence of the Red's Power**, in an unnamed Mystics character — presumably how the
-   stasis-casters or the invasion route is possible at all. Candidate bearer: [[conjurer]], the
+   stasis-casters or the invasion route is possible at all. Candidate bearer: [[conjurer-voisin]], the
    Mystics' protagonist, but this is a guess, not stated.
-5. **Interaction with the parallel Gargoyle/Ninja thread.** [[gargoyle]] is already headed to
+5. **Interaction with the parallel Gargoyle/Ninja thread.** [[gargoyle-granite]] is already headed to
    realm-09 to save its gargoyles from [[val]] in one thread
    ([[gargoyle-ninja-and-the-celestials-gate]]); this Mystics invasion threatens the same gargoyles
    from a different direction. Whether these are the same event seen from two sides, sequential, or
@@ -92,7 +92,7 @@ because it contradicts current canon in three places that the next session has t
   gates — 07↔03, 08↔04, 09↔05. "The Gargoyle barrier to the Mystic Realm" would be a fourth, or the
   09↔05 one misremembered. If a fourth, the old war's geometry (each defender realm walled one
   invader) changes.
-- **The Werebeast gargoyles are "never smashed, barriers still stand."** [[werebeasts]], [[gargoyle]]
+- **The Werebeast gargoyles are "never smashed, barriers still stand."** [[werebeasts]], [[gargoyle-granite]]
   and [[the-smashing-of-the-gargoyles]] all say realm-09 holds the only intact set of guardians. A
   stasis spell is not smashing, but it *is* neutralising, and "need reactivating" (now on record in
   the compiled notes, without a reason) would be why. Reconcile by deciding what "intact" means.
@@ -102,8 +102,8 @@ because it contradicts current canon in three places that the next session has t
   nothing says so yet — and the council's "seal the gate to the Mystics" reads differently
   depending on which way the invasion runs.
 
-Also relevant: whether the Mystics' Red Power carrier is [[conjurer]] (point 4 above) matters more
-now that the Conjurer is at the monastery agreeing to seal a gate their own faction may have
+Also relevant: whether the Mystics' Red Power carrier is [[conjurer-voisin]] (point 4 above) matters more
+now that the Conjurer is at the monastery agreeing to seal a gate her own faction may have
 opened.
 
 ## Next step

@@ -61,7 +61,7 @@ someone.
 them, a present-day one. Those roles are **derived from someone else's story** rather than invented
 to fill a table. Their internal lives remain untouched, and should stay that way until there is real
 material. The Damned are the exception on style and protagonist: [[wraith-memory-puzzle]] and the
-[[wraith]]'s arc arrived as real material, and their faction story is still the gap.
+[[wraith-delahaye]]'s arc arrived as real material, and their faction story is still the gap.
 
 ## What "unconfirmed" means
 

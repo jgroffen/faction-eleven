@@ -27,9 +27,9 @@ quests:
 
 # Chapter 3 — The Convergence
 
-**Provisional.** Opens on [[gargoyle]]'s doubt and [[mifix]]'s first glitch, introduces the
-[[mystics]]' gameplay as [[conjurer]] answers [[the-wand]], and ends with [[ninja]], [[mifix]] and
-the Gargoyle **reaching [[templar]] and the Conjurer** — and the five of them deciding to seek out
+**Provisional.** Opens on [[gargoyle-granite]]'s doubt and [[mifix]]'s first glitch, introduces the
+[[mystics]]' gameplay as [[conjurer-voisin]] answers [[the-wand]], and ends with [[ninja-kazuma]], [[mifix]] and
+the Gargoyle **reaching [[templar-ermengarda]] and the Conjurer** — and the five of them deciding to seek out
 a [[werebeasts|Werebeast]] gargoyle ([[the-convergence-at-the-monastery]]).
 
 **Status:** outline · **Lead faction:** [[mystics]] — **inference, not established**
@@ -44,13 +44,13 @@ This restructure is **not settled**.
 
 ## Story
 
-1. **[[the-diagnosis-of-the-last-gargoyle]]** — the chapter's opening. [[gargoyle]] tells [[ninja]]
+1. **[[the-diagnosis-of-the-last-gargoyle]]** — the chapter's opening. [[gargoyle-granite]] tells [[ninja-kazuma]]
    and [[mifix]] he may be malfunctioning and cannot tell. Mifix cannot fix him but offers to
    diagnose him; the attempt fails and glitches Mifix — the game's first on-screen glitch
    ([[continuity-glitches]]).
 2. **[[the-answering-of-the-wand]]** — the [[mystics]]' realm and gameplay are introduced —
-   **undesigned**, and the subject of a dedicated session. [[conjurer]] answers the wand and is the
-   first to reach [[templar]]. Together they work out that the Templar's relics are links to ancient
+   **undesigned**, and the subject of a dedicated session. [[conjurer-voisin]] answers the wand and is the
+   first to reach [[templar-ermengarda]]. Together they work out that the Templar's relics are links to ancient
    allies and a way to call for help ([[allied-faction-signals]]).
 3. **[[the-convergence-at-the-monastery]]** — the Ninja, Mifix and the Gargoyle arrive. [[mifix]]
    meets [[odie]]; the Robot Realm's lost history can be recovered, along with hints toward the
@@ -63,10 +63,10 @@ This restructure is **not settled**.
 
 | Faction | Form | Game style | What they do |
 |---------|------|-----------|--------------|
-| [[mystics]] | **lead** (inferred) | ❌ **none designed** | introduced; [[conjurer]] answers [[the-wand]] and reaches the Templar first |
+| [[mystics]] | **lead** (inferred) | ❌ **none designed** | introduced; [[conjurer-voisin]] answers [[the-wand]] and reaches the Templar first |
 | [[celestials]] | major | [[celestials-hero-tower-defence]] ✅ | hold the monastery; receive the allies they retreated to find; work out what their relics are |
 | [[institute-of-eight]] | travelling | [[ninja-rhythm-platforming]] ✅ | arrive with [[mifix]], who glitches on the way |
-| [[green-skins]] | travelling | [[gargoyle-stone-metroidvania]] ✅ (home realm only) | [[gargoyle]] voices his doubt, arrives with the Ninja, and gets his reason to go on |
+| [[green-skins]] | travelling | [[gargoyle-stone-metroidvania]] ✅ (home realm only) | [[gargoyle-granite]] voices his doubt, arrives with the Ninja, and gets his reason to go on |
 | [[robots]] | by proxy | [[robots-incremental-exploration]] ✅ | [[mifix]] and [[odie]] meet; history recovered; Mifix understood as the Institute's link to them |
 
 ## Content Load
@@ -77,7 +77,7 @@ This restructure is **not settled**.
 - A convergence scene involving four protagonists from four genres, which is a **presentation
   problem nothing else in the game has had to solve**: what does the player *play* when four
   different games arrive in one room?
-- What [[gargoyle]]'s stone kit becomes in [[realm-03]] under [[realm-governs-game-style]] — not
+- What [[gargoyle-granite]]'s stone kit becomes in [[realm-03]] under [[realm-governs-game-style]] — not
   designed.
 
 ## Continuity

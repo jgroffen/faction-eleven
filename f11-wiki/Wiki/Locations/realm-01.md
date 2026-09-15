@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/faction-diagram.md
 source_count: 1
@@ -43,8 +43,8 @@ Home to the [[institute-of-eight]]'s **family shrine**, which holds **two**
 
 **Five gates, per the fixed network** ([[realm-nearness-and-traversal]]): allied to [[realm-10]] and
 [[realm-02]]; enemy to [[realm-05]], [[realm-06]] and [[realm-07]]. Only two have any dramatised
-state. The gate to [[realm-02]] is **guarded** — this is the gate guardian [[ninja]]'s family is
-sentenced to fight for ever, and the one cracked by their defeat ([[the-cracked-gate]]). The enemy
+state. The gate to [[realm-02]] is **guarded** — this is the gate guardian [[ninja-kazuma]]'s family is
+sentenced to fight for ever, and the one cracked by his defeat ([[the-cracked-gate]]). The enemy
 gate to [[realm-07]] stands **abandoned and already cracked** in [[the-ancient-ruin]] — nobody's
 watching an enemy that isn't currently attacking, while the guarded ally-gate gets all the
 attention. The other three (to [[realm-10]], [[realm-05]] and [[realm-06]]) have no stated state and

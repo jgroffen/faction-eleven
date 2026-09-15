@@ -42,7 +42,7 @@ Every divine act in [[the-four-gods]] is a change to a codebase:
 | Realms descend into war and reality nears destruction | linking caused severe side effects across the games                                                                    |
 | Three gods seal the gates with their combined power   | the White argued that closing the links would stabilise the games, and won — the three shut them down                   |
 | Realms decay in isolation                             | unmaintained games rot — no patches, no new content                                                                    |
-| The Red imbues [[ninja]] and [[val]]                  | a sneaked-in code change letting two characters unseal gates                                                           |
+| The Red imbues [[ninja-kazuma]] and [[val]]                  | a sneaked-in code change letting two characters unseal gates                                                           |
 | The White learns of it and sets guardians             | a notification that characters are appearing in the wrong games, a look through the change history, and defensive code |
 | The Blue seeds the [[the-guardians-of-night]]         | shipped a **Secret Society System**                                                                                    |
 | Liches open gates into a void                         | AI-driven characters that hacked out onto the network ([[the-void]])                                                   |
@@ -162,7 +162,7 @@ between them they produced every large feature of the world the player finds.
 the instability was never cured, only contained, and the containment produced stagnation on top of it.
 The four argued and argued and settled nothing.
 
-3. **The Red sneaked a small change into the codebase** — the Red Power, granted to [[ninja]] and
+3. **The Red sneaked a small change into the codebase** — the Red Power, granted to [[ninja-kazuma]] and
    [[val]]. No proposal, no argument, no review. **This is the first illegitimate act in the entire
    history**, and it is the catalyst: it is what licenses
 4. **the Blue's changes**, made the same way and much larger.
@@ -385,6 +385,6 @@ appears, a boss exists that did not yesterday, a notification fires somewhere ou
 Five channels carry it: decoded [[the-ancient-language]]; accumulated [[continuity-glitches]]; the
 **avatars and the leaked fragments of the outside**, which are the most direct and the earliest
 available; the liches, who are the only entities that have been outside and can testify; and
-[[wraith-object-reading]], which sometimes hands the [[wraith]] a commit message or a code comment
+[[wraith-object-reading]], which sometimes hands the [[wraith-delahaye]] a commit message or a code comment
 instead of an object's history — raw dev-layer text, with the Wraith flickering and flashing ASCII
 as her power fails to hold it.

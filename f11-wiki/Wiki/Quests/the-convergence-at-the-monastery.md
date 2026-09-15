@@ -28,7 +28,7 @@ prerequisites:
 # The Convergence At The Monastery
 
 The culmination of a chapter, and the first time protagonists from four factions stand in the same
-place: **[[ninja]], [[mifix]] and [[gargoyle]] reach [[templar]] and [[conjurer]]**, who are
+place: **[[ninja-kazuma]], [[mifix]] and [[gargoyle-granite]] reach [[templar-ermengarda]] and [[conjurer-voisin]]**, who are
 already together. Then the five of them decide what to do.
 
 **Status:** design · **Type:** main · **Chapter:** [[chapter-03]] · **Location:**
@@ -103,8 +103,8 @@ room runs through a door that only a guardian remembers.
 
 - Whether the war machine is beaten here or survives the chapter.
 - What the four-protagonist convergence *plays* like — see [[chapter-03]].
-- What [[conjurer]] does mechanically once the second party arrives.
-- Whether [[templar]] learns what [[odie]] is beyond "a link to an ancient ally."
+- What [[conjurer-voisin]] does mechanically once the second party arrives.
+- Whether [[templar-ermengarda]] learns what [[odie]] is beyond "a link to an ancient ally."
 - **Which gate "the gate to the Mystics" is** and what state the Werebeast gargoyles are in — the
   whole Werebeast side is deferred to [[the-mystics-second-secret-society]] and
   [[gargoyle-ninja-and-the-celestials-gate]].

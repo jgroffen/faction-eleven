@@ -47,7 +47,7 @@ partial answer — they are **being manipulated and used**
 
 Realm 07 is a **Metroid map**: one gated space opened by acquiring abilities
 ([[gargoyle-stone-metroidvania]]). Under [[realm-governs-game-style]] it is played by **two
-protagonists** — [[gargoyle]] at home in it, and [[ninja]] passing through in [[chapter-02]] — each
+protagonists** — [[gargoyle-granite]] at home in it, and [[ninja-kazuma]] passing through in [[chapter-02]] — each
 with their own ability ladder and their own upgrade nodes, the Gargoyle's **lore fragments** and the
 Ninja's **challenge rooms**.
 

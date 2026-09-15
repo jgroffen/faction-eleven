@@ -15,7 +15,7 @@ aliases:
 canon: proposed
 era: long before the game
 characters:
-  - gargoyle
+  - gargoyle-granite
 factions:
   - green-skins
   - the-damned
@@ -80,7 +80,7 @@ were **instructed to rest until needed again**. They entered stone torpor, and t
 without them. See [[the-smashing-of-the-gargoyles]] for what happened next.
 
 **They know nothing of what passed while they slept.** Whatever occurred between the torpor and the
-waking is simply missing — which is why [[gargoyle]] wakes with his history intact and his present
+waking is simply missing — which is why [[gargoyle-granite]] wakes with his history intact and his present
 a blank.
 
 ## What They Do Not Know
@@ -93,7 +93,7 @@ everyone else's. Their knowledge is deep, and it stops exactly where the game's 
 
 - [[the-realm-barriers]] — what they built, and what wakes them.
 - [[the-smashing-of-the-gargoyles]] — how they were removed.
-- [[gargoyle]] — the last one still able to move.
+- [[gargoyle-granite]] — the last one still able to move.
 - [[the-wheel-of-realms]] — the war they were built for runs along the wheel's opposition axis.
 - [[green-skins]] · [[the-damned]] · [[werebeasts]] — the three realms they guard.
 

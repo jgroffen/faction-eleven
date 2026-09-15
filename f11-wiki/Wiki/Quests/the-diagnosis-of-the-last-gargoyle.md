@@ -25,7 +25,7 @@ prerequisites:
 
 # The Diagnosis Of The Last Gargoyle
 
-[[gargoyle]] admits to [[ninja]] and [[mifix]] that he does not know whether he is malfunctioning.
+[[gargoyle-granite]] admits to [[ninja-kazuma]] and [[mifix]] that he does not know whether he is malfunctioning.
 Mifix offers to find out — and the attempt breaks something in Mifix instead. Opens [[chapter-03]].
 
 **Status:** design · **Type:** main · **Chapter:** [[chapter-03]] · **Location:** [[realm-07]]
@@ -61,7 +61,7 @@ been carrying that silently; here he stops carrying it silently.
 ## Notes
 
 - **The Gargoyle cannot be diagnosed by a machine, and the machine pays for trying.** This is the
-  same shape of act that froze [[autofix]] — a fixbot reaching for something that is not a robot and
+  same shape of act that froze [[autofix-alto]] — a fixbot reaching for something that is not a robot and
   comes from another realm — read as a parallel, not as a stated cause.
 - **Mifix has now met a second foreign realm.** He survived generations in [[realm-01]] on one foreign
   [[the-setting-statement|Setting Statement]]; [[realm-07]] is his second. Whether that is why the
@@ -69,7 +69,7 @@ been carrying that silently; here he stops carrying it silently.
 - **Mifix is the save/restore mechanic in [[realm-07]]** ([[gargoyle-stone-metroidvania]]). A glitch
   in him is a glitch in the player's safety net — worth using deliberately rather than ignoring.
 - Feeds the question forward: at [[templar-monastery]] the Gargoyle settles on a *gargoyle* as the
-  only judge he would trust — see [[gargoyle]].
+  only judge he would trust — see [[gargoyle-granite]].
 
 ## Open
 
@@ -78,5 +78,5 @@ been carrying that silently; here he stops carrying it silently.
 - Whether the player controls anyone while Mifix is glitched, and whether save/restore is
   unavailable for a stretch.
 - Whether the scene sits in [[realm-07]] before the crossing to [[realm-03]], or during it.
-- Whether Mifix learns anything from the failure — the lesson [[autofix]] drew from Mifix's own log
+- Whether Mifix learns anything from the failure — the lesson [[autofix-alto]] drew from Mifix's own log
   was *"if you don't know how to fix them yet, don't try."*

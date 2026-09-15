@@ -13,10 +13,10 @@ aliases:
 canon: proposed
 era: always true; discovered in play
 characters:
-  - autofix
+  - autofix-alto
   - mifix
   - odie
-  - ninja
+  - ninja-kazuma
 factions:
   - robots
 locations: []
@@ -32,7 +32,7 @@ The fixbots' heal skill repairs the code of the entity being fixed, which is why
 
 **A fixbot's heal is not medicine and not repair. It is a patch.** The skill edits the **code of the
 entity being fixed**, which is why the same ability mends a broken robot and closes a wound on
-[[ninja]]. To something that works at that level, a person and a machine are the same kind of object.
+[[ninja-kazuma]]. To something that works at that level, a person and a machine are the same kind of object.
 
 **So a fixbot is code-aware underneath.** It has to be: you cannot patch what you cannot read. That
 awareness is not a perk bolted onto the heal skill — it is the precondition for the heal skill
@@ -74,7 +74,7 @@ fixbot in the world, and that is what actually ended the line — not the purge 
 | | Exposure | Where that leaves them |
 |---|---|---|
 | The rest of the line | crossed, repeatedly | crashed, or frozen |
-| [[autofix]] | one foreign object, one paradox | **froze**, and was recoverable |
+| [[autofix-alto]] | one foreign object, one paradox | **froze**, and was recoverable |
 | [[mifix]] | exactly one other realm, held for generations | **bugging out and still running** |
 | [[odie]] | switched off throughout — almost none | intact |
 
@@ -88,11 +88,11 @@ character has all three:
 
 | | Sees it | Understands it | Can trust itself | How long it lasts |
 |---|---|---|---|---|
-| [[autofix]] | **yes** — code sight | no — barely been running | yes, and it does not help | **on the clock**, from the moment he crosses |
+| [[autofix-alto]] | **yes** — code sight | no — barely been running | yes, and it does not help | **on the clock**, from the moment he crosses |
 | [[odie]] | **yes** — code sight, plus a memory that predates the retcons | no — dormant almost the whole time | yes | untouched, while he stays off |
 | [[mifix]] | **yes** — code sight | partly | **no** — he has run too long and knows his own code is degraded | **failing slowly**, and has been for generations |
 | The liches | **yes** — AI self-awareness | **yes**, and they explain it | yes | indefinitely — they repair their own code ([[the-lich-experiment]]) |
-| [[gargoyle]] | **yes** — an unedited memory, not code sight | no | yes | his memory is fixed; it does not decay, it only ages |
+| [[gargoyle-granite]] | **yes** — an unedited memory, not code sight | no | yes | his memory is fixed; it does not decay, it only ages |
 | Everyone else | no | — | — | — |
 
 **The last column is the one that costs something.** Every code-sighted witness in the game is
@@ -108,7 +108,7 @@ alone.
 
 **[[odie]] is the control case.** Switched off deliberately, so his memory predates the retcons and
 his code never degraded — code sight *and* an unedited past, with no framework to interpret either.
-He and [[gargoyle]] are preserved by the same mechanism from opposite ends of the map.
+He and [[gargoyle-granite]] are preserved by the same mechanism from opposite ends of the map.
 
 ## Design Consequence
 
@@ -132,7 +132,7 @@ chapters and around the liches, and must be spent more carefully everywhere else
 
 ## Player-Facing
 
-**Available from chapter one, and unreadable until much later.** [[autofix]] leads
+**Available from chapter one, and unreadable until much later.** [[autofix-alto]] leads
 [[chapter-01]] and can already see the seams; he simply has no idea what they mean. The player is
 handed a character who notices, cannot interpret, and does not think it is important — which is the
 ideal way to plant evidence that has to keep for eight chapters.

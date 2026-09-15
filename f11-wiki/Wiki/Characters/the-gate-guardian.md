@@ -21,7 +21,7 @@ home: realm-01
 # The Gate Guardian
 
 The boss that holds the guarded gate in [[realm-01]] — the gate to [[realm-02]]. The
-[[institute-of-eight]] sentence [[ninja]]'s family to fight it **endlessly**, generation after
+[[institute-of-eight]] sentence [[ninja-kazuma]]'s family to fight it **endlessly**, generation after
 generation, and no one has ever beaten it.
 
 **Role:** boss · **Faction:** not established · **Home:** [[realm-01]]
@@ -30,7 +30,7 @@ generation, and no one has ever beaten it.
 
 **It is a protection, and the Institute did not place it.** [[quetzalcoatl-the-white]] set guardians
 on the gates of the realms he leads, to stop anything from another realm getting in and breaking them
-further — a response to [[xipe-totec-the-red]] imbuing [[ninja]] with
+further — a response to [[xipe-totec-the-red]] imbuing [[ninja-kazuma]] with
 [[the-red-power|the power to unseal gates]] ([[the-four-gods]]).
 
 **It is a stopgap, and it is a sign of frustration.** The White is not fortifying a position he is
@@ -46,7 +46,7 @@ to a treason it never committed — is a side effect he never looked for.
 **The Institute's sentence is a fiction the realm wrote to explain it.** A boss appeared at a gate
 with no history attached, and [[realm-01]] generated one: a family who committed treason, condemned
 to fight it endlessly, generation after generation ([[the-retcon-engine]]). Nobody in the Institute
-is lying. The records are real, the shame is real, and [[ninja]]'s family have lived and died inside
+is lying. The records are real, the shame is real, and [[ninja-kazuma]]'s family have lived and died inside
 an explanation that was written to cover an edit.
 
 This is the game's **worked example of a retcon, and the player stands inside it from chapter one.**
@@ -78,7 +78,7 @@ faction's progression.
 
 ## Ties
 
-- [[ninja]] — sentenced to fight it.
+- [[ninja-kazuma]] — sentenced to fight it.
 - [[mifix]] — kept away from it.
 - [[the-cracked-gate]] — what the fight produces.
 - [[the-red-power]] — what its existence is a response to.

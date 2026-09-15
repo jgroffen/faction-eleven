@@ -21,7 +21,7 @@ related_mechanics:
 
 # Wraith — Object Reading
 
-The [[wraith]] can **touch an object and know its history** — and the **deep, emotional
+The [[wraith-delahaye]] can **touch an object and know its history** — and the **deep, emotional
 connections** tied to it. It is the verb the [[wraith-memory-puzzle]] runs on, and it is also one of
 the channels by which the reality of the four gods reaches the player.
 

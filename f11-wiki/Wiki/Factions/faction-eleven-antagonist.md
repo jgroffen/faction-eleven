@@ -118,7 +118,7 @@ forgotten them entirely, the eleventh faction has no diplomatic standing at all:
 no one who remembers.
 
 The moral ambiguity in the earliest material still holds and is worth protecting: the Institute's
-gate "was sealed and guarded **for a reason**", and when [[ninja]] cracks it open, green-skins pour
+gate "was sealed and guarded **for a reason**", and when [[ninja-kazuma]] cracks it open, green-skins pour
 through. The player's first act against the Ancients' work is arguably a mistake.
 
 ## Members

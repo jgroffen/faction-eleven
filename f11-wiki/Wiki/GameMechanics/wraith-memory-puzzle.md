@@ -22,7 +22,7 @@ related_mechanics:
 
 # Wraith — Memory Puzzle
 
-[[the-damned]]' game style: a **puzzle game** in which the [[wraith]] has to **rediscover who she
+[[the-damned]]' game style: a **puzzle game** in which the [[wraith-delahaye]] has to **rediscover who she
 was when she was alive.** The prototype's "puzzle / point-and-click" label is the one inherited
 genre that survives as stated.
 

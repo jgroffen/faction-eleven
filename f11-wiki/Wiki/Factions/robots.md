@@ -47,7 +47,7 @@ the neural network depth to develop one and have shut down or gone insane. The o
 have developed **varied goals, some constructive and some destructive** — so the faction is at war
 with itself as much as anything else.
 
-Their protagonist is [[autofix]], a late-model Autofix and the only known functioning example.
+Their protagonist is [[autofix-alto]], a late-model Autofix and the only known functioning example.
 
 **Currency:** in play, a refining chain of **scrap → construction materials → modules and
 components** ([[autofix-skill-tree]]) · **Role archetype:** Medic
@@ -79,7 +79,7 @@ website, recorded as the last written state and not as confirmed current design.
 | Front Liner | Battlebot | All purpose killing machine. |
 | Heavy Weapons | MWP Killbot | Basically a walking Bazooka |
 | Infiltrator | Android | Artifical imitation of life. |
-| Medic | [[autofix]] | Nanotech enabled service droids. **← protagonist** |
+| Medic | [[autofix-alto]] | Nanotech enabled service droids. **← protagonist** |
 | Specialist | Raptorbot | Flying death machines. |
 
 The faction's own one-line description on that site: *"Self replicating artificial life."*
@@ -87,7 +87,7 @@ The faction's own one-line description on that site: *"Self replicating artifici
 ## Members
 
 <!-- gd:members:start -->
-- [[autofix|Alto, the Autofix Bot]] · protagonist
+- [[autofix-alto|Alto, the Autofix Bot]] · protagonist
 - [[mifix|Mifix]] · companion
 - [[odie|Odie]] · npc
 <!-- gd:members:end -->
@@ -95,7 +95,7 @@ The faction's own one-line description on that site: *"Self replicating artifici
 ## Notes
 
 The story is built on a question the faction cannot answer and the player eventually can: why every
-fixbot stopped, and why the only account of it names a culprit and no reason. [[autofix]] is the one
+fixbot stopped, and why the only account of it names a culprit and no reason. [[autofix-alto]] is the one
 who did not crash — he froze instead, and something reached him ([[the-first-signal]]).
 
 The robots **lead chapter one** ([[chapter-based-release]]), which makes Autofix's story the

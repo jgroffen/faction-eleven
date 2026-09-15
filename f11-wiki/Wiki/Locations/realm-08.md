@@ -41,7 +41,7 @@ Connected to alien space by a **void** in which ancient Lovecraftian gods dwell.
 
 **It is one of the two spaces the Damned's story is played in** ([[wraith-memory-puzzle]]) — the
 other being [[the-wraith-s-mansion]], which is not a place in the realm but a representation of the
-[[wraith]]'s mind. The Wraith's grave, her single spawn point, is here.
+[[wraith-delahaye]]'s mind. The Wraith's grave, her single spawn point, is here.
 
 It is also **where the Black's AI experiment lives** ([[the-lich-experiment]]): the one realm holding
 characters who can read the rules their world runs on, and who left it to hide from the gods.

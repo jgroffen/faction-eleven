@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-11
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -25,8 +25,8 @@ prerequisites:
 
 # The First Signal
 
-The story event that ties chapter one together, in three beats across two realms: [[ninja]]'s defeat
-**cracks** a gate, [[mifix]]'s long-unheard call gets through it and **wakes** the frozen [[autofix]],
+The story event that ties chapter one together, in three beats across two realms: [[ninja-kazuma]]'s defeat
+**cracks** a gate, [[mifix]]'s long-unheard call gets through it and **wakes** the frozen [[autofix-alto]],
 and Autofix **answers**.
 
 **Status:** design · **Type:** main · **Chapter:** [[chapter-01]] · **Location:** [[realm-02]]
@@ -39,7 +39,7 @@ and Autofix **answers**.
 
 ### 1 — The crack
 
-[[ninja]] returns to [[the-gate-guardian]] with a newly trained skill, loses again, and the fight
+[[ninja-kazuma]] returns to [[the-gate-guardian]] with a newly trained skill, loses again, and the fight
 **cracks the gate** to [[realm-02]] ([[the-cracking-of-the-gate]], [[the-cracked-gate]]). That crack
 is the only hole in the Robot Realm's seal, which has been total: a sealed realm stops signals as well
 as travellers ([[allied-faction-signals]]), so nothing has gone in or out in living memory.
@@ -53,7 +53,7 @@ day it can get back there. Nothing has ever answered, because nothing could hear
 Now something can. Mifix's call goes through the crack, and what it carries is his **activity log** —
 the working record of generations spent repairing things in a realm he was never written for.
 
-On the other end of it, in a ruined factory, [[autofix]] has been **frozen**: caught in a paradox in
+On the other end of it, in a ruined factory, [[autofix-alto]] has been **frozen**: caught in a paradox in
 his logic loop, hit when he tried to fix a foreign object from another realm and could neither
 classify it nor let it go. The log resolves the paradox, because it is the record of a machine doing
 that exact thing and surviving it. It teaches him the rule he lacked:
@@ -82,9 +82,9 @@ constrains chapter one's structure rather than merely describing it.
 
 | # | Beat | Faction | Depends on |
 |---|------|---------|------------|
-| 1 | [[ninja]] cracks the guarded gate in the boss battle | [[institute-of-eight]] | — |
-| 2 | [[mifix]]'s call and activity log wake [[autofix]] | [[robots]] + [[institute-of-eight]] | beat 1 |
-| 3 | [[autofix]] unlocks **Quantum Comms** and answers | [[robots]] | beat 2 |
+| 1 | [[ninja-kazuma]] cracks the guarded gate in the boss battle | [[institute-of-eight]] | — |
+| 2 | [[mifix]]'s call and activity log wake [[autofix-alto]] | [[robots]] + [[institute-of-eight]] | beat 1 |
+| 3 | [[autofix-alto]] unlocks **Quantum Comms** and answers | [[robots]] | beat 2 |
 
 ## Why It Matters
 
@@ -102,7 +102,7 @@ this time it arrives. Autofix is unconscious throughout and wakes up fixed. Thre
 problem none of them knew about, which is the game's thesis executed once, small, in its first hour
 ([[story-outline-requirement]]).
 
-Note who does what: the Ninja makes the opening and does not know what they have done; the robots earn
+Note who does what: the Ninja makes the opening and does not know what he has done; the robots earn
 the ability and cannot use it until someone else acts first.
 
 ## Open
@@ -114,6 +114,6 @@ the ability and cannot use it until someone else acts first.
   Autofix. Undecided, and it is the chapter's biggest structural question.
 - **Which trained skill** lets the Ninja progress to the boss battle and crack the gate — to be
   determined ([[ninja-rhythm-platforming]]).
-- Does [[autofix]] know his answer was received? The stronger version is that the player knows and
+- Does [[autofix-alto]] know his answer was received? The stronger version is that the player knows and
   Autofix doesn't.
 - Whether the player is shown the paradox and the freeze, or only its resolution.

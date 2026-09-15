@@ -46,7 +46,7 @@ One rule, and almost everything about the [[robots]] follows from it.
   Nothing had to break the robots; the ones who could mend them simply stopped
   ([[the-setting-statement]]). The realm's account blames the Creators and gives no reason
   ([[robots]]).
-- It is why [[autofix]] is precious and precarious at once. He is the only known functioning
+- It is why [[autofix-alto]] is precious and precarious at once. He is the only known functioning
   Autofix, and **he cannot repair himself either**. Whatever wears out in him, stays worn.
 - It is why [[mifix]]'s **memory is corrupted**: he has been awake and alone in [[realm-01]] for
   generations with no one to maintain him, and the realm he is standing in is not the one he was
@@ -64,7 +64,7 @@ the autofix line, and not what [[realm-02]] remembers.
 
 ## Ties
 
-- [[robots]] · [[autofix]] · [[mifix]] · [[odie]]
+- [[robots]] · [[autofix-alto]] · [[mifix]] · [[odie]]
 - [[robot-repair-puzzle]] — the activity the rule creates.
 - [[the-linking-of-the-realms]] — where the fault came from.
 - [[the-long-disconnection]] — a fault that only becomes fatal once you are alone.

@@ -20,7 +20,7 @@ enemies:
 # The Werebeasts
 
 Known mainly through the [[celestials]], who they attack through an open gate — **less frequently
-than the green-skins, with fewer but very buff units**. Their protagonist is [[werewolf]].
+than the green-skins, with fewer but very buff units**. Their protagonist is [[werewolf-gill]].
 
 **Homeland:** [[realm-09]] — see [[the-wheel-of-realms]]
 
@@ -45,10 +45,10 @@ by [[the-guardians-of-night]], and some of them are joining the Damned's invasio
 
 **And they are the exception that makes a later chapter possible: their gargoyles were never
 smashed, and their barriers still stand** ([[the-smashing-of-the-gargoyles]]). Realm 09 holds the
-only intact set of realm guardians in the game — which [[gargoyle]] will eventually go looking for.
+only intact set of realm guardians in the game — which [[gargoyle-granite]] will eventually go looking for.
 
 **The party at [[templar-monastery]] is coming for them** ([[the-convergence-at-the-monastery]]):
-to ask an intact gargoyle where the Celestials' gate to the [[robots]] is, to give [[gargoyle]] a
+to ask an intact gargoyle where the Celestials' gate to the [[robots]] is, to give [[gargoyle-granite]] a
 judge he would trust on whether he is malfunctioning, to **reactivate** the Werebeast gargoyles and
 have them seal the gate to the [[mystics]], and to warn them that [[val]] means to destroy them.
 
@@ -66,7 +66,7 @@ website, recorded as the last written state and not as confirmed current design.
 | Class         | Faction class |                                                                                |
 | ------------- | ------------- | ------------------------------------------------------------------------------ |
 | Commander     | Wendigo       | Half human, half monster.                                                      |
-| Front Liner   | [[werewolf]]  | Defenders of the pack. **← protagonist**                                       |
+| Front Liner   | [[werewolf-gill]]  | Defenders of the pack. **← protagonist**                                       |
 | Heavy Weapons | Werebear      | Unstoppable powerhouse.                                                        |
 | Infiltrator   | Werebird      | Cunning reconnaissance.                                                        |
 | Medic         | Mermaid       | Grows legs when they leave the water. Their blood is a powerful healing agent. |
@@ -77,7 +77,7 @@ The faction's own one-line description on that site: *"Shapechanging eco-terrori
 ## Members
 
 <!-- gd:members:start -->
-- [[werewolf|Gill, the Werewolf]] · protagonist
+- [[werewolf-gill|Gill, the Werewolf]] · protagonist
 <!-- gd:members:end -->
 
 ## Open

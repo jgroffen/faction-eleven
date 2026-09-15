@@ -22,7 +22,7 @@ related_mechanics:
 
 # The Autofix Skill Tree
 
-[[autofix]]'s progression: **one tree, five branches**, paid for with **Data Fragments** — collected
+[[autofix-alto]]'s progression: **one tree, five branches**, paid for with **Data Fragments** — collected
 from repaired robots ([[robot-repair-puzzle]]), not scavenged.
 
 **Unlocking a skill is research, not training.** Autofix does **not have the schematics**; they are

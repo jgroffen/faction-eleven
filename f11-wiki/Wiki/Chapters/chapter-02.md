@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-13
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -28,10 +28,10 @@ quests:
 # Chapter 2 — The Signals
 
 Where the premise starts to pay. Three protagonists move toward **one machine** — [[odie]] — and
-none of them knows the others are looking. [[templar]] holds him, [[autofix]] detects him, and
-[[ninja]] and [[gargoyle]] set out after him.
+none of them knows the others are looking. [[templar-ermengarda]] holds him, [[autofix-alto]] detects him, and
+[[ninja-kazuma]] and [[gargoyle-granite]] set out after him.
 
-The chapter **focuses on [[gargoyle]]'s gameplay**. The [[mystics]] and the arrivals at the
+The chapter **focuses on [[gargoyle-granite]]'s gameplay**. The [[mystics]] and the arrivals at the
 Templar belong to [[chapter-03]]. **This shape is provisional.**
 
 **Status:** outline · **Lead faction:** [[green-skins]]
@@ -39,21 +39,21 @@ Templar belong to [[chapter-03]]. **This shape is provisional.**
 ## Story
 
 0. **[[the-waking-of-the-last-gargoyle]]** — the chapter's own opening, and the lead faction's.
-   [[gargoyle]] wakes from torpor in a room of smashed guardians, recovers enough of himself to move
+   [[gargoyle-granite]] wakes from torpor in a room of smashed guardians, recovers enough of himself to move
    and to hide, and concludes [[realm-07]] is under threat. He then works toward the truth in
    stages: the Celestial barrier is broken → the green-skins blame a Celestial incursion → it was
    broken from inside by [[the-guardians-of-night]] ([[the-broken-barrier]]).
-1. **[[the-calling-of-ancient-allies]]** — [[templar]] loses to the war machine a second time and
-   retreats to [[templar-monastery]], chosen because they believe the Celestials need **ancient
-   allies**. Exploring its ancient parts between battles, they find and use [[the-wand]] and
+1. **[[the-calling-of-ancient-allies]]** — [[templar-ermengarda]] loses to the war machine a second time and
+   retreats to [[templar-monastery]], chosen because she believes the Celestials need **ancient
+   allies**. Exploring its ancient parts between battles, she finds and uses [[the-wand]] and
    [[odie]]. The [[mystics]] and the [[robots]] hear.
 2. **[[the-second-signal]]** — [[mifix]] detects a *second* mini-fix signal, unlike the one through
    the guardian's cracked gate. It has routed from [[realm-03]] through the open
    [[celestials]]/[[green-skins]] gate and the cracked one in [[the-ancient-ruin]]. He *detects* it — too far to
    communicate with — only once beat 1 has happened **and** chapter one's two conditions are met — the crack, and
-   [[autofix]]'s Quantum Comms. Mifix and the Ninja pursue it as **an alternative way to reach the
-   Robot Realm**, the guarded gate being cracked but still impassable. It leads [[ninja]] to [[the-ancient-ruin]] and its abandoned,
-   already-cracked gate into [[realm-07]] — and to [[gargoyle]], who is **very ancient** and wants
+   [[autofix-alto]]'s Quantum Comms. Mifix and the Ninja pursue it as **an alternative way to reach the
+   Robot Realm**, the guarded gate being cracked but still impassable. It leads [[ninja-kazuma]] to [[the-ancient-ruin]] and its abandoned,
+   already-cracked gate into [[realm-07]] — and to [[gargoyle-granite]], who is **very ancient** and wants
    to stop his own faction's war on the Celestials. They set out together to find the bot.
 3. **[[the-trial-of-the-last-gargoyle]]** — the chapter's ending. [[val]], now aware a Gargoyle
    survived, hunts him down herself, fails to talk him into believing he's malfunctioning, and sets
@@ -66,8 +66,8 @@ Templar belong to [[chapter-03]]. **This shape is provisional.**
 | Faction | Form | Game style | What they do |
 |---------|------|-----------|--------------|
 | [[celestials]] | major — [[templar-monastery]] | [[celestials-hero-tower-defence]] ✅ | second defeat; the first *deliberate* reconnection |
-| [[institute-of-eight]] | major — [[ninja]] leaves [[realm-01]] | [[ninja-rhythm-platforming]] ✅ — but **swaps to the host realm's Metroid** once he crosses ([[realm-governs-game-style]]) | follows the second signal out through the ruin |
-| [[green-skins]] | **lead** — [[gargoyle]]'s gameplay is the chapter's focus | [[gargoyle-stone-metroidvania]] ✅ | Gargoyle joins the Ninja against his own faction's war |
+| [[institute-of-eight]] | major — [[ninja-kazuma]] leaves [[realm-01]] | [[ninja-rhythm-platforming]] ✅ — but **swaps to the host realm's Metroid** once he crosses ([[realm-governs-game-style]]) | follows the second signal out through the ruin |
+| [[green-skins]] | **lead** — [[gargoyle-granite]]'s gameplay is the chapter's focus | [[gargoyle-stone-metroidvania]] ✅ | Gargoyle joins the Ninja against his own faction's war |
 | [[robots]] | supporting | [[robots-incremental-exploration]] ✅ | hear the monastery bot; comms pay off a second time |
 
 ## Content Load
@@ -96,13 +96,13 @@ platform gating. How far up that ladder chapter two goes is undecided — see
 
 ## Continuity
 
-Tracked across all chapters in [[story-continuity-timeline]]. [[gargoyle]] is the first protagonist
+Tracked across all chapters in [[story-continuity-timeline]]. [[gargoyle-granite]] is the first protagonist
 who can **name** a continuity glitch; they are present from chapter one regardless.
 
 **Depends on chapter one:**
 
 - [[the-cracked-gate]] — without it [[mifix]] hears nothing at all, by either route.
-- [[autofix]]'s **Quantum Comms** — without it the monastery bot calls and nobody hears.
+- [[autofix-alto]]'s **Quantum Comms** — without it the monastery bot calls and nobody hears.
 - The Templar's retreat to [[templar-monastery]].
 
 Beat 2 is gated on **three protagonists across two chapters** — the crack (Ninja, ch1), Quantum
@@ -121,7 +121,7 @@ Ninja, toward [[realm-03]] — and the doubt it plants in him is the first thing
 - Whether [[the-calling-of-ancient-allies]] stays here. It must precede [[the-second-signal]]'s
   detection, so it cannot move to chapter three — **inference, not established**.
 - The route from [[realm-07]] to [[realm-03]] is unexplained — see [[the-second-signal]].
-- The [[mystics]] "receive" the wand's call; [[conjurer]] answers it in chapter three, but the
+- The [[mystics]] "receive" the wand's call; [[conjurer-voisin]] answers it in chapter three, but the
   journey is unwritten ([[the-answering-of-the-wand]]).
 - **How much of the Gargoyle's ability ladder belongs in this chapter**, given that flight ends
   platform gating.
@@ -134,5 +134,5 @@ Ninja, toward [[realm-03]] — and the doubt it plants in him is the first thing
 **Settled:** [[the-trial-of-the-last-gargoyle]] — [[val]] hunts the surviving Gargoyle down herself,
 fails to convince him he's malfunctioning, and sets the Minotaur on him. It is the chapter-scale
 revelation with a named antagonist this chapter needed, and it sends the Gargoyle out of
-[[realm-07]] with [[ninja]] at the start of the next stretch of story — see the handoff on what
+[[realm-07]] with [[ninja-kazuma]] at the start of the next stretch of story — see the handoff on what
 follows.

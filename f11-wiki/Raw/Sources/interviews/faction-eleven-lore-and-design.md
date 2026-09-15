@@ -1918,3 +1918,38 @@ reading is.**
 - **Phoenix** stays unnamed; the note says so.
 - Pronouns: the Templar and the Conjurer are now "she"; normalised inside their own character
   notes. Other notes that refer to them as "they" are not swept in this round.
+
+### Round 41 — 2026-09-15
+
+**Q89 — Two follow-ups offered after Round 40: a wiki-wide pronoun sweep for the newly gendered
+protagonists, and a slug rename so the notes are linked by name.**
+
+> Do the wiki-wide pronoun sweep, then rename the slugs of each character using the pattern
+> (Faction Class)-(Name).
+
+## Notes For The Compiler — Round 41
+
+- **Pronoun sweep done** across `Wiki/` (Logs and Decisions untouched): the Templar and the
+  Conjurer are "she" everywhere, the Ninja "he", the Captain "he". Only sentences whose subject
+  was the protagonist were changed; "they" for the player, a family, a faction or a party stands.
+- **Slugs renamed** as `(faction class)-(name)`, using the full name as given:
+  `gargoyle-granite`, `ninja-sato-kazuma`, `templar-ermengarda-of-oluja`, `wraith-delahaye`,
+  `conjurer-voisin`, `autofix-alto` (the given name, not the designation), `squidling-calamari`,
+  `werewolf-gill`, `captain-leon`. `phoenix` is unchanged until named. Every `[[link]]` and
+  frontmatter reference under `Wiki/` was rewritten; Raw sources were not edited, so earlier
+  compiler notes in this file still use the old slugs.
+
+### Round 42 — 2026-09-15
+
+**Q90 — The Phoenix's name and gender, and the two long slugs from Round 41.**
+
+> Lets:
+> - Name and gender the Phoenix - name is Ember and he is Male.
+> - Swap the ninja slug to 'ninja-kazuma, and the templar slug to 'templar-ermengarda'
+
+## Notes For The Compiler — Round 42
+
+- **Ember, the Phoenix, male.** `phoenix` renamed to `phoenix-ember`; the note's Name section
+  filled in and the "only unnamed protagonist" line removed. No reference for the name was given.
+- `ninja-sato-kazuma` → `ninja-kazuma`; `templar-ermengarda-of-oluja` → `templar-ermengarda`.
+  Links and frontmatter rewritten under `Wiki/` as in Round 41.

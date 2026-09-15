@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-15
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -25,9 +25,9 @@ prerequisites:
 # The Second Signal
 
 In chapter two, [[mifix]] reports that it can detect **another mini-fix bot
-signal — different from the one coming through the cracked gate.** Following it leads [[ninja]] to
+signal — different from the one coming through the cracked gate.** Following it leads [[ninja-kazuma]] to
 [[the-ancient-ruin]] and its abandoned, already-cracked gate into [[realm-07]] — and through it, to
-[[gargoyle]].
+[[gargoyle-granite]].
 
 **Status:** design · **Type:** main · **Location:** [[the-ancient-ruin]]
 
@@ -40,11 +40,11 @@ its own kind, calling from somewhere else entirely.
 The trail leads out of the Institute's territory to a ruin, and to a gate nobody has guarded for a
 very long time, standing cracked. The Ninja crosses.
 
-On the other side is [[gargoyle]].
+On the other side is [[gargoyle-granite]].
 
 ## Why They Go
 
-**[[mifix]] and [[ninja]] decide the faint signal is worth investigating as an alternative way to
+**[[mifix]] and [[ninja-kazuma]] decide the faint signal is worth investigating as an alternative way to
 reach the Robot Realm.**
 
 That is the motive, and it is a practical one rather than curiosity. Mifix wants to go home to
@@ -55,7 +55,7 @@ around a door they cannot open**.
 
 ## What They Find, And Who They Look For
 
-The signal's source is [[odie]] — the machine [[templar]] switched back on in
+The signal's source is [[odie]] — the machine [[templar-ermengarda]] switched back on in
 [[templar-monastery]] ([[the-calling-of-ancient-allies]]). **The Templar has it.**
 
 So the Ninja and the Gargoyle set out together to find a bot that is already in a third faction's
@@ -66,7 +66,7 @@ them knows the others are looking.
 
 - It is the **second** cross-faction connection, and the first one a protagonist *pursues* rather
   than receives — for a concrete reason, not wonder.
-- It brings [[gargoyle]] into the story and gives the [[green-skins]] their first real material.
+- It brings [[gargoyle-granite]] into the story and gives the [[green-skins]] their first real material.
 - It confirms gates are separate doors: this one was cracked all along and never carried the robot
   signal, because it faces the wrong realm.
 
@@ -87,8 +87,8 @@ Two things follow, and both are good:
    connected — is now load-bearing rather than awkward. This leg is unaffected by Green Skins' move
    from realm-09 to realm-07 (equidistant from realm-03 either way).
 2. **The Ninja follows the signal back up its own path.** Going to [[realm-07]] is not a detour; it
-   is the first leg of the route the signal took. That is why the trail leads to [[gargoyle]]
-   before it leads to [[templar]]. **The second leg is resolved:** the cracked gate in
+   is the first leg of the route the signal took. That is why the trail leads to [[gargoyle-granite]]
+   before it leads to [[templar-ermengarda]]. **The second leg is resolved:** the cracked gate in
    [[the-ancient-ruin]] is one of realm-01's three *enemy* gates under the fixed network
    ([[realm-nearness-and-traversal]]) — "near" was never the actual rule, and distance-4 is exactly
    where an enemy gate belongs.
@@ -101,8 +101,8 @@ far too distant — only when **all three** are true:
 | # | Condition | Faction | Chapter |
 |---|-----------|---------|---------|
 | 0 | the guarded gate is **cracked** — without it Mifix hears nothing at all | [[institute-of-eight]] | one |
-| 1 | [[autofix]] has unlocked **Quantum Comms** | [[robots]] | one |
-| 2 | [[templar]] has **found and activated** their signals | [[celestials]] | two |
+| 1 | [[autofix-alto]] has unlocked **Quantum Comms** | [[robots]] | one |
+| 2 | [[templar-ermengarda]] has **found and activated** her signals | [[celestials]] | two |
 
 Conditions 0 and 1 are chapter one's business ([[the-first-signal]]); condition 2 is
 [[the-calling-of-ancient-allies]]. So this beat is gated on **three protagonists in two chapters**,

@@ -104,7 +104,7 @@ the realms out ([[the-long-disconnection]]).
 realm while trying to protect it. To keep foreign code out of the games he cares for, he placed
 guardians on their gates — and a realm rewrote its own history to account for a boss that had never
 been there, inventing a treason and sentencing a family to it ([[the-gate-guardian]],
-[[the-retcon-engine]]). Generations of [[ninja]]'s family have lived and died inside an explanation
+[[the-retcon-engine]]). Generations of [[ninja-kazuma]]'s family have lived and died inside an explanation
 he caused and never saw.
 
 He knows. It is the crack the protagonists eventually get in through: **the one god who already

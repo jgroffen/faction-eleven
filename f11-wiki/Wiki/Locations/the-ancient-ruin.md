@@ -24,7 +24,7 @@ at ring-distance four, and distance-4 is exactly where an enemy gate exists
 ([[realm-nearness-and-traversal]]). It isn't near, and it was never supposed to be; "near" was
 never actually the rule. What's genuinely notable is that the Institute guards its one allied gate
 obsessively and has let this enemy gate rot unwatched — which is the real anomaly, and the reason
-[[ninja]] gets through it at all.
+[[ninja-kazuma]] gets through it at all.
 
 **Part of:** [[realm-01]] · **Controlled by:** nobody
 
@@ -40,7 +40,7 @@ signal** — one that is not coming through the cracked guardian gate ([[the-sec
 
 ## Why It Matters
 
-It is the Ninja's way out of [[realm-01]], and the route to [[gargoyle]]. It also proves gates are
+It is the Ninja's way out of [[realm-01]], and the route to [[gargoyle-granite]]. It also proves gates are
 **individual doors** rather than one shared seal — this one has been cracked all along and has
 never let the robot signal through, because it does not face [[realm-02]].
 

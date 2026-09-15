@@ -31,8 +31,8 @@ Protagonist of the [[mystics]]: a magician working out of a home cottage, descen
 
 Not yet established as a person. The loop that defines her is domestic as much as heroic — go down, come back, refine what you found.
 
-**She is the first ally to reach [[templar]].** The Conjurer answers [[the-wand]]
-([[the-answering-of-the-wand]]) and arrives at [[templar-monastery]] before [[ninja]], [[gargoyle]]
+**She is the first ally to reach [[templar-ermengarda]].** The Conjurer answers [[the-wand]]
+([[the-answering-of-the-wand]]) and arrives at [[templar-monastery]] before [[ninja-kazuma]], [[gargoyle-granite]]
 and [[mifix]] do. With the Templar she works out what the Templar's relics are — **links to ancient
 allies, and a way to call for help** ([[allied-faction-signals]]) — and, once the second party
 arrives, that Mifix is the same for the [[institute-of-eight]]. She sits on the council that decides
@@ -52,8 +52,8 @@ Player character. Specialist archetype. Currency: Scrolls. Gear comes out of dun
 
 ## Ties
 
-- [[templar]] — who she reaches first, and with whom she works out the relics.
-- [[gargoyle]], [[ninja]], [[mifix]] — who arrive after her at the monastery.
+- [[templar-ermengarda]] — who she reaches first, and with whom she works out the relics.
+- [[gargoyle-granite]], [[ninja-kazuma]], [[mifix]] — who arrive after her at the monastery.
 - The green-skins have an open connection deep in the Mystics' underworld and are mining the realm
   for magic (not one of the fixed network's gates — see [[realm-nearness-and-traversal]]).
 

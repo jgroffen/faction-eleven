@@ -61,7 +61,7 @@ compatible; **allied or enemy** means compatible.
 ![The Wheel of Realms — the gate network](realm-gate-network.svg)
 
 The ring is the ten allied gates. The crossing lines are the fifteen enemy gates — three of them
-(thick, solid) are the ones that also carry a gargoyle-built barrier from the old war
+(thick, solid) are the ones that also carry a gargoyle-built barrier from the War of the Six Realms
 ([[the-realm-barriers]]); the other twelve are plain, sealed Ancient gates that have never been
 dramatised.
 
@@ -80,7 +80,7 @@ dramatised.
 | 09 [[werebeasts]] | [[realm-08]], [[realm-10]] | [[realm-03]], **[[realm-04]]**, **[[realm-05]]** |
 | 10 [[aliens]] | [[realm-09]], [[realm-01]] | [[realm-04]], [[realm-05]], [[realm-06]] |
 
-**Bold** marks the three barrier-carrying enemy pairs (07↔03, 08↔04, 09↔05) — the ones the old war
+**Bold** marks the three barrier-carrying enemy pairs (07↔03, 08↔04, 09↔05) — the ones the War of the Six Realms
 was actually fought through.
 
 ### Two Layers Of State, On Top Of A Fixed Existence
@@ -118,7 +118,7 @@ gate in the material now reads as one specific state on top of a network that wa
 ([[the-long-disconnection]]). But a short list of very old entities predate that erosion and still
 carry the whole network as fact rather than myth:
 
-- **Gargoyles**, as a kind — built before the old war ended, old enough to have known the
+- **Gargoyles**, as a kind — built before the War of the Six Realms ended, old enough to have known the
   multiverse when it was still common knowledge.
 - **[[val]]** — old enough, as a vampire of [[the-damned]], to remember the network from before it
   became legend to everyone else.
@@ -152,7 +152,7 @@ myths say. It is the diegetic reveal of this very page.
 - **The Green Skins' access to the Mystics' underworld is not one of these twenty-five gates.**
   Realm-07 and realm-04 sit at distance 3 — no gate exists there under this rule. The established fact
   that green-skins mine the Mystics' realm through an open gate in their underworld needs a different
-  mechanism (a natural seep in the underworld, leftover damage from the old war, or something else
+  mechanism (a natural seep in the underworld, leftover damage from the War of the Six Realms, or something else
   entirely) rather than this network. **Not yet re-grounded.**
 - **A real tension, flagged rather than resolved:** the Damned's gate to the Werebeasts (08↔09) is a
   perfectly ordinary allied gate under this rule — exactly the kind of thing a "very old entity" like

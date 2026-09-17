@@ -50,7 +50,7 @@ smashed to clear the way, exactly as the green-skins' were.
 So the Mystics are not a bystander realm with a mining problem. They are **the second front of one
 coordinated war**, and their story connects directly to the Gargoyle's.
 
-**They were also on the other side once.** In the old war the Mystics were among the three realms
+**They were also on the other side once.** In [[the-war-of-the-six-realms]] the Mystics were among the three realms
 "constantly incurring" into the green-skin, damned and werebeast realms — which is what the
 gargoyles were built to stop ([[the-gargoyle-guardians]]). The faction now being invaded was an
 invader first.

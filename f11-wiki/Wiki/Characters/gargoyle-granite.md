@@ -34,7 +34,7 @@ smashed heads of his own kind. "The Gargoyle" is what the wiki calls him where t
 
 **He is a dead orc, resurrected and golem-ified** — a magical construct made by necromancers of
 [[realm-08]] and shamans of [[realm-07]] to guard the realm ([[the-gargoyle-guardians]]). He was
-made before the old war ended, slept through everything since, and **woke damaged into a world he
+made before the War of the Six Realms ended, slept through everything since, and **woke damaged into a world he
 has no information about**.
 
 He **wants to stop the war the [[green-skins]] are fighting with the [[celestials]]**, and to stop
@@ -56,7 +56,7 @@ is damaged, his fellows are destroyed, and every piece of evidence he has access
 
 ## What He Knows And Doesn't
 
-Unusually among the protagonists, he **begins knowing his own backstory** — he saw the old war, and
+Unusually among the protagonists, he **begins knowing his own backstory** — he saw [[the-war-of-the-six-realms|the War of the Six Realms]], and
 he knows what he was built to be. What he lacks is the present: gargoyles retain nothing from
 between one waking and the next, so **he does not know why he is damaged or why the others are
 destroyed**, even though the player watched it happen.

@@ -108,14 +108,14 @@ Position carries **three** meanings at once, and they were laid down in this ord
 
 3. **Alliance and enmity.** Neighbours were friendly; opposites were enemies.
 
-**The old war is the Red's arc against the Blue's.** The thousand-year conflict along the opposition
+**[[the-war-of-the-six-realms|The War of the Six Realms]] is the Red's arc against the Blue's.** The thousand-year conflict along the opposition
 axis is two gods who disagree about improvements, fought by proxy — and the two who disagree are the
 two who both want the world *changed*, not the famous arch-nemeses. The Black leads 08 and 10, which
 is why his experiment in one is looting the other with nobody watching ([[the-void]]).
 
 ### The ring is a map of two alliances
 
-The old war ran between two **contiguous arcs** sitting opposite each other:
+The War of the Six Realms ran between two **contiguous arcs** sitting opposite each other:
 
 | Bloc | Realms |
 |------|--------|
@@ -128,7 +128,7 @@ Each bloc is three neighbours in a row, and **two of the three facing pairs are 
 [[the-gargoyle-guardians]] were built by two of the three defenders working together (necromancers
 of 08, shamans of 07), which is adjacency doing exactly what the ring predicts.
 
-The present state is the old war restarted by deception ([[the-broken-barrier]]) — so the
+The present state is the War of the Six Realms restarted by deception ([[the-broken-barrier]]) — so the
 green-skins invading the Celestials is not a scrambling of the old order. It is the old order,
 resumed on false evidence.
 

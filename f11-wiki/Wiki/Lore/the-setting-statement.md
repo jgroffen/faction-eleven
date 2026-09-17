@@ -72,7 +72,10 @@ Two failure modes, and the design lives in both.
 **Imbalance.** A character leveraging content and rules from another game is operating outside
 anything their own statement was balanced against. The translation gives them something usable; it
 does not give anything the numbers to be fair. Every cross-realm capability in the game is a
-balancing problem by construction rather than by oversight.
+balancing problem by construction rather than by oversight. The worked case is a Pirate in the
+Damned's game: [[wraith-delahaye]] carries the Pirates' built-in [[pirates-open-exploration|freedom]],
+the Damned's recruitment has no rule for it, and their RTS **freezes** when she breaks out
+([[damned-undead-kingdom-rts]]).
 
 **Glitches.** Where the translation cannot close, the engine fails, and it fails in four distinct
 ways ([[continuity-glitches]]):

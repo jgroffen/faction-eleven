@@ -13,7 +13,8 @@ source_count: 3
 aliases: []
 homeland: realm-06
 allies: []
-enemies: []
+enemies:
+  - institute-of-eight
 ---
 
 # The Pirates
@@ -25,9 +26,13 @@ Little is established. Their protagonist is [[captain-leon]] — **Leon** — a 
 
 ## Identity
 
-Not yet established — neither the game description nor the story exists.
-The commander role and 4X game type imply a faction played at fleet scale rather than as an
-individual, which would make them the most zoomed-out of the ten.
+**Game style: [[pirates-open-exploration]]** — the realm is an **open exploration game that lets
+players do what they want**, and **freedom is a built-in mechanic** of the realm and of every Pirate
+character. It travels: a Pirate active in another realm's game carries a property that game may have
+no rule for, and [[wraith-delahaye]] breaking out of the Damned's recruitment — and freezing their
+RTS — is the worked case ([[damned-undead-kingdom-rts]]). What the realm's open exploration
+consists of beyond that is not yet established; the prototype's **4X** label stands alongside as
+unconfirmed, and the commander role still implies a faction played at fleet scale.
 
 **Currency:** Booty · **Role archetype:** Commander
 
@@ -48,20 +53,29 @@ that is entirely self-interested.
 
 ## Standing
 
+**They were nearly wiped out by the [[institute-of-eight]].** In the linked era, individual Pirate
+ships raided [[realm-01]]; the far more organised Institute answered with an **invasion intended to
+wipe the Pirate realm out entirely** ([[the-pirate-institute-war]]). The Pirates met it at sea with
+an armada, and the gates were sealed shortly after. The two realms are direct opposites on
+[[the-wheel-of-realms]]; this war is the history behind the position.
+
 **One of their dead is another faction's protagonist.** The [[wraith-delahaye]] — [[the-damned]]' protagonist
-— was a Pirate **First Mate** named **Delahaye** in life, and does not remember it; recovering that
-life is her whole story ([[wraith-memory-puzzle]]). **She comes back.** Once she travels to
-[[realm-06]] and word gets out that she has returned, the Pirates know her as **Back from the Dead
-Del**. When that happens, and what the Pirates make of it, is not established. First Mate is the Pirates' Specialist class below, and the Wraith is
-the Damned's Specialist. How a First Mate of [[realm-06]] came to be buried in [[realm-08]] is not
-stated.
+— was a Pirate **First Mate** named **Delahaye** in life, **died fighting in that armada**, and does
+not remember it; recovering that life is her whole story ([[wraith-memory-puzzle]]), and rescuing
+the Pirates from the invasion is the unfinished business that keeps her a [[wraiths|wraith]].
+**She comes back.** Once she travels to [[realm-06]] and word gets out that she has returned, the
+Pirates know her as **Back from the Dead Del**. When that happens, and what the Pirates make of it,
+is not established. First Mate is the Pirates' Specialist class below, and the Wraith is the
+Damned's Specialist. Her body reached [[realm-08]] the way many did in the linked era: [[the-damned]]
+took it, with many others, for their own use ([[the-linking-of-the-realms]]).
 
 Otherwise no relationships to other factions recorded. Worth noting that a seafaring, raiding culture
 is a natural fit for **traversal between realms** — pirates who sail between worlds — but nothing in
 the material says that yet.
 
-**Lead developer:** [[huitzilopochtli-the-blue]] ([[the-four-developers]]). Realm-06 is the one
-realm in his arc that took no part in the old war.
+**Lead developer:** [[huitzilopochtli-the-blue]] ([[the-four-developers]]). Realm-06 took no part
+in [[the-war-of-the-six-realms]] — the Blue's arc against the Red's — and fought its own war
+instead, against the White's Institute ([[the-pirate-institute-war]]).
 
 ## Faction Classes
 

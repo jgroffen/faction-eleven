@@ -33,12 +33,22 @@ own.
 
 ## Identity
 
-**Game style: [[wraith-memory-puzzle]]** — a puzzle game in which their protagonist [[wraith-delahaye]], a
+**Game style: [[damned-undead-kingdom-rts]]** — a **Warcraft-style RTS campaign over a world
+map**, expanding an undead kingdom at the expense of the other kingdoms on it. **Specialist units
+are recruited by playing minigames**, several per campaign. One of them is
+[[wraith-memory-puzzle]] — a puzzle game in which their protagonist [[wraith-delahaye]], a
 specialist tied to a **single spawn point / grave to return to**, rediscovers who she was when
-alive: a Pirate First Mate ([[pirates]]). It is played in [[realm-08]] and in
-[[the-wraith-s-mansion]], a representation of the Wraith's mind and memories, and the Wraith's
-[[wraith-object-reading]] — touch an object, know its history — sometimes returns the dev layer
-itself. The faction's own story beyond that is not yet written.
+alive: a Pirate First Mate ([[pirates]]) who died in [[the-pirate-institute-war]] and whose body
+the Damned carried home. It is played in [[realm-08]] and in [[the-wraith-s-mansion]], a
+representation of the Wraith's mind and memories, and the Wraith's [[wraith-object-reading]] —
+touch an object, know its history — sometimes returns the dev layer itself. **The recruitment
+fails**: her will breaks her out of the minigame, and the player then searches the Damned's world
+map as her, with the minigame's mechanics. The faction's own story beyond that is not yet written.
+
+**Wraiths are one of the ways the faction is filled.** A [[wraiths|wraith]] — an undead spirit held
+back by unresolved business from its life — either resolves it and is released, or **joins the
+ranks of the Damned.** The faction is where the unresolved dead end up. Delahaye is the one who
+did neither.
 
 **Currency:** _unrecorded. "Return to grave / single spawn point" sits in the currency row of the
 inherited material, but reads as a misplaced death mechanic._
@@ -80,7 +90,7 @@ The faction's own one-line description on that site: *"Protectors of the Great M
 This makes them the game's most compromised faction:
 
 - **Their necromancers co-created the gargoyles**, with the shamans of [[realm-07]]
-  ([[the-gargoyle-guardians]]). The Damned are half the reason three realms survived the old war.
+  ([[the-gargoyle-guardians]]). The Damned are half the reason three realms survived the War of the Six Realms.
 - **Their own gargoyles have been smashed too**, in the same pattern as the green-skins'
   ([[the-smashing-of-the-gargoyles]]).
 - **They are now leading an invasion into the [[mystics]]' realm**, with some [[werebeasts]] —

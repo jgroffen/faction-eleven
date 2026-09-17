@@ -31,7 +31,7 @@ broken from the inside, by [[the-guardians-of-night]], to start a war.
 
 ## The Story
 
-**This is the game's false flag.** For centuries the barrier was the proof that the old war had
+**This is the game's false flag.** For centuries the barrier was the proof that the War of the Six Realms had
 ended. Its breaking is read, immediately and by everybody, as the proof that the war has resumed —
 because that is the only thing a broken barrier has ever meant ([[the-realm-barriers]]).
 

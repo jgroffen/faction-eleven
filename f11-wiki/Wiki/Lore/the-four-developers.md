@@ -196,7 +196,7 @@ Three things fall out of this and none of them had to be invented:
   his own game.
 - **The Black leads both 08 and 10**, which is why liches he built in one are looting the other, and
   why nobody else was watching that door ([[the-void]]).
-- **The old war is the Red's arc against the Blue's arc.** The thousand-year conflict along the
+- **[[the-war-of-the-six-realms|The War of the Six Realms]] is the Red's arc against the Blue's arc.** The thousand-year conflict along the
   opposition axis of [[the-wheel-of-realms]] is two developers who disagree about improvements,
   fought by proxy.
 

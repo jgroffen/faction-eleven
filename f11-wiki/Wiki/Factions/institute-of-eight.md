@@ -15,6 +15,7 @@ homeland: realm-01
 allies: []
 enemies:
   - green-skins
+  - pirates
 ---
 
 # The Institute of Eight
@@ -62,6 +63,13 @@ The Institute holds **two gates and watches the wrong one**: a guarded gate to t
 friendly [[robots]], and an abandoned, already-cracked gate to the hostile [[green-skins]], lying
 forgotten in a ruin. Why the order guards a friend and ignores an enemy is unwritten and is one of
 the better questions the setting has produced.
+
+**They once set out to erase a realm.** In the linked era, individual [[pirates|Pirate]] ships raided
+[[realm-01]], and the Institute — far more organised than a scatter of raiding captains — launched
+an **invasion of [[realm-06]] with the intention of wiping the Pirate realm out entirely**
+([[the-pirate-institute-war]]). The gates were sealed while it was under way. The Pirates are the
+Institute's direct opposite on [[the-wheel-of-realms]]; this is the war behind the enmity. What the
+Institute now remembers of it is not written.
 
 [[ninja-kazuma]] does not reach [[gargoyle-granite]] through the guardian's gate. He goes out through the ruin, in
 chapter two, following [[the-second-signal]].

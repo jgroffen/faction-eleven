@@ -49,7 +49,7 @@ as a different loadout or stat spread. **Incremental**, **tower defence**, **RPG
 
 ## Game Style By Faction
 
-Five are settled. The rest carry an inherited genre from the earlier prototype which is
+Six are settled, and the Pirates' is stated but not filled in. The rest carry an inherited genre from the earlier prototype which is
 **unconfirmed** — the genre list has moved since then, and a per-faction review of game style and
 mechanics is outstanding.
 
@@ -61,9 +61,9 @@ mechanics is outstanding.
 | [[green-skins]] | [[gargoyle-stone-metroidvania]] | settled |
 | [[mystics]] | Iso explorer / Diablo | **unconfirmed** — and they lead [[chapter-03]] |
 | [[fey-folk]] | Bullet-hell / 1941 | **unconfirmed**, explicitly not locked down |
-| [[pirates]] | 4X | **unconfirmed** |
+| [[pirates]] | [[pirates-open-exploration]] — open exploration with freedom as a built-in mechanic | **partly settled** — the style is stated, its content is not; the prototype's 4X label stands alongside, unconfirmed |
 | [[werebeasts]] | RPG | **unconfirmed** |
-| [[the-damned]] | [[wraith-memory-puzzle]] | settled |
+| [[the-damned]] | [[damned-undead-kingdom-rts]] — with [[wraith-memory-puzzle]] as a recruitment minigame | settled |
 | [[aliens]] | Choplifter / Metroid-like | **unconfirmed** |
 
 Do not build against the unconfirmed rows. See [[faction-design-status]].

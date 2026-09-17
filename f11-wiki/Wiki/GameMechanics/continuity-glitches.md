@@ -89,6 +89,14 @@ tier is *how hard it pushes*, and the manifestation is *what actually went wrong
 genuinely broken game does. They carry the least deniability of anything here and should be used where
 the fiction claims them first — a frozen fixbot is a character, not an error ([[autofix-alto]]).
 
+**The one freeze at the scale of a whole game is the Damned's.** [[wraith-delahaye]] is a Pirate
+character, and Pirate characters carry [[pirates-open-exploration|freedom]] as a built-in mechanic;
+when [[damned-undead-kingdom-rts]] tries to recruit her through [[wraith-memory-puzzle]], her freedom
+breaks her out and **the RTS freezes** — a kingdom caught mid-campaign, still there, going nowhere,
+until she returns to take control of it. The fiction claims it as her power of will; underneath it is
+a rule from one realm that another realm's game cannot resolve. Reading it as this table's Freeze is
+the design's mapping, not a stated fact.
+
 **The first glitch shown on purpose is [[mifix]]'s**, when he tries to diagnose [[gargoyle-granite]] and
 cannot ([[the-diagnosis-of-the-last-gargoyle]]). Which manifestation it takes is not decided; it is
 the one concrete instance the design has to build from.

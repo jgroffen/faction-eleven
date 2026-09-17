@@ -29,9 +29,9 @@ record.
 | 07 | [[green-skins]] | **deep** | **settled** — [[gargoyle-stone-metroidvania]] | **settled** — origin, instructions, antagonist and story spine |
 | 04 | [[mystics]] | **deep — next session** | ❌ none — and they lead [[chapter-03]] | substantial, **plus a war**: invaded by the Damned and werebeasts, instigated by [[the-guardians-of-night]] |
 | 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | **a role, not a story**: one of the three old invader realms |
-| 06 | [[pirates]] | thin — leave | unconfirmed | none |
+| 06 | [[pirates]] | thin — leave | **partly settled** — [[pirates-open-exploration]]: open exploration, freedom built in; 4X label unconfirmed | **a war**: nearly wiped out by the Institute ([[the-pirate-institute-war]]); their dead First Mate is the Damned's protagonist |
 | 09 | [[werebeasts]] | thin — leave | unconfirmed | **a role**: old defensive ally; **their gargoyles survive**, which sets up a much later chapter |
-| 08 | [[the-damned]] | thin — leave | **settled** — [[wraith-memory-puzzle]] | **substantial role**: co-made the gargoyles, [[val]] is theirs, now invading the Mystics; protagonist's arc settled |
+| 08 | [[the-damned]] | thin — leave | **settled** — [[damned-undead-kingdom-rts]], with [[wraith-memory-puzzle]] as its wraith-recruitment minigame | **substantial role**: co-made the gargoyles, [[val]] is theirs, now invading the Mystics; protagonist's arc settled, her death and unfinished business known ([[the-pirate-institute-war]]) |
 | 10 | [[aliens]] | thin — leave | unconfirmed | partial |
 
 The three deep factions are exactly **chapter one** ([[chapter-based-release]]), and exactly the
@@ -43,7 +43,7 @@ Chapter two adds the [[mystics]] ([[realm-04]]) as a major setting **and** the [
 through an abandoned gate in [[realm-01]], not by walking round the wheel — though that gate's own
 justification is open, pending a new account of which realms a gate can join.
 
-**Five of ten styles are settled**, leaving the [[mystics]] as **the only chapter lead without a
+**Six of ten styles are settled, and a seventh (the Pirates') is stated in outline**, leaving the [[mystics]] as **the only chapter lead without a
 game style** — and they lead [[chapter-03]]. That is the most urgent design gap.
 
 **Settled styles are not one-per-faction.** Under [[realm-governs-game-style]] a style belongs to a
@@ -57,11 +57,11 @@ their *culture* — who leads them, what daily life is, what they are besides an
 someone.
 
 **Four "thin — leave" factions have a role without breaking the rule.** The [[werebeasts]],
-[[the-damned]], [[mystics]] and [[fey-folk]] each have a **position in the old war** and, for two of
+[[the-damned]], [[mystics]] and [[fey-folk]] each have a **position in the War of the Six Realms** and, for two of
 them, a present-day one. Those roles are **derived from someone else's story** rather than invented
 to fill a table. Their internal lives remain untouched, and should stay that way until there is real
-material. The Damned are the exception on style and protagonist: [[wraith-memory-puzzle]] and the
-[[wraith-delahaye]]'s arc arrived as real material, and their faction story is still the gap.
+material. The Damned are the exception on style and protagonist: [[damned-undead-kingdom-rts]],
+[[wraith-memory-puzzle]] and the [[wraith-delahaye]]'s arc arrived as real material, and their faction story is still the gap.
 
 ## What "unconfirmed" means
 

@@ -51,7 +51,7 @@ And it sharpens what a gargoyle is: **gargoyles are raised from dead orcs**
 ([[the-gargoyle-guardians]]) — that is, from the faction's *leadership* class, the ones who ended
 the subjugation. The realm's guardians are made from the people who first refused to be used.
 
-**They were the invaded first.** In the old war the [[celestials]],
+**They were the invaded first.** In [[the-war-of-the-six-realms]] the [[celestials]],
 [[mystics]] and [[fey-folk]] "constantly incurred" into the green-skin, damned and werebeast
 realms — which is why realms 07, 08 and 09 (in whatever order the factions occupying them held at
 the time) built [[the-gargoyle-guardians]] out of their own dead and walled their gates shut

@@ -119,7 +119,7 @@ disagreement has grown bad enough that **the four themselves may not survive it*
 - **The White answered** by placing guardians on the gates of the realms he cares for
   ([[the-gate-guardian]]).
 - **The Blue answered both**, renewing his alliance with the Black and seeding the
-  [[the-guardians-of-night]] to reignite the old war.
+  [[the-guardians-of-night]] to reignite the War of the Six Realms.
 
 **Each intervention was a response to the last.** None of the four set out to start a war; they set
 out to answer each other, and three realms went to war as a side effect.

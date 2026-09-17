@@ -1953,3 +1953,125 @@ protagonists, and a slug rename so the notes are linked by name.**
   filled in and the "only unnamed protagonist" line removed. No reference for the name was given.
 - `ninja-sato-kazuma` → `ninja-kazuma`; `templar-ermengarda-of-oluja` → `templar-ermengarda`.
   Links and frontmatter rewritten under `Wiki/` as in Round 41.
+
+### Round 43 — 2026-09-16
+
+**Q91 — More on the Wraith: what the game is, what a wraith is, and what Delahaye's unfinished
+business turns out to be.**
+
+> More detail on the Wraith - The Wraith game is actually a mini-game of The Damned game setting.
+> Wraiths are undead spirits that cannot move on as they have unresolved, usually traumatic
+> circumstances when they were alive. The minigame is you wake up as a wraith and either work out
+> who you were when alive and why you haven't moved on so you can resolve the unfinished business
+> and release your spirit or you join the ranks of the Damned faction. Delahaye is a Wraith whose
+> gameplay results in her unresolved goals when living of rescuing the Pirates from the invading
+> Institute of Eight realm. She died while fighting in an armada of pirate ships. The war between
+> the Institute of Eight and the Pirates was caused by the individual Pirate ships raiding the realm
+> of the Institute of Eight, which led to the much more organised Institute of Eight launching an
+> invasion with the intention of wiping out the Pirate realm entirely. Delahaye died shortly before
+> the realms gates were sealed, so once she recovers here memories of that time she will have
+> detailed knowledge of the time just before the sealing.
+
+## Notes For The Compiler — Round 43
+
+- **The memory puzzle is a mini-game, not the Damned's whole game style.** `wraith-memory-puzzle`
+  reframed as the wraith mini-game inside the Damned's game; the Damned's wider game is now an open
+  item on `the-damned` and `faction-genre-mechanics` (row changed from "settled" to "mini-game
+  settled, wider game open").
+- **Wraiths are a kind of thing, not just one character.** New lore note `wraiths`: what they are,
+  the two exits (release, or join the Damned), and that the mini-game is generic — "you wake up as
+  a wraith" — with Delahaye the instance the player plays. Whether anyone other than Delahaye ever
+  plays it is open.
+- **New lore note `the-pirate-institute-war`**: raids by individual Pirate ships → the organised
+  Institute invades to wipe realm-06 out → fought in the linked era → Delahaye dies in an armada
+  shortly before the sealing. Realms 01 and 06 are direct opposites on the wheel, so the enemy gate
+  this war needs already exists. `pirates` and `institute-of-eight` gain each other as `enemies`.
+- The Pirates' "took no part in the old war" line is reworded: the old war is the Red–Blue axis;
+  the Pirates fought their own war against the White's Institute. Whether the Pirate–Institute war
+  counts as part of the old war is open.
+- **Delahaye's unfinished business** recorded on `wraith-delahaye`: rescuing the Pirates from the
+  invasion. She has been dead roughly a thousand years (died shortly before a sealing that was a
+  thousand years ago), which is stated as a consequence, not a new fact. What resolving a
+  thousand-year-old rescue means now is open, as is which of the two exits her story takes.
+- **She is a witness to the sealing** — once her memories return she knows the time just before it
+  in detail. Added to `the-long-disconnection` alongside the other rememberers.
+- "How a Pirate came to be buried in realm-08" stays open; the linking's "the Damned took the dead
+  of other realms home for reanimation" is offered as an inference only.
+
+### Round 44 — 2026-09-17
+
+**Q92 — Three follow-ups to Round 43: whether the Pirate–Institute war is part of the old war,
+how Delahaye's body reached realm-08, and what the Damned's game around the wraith mini-game is.**
+
+> - The pirate / institute war is not part of the old war. Lets rename the 'old war' moniker to
+>   something more explicit, maybe 'War of the Six Realms'.
+> - Establish that Delahaye's body was taken for use by the Damned along with many others during
+>   the linking.
+> - The main game of The Damned realm is a Warcraft style RTS game where you expand over a world
+>   map in a campaign, expanding your undead kingdom at the expense of other kingdoms. Minigames
+>   are a way to recruit specialist units. The player will play a number of minigames when playing
+>   this Faction, and Delahaye will be the minigame for recruiting a wraith on a map that requires
+>   that type of character. She has unfinished business she can't resolve but her power of will
+>   breaks her out of the game without being recruited. The player will then be able to move
+>   around on the Damned world map to search locations on the world map using the same game
+>   mechanics of the Wraith minigame.
+
+## Notes For The Compiler — Round 44
+
+- **"The old war" is now the War of the Six Realms** — new lore note `the-war-of-the-six-realms`
+  as the canonical name, carrying "The Old War" as an alias. The six are the two blocs the wheel
+  already lists: 03 Celestials · 04 Mystics · 05 Fey Folk against 07 Green Skins · 08 the Damned ·
+  09 Werebeasts. Realms 01, 02, 06 and 10 took no part; the Pirate–Institute war is a separate
+  conflict of the same linked era. Every "the old war" under `Wiki/` outside Logs, Decisions and
+  Handovers rewritten; the alias moved off `the-linking-of-the-realms`.
+- **Delahaye's body was taken by the Damned during the linking, with many others** — now a fact
+  on `wraith-delahaye`, `the-pirate-institute-war`, `pirates` and `the-linking-of-the-realms`;
+  the corresponding open items removed.
+- **The Damned's game is a Warcraft-style RTS campaign** — new mechanic note
+  `damned-undead-kingdom-rts`: world map, campaign, expand the undead kingdom at other kingdoms'
+  expense; minigames recruit specialist units, and the player plays several of them. Delahaye's
+  is the wraith-recruitment minigame on a map that needs a wraith.
+- **Delahaye is not recruited.** Her business cannot be resolved; her will breaks her out of the
+  minigame instead, and the player then moves her around the Damned world map, searching
+  locations with the wraith mini-game's mechanics. Recorded on `wraith-memory-puzzle`, `wraiths`
+  (a third outcome, hers alone so far), `wraith-delahaye` and `the-damned`. The Round 43 open items
+  "what the Damned's game is" and "which exit her story takes" are closed; new open items: who the
+  player is in the RTS layer, whether the other minigames are also wraith-style or one per unit
+  type, and what breaking out costs the RTS side.
+
+### Round 45 — 2026-09-17
+
+**Q93 — Open items from Round 44: who the player is in the RTS layer, whether "power of will"
+can fail, what breaking out costs the RTS, and what Delahaye does once she is loose on the map.**
+
+> The player playes as a kingdom that they can name when playing that game - they don't play as
+> a single protagonist on the RTS layer. Player can't fail the 'power of will' - pirate realm and
+> pirate characters have built in 'freedom' as a mechanic, as the pirate realm is an open
+> exploration game that lets players do what they want. It's another example of how an entity
+> from one realm can cause issues when active in another realm. When the wraith breaks out it
+> will freeze the RTS game. The Wraith will go on an adventure to work out how to get to the
+> Pirate realm so Delahaye can work on her unresolved business, but will eventually have to
+> return and 'take control' of the kingdom in the RTS game to achieve some goal for the
+> protagonists. She will need help from other protagonists to get control of the kingdom.
+
+## Notes For The Compiler — Round 45
+
+- **The RTS player is a kingdom, named by the player** — no protagonist on that layer. On
+  `damned-undead-kingdom-rts`; the "who is the player" open item closed.
+- **"Power of will" cannot fail, and it is a Pirate mechanic**: the Pirate realm is an open
+  exploration game that lets players do what they want, and **freedom** is built into the realm
+  and its characters. New mechanic note `pirates-open-exploration` (aliases Freedom, Pirate
+  Freedom); `pirates` game style updated — open exploration with built-in freedom is stated, the
+  prototype's 4X label stays unconfirmed alongside it; genre table and design status rows changed.
+- **Cross-realm interference.** Delahaye is a Pirate character active in the Damned's game; her
+  freedom cannot be translated into the Damned's recruitment rules, and **the RTS freezes** when
+  she breaks out. Compiled as an instance of [[the-setting-statement]]'s Imbalance and Freeze —
+  the mapping onto the Freeze manifestation is the compiler's reading, the freeze itself is
+  stated. Added to `the-setting-statement` and `continuity-glitches` as an example.
+- **Her adventure**: work out how to reach the Pirate realm to work on the unresolved business.
+  Realms 08 and 06 are ring-distance 2, so no gate joins them — the route (through realm-07's two
+  allied gates, or something else) is an open item, not a fact. This is also the "when" of *Back
+  from the Dead Del*: after the break-out.
+- **The return**: she must eventually come back and "take control" of the frozen kingdom in the
+  RTS to achieve some goal for the protagonists, and **needs other protagonists' help** to do it.
+  What the goal is and which protagonists help are open.

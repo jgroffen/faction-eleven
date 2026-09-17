@@ -50,7 +50,7 @@ to all three goals landing in the same place:
 |---|---|---|
 | Balance | The [[gargoyle-granite]] guardians were too powerful — an autonomous, uncommandable defence that a pre-emptive war could never get past | Smash them first ([[the-smashing-of-the-gargoyles]]) |
 | Balance | [[the-damned]] had been stagnating | Give their vampire commander a war to fight |
-| Conflict | The old war had been over for a thousand years — minimal conflict anywhere on that side of the wheel | Restart it, on false evidence ([[the-broken-barrier]]) |
+| Conflict | The War of the Six Realms had been over for a thousand years — minimal conflict anywhere on that side of the wheel | Restart it, on false evidence ([[the-broken-barrier]]) |
 
 **This is the elegance the system produced, not the Blue.** He shipped the capability and never
 watched what it did with it — consistent with a developer who "gets more done than anyone, at the

@@ -65,7 +65,7 @@ recruit [[val]] or instruct her. He built a system, it found a vampire already c
 [[xipe-totec-the-red]]'s power, and it made her the founder of a secret society convinced that a war
 was coming and that striking first was the only defence. **The elegance is the system's, not his:**
 it answered all three of its own goals in one instance — the gargoyles were too powerful (balance),
-the Damned were stagnating (balance), and the old war had gone quiet (conflict) — and he never
+the Damned were stagnating (balance), and the War of the Six Realms had gone quiet (conflict) — and he never
 designed that convergence, only the machine that could find it. Everything downstream — the smashing
 of the gargoyles, the broken barrier, realms marching on the [[celestials]] and [[mystics]] — followed
 from a system doing exactly what it was built to do ([[the-smashing-of-the-gargoyles]],
@@ -105,8 +105,8 @@ the opening chapters traces back to him through people who have never heard of h
 His colour marks him: **blue** in his avatar at work, in the avatar he wears inside the games, and in
 the fragments of the outside that leak in where the player can find them ([[the-four-developers]]).
 
-**Lead on:** [[pirates]] (06), [[green-skins]] (07) and [[werebeasts]] (09) — the arc that fought the
-old war against the Red's. Three realms shaped by someone who builds fast and does not check: two of
+**Lead on:** [[pirates]] (06), [[green-skins]] (07) and [[werebeasts]] (09) — the arc that fought
+[[the-war-of-the-six-realms]] against the Red's. Three realms shaped by someone who builds fast and does not check: two of
 them have never progressed for in-fighting, and the third came out of the linking better off than
 anyone.
 

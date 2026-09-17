@@ -81,9 +81,15 @@ before she acted**, which is its own kind of failure and entirely in character
 ([[xipe-totec-the-red]]).
 
 This matters for what a protagonist can plausibly know at the start. [[gargoyle-granite]] is the extreme
-case: a construct built for the old war, who knows the other realms as **facts he fought**, not as
+case: a construct built for [[the-war-of-the-six-realms]], who knows the other realms as **facts he fought**, not as
 stories. He begins his game better informed about the multiverse than any other protagonist —
 and knows nothing whatsoever about the present ([[the-gargoyle-guardians]]).
+
+[[wraith-delahaye]] is the other case, and the mirror of his: she **died shortly before the gates
+were sealed**, fighting in [[the-pirate-institute-war]], and starts her game remembering nothing at
+all. But once her memories return she holds **detailed knowledge of the time just before the
+sealing** — the linked world in its last days, from someone who lived in it rather than was built
+for it. Granite knows the war; Delahaye knows the eve of the peace.
 
 Deeper still, **all awareness that an eleventh faction ever existed has been lost.** The Ancients
 did not merely lock the doors; they outlasted the memory of themselves. That is why the mystery
@@ -97,6 +103,7 @@ answer.
 - [[the-four-gods]] — the three who sealed it and the one who let them.
 - [[the-wheel-of-realms]] — the arrangement the disconnection froze.
 - [[sealed-interplane-gates]] — the physical evidence the factions can actually see.
+- [[the-pirate-institute-war]] — the war the sealing cut off, and where its one living witness died.
 
 ## Player-Facing
 

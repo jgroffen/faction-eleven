@@ -10,7 +10,6 @@ source_count: 0
 aliases:
   - The Connection
   - The Black's Intervention
-  - The Old War
 canon: proposed
 era: before the thousand years
 characters:
@@ -45,9 +44,14 @@ preparation**:
 - The [[green-skins]] and [[werebeasts]] started most of the cross-realm conflicts — raiding and
   pillaging rather than fighting a war, and uncoordinated with each other.
 - [[the-damned]] used the chaos to take the dead of other realms home for reanimation, and their
-  vampires built their ranks by turning the living of other factions.
+  vampires built their ranks by turning the living of other factions. Among the many bodies they
+  carried back was [[wraith-delahaye]]'s, taken from the other war of the era
+  ([[the-pirate-institute-war]]) — which is why a Pirate First Mate has a grave in [[realm-08]].
 - The [[fey-folk]], [[mystics]] and [[celestials]] eventually allied and pushed back hard, and the
   raiders' lack of coordination turned the tide against them.
+
+That war is [[the-war-of-the-six-realms]] — six realms, and only six: the [[pirates]] and the
+[[institute-of-eight]] fought their own, [[the-pirate-institute-war]], alongside it.
 
 Then the invaded built [[the-gargoyle-guardians]] — the vampires of [[the-damned]] proposing it, the
 green-skins' shamans building it with them — and the war stopped.
@@ -111,7 +115,7 @@ become unbearable — each of them is watching the thing they warned about get w
 - [[the-gargoyle-guardians]] — what the invaded built, and the reason the peace exists.
 - [[the-long-disconnection]] — the thousand years that followed.
 - [[no-machine-repairs-itself]] — the fault that was never repaired.
-- [[the-wheel-of-realms]] — the two arcs the old war ran between.
+- [[the-war-of-the-six-realms]] — the war itself, by name; [[the-wheel-of-realms]] — the two arcs it ran between.
 - [[sealed-interplane-gates]] · [[realm-nearness-and-traversal]] — the specific network built here.
 
 ## Player-Facing

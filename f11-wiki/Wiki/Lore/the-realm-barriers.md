@@ -33,7 +33,7 @@ back to them. **Break a barrier and the gargoyles wake.**
 
 The barriers close the gates from [[realm-07]], [[realm-08]] and [[realm-09]] toward the
 [[celestials]], the [[mystics]] and the [[fey-folk]] — the three realms the incursions came from
-([[the-gargoyle-guardians]]). They were raised **a long time ago**, at the end of the old war, and
+([[the-gargoyle-guardians]]). They were raised **a long time ago**, at the end of the War of the Six Realms, and
 they are the reason that war stopped.
 
 **A barrier is an alarm as much as a wall.** The gargoyles built themselves into it. While the stone

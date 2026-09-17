@@ -33,7 +33,7 @@ ten stories.
 **Not every seal is theirs, though.** The gates from [[realm-07]],
 [[realm-08]] and [[realm-09]] toward the [[celestials]], [[mystics]] and [[fey-folk]] carry a
 **second, faction-made layer**: stone **barriers** raised on the inside by the gargoyles, at the end
-of the old war ([[the-realm-barriers]]). The gate is the Ancients'; the barrier is the realm's own.
+of the War of the Six Realms ([[the-realm-barriers]]). The gate is the Ancients'; the barrier is the realm's own.
 Where the two coincide, the realms walled themselves in and the Ancients simply made sure nobody
 came back out.
 

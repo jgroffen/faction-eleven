@@ -238,7 +238,9 @@ Never rewrite history in an accepted ADR; its worth is that it records what was 
 - A *capability* users can ask for → `feature`. A *unit of work* on the code → `change`.
 - A choice with alternatives and lasting consequences → `decision`. If a change's discussion
   produced an architectural choice, extract it into a decision and link it, rather than leaving it
-  buried in the change's prose.
+  buried in the change's prose. **A decision records the choice and its reasoning; the specifics
+  that could change live in the notes that own them, linked** — see
+  `Wiki/Conventions/decisions-record-the-choice-not-its-specifics.md`.
 - Something the codebase does repeatedly → `pattern`. A rule people must follow → `convention`.
 - General industry knowledge that isn't about *this* codebase belongs in the core `concept` type,
   not `pattern`.

@@ -26,16 +26,16 @@ The decision in one sentence, stated as a choice made — not as a topic.
 
 ## Context
 
-The Damned's protagonist arrives at the close of the Gargoyle's chapter in story time, and her road runs through the trial of the Gargoyle and on to the monastery. Packing that into the existing chapters two and three would put a new realm, two new genres and a new protagonist into the Metroidvania chapter and a second new genre into the chapter that already carries the undesigned Mystics.
+In story time the Damned's protagonist reaches the Gargoyle's trial and then the monastery. Keeping the chapter boundaries where they were would pack a new realm, new genres and a new protagonist into chapters already carrying their heaviest build.
 
 ## Options Considered
 
-Lag the Damned by a chapter and replay the trial from her viewpoint later; seed only the recruitment minigame in chapter three; strict story order across chapters two and three; or spread chapters two and three apart so the Damned's RTS starts early and both threads reach the trial together.
+Lag the Damned's content a chapter behind story time and replay shared scenes from her viewpoint; seed only her first minigame early; keep strict story order in the existing chapters; or spread the chapters apart so the Damned's gameplay begins a chapter before its protagonist meets the others.
 
 ## Decision
 
-Spread them. Chapter two keeps the Gargoyle focus, adds the Damned's RTS in reduced form up to Delahaye's break-out, keeps the Celestials minimal (the calling of ancient allies must stay), and ends on three cliffhangers. A new chapter three carries the Ninja's arrival, the search, the frozen map, and the trial watched by two protagonists, closing with the kingdom unfrozen. The old chapter three becomes chapter four and gains the shadowing, the ambush before the council, and the council as its own beat, the first meeting of the Realm Champions.
+Spread the chapters apart. A faction's gameplay begins a chapter before its protagonist joins the others, so that parallel stories converge inside a chapter rather than being packed into one. Chapter contents follow from this and are recorded in the chapter notes, not here.
 
 ## Consequences
 
-Chapter two becomes the heaviest chapter (three new styles, two of them reduced) and its schedule is a level-design problem twice over. The player's kingdom is frozen for most of a chapter. Recruitment minigames become the game's window on other realms. Every chapter-03 reference in the wiki now means the convergence chapter as chapter-04. Glitches are tracked in a register rather than ranked by first appearance.
+Earlier chapters carry more genres, each in reduced form. Chapter notes are the balancing record and are expected to be rewritten as boundaries move. A quest can span a chapter break; its chapter field names where it closes. The convergence chapter moves later by one.

@@ -22,9 +22,6 @@ superseded_by: ""
 Ship the game as a series of **chapters that progress the overall story**, rather than as one
 complete ten-faction release.
 
-**Chapter one is [[robots]]-led**: [[autofix-alto]]'s story carries the main plot progression, with
-**[[ninja-kazuma]] and [[templar-ermengarda]] present as what will feel like mini-games**.
-
 **Status:** proposed — the author's words were "I'm thinking that the game will be released in
 chapters", which is an intent, not a commitment.
 
@@ -52,89 +49,25 @@ The author reports the most concrete ideas for five factions: [[ninja-kazuma]] (
 
 ## Decision
 
-Chapters. **Chapter one = [[robots]] (main plot) + [[institute-of-eight]] and [[celestials]] as
-mini-games.** Not yet firm as a release model, but the chapter-one composition is settled.
+Chapters. Each chapter advances the overall story; **several faction arcs progress within a
+single chapter**, and protagonists enter each other's realms earlier than a one-faction-per-chapter
+structure would allow. The run is **eight to ten chapters** — a range, not a number.
 
-This is [[realm-01]], [[realm-02]] and [[realm-03]] — a **contiguous arc of
-[[the-wheel-of-realms]]**, three mutually neighbouring realms that are historically friendly
-with each other. The first chapter is therefore not three arbitrary factions but a connected
-neighbourhood, which is both fictionally coherent and the smallest slice that can demonstrate
-traversal between near realms.
-
-## The Chapters
-
-Content is tracked and balanced per chapter, one note each:
-
-- [[chapter-01]] — *Three Walls*. Lead [[robots]]; [[institute-of-eight]] and [[celestials]]
-  reduced. All three game styles settled. Ends with every faction failing.
-- [[chapter-02]] — *The Signals*. Refocused 2026-08-12 on [[gargoyle-granite]]'s gameplay; four factions.
-  **The lead faction's game style is undesigned.**
-- [[chapter-03]] — *The Convergence*. Proposed 2026-08-12: the [[mystics]] are introduced and four
-  protagonists reach [[templar-ermengarda]]. **Provisional.**
-- Chapters four onward — nothing written. See [[story-outline-requirement]].
-
-### The shape of the whole run
-
-**Eight to ten chapters**, not one per faction plus a finale. **Multiple faction story arcs progress
-within a single chapter**, and protagonists participate in each other's realms **earlier** than a
-one-faction-per-chapter structure would allow.
-
-That change is downstream of [[realm-governs-game-style]]: because a visiting protagonist plays the
-host realm's genre, cross-realm scenes reuse systems already built rather than demanding new ones, so
-moving protagonists around early is cheaper than it looks. It also serves the reveal, which depends
-on the player holding facts from two realms at once ([[continuity-glitches]]).
-
-Chapters four onward are unwritten, and the count is a range rather than a number.
-
-**The chapter boundaries have already moved once.** Chapter two originally carried the Mystics and
-the convergence; both moved to chapter three to keep the two arrivals at the Templar together.
-That is exactly the kind of rebalancing the chapter notes exist to support — and a reminder that
-under this release model, boundaries are cheap to move *until a chapter ships*.
-
-Those notes hold the beats, the faction balance and the build load; this decision holds only the
-release model itself.
-
-### Chapter one's causal chain
-
-The three factions are not parallel demos. They form one chain:
-
-> [[ninja-kazuma]] fights the guardian and loses → [[the-cracked-gate]] → [[autofix-alto]]'s restored remote
-> comms reach through the crack → [[the-first-signal]].
-
-Meanwhile [[templar-ermengarda]] loses [[the-outpost]] and retreats, setting up chapter two. Every faction
-fails, and the failures are what connect them.
+What each chapter contains is **not part of this decision.** Chapter composition is balanced and
+re-balanced as the story is written, and lives in the chapter notes ([[chapter-01]] onward) — see
+[[spread-the-chapters-so-parallel-stories-converge]] for the first time the boundaries moved.
 
 ## Consequences
 
-Recorded as open questions rather than settled facts, since the decision itself is provisional:
-
-- **A chapter is several factions with one lead.** One faction carries plot progression; others
-  appear in smaller form. This resolves the trap noted below.
-- [[protagonist-swapping-and-story-gating]] **can ship in chapter one**, because there are three
-  factions to swap between. Had chapter one been a single faction, the mechanic that defines the
-  game would have had nothing to demonstrate.
-- **"Mini-game" resolved for the Ninja (2026-08-08): genuinely reduced.** Chapter one gives
-  [[ninja-kazuma]] a single cycle of boss fight → defeat → training, plus lore-building and the mini-fix
-  bot in the family shrine. Not a vertical slice of the full faction, and not a diegetic
-  novelty — a small, complete version of the loop that grows later without retcon. The same
-  question is still open for [[templar-ermengarda]].
-- **The Institute's gate does not open in chapter one.** [[ninja-kazuma]] cannot open it until every
-  faction has been introduced, which makes it a late-game turning point. Chapter one therefore
-  ends with the Ninja *not* winning — and protects [[gargoyle-granite]] and [[realm-07]] for the chapter
-  where the Green Skins are actually built.
-- **Chapter one has a spine:** [[the-first-signal]]. An ability earned in [[autofix-alto]]'s
-  incremental skill tree wakes the mini-fix bot in the Ninja's shrine, connecting the chapter's
-  lead faction to its first mini-game. This is also chapter one's demonstration of
-  [[protagonist-swapping-and-story-gating]].
-- **[[autofix-alto]]'s story is the one that must carry the mystery**, since it leads. The robots'
-  sealed gates — which they cannot open alone — are already the perfect first contact with
-  [[faction-eleven-antagonist]]'s work.
-- The [[faction-eleven-antagonist]] reveal is distributed across the ten stories. Chaptering means
-  committing to how much of that mystery each chapter pays off, before the later chapters exist.
-- **Evidence must be planted in chapters that ship before it can be cashed.** The mystery now has two
-  reveals — the gods at the midpoint, the developers at the end — and both depend on artifacts the
-  player has been carrying for hours: [[the-ancient-language]] and [[continuity-glitches]]. An early
-  chapter that ships without its share of them cannot be given one later. Chapter one already
-  carries both, in [[the-clay-jar]]'s symbol and [[the-gate-guardian]].
-- Whether ten factions is a **story requirement or an ambition** was asked and not answered; the
-  chapter model makes it possible to defer that question, which is a benefit and a risk.
+- **A chapter is several factions with one lead.** One faction carries plot progression; the
+  others appear in reduced form — a small, complete version of their loop that grows later without
+  retcon, not a vertical slice and not a diegetic novelty.
+- **[[protagonist-swapping-and-story-gating]] can ship from the first chapter**, because every
+  chapter has more than one faction to swap between.
+- **Reveals are paced before the later chapters exist.** The mystery is distributed across the ten
+  stories; chaptering means committing to how much each chapter pays off, and **planting evidence
+  in chapters that ship before it can be cashed** ([[the-ancient-language]],
+  [[continuity-glitches]]).
+- **Shipped chapters harden.** Once players hold a faction, revising it freely stops being an
+  option; balancing is done per chapter, in the chapter notes, before release.
+- **Chapter boundaries will move** as the story is written. Each move is its own decision.

@@ -73,11 +73,22 @@ so she gave up looking and went to war with two. **This is the balance routines 
 were too powerful, so they were destroyed; three factions against one was too imbalanced, so it was
 blocked from happening. Both look, from inside her story, like her own decisions.
 
+**Her seat is [[val-s-castle]]**, a vampire castle on the Damned's world map. It is where
+[[wraith-delahaye]]'s search for [[the-guardians-of-night]] ends up — and Val arrives there, and leaves
+it for the [[green-skins]]' realm, with a wraith she never notices following her
+([[the-search-of-the-frozen-map]]).
+
 **Once she learns a Gargoyle survived, she goes after him personally.** She seeks out what he is —
 damaged, running on a fraction of his power — before she hunts him down. See
 [[the-trial-of-the-last-gargoyle]]: she fails to talk him into believing he's malfunctioning, sets
 the Minotaur on him instead, and leaves without confidence the Minotaur wins. She resolves,
 afterward, to destroy every remaining gargoyle rather than risk a second survivor.
+
+**And she sends assassins.** After the trial she dispatches an **assassin team** — one of them a
+wraith — to **kill the Ninja, destroy the Gargoyle and capture Mifix** ([[the-ambush-on-the-road]]).
+She does not want [[gargoyle-granite]] interfering with her plans; and she has become **curious as
+to what [[mifix]] is** — capture, not kill, is the tell. The ambush is thwarted by the one wraith in
+the world that is not hers.
 
 ## In-Game Role
 
@@ -115,6 +126,8 @@ manipulated realm is an invaded one. See [[gargoyle-granite]].
   thing at the other end of the wheel. A third carrier, a Mystic, is unnamed.
 - [[the-secret-society-system]] — what actually shaped her decisions, without her knowledge.
 - [[the-trial-of-the-last-gargoyle]] — where she hunts him down and loses the argument.
+- [[the-ambush-on-the-road]] — her assassins, and the wraith who stops them.
+- [[val-s-castle]] — her seat; [[wraith-delahaye]] — the wraith who followed her out of realm-08.
 - [[realm-nearness-and-traversal]] — the map she's old enough to know without asking.
 
 ## Open
@@ -123,6 +136,9 @@ manipulated realm is an invaded one. See [[gargoyle-granite]].
   and running on limited power before she confronts him. What's still open is how much more she
   works out: whether she ever connects it to the broken hammer, specifically.
 - Whether the player ever gets to tell her what was done to her.
+- What she does when the assassins fail, and whether she learns a wraith stopped them.
+- Whether she ever learns that the Damned's own recruitment produced the ghost that is now
+  travelling with her enemies.
 - Whether she ever notices the power she opened the gates with was not hers.
 - Whether she ever learns the werebeast path stayed lost because of the balance system, rather than
   bad luck.

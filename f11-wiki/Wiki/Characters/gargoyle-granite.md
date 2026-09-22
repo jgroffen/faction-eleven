@@ -115,6 +115,9 @@ defence field is not designed.
 - [[gargoyle-fragments]] — how he rebuilds himself, from the bodies of his own kind.
 - [[the-trial-of-the-last-gargoyle]] — where Val confronts him and he starts to doubt himself.
 - [[the-diagnosis-of-the-last-gargoyle]] — where he says so, and Mifix fails to read him.
+- [[the-ambush-on-the-road]] — where Val's assassins come to destroy him, and a wraith he has never
+  seen — [[wraith-delahaye]] — stops them and joins the party. She watched the trial unseen
+  ([[the-shadowing-of-the-ninja]]).
 - [[the-convergence-at-the-monastery]] — where he chooses the judge he would trust.
 - [[realm-nearness-and-traversal]] — the map every gargoyle should know, and the one thing his
   damage cost him specifically.

@@ -89,6 +89,14 @@ being cracked but not passable — and follow it out through the abandoned crack
 [[the-ancient-ruin]] ([[the-second-signal]]). The two then hunt together for
 [[odie]] — which [[templar-ermengarda]] has.
 
+**He is followed, and he does not know it.** [[wraith-delahaye]] — a Pirate ghost, dead a thousand
+years in a war the Institute started — picks him out after [[the-trial-of-the-last-gargoyle]] as her
+road to [[realm-01]] and so to [[realm-06]], and as an enemy whose plans she means to thwart. She
+sneaks his camps ([[the-shadowing-of-the-ninja]]) and learns that **he has never heard of the
+Pirates** — the war that defines her is not in his world at all ([[the-pirate-institute-war]]). When
+[[val]]'s assassins come for him she stops them, reveals herself, and is invited to travel with him
+on condition ([[the-ambush-on-the-road]]).
+
 On the way, [[gargoyle-granite]] admits to him and Mifix that he may be malfunctioning, and Mifix's attempt
 to diagnose him glitches Mifix ([[the-diagnosis-of-the-last-gargoyle]]).
 

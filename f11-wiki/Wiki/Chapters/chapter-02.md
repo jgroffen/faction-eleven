@@ -128,6 +128,10 @@ Ninja, toward [[realm-03]] — and the doubt it plants in him is the first thing
 - **How much of the Guardians' conspiracy is revealed in this chapter** versus held back. The chain
   is three deep and only the bottom two rungs can safely be shown.
 - **Where the broken barrier is** in [[realm-07]], and how they broke gargoyle-shaped stone.
+- **Whether [[the-damned]]' protagonist enters here.** [[wraith-delahaye]] watches
+  [[the-trial-of-the-last-gargoyle]] unseen ([[the-shadowing-of-the-ninja]]), which puts her road
+  ([[the-recruitment-of-the-wraith]], [[the-search-of-the-frozen-map]]) before this chapter's close
+  in story time. Which chapter ships her content is a balancing decision not yet made.
 
 ## What Ends The Chapter
 

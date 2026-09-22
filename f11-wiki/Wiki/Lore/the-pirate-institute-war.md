@@ -15,12 +15,15 @@ canon: proposed
 era: before the thousand years
 characters:
   - wraith-delahaye
+  - captain-d-artigue
+  - captain-anne
 factions:
   - pirates
   - institute-of-eight
 locations:
   - realm-01
   - realm-06
+  - tortuga
 ---
 
 # The Pirate–Institute War
@@ -46,8 +49,11 @@ raids were ships doing what ships there do, not a realm going to war.
 containment — erasure. A disorganised culture of independent captains met a martial order that
 plans, and the asymmetry is the war.
 
-**The Pirates fought it at sea.** An **armada of pirate ships** stood against the invasion, and
-[[wraith-delahaye]] — a First Mate — **died fighting in it.** She died **shortly before the
+**The Pirates fought it at sea — and were sold.** An **armada of pirate ships** stood against the
+invasion, and **an ally betrayed it**: [[captain-d-artigue|d'Artigue]], Captain of [[the-holy-socks]], revealed
+the armada's plans to the Institute. The armada knew because **his ship did not join the fleet** —
+and [[the-drunken-mermaid]]'s crew had never trusted him. Why is unknown — probably selfish gain. [[wraith-delahaye]] — First Mate of [[the-drunken-mermaid]], under [[captain-anne]] — **died
+fighting in that armada**, along with many of her allies. The betrayal is what killed them. She died **shortly before the
 realms' gates were sealed** ([[the-long-disconnection]]). The sealing closed the gate between 01
 and 06 with all the rest, and with it the road the invasion had come by.
 
@@ -57,10 +63,11 @@ because the sealing cut the invasion off before it could finish, is not stated.
 
 ## What It Left
 
-- **A wraith.** Delahaye's unfinished business — rescuing the Pirates from the invasion — is what
-  holds her in [[realm-08]] ([[wraiths]]), a thousand years after the invasion stopped. She is
+- **A wraith.** Delahaye's unfinished business — the betrayal, and the allies it killed — is what
+  holds her in [[realm-08]] ([[wraiths]]), a thousand years after the invasion stopped — she is
   there because [[the-damned]] took her body, with many others, during the linking
-  ([[the-linking-of-the-realms]]).
+  ([[the-linking-of-the-realms]]). She wakes meaning to rescue her allies; she ends up meaning to
+  find the one who sold them.
 - **A witness.** Because she died on the eve of the sealing, her recovered memories carry
   **detailed knowledge of the time just before the gates closed** — the last living picture of the
   linked world that any protagonist has access to.
@@ -72,6 +79,9 @@ because the sealing cut the invasion off before it could finish, is not stated.
 - [[pirates]] · [[institute-of-eight]] — the two sides.
 - [[realm-06]] · [[realm-01]] — the raided realm and the invaded one.
 - [[wraith-delahaye]] — died in the armada; [[wraiths]] — what that made her.
+- [[captain-d-artigue|d'Artigue]] · [[the-holy-socks]] — who sold the armada, and the ship that
+  stayed away.
+- [[captain-anne]] · [[the-drunken-mermaid]] · [[tortuga]] — Delahaye's captain, ship and home.
 - [[the-linking-of-the-realms]] — the era it was fought in; [[the-long-disconnection]] — the
   sealing that ended it.
 - [[the-war-of-the-six-realms]] — the other war of the linked era, which this is not part of.
@@ -87,7 +97,8 @@ story remembers it is not written.
 
 - How the Institute of Eight remembers the invasion, if at all — [[ninja-kazuma]]'s faction has a
   family sentence and a gate guardian, and no recorded memory of a war of extermination.
-- Whether the armada held, or the sealing saved the Pirates.
+- Whether the armada held after the betrayal, or the sealing saved the Pirates.
+- What the betrayer got for the armada's plans, and from whom.
 - Where the invasion got to before it stopped — whether any of the Institute's force was still in
   [[realm-06]] when the gate closed.
 - What the Damned did with Delahaye's body in the thousand years before she woke.

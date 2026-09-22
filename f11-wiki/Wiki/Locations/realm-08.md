@@ -43,7 +43,8 @@ Connected to alien space by a **void** in which ancient Lovecraftian gods dwell.
 kingdom expands across — and one of the two spaces the wraith minigame is played in
 ([[wraith-memory-puzzle]]), the other being [[the-wraith-s-mansion]], which is not a place in the
 realm but a representation of the [[wraith-delahaye]]'s mind. The Wraith's grave, her single spawn
-point, is here; once she breaks out of the minigame, the realm's map is what she searches.
+point, is here; once she breaks out of the minigame, the realm's map is what she searches
+([[the-search-of-the-frozen-map]]) — and [[val-s-castle]] is where the search leads.
 
 It is also **where the Black's AI experiment lives** ([[the-lich-experiment]]): the one realm holding
 characters who can read the rules their world runs on, and who left it to hide from the gods.
@@ -51,4 +52,6 @@ characters who can read the rules their world runs on, and who left it to hide f
 ## Set Here
 
 <!-- gd:set-here:start -->
+- [[the-recruitment-of-the-wraith|The Recruitment Of The Wraith]] · quest
+- [[the-search-of-the-frozen-map|The Search Of The Frozen Map]] · quest
 <!-- gd:set-here:end -->

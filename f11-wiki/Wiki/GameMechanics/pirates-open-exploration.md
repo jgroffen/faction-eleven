@@ -12,6 +12,7 @@ aliases:
   - Freedom
   - Pirate Freedom
   - The Pirates Game Style
+  - Pirates 4X
 state: concept
 category: exploration
 features: []
@@ -25,8 +26,9 @@ related_mechanics:
 
 # Pirates — Open Exploration
 
-The [[pirates]]' realm is an **open exploration game that lets players do what they want.** The
-mechanic that defines it is **freedom** — and freedom is **built into the realm and into Pirate
+The [[pirates]]' realm is an **open world game with 4X elements** — open exploration that **lets
+players do what they want**, with the expand-and-exploit layer the prototype's 4X label pointed at.
+The mechanic that defines it is **freedom** — and freedom is **built into the realm and into Pirate
 characters**, which means a Pirate carries it wherever they go, including into games that have no
 rule for it.
 
@@ -36,10 +38,14 @@ rule for it.
 
 ## How It Works
 
-**At home: do what you want.** [[realm-06]] is played as open exploration — the realm does not
-route the player, and the game's rules are built to permit rather than direct. What the realm's
-activities, goals and structure are beyond that is not yet defined; the prototype's **4X** label is
-recorded in [[faction-genre-mechanics]] as unconfirmed, and how it relates to this is not stated.
+**At home: do what you want.** [[realm-06]] is played as an open world — the realm does not route
+the player, and the game's rules are built to permit rather than direct — with **4X elements** on
+top: the fleet-scale, expand-and-exploit play the Commander protagonist implies ([[captain-leon]]).
+The realm is **a series of islands**, loosely the Caribbean of the pirate era ([[realm-06]]), and
+**every ship has a unique name and flag** — a ship is an identity, not a unit, which is why a ship
+that fails to appear can be an accusation ([[the-holy-socks]]) and a ship's fate can be a quest
+([[the-drunken-mermaid]]). What the realm's activities, economy and structure are beyond that is not
+yet defined.
 
 **Abroad: freedom does not switch off.** A Pirate character active in another realm still has
 freedom as a property, and the other realm's rules have to translate it
@@ -62,8 +68,10 @@ every host game on contact is unplayable; one that never bites is not a mechanic
 
 ## Open
 
-- What the Pirate realm's open exploration actually consists of — activities, economy, fleet, the
-  4X label's fate.
+- What the Pirate realm's open world actually consists of — activities, economy, fleet — and which
+  of the four X's the 4X elements are.
+- What a ship's name and flag *do* — recognition, reputation, ownership of an island — beyond
+  identifying it.
 - Whether freedom is a property of the *player* in realm-06 (the game permits anything) or of
   Pirate *characters* (they resist other games' control) — the material says both.
 - What freedom does to the other realms' styles when [[captain-leon]] or another Pirate visits
@@ -74,6 +82,8 @@ every host game on contact is unplayable; one that never bites is not a mechanic
 ## Used In
 
 <!-- gd:used-in:start -->
+- [[the-drunken-mermaid|The Drunken Mermaid]] · item
+- [[the-holy-socks|The Holy Socks]] · item
 <!-- gd:used-in:end -->
 
 ## Related

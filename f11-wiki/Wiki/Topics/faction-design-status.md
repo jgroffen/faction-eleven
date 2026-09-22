@@ -29,7 +29,7 @@ record.
 | 07 | [[green-skins]] | **deep** | **settled** — [[gargoyle-stone-metroidvania]] | **settled** — origin, instructions, antagonist and story spine |
 | 04 | [[mystics]] | **deep — next session** | ❌ none — and they lead [[chapter-03]] | substantial, **plus a war**: invaded by the Damned and werebeasts, instigated by [[the-guardians-of-night]] |
 | 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | **a role, not a story**: one of the three old invader realms |
-| 06 | [[pirates]] | thin — leave | **partly settled** — [[pirates-open-exploration]]: open exploration, freedom built in; 4X label unconfirmed | **a war**: nearly wiped out by the Institute ([[the-pirate-institute-war]]); their dead First Mate is the Damned's protagonist |
+| 06 | [[pirates]] | thin — leave | **settled** — [[pirates-open-exploration]]: open world with 4X elements, freedom built in; content unfilled | **a war**: nearly wiped out by the Institute ([[the-pirate-institute-war]]); their dead First Mate is the Damned's protagonist |
 | 09 | [[werebeasts]] | thin — leave | unconfirmed | **a role**: old defensive ally; **their gargoyles survive**, which sets up a much later chapter |
 | 08 | [[the-damned]] | thin — leave | **settled** — [[damned-undead-kingdom-rts]], with [[wraith-memory-puzzle]] as its wraith-recruitment minigame | **substantial role**: co-made the gargoyles, [[val]] is theirs, now invading the Mystics; protagonist's arc settled, her death and unfinished business known ([[the-pirate-institute-war]]) |
 | 10 | [[aliens]] | thin — leave | unconfirmed | partial |
@@ -43,7 +43,7 @@ Chapter two adds the [[mystics]] ([[realm-04]]) as a major setting **and** the [
 through an abandoned gate in [[realm-01]], not by walking round the wheel — though that gate's own
 justification is open, pending a new account of which realms a gate can join.
 
-**Six of ten styles are settled, and a seventh (the Pirates') is stated in outline**, leaving the [[mystics]] as **the only chapter lead without a
+**Seven of ten styles are settled** (the Pirates' as a style, not yet as content), leaving the [[mystics]] as **the only chapter lead without a
 game style** — and they lead [[chapter-03]]. That is the most urgent design gap.
 
 **Settled styles are not one-per-faction.** Under [[realm-governs-game-style]] a style belongs to a

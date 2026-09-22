@@ -87,6 +87,8 @@ No values yet. The knobs to expect:
 ## Used In
 
 <!-- gd:used-in:start -->
+- [[the-recruitment-of-the-wraith|The Recruitment Of The Wraith]] · quest
+- [[the-search-of-the-frozen-map|The Search Of The Frozen Map]] · quest
 <!-- gd:used-in:end -->
 
 ## Related

@@ -2075,3 +2075,127 @@ can fail, what breaking out costs the RTS, and what Delahaye does once she is lo
 - **The return**: she must eventually come back and "take control" of the frozen kingdom in the
   RTS to achieve some goal for the protagonists, and **needs other protagonists' help** to do it.
   What the goal is and which protagonists help are open.
+
+### Round 46 — 2026-09-22
+
+**Q94 — Feedback on the Round 45 compilation: what the unresolved business actually is, what
+Delahaye does after the break-out, the freeze, and the Damned's genre.**
+
+> Some feedback on your feedback:
+> - The unresolved business is Delahaye is dead because she was betrayed - an ally sold out the
+>   pirate armada by revealing the armada's plans to the enemy in exchange for retaining control
+>   of a region of the pirate realm, protected from the institute. This betrayal led to her death
+>   as well as the deaths of many of her allies. Delahaye initially breaks out to go rescue her
+>   allies - but it is slowly revealed as she explores the frozen world map that much time must
+>   have passed since she died, and her intentions change to seeking revenge against her
+>   betrayer, who must reside in these protected lands of the Pirate realm.
+> - Delahaye remembers that realms could be traversed, but doesn't know about the sealing of the
+>   realms as this happened after she died. Searching the Damned game's world map she realises
+>   she is in the Damned Realm which she is not familiar with. More exploration and use of her
+>   investigation and infiltration skills reveal the existence of the Guardians of Night and that
+>   they are working on ways to reopen gates between realms. This leads Delahaye to a vampire
+>   castle ... which turns out to be Val's castle. Just as the Wraith moves close to the castle
+>   Val appears on the world map, moving toward the castle. Delahaye learns that Val is going to
+>   travel to the Green Skins realm and decides to follow. This leads Delahaye to observe the
+>   confrontation between Val and the protagonists Granite, Kazuma, and Mifix. After the
+>   confrontation, Delahaye decides to follow the Ninja who Delahaye thinks could lead her to the
+>   Institute of Eight realm which she knows is directly connected to the Pirate Realm. Delahaye
+>   is also thinking of how she can thwart the Ninja's plans, as she sees Kazuma as an enemy. On
+>   the way whenever the Ninja camps a Wraith minigame plays out where the Wraith sneaks around
+>   the camp and uses her investigation skills to find out about Kazuma, Granite, and Mifix. She
+>   realises much has changed and the Ninja is not aware of the pirates at all. Val has sent an
+>   assassin team to kill the Ninja, destroy the Gargoyle and capture Mifix - she doesn't want
+>   the Gargoyle interfering with her plans and becomes curious as to what Mifix is. Delahaye
+>   sees the assassination attempt coming as one of the assissins is a wraith sneaking up on the
+>   group - Delahaye thwarts the ambush, revealing herself to the protagonists. When she reveals
+>   she was following them because she needs to find a way back to the Pirate realm and this
+>   group knows how to traverse realms they invite her to join them and promise to help her as
+>   long as it doesn't interfere with their own missions.
+> - The freeze of the Damned game is a cross-realm glitch example.
+> - The pirate game is an open world game with 4X elements.
+
+## Notes For The Compiler — Round 46
+
+- **The Pirates' genre is open world with 4X elements** — this reconciles the prototype's 4X
+  label with Round 45's open exploration; `pirates-open-exploration` retitled to say so, and the
+  "4X unconfirmed" caveats on `pirates`, the genre table and the design status removed. The
+  Damned's RTS is unchanged.
+- **The freeze is confirmed as a cross-realm glitch** — the "design's reading" hedge removed from
+  `continuity-glitches` and `the-setting-statement`.
+- **The betrayal** is the unresolved business: new character `the-betrayer` (unnamed Pirate ally,
+  antagonist) and new location `the-protected-lands` (a region of realm-06 held by the betrayer,
+  protected from the Institute by the deal). On `the-pirate-institute-war`, `wraith-delahaye`,
+  `wraiths`, `pirates`. The arc is rescue → revenge, as the frozen map reveals how much time has
+  passed.
+- **What she knows**: traversal, yes; the sealing, no. Realm-08 is unfamiliar to her. Her
+  investigation and infiltration skills are the wraith minigame's verbs beyond object reading —
+  added to `wraith-memory-puzzle`, with the **camp minigame** (sneak the Ninja's camp, learn about
+  the party) as a second setting for it.
+- **Four new quests**, Delahaye's spine: `the-recruitment-of-the-wraith` (realm-08; the minigame,
+  the break-out, the freeze), `the-search-of-the-frozen-map` (realm-08; time has passed, the
+  Guardians reopening gates, Val's castle, Val leaves for realm-07, Delahaye follows),
+  `the-shadowing-of-the-ninja` (realm-07; observes the trial, follows Kazuma as her road to
+  realm-01 and so to realm-06, camp minigames, learns the Ninja knows nothing of the Pirates),
+  `the-ambush-on-the-road` (Val's assassins — kill the Ninja, destroy the Gargoyle, capture Mifix —
+  one a wraith; Delahaye thwarts it, reveals herself, is invited to join on condition). New location
+  `val-s-castle` in realm-08. `chapter:` left empty on all four — her route crosses the close of
+  chapter two and the opening of chapter three, but which chapter ships her content is a balancing
+  decision not yet made; noted as open on `chapter-02` and `chapter-03`.
+- **Route check**: her road is 08 → 07 (the allied gate Val opened) → following the Ninja toward
+  01 (the ruin gate) → 06 (the 01↔06 enemy gate she remembers). Every leg is a gate the network
+  has. The Round 45 "no gate from 08 to 06" open item is closed by the route.
+- **Val** gains a castle, an assassin team, a motive (the Gargoyle must not interfere) and a
+  curiosity (what Mifix is). **Kazuma and Mifix are present at the trial** — added to that quest's
+  notes with Delahaye as an unseen observer. `ninja-kazuma`, `gargoyle-granite`, `mifix` gain
+  Delahaye as a party member from the ambush on; the Ninja knows nothing of the Pirates.
+- Open: whether the group's promise holds when her revenge and their missions collide; what the
+  betrayer's protected lands are now, a thousand years on; whether Delahaye's plan to thwart the
+  Ninja survives joining him; who the wraith assassin is.
+
+### Round 47 — 2026-09-22
+
+**Q95 — On the betrayer's deal as compiled in Round 46.**
+
+> Delahaye couldn't know about the deal the betrayer had - remove mention of it and change the
+> betrayers intentions to unknown, but probably selfish gain.
+
+## Notes For The Compiler — Round 47
+
+- **The deal is gone** — no exchange, no region retained, no protection from the Institute. What
+  stands: an ally revealed the armada's plans to the enemy; the betrayer's intentions are
+  **unknown, probably selfish gain**; where they are now is unknown. `the-protected-lands` deleted
+  (it existed only as the deal's price); `the-betrayer`'s home is [[realm-06]], whereabouts open.
+  Delahaye's revenge points at the Pirate realm, not at a named region.
+- Rewritten on `the-betrayer`, `the-pirate-institute-war`, `wraith-delahaye`, `wraiths`, `pirates`,
+  `the-recruitment-of-the-wraith`, `the-search-of-the-frozen-map`.
+
+### Round 48 — 2026-09-22
+
+**Q96 — Delahaye's ship, captain and home; the betrayer's name; the shape of the Pirate realm.**
+
+> - Delahaye was the first-mate of a ship called The Drunken Mermaid. Her captain was also
+>   Delahaye's romantic partner - Captain Anne.
+> - The betrayer was a Captain of another ship called The Holy Socks. His name was d'Artigue. The
+>   armada realised d'Artigue must have betrayed the armada as his ship didn't join the fleet, and
+>   Delahaye's crew knew him to not be trustworthy.
+> - The pirate realm is a series of islands. Delahaye's captain and crew controlled Tortuga. These
+>   islands are loosely based of the Carribean islands where pirates were active.
+> - In the pirate game every ship has a unique name and flag. Delahaye slowly realises so much
+>   time has passed that she is unsure what she will find when she reaches the Pirate realm, but
+>   one of her goals is to find what had happened to her crew and The Drunken Mermaid, and if her
+>   home island of Tortuga is still controlled by ancestors of her crew.
+
+## Notes For The Compiler — Round 48
+
+- New character `captain-anne` (Captain of The Drunken Mermaid, Delahaye's romantic partner, held
+  Tortuga; fate after the armada unknown). `the-betrayer` renamed `captain-d-artigue` (Captain of
+  The Holy Socks; aliases keep "The Betrayer"). The in-world evidence is circumstantial — his ship
+  did not join the fleet, and Delahaye's crew already distrusted him — recorded as such.
+- New location `tortuga` (island in realm-06, held by Anne's crew). `realm-06` gains its shape: a
+  series of islands, loosely based on the Caribbean islands where pirates were active.
+- New items `the-drunken-mermaid` and `the-holy-socks` (type: ship). The rule that every ship in
+  the Pirate game has a unique name and flag goes on `pirates-open-exploration`.
+- Delahaye's goals in realm-06, on `wraith-delahaye` and `the-search-of-the-frozen-map`: find out
+  what happened to her crew and The Drunken Mermaid, and whether Tortuga is still held by her
+  crew's descendants — alongside revenge, and with her unsure what she will find. "Ancestors" in
+  the author's text is read as descendants.

@@ -67,6 +67,10 @@ settled the original smashing: in person, briefly, and leaving the violence to s
 
 ## Notes
 
+- **[[ninja-kazuma]] and [[mifix]] are present** for the confrontation, alongside Granite.
+- **A fourth presence nobody counts.** [[wraith-delahaye]], who followed Val from [[realm-08]],
+  watches unseen — and picks the Ninja out of it as her road home ([[the-shadowing-of-the-ninja]]).
+  Val's answer to the three she met here is [[the-ambush-on-the-road]].
 - **He hides the doubt.** Val's claim doesn't convince him in the room, but it plants something he
   does not show her: after she leaves, he privately begins to doubt he is functioning properly. See
   [[gargoyle-granite]].

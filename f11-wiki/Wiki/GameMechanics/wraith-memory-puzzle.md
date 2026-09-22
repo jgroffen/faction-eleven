@@ -75,7 +75,16 @@ hurt by things a ghost cannot — is not defined.
 
 **The verb that drives it is [[wraith-object-reading]]:** touch an object, know its history and the
 emotional connections tied to it. A puzzle game about recovering a life, played by a character who
-can read the past out of things, is the one mechanic explaining the other.
+can read the past out of things, is the one mechanic explaining the other. Around it sit
+**investigation and infiltration** — the Wraith's other skills: sneaking, finding things out,
+going where she is not seen. They are what the minigame becomes once it is pointed at the world
+instead of at her own memories.
+
+**The minigame travels.** After the break-out it is played on the frozen world map
+([[the-search-of-the-frozen-map]]) — the same verbs, dating the world rather than recovering a
+life — and then in **camp minigames** on the road: whenever the Ninja camps, the Wraith sneaks
+around the camp and investigates the party ([[the-shadowing-of-the-ninja]]). It is also how she
+spots an ambush before it lands ([[the-ambush-on-the-road]]).
 
 **It is bound to one place.** The Wraith has a **single spawn point** — a grave she must return to
 ([[death-and-return]]). A protagonist who cannot roam freely suits a puzzle game, where the space is
@@ -96,6 +105,9 @@ handed over is exposition; a memory the player assembles from objects is a puzzl
 ## Open
 
 - What the puzzles are — point-and-click, environmental, inventory, something else.
+- What the Wraith can do in a fight — the mechanic has no combat verb, and the ambush needs one or
+  a way around one ([[the-ambush-on-the-road]]).
+- Whether the camp minigame can be failed by being seen.
 - **When the break-out triggers** — a memory threshold, or a scripted beat once the minigame has
   run its course. It cannot fail; what it waits for is not stated.
 - Whether the other recruitment minigames in the RTS share this style, or only this one is a
@@ -108,6 +120,10 @@ handed over is exposition; a memory the player assembles from objects is a puzzl
 ## Used In
 
 <!-- gd:used-in:start -->
+- [[the-ambush-on-the-road|The Ambush On The Road]] · quest
+- [[the-recruitment-of-the-wraith|The Recruitment Of The Wraith]] · quest
+- [[the-search-of-the-frozen-map|The Search Of The Frozen Map]] · quest
+- [[the-shadowing-of-the-ninja|The Shadowing Of The Ninja]] · quest
 <!-- gd:used-in:end -->
 
 ## Related

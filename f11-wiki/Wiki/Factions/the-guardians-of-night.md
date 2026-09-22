@@ -75,6 +75,10 @@ around. Both are defending the realm; only one of them was allowed to choose wha
 - [[fey-folk]] — **not attacked**, and the reason is fear. The [[werebeasts]]' barrier facing them
   still stands, spared because the Guardians are commanded from [[realm-08]] and [[the-damned]] are
   afraid of the Fey Folk. Somebody else's fear is why realm-09's gargoyles survived.
+- [[wraith-delahaye]] — found them. Her investigation of the frozen Damned map reveals that the
+  Guardians exist and **are working on ways to reopen gates between realms** — the lead that takes
+  her to [[val-s-castle]] and out of [[realm-08]] ([[the-search-of-the-frozen-map]]). What they are
+  to her — a tool, a threat — is not stated.
 - [[faction-eleven-antagonist]] — **[[huitzilopochtli-the-blue]] seeded them**. They do not know it,
   and neither, in any meaningful sense, does he.
 

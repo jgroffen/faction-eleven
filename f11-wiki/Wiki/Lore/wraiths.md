@@ -41,13 +41,15 @@ That makes wraiths one of the Damned's sources of members: the faction is where 
 dead end up. It also means every wraith is a story with a deadline built in — the longer the
 business stays unfinished, the more of a Damned thing it becomes.
 
-**[[wraith-delahaye]] is a wraith**, and the one the player plays. Her unfinished business is the
-rescue of the [[pirates]] from the [[institute-of-eight]]'s invasion ([[the-pirate-institute-war]]),
-which she died fighting for shortly before the gates were sealed; the Damned took her body home
+**[[wraith-delahaye]] is a wraith**, and the one the player plays. Her unfinished business is a
+betrayal: an ally sold the pirate armada to the [[institute-of-eight]] ([[captain-d-artigue|d'Artigue]],
+[[the-pirate-institute-war]]) and she died in it, with many of her allies, shortly before the
+gates were sealed; the Damned took her body home
 with many others ([[the-linking-of-the-realms]]). She has been a wraith for about a thousand years
 ([[the-long-disconnection]]), and the thing she has not resolved ended long ago.
 
-**She takes neither exit.** Her business cannot be resolved, and she does not join the ranks:
+**She takes neither exit.** Her business cannot be resolved — the allies she breaks out to rescue
+have been dead a thousand years, and what remains is revenge — and she does not join the ranks:
 **her power of will breaks her out.** The will is a Pirate's — [[pirates-open-exploration|freedom]]
 is built into Pirate characters and does not switch off in death or in another realm's game — so
 the one wraith who breaks out is the one who was a Pirate. What that makes her — still a wraith, or
@@ -60,7 +62,11 @@ something a wraith becomes — is not named.
 toward one of the two exits: recover who you were and why you stayed, resolve it and be released —
 or join the Damned, which is the recruitment. Delahaye's playthrough is the one the game tells;
 her recovered memories are the puzzle's pieces, her body is the progress bar, and her break-out is
-where the minigame hands the world map to her.
+where the minigame hands the world map to her ([[the-recruitment-of-the-wraith]]).
+
+**Wraiths also serve.** A recruited wraith is a unit: [[val]]'s assassin team includes one, sent
+against the protagonists, and it is a wraith sneaking up on a camp that Delahaye recognises for what
+it is ([[the-ambush-on-the-road]]).
 
 ## Ties
 

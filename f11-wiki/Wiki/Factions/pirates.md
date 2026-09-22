@@ -26,13 +26,13 @@ Little is established. Their protagonist is [[captain-leon]] — **Leon** — a 
 
 ## Identity
 
-**Game style: [[pirates-open-exploration]]** — the realm is an **open exploration game that lets
-players do what they want**, and **freedom is a built-in mechanic** of the realm and of every Pirate
+**Game style: [[pirates-open-exploration]]** — the realm is an **open world game with 4X elements**
+that **lets players do what they want**, and **freedom is a built-in mechanic** of the realm and of every Pirate
 character. It travels: a Pirate active in another realm's game carries a property that game may have
 no rule for, and [[wraith-delahaye]] breaking out of the Damned's recruitment — and freezing their
-RTS — is the worked case ([[damned-undead-kingdom-rts]]). What the realm's open exploration
-consists of beyond that is not yet established; the prototype's **4X** label stands alongside as
-unconfirmed, and the commander role still implies a faction played at fleet scale.
+RTS — is the worked case ([[damned-undead-kingdom-rts]]). What the realm's open world
+consists of beyond that is not yet established; the commander role and the 4X elements imply a
+faction played at fleet scale.
 
 **Currency:** Booty · **Role archetype:** Commander
 
@@ -56,11 +56,13 @@ that is entirely self-interested.
 **They were nearly wiped out by the [[institute-of-eight]].** In the linked era, individual Pirate
 ships raided [[realm-01]]; the far more organised Institute answered with an **invasion intended to
 wipe the Pirate realm out entirely** ([[the-pirate-institute-war]]). The Pirates met it at sea with
-an armada, and the gates were sealed shortly after. The two realms are direct opposites on
+an armada — **and one of their own sold it**, revealing the armada's plans to the invaders
+([[captain-d-artigue|d'Artigue]]) — and the gates were sealed shortly after. The two realms are direct opposites on
 [[the-wheel-of-realms]]; this war is the history behind the position.
 
 **One of their dead is another faction's protagonist.** The [[wraith-delahaye]] — [[the-damned]]' protagonist
-— was a Pirate **First Mate** named **Delahaye** in life, **died fighting in that armada**, and does
+— was a Pirate **First Mate** named **Delahaye** in life — of [[the-drunken-mermaid]], under
+[[captain-anne]], out of [[tortuga]] — **died fighting in that armada**, and does
 not remember it; recovering that life is her whole story ([[wraith-memory-puzzle]]), and rescuing
 the Pirates from the invasion is the unfinished business that keeps her a [[wraiths|wraith]].
 **She comes back.** Once she travels to [[realm-06]] and word gets out that she has returned, the
@@ -82,20 +84,22 @@ instead, against the White's Institute ([[the-pirate-institute-war]]).
 Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
 website, recorded as the last written state and not as confirmed current design.
 
-| Class | Faction class | |
-|-------|---------------|---|
-| Commander | [[captain-leon]] | Master of a crew. Arg. **← protagonist** |
-| Front Liner | Swashbuckler | Staple of the fleets. |
-| Heavy Weapons | Cannoneer | They like things that go BOOM! |
-| Infiltrator | Quatermaster | Boarding party leaders. |
-| Medic | Jester | A saw in one hand, a sword in the other. |
-| Specialist | First Mate | Second in command to the Captain. **← the [[wraith-delahaye]], in life** |
+| Class         | Faction class    |                                                                          |
+| ------------- | ---------------- | ------------------------------------------------------------------------ |
+| Commander     | [[captain-leon]] | Master of a crew. Arg. **← protagonist**                                 |
+| Front Liner   | Swashbuckler     | Staple of the fleets.                                                    |
+| Heavy Weapons | Cannoneer        | They like things that go BOOM!                                           |
+| Infiltrator   | Quatermaster     | Boarding party leaders.                                                  |
+| Medic         | Jester           | A saw in one hand, a sword in the other.                                 |
+| Specialist    | First Mate       | Second in command to the Captain. **← the [[wraith-delahaye]], in life** |
 
 The faction's own one-line description on that site: *"Rum loving scags of the sea."*
 
 ## Members
 
 <!-- gd:members:start -->
+- [[captain-anne|Captain Anne]] · npc
+- [[captain-d-artigue|d'Artigue, the Betrayer]] · antagonist
 - [[captain-leon|Leon, the Captain]] · protagonist
 <!-- gd:members:end -->
 

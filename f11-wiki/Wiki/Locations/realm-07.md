@@ -56,7 +56,9 @@ That double use is deliberate: it is what pays for the most content-hungry genre
 ## Set Here
 
 <!-- gd:set-here:start -->
+- [[the-ambush-on-the-road|The Ambush On The Road]] · quest
 - [[the-diagnosis-of-the-last-gargoyle|The Diagnosis Of The Last Gargoyle]] · quest
+- [[the-shadowing-of-the-ninja|The Shadowing Of The Ninja]] · quest
 - [[the-trial-of-the-last-gargoyle|The Trial Of The Last Gargoyle]] · quest
 - [[the-waking-of-the-last-gargoyle|The Waking Of The Last Gargoyle]] · quest
 <!-- gd:set-here:end -->

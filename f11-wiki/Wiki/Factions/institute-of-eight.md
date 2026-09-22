@@ -84,14 +84,14 @@ rather than a problem solved early.
 Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
 website, recorded as the last written state and not as confirmed current design.
 
-| Class | Faction class | |
-|-------|---------------|---|
-| Commander | Samurai | Followers of Bushido, the Way of the Warrior. |
-| Front Liner | Mercenary | Highly trained military forces for hire. |
-| Heavy Weapons | Sniper | Pitch a tent and set up camp. |
-| Infiltrator | [[ninja-kazuma]] | Sabotage, espionage, scouting, assassination. **← protagonist** |
-| Medic | Kami | Animal spirits. |
-| Specialist | Secret Agent | The suave, sophisticated, gadgets and guns kind. |
+| Class         | Faction class    |                                                                 |
+| ------------- | ---------------- | --------------------------------------------------------------- |
+| Commander     | Samurai          | Followers of Bushido, the Way of the Warrior.                   |
+| Front Liner   | Mercenary        | Highly trained military forces for hire.                        |
+| Heavy Weapons | Sniper           | Pitch a tent and set up camp.                                   |
+| Infiltrator   | [[ninja-kazuma]] | Sabotage, espionage, scouting, assassination. **← protagonist** |
+| Medic         | Kami             | Animal spirits.                                                 |
+| Specialist    | Secret Agent     | The suave, sophisticated, gadgets and guns kind.                |
 
 The faction's own one-line description on that site: *"Highly trained specialist operatives."*
 

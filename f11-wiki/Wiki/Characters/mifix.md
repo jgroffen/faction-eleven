@@ -161,6 +161,8 @@ Two jobs, one mechanical and one narrative:
   has not killed him.
 - [[gargoyle-granite]] — the one thing he tries to read and cannot.
 - [[templar-ermengarda]] and [[conjurer-voisin]] — who work out what he is.
+- [[val]] — who wants him **captured**, not destroyed, because she is curious what he is
+  ([[the-ambush-on-the-road]]); [[wraith-delahaye]] — who stops the attempt and joins the party.
 
 ## Open
 

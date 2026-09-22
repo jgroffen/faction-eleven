@@ -94,8 +94,8 @@ character, and Pirate characters carry [[pirates-open-exploration|freedom]] as a
 when [[damned-undead-kingdom-rts]] tries to recruit her through [[wraith-memory-puzzle]], her freedom
 breaks her out and **the RTS freezes** — a kingdom caught mid-campaign, still there, going nowhere,
 until she returns to take control of it. The fiction claims it as her power of will; underneath it is
-a rule from one realm that another realm's game cannot resolve. Reading it as this table's Freeze is
-the design's mapping, not a stated fact.
+a rule from one realm that another realm's game cannot resolve — a cross-realm glitch, and this
+table's Freeze at the largest scale the game shows one.
 
 **The first glitch shown on purpose is [[mifix]]'s**, when he tries to diagnose [[gargoyle-granite]] and
 cannot ([[the-diagnosis-of-the-last-gargoyle]]). Which manifestation it takes is not decided; it is

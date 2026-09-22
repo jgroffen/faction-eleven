@@ -67,8 +67,11 @@ ways it can fail ([[continuity-glitches]]).
 
 **Then the map opens to her.** After the break-out the player **moves Delahaye around the Damned
 world map, searching its locations with the wraith minigame's mechanics** — [[wraith-object-reading]]
-and the memory puzzle — rather than commanding armies. What she is searching for is **a way to the
-Pirate realm**, [[realm-06]], so she can work on her unresolved business. The RTS's own board becomes
+and the memory puzzle — rather than commanding armies. She is searching, at first, for **her allies** — and the map
+teaches her that they are a thousand years dead, which turns the search into one for **a way to
+the Pirate realm**, [[realm-06]], and revenge ([[the-search-of-the-frozen-map]]). The trail she
+finds is [[the-guardians-of-night]]'s, and it leads to [[val-s-castle]] and out through the gate
+[[val]] opened to [[realm-07]]. The RTS's own board becomes
 an exploration space, frozen mid-campaign, and the specialist unit the kingdom tried to recruit is
 loose on it.
 
@@ -94,9 +97,8 @@ broken-out Wraith can reach against how much the kingdom holds.
   commander, whether the player-named kingdom keeps its name, and what the goal for the
   protagonists is.
 - **Which protagonists help her**, and what kind of help unfreezes a game.
-- **How she reaches [[realm-06]]** — realms 08 and 06 are ring-distance 2, where no gate exists
-  ([[realm-nearness-and-traversal]]); the route is through [[realm-07]]'s two allied gates, the
-  void, or something else, and is not decided.
+- Whether [[val-s-castle]] and the Guardians' holdings are "other kingdoms" on the RTS map, or
+  outside that layer.
 - What the other minigames are — one per specialist unit type, each in its own style, or all
   wraith-style.
 - Whether the Wraith's search of the map and the kingdom's expansion interact — whether places she
@@ -108,6 +110,7 @@ broken-out Wraith can reach against how much the kingdom holds.
 ## Used In
 
 <!-- gd:used-in:start -->
+- [[the-recruitment-of-the-wraith|The Recruitment Of The Wraith]] · quest
 <!-- gd:used-in:end -->
 
 ## Related

@@ -98,6 +98,9 @@ to [[gargoyle-ninja-and-the-celestials-gate]] and [[the-mystics-second-secret-so
 - What the Conjurer's journey from [[realm-04]] to [[realm-03]] is, and whether the Mystics' Red
   Power carrier is involved ([[the-answering-of-the-wand]]).
 - What Mifix's glitch looks like and costs ([[the-diagnosis-of-the-last-gargoyle]]).
+- **Where [[wraith-delahaye]] joins.** [[the-shadowing-of-the-ninja]] and [[the-ambush-on-the-road]]
+  happen on the road after the trial; whether they sit in this chapter, and where relative to the
+  diagnosis and the crossing to [[realm-03]], is not decided.
 - **Which gate the Werebeast gargoyles would seal, and why they need reactivating** — deferred in
   full to [[the-mystics-second-secret-society]], along with the second
   [[the-secret-society-system]] instance and the Mystics' Red Power carrier.

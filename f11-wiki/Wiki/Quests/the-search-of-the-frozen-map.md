@@ -13,7 +13,7 @@ aliases:
   - Delahaye's Search
 quest_status: design
 quest_type: main
-chapter: ""
+chapter: chapter-03
 giver: ""
 location: realm-08
 mechanics:
@@ -79,7 +79,6 @@ it is frozen mid-campaign, and every object she touches tells her something is w
 
 ## Open
 
-- Which chapter ships this ([[chapter-based-release]]).
 - Whether the kingdom's frozen armies and the "other kingdoms" of the RTS are things she can
   interact with, hide among, or read.
 - How she learns Val's destination — overheard, read from an object, inferred.

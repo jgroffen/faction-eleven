@@ -20,15 +20,15 @@ mechanics:
 rewards: []
 prerequisites:
   - the-waking-of-the-last-gargoyle
-chapter: chapter-02
+chapter: chapter-03
 ---
 
 # The Trial Of The Last Gargoyle
 
 [[val]] has learned a Gargoyle survived, found him damaged and running on limited power, and hunts
-him down herself. Closes [[chapter-02]].
+him down herself. Closes [[chapter-03]] — and is watched twice.
 
-**Status:** design · **Type:** main · **Chapter:** [[chapter-02]] · **Giver:** [[val]] ·
+**Status:** design · **Type:** main · **Chapter:** [[chapter-03]] · **Giver:** [[val]] ·
 **Location:** [[realm-07]]
 
 ## Hook
@@ -80,9 +80,9 @@ settled the original smashing: in person, briefly, and leaving the violence to s
 - **Val's exit line is not a bluff.** She genuinely isn't sure the Minotaur wins, which is why the
   quest's real stakes — for her — are set up here rather than resolved: she leaves to go destroy the
   other gargoyles herself rather than risk this one surviving a second time.
-- **This closes [[chapter-02]].** It is the chapter-scale revelation with a named antagonist that
-  the chapter's open ending question was waiting on.
+- **This closes [[chapter-03]].** It is the chapter-scale revelation with a named antagonist —
+  and the coda is [[the-unfreezing-of-the-kingdom]], Val's return to a realm that stopped.
 - Sets up [[gargoyle-granite]]'s decision to leave [[realm-07]] with [[ninja-kazuma]] — not persuasion by another
   protagonist, but his own doubt sending him looking for answers. The doubt is spoken aloud in the
-  next scene, [[the-diagnosis-of-the-last-gargoyle]], which opens [[chapter-03]]. See the
+  next scene, [[the-diagnosis-of-the-last-gargoyle]], which opens [[chapter-04]]. See the
   [[gargoyle-granite]] and [[ninja-kazuma]] notes, and the handoff on what follows at the Celestials' gate.

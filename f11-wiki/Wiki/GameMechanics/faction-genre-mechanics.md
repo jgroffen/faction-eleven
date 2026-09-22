@@ -39,7 +39,7 @@ as a different loadout or stat spread. **Incremental**, **tower defence**, **RPG
 - **A genre belongs to a realm, not to a protagonist** ([[realm-governs-game-style]]). When a
   protagonist travels, they play the host realm's genre: the [[ninja-kazuma]] plays a Metroid in
   [[realm-07]], and both he and the [[gargoyle-granite]] play [[celestials-hero-tower-defence]] in
-  [[chapter-03]]. This turns ten one-shot genre systems into systems that get **played more than
+  [[chapter-04]]. This turns ten one-shot genre systems into systems that get **played more than
   once**, and is the direct mitigation for the scope risk below.
 - **The fiction supplies the reason.** A genre is a realm's [[the-setting-statement|Setting
   Statement]] — the rules the engine reads for that world — so a visitor plays the host genre because
@@ -59,7 +59,7 @@ mechanics is outstanding.
 | [[robots]] | [[robots-incremental-exploration]] | settled |
 | [[celestials]] | [[celestials-hero-tower-defence]] | settled |
 | [[green-skins]] | [[gargoyle-stone-metroidvania]] | settled |
-| [[mystics]] | Iso explorer / Diablo | **unconfirmed** — and they lead [[chapter-03]] |
+| [[mystics]] | Iso explorer / Diablo | **unconfirmed** — and they lead [[chapter-04]] |
 | [[fey-folk]] | Bullet-hell / 1941 | **unconfirmed**, explicitly not locked down |
 | [[pirates]] | [[pirates-open-exploration]] — open world with 4X elements; freedom built in | settled as a style, content not yet filled in |
 | [[werebeasts]] | RPG | **unconfirmed** |

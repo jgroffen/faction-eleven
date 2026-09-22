@@ -13,7 +13,7 @@ aliases:
   - The Wraith Reveals Herself
 quest_status: design
 quest_type: main
-chapter: ""
+chapter: chapter-04
 giver: ""
 location: realm-07
 mechanics:
@@ -77,11 +77,13 @@ camp is exactly what Delahaye has been doing for days.
 
 ## Open
 
-- Which chapter ships this ([[chapter-based-release]]), and where it sits relative to
-  [[the-diagnosis-of-the-last-gargoyle]] and the crossing to [[realm-03]].
+- Where it sits relative to the crossing to [[realm-03]] — it follows [[the-diagnosis-of-the-last-gargoyle]]
+  and precedes [[the-first-meeting-of-the-realm-champions]].
 - Who the wraith assassin is, and whether they survive to be met again.
 - What Delahaye can do in a fight — the mechanic has no combat verb yet
   ([[wraith-memory-puzzle]]).
 - What the party makes of a Pirate ghost — the Ninja has never heard of the Pirates; Granite fought
   a war they took no part in ([[the-war-of-the-six-realms]]).
+- Her doubt about the road starts here and is answered at the council
+  ([[the-first-meeting-of-the-realm-champions]]).
 - Whether she names [[autofix-alto]] later on this road, or elsewhere.

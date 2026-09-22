@@ -13,7 +13,7 @@ aliases:
   - Mifix's Glitch
 quest_status: design
 quest_type: main
-chapter: chapter-03
+chapter: chapter-04
 giver: ""
 location: realm-07
 mechanics:
@@ -26,9 +26,9 @@ prerequisites:
 # The Diagnosis Of The Last Gargoyle
 
 [[gargoyle-granite]] admits to [[ninja-kazuma]] and [[mifix]] that he does not know whether he is malfunctioning.
-Mifix offers to find out — and the attempt breaks something in Mifix instead. Opens [[chapter-03]].
+Mifix offers to find out — and the attempt breaks something in Mifix instead. Opens [[chapter-04]].
 
-**Status:** design · **Type:** main · **Chapter:** [[chapter-03]] · **Location:** [[realm-07]]
+**Status:** design · **Type:** main · **Chapter:** [[chapter-04]] · **Location:** [[realm-07]]
 
 ## Hook
 
@@ -45,8 +45,8 @@ been carrying that silently; here he stops carrying it silently.
    heal works by reading code ([[a-heal-is-a-patch]]), so he offers to see whether he can at least
    **diagnose** him.
 3. **The diagnosis fails.** Mifix cannot read him.
-4. **The attempt glitches Mifix.** Trying costs him — the first on-screen glitch in the game
-   ([[continuity-glitches]]).
+4. **The attempt glitches Mifix.** Trying costs him — a glitch the party sees and names
+   ([[continuity-glitches]], the register).
 
 ## Rewards
 

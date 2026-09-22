@@ -118,7 +118,10 @@ these people are, and learning that the Ninja has never heard of the Pirates
 ([[the-shadowing-of-the-ninja]]). When Val's assassins come for the party — one of them a wraith —
 she sees it coming, thwarts the ambush, and reveals herself. She tells them she needs a way back to
 the Pirate realm; they invite her to join them and promise to help, **as long as it doesn't
-interfere with their own missions** ([[the-ambush-on-the-road]]). That journey is how she becomes
+interfere with their own missions** ([[the-ambush-on-the-road]]). At the monastery she asks the obvious question — why follow a party going the wrong way round the
+wheel — and [[gargoyle-granite]] answers it: five realms have paths to the Pirate realm, the Robot
+realm is one, Kazuma's goal is the Robot realm, and Kazuma can open sealed gates. She stays
+([[the-first-meeting-of-the-realm-champions]]). That journey is how she becomes
 *Back from the Dead Del*.
 
 **But she has to come back.** Eventually she must **return and take control of the kingdom in the
@@ -173,8 +176,8 @@ complicit, opposed, or unaware is unrecorded.
   whether she is still bound to the grave, still fading or solidifying, and whether "release" is
   ever available to her later, is not decided ([[wraiths]]).
 - **Whether the party's promise survives her revenge.** Their help is conditional on not
-  interfering with their missions; hers is a vendetta in [[realm-06]]. Whether she still means to
-  thwart the Ninja's plans once she has joined him is not stated.
+  interfering with their missions; hers is a vendetta in [[realm-06]], and she has not told them.
+  Whether she still means to thwart the Ninja's plans once she has joined him is not stated.
 - **What revenge finds** — whether d'Artigue is alive after a thousand years, where in [[realm-06]]
   he went, and why he did it ([[captain-d-artigue|d'Artigue]]).
 - **What home finds** — whether [[captain-anne]] outlived the armada, what became of

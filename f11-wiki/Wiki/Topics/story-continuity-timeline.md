@@ -20,7 +20,7 @@ and across the chapters that ship. It tracks four things: which factions have ga
 events, the count of subtle and strong [[continuity-glitches]], and what the gods do.
 
 This page **does not own faction balance or story beats.** The [[chapter-based-release]] notes —
-[[chapter-01]], [[chapter-02]], [[chapter-03]] — remain the source of truth for those, and carry the
+[[chapter-01]], [[chapter-02]], [[chapter-04]] — remain the source of truth for those, and carry the
 detail. What lives here and nowhere else is the **glitch budget** and the **god-action schedule**,
 both of which are cross-chapter by nature and cannot be balanced one chapter at a time.
 
@@ -62,9 +62,9 @@ Rolled up from the chapter notes. Cells are terse by design; follow the link for
 | Ch                 | Lead                   | Factions with gameplay                                                                                              | Key events                                                                                                                | Subtle                             | Strong | God actions                                                                       |
 | ------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------ | --------------------------------------------------------------------------------- |
 | **[[chapter-01]]** | [[robots]]             | [[robots]] full · [[institute-of-eight]] reduced · [[celestials]] reduced                                           | [[the-cracking-of-the-gate]] · [[the-fall-of-the-outpost]] · [[the-first-signal]]. **Every faction fails**                | TBD                                | TBD    | none scheduled                                                                    |
-| **[[chapter-02]]** | [[green-skins]]        | [[green-skins]] lead · [[institute-of-eight]] · [[celestials]] · [[robots]]                                         | [[the-waking-of-the-last-gargoyle]] · [[the-calling-of-ancient-allies]] · [[the-second-signal]]. First cross-realm travel | TBD — [[gargoyle-granite]] can **name** one | TBD    | an Ancient manipulating [[the-guardians-of-night]], seen only through its effects |
-| **[[chapter-03]]** | [[mystics]] (inferred) | [[mystics]] ❌ no style · [[celestials]] · [[institute-of-eight]] · [[green-skins]] ❌ no style · [[robots]] by proxy | [[the-diagnosis-of-the-last-gargoyle]] — [[gargoyle-granite]] voices his doubt, [[mifix]] glitches trying to read him · [[the-answering-of-the-wand]] — [[conjurer-voisin]] reaches [[templar-ermengarda]] first · [[the-convergence-at-the-monastery]] — the three arrive; [[mifix]] meets [[odie]]; the council picks a Werebeast gargoyle | TBD                                | TBD    | none scheduled                                                                    |
-| 4                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
+| **[[chapter-02]]** | [[green-skins]]        | [[green-skins]] lead · [[the-damned]] reduced · [[celestials]] minimal · [[institute-of-eight]] · [[robots]] | [[the-waking-of-the-last-gargoyle]] · [[the-calling-of-ancient-allies]] · [[the-second-signal]] · [[the-recruitment-of-the-wraith]] — ends on three cliffhangers, the kingdom frozen |
+| **[[chapter-03]]** | [[green-skins]] · [[the-damned]] | [[green-skins]] lead · [[the-damned]] by story · [[institute-of-eight]] travelling | [[the-search-of-the-frozen-map]] · [[the-trial-of-the-last-gargoyle]] (watched twice) · [[the-unfreezing-of-the-kingdom]] |
+| **[[chapter-04]]** | [[mystics]] (inferred) | [[mystics]] ❌ no style · [[celestials]] · [[institute-of-eight]] · [[green-skins]] · [[robots]] by proxy · [[the-damned]] travelling | [[the-diagnosis-of-the-last-gargoyle]] · [[the-shadowing-of-the-ninja]] · [[the-ambush-on-the-road]] · [[the-answering-of-the-wand]] · [[the-convergence-at-the-monastery]] · [[the-first-meeting-of-the-realm-champions]] |
 | 5                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 | 6                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 | 7                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
@@ -72,19 +72,22 @@ Rolled up from the chapter notes. Cells are terse by design; follow the link for
 | 9                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 | 10                 | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 
-**The target is 8–10 chapters with several faction arcs running per chapter.** Three exist. Rows
-four onward are placeholders for a shape, not a plan.
+**The target is 8–10 chapters with several faction arcs running per chapter.** Four exist. Rows
+five onward are placeholders for a shape, not a plan — except that chapter six, provisionally, is
+where the Templar takes the war machine against the Damned in her own realm
+([[damned-undead-kingdom-rts]]).
 
-**Gameplay coverage is the healthiest column.** Four of ten styles are settled and, under
+**Gameplay coverage is the healthiest column.** Seven of ten styles are settled and, under
 [[realm-governs-game-style]], each is played by whoever visits the realm rather than by one faction
-— so [[realm-09]] is built once and played twice in chapter two. The [[mystics]] are the only
-chapter lead without a style, and they lead chapter three ([[faction-design-status]]).
+— so [[realm-07]] is built once and played twice across chapters two and three. The [[mystics]] are the only
+chapter lead without a style, and they lead chapter four ([[faction-design-status]]).
 
 ## Glitch Budget
 
-**No concrete glitch instance exists anywhere in the design.** [[continuity-glitches]] names five
-kinds and two loudness tiers; not one has been authored in any of the four settled genres. Every
-count in the table above is therefore unset rather than zero.
+**Concrete glitch instances now exist, and are tracked in the Glitch Register on
+[[continuity-glitches]]** — the kingdom's freeze (chapter two), the engine editing [[val]]'s memory to
+unfreeze it (chapter three), [[mifix]]'s diagnosis (chapter four), and the Wraith's dev-layer readings
+throughout. Which comes first is not a design concern; that the rate climbs is.
 
 **One strong candidate now exists, still unauthored to a kind or tier:** that the gargoyles — a
 green-skin/Damned joint creation that only became possible once [[the-linking-of-the-realms]]
@@ -157,7 +160,7 @@ work read both ways, or it will only ever be a set piece.
 - **Chapters four onward do not exist**, against a target of 8–10.
 - **What ends [[chapter-02]]** is unwritten, and its shape is provisional.
 - **Whether the chapter two / three restructure sticks.** It was explicitly provisional, and
-  [[chapter-03]]'s lead faction is an inference.
+  [[chapter-04]]'s lead faction is an inference.
 - **Pre-game ordering is relative, not dated.** Only the thousand years has a number. Whether the
   design ever needs absolute dates is unexamined — and [[the-four-developers]] establishes that the
   gods' clock and the games' clock have no relationship at all.

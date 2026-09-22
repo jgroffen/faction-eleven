@@ -84,6 +84,11 @@ damaged, running on a fraction of his power — before she hunts him down. See
 the Minotaur on him instead, and leaves without confidence the Minotaur wins. She resolves,
 afterward, to destroy every remaining gargoyle rather than risk a second survivor.
 
+**And the engine edits her.** She comes home from the trial to a frozen realm — the kingdom stopped
+since Delahaye broke out — and notices. As she questions it, [[the-retcon-engine]] rewrites her memory
+of noticing and unfreezes the game ([[the-unfreezing-of-the-kingdom]]). She is now a character with a
+god's power she cannot account for, a conviction a system built, and a gap where a memory was.
+
 **And she sends assassins.** After the trial she dispatches an **assassin team** — one of them a
 wraith — to **kill the Ninja, destroy the Gargoyle and capture Mifix** ([[the-ambush-on-the-road]]).
 She does not want [[gargoyle-granite]] interfering with her plans; and she has become **curious as
@@ -110,6 +115,7 @@ manipulated realm is an invaded one. See [[gargoyle-granite]].
 
 <!-- gd:quests:start -->
 - [[the-trial-of-the-last-gargoyle|The Trial Of The Last Gargoyle]] · design
+- [[the-unfreezing-of-the-kingdom|The Unfreezing Of The Kingdom]] · design
 <!-- gd:quests:end -->
 
 ## Ties
@@ -128,6 +134,7 @@ manipulated realm is an invaded one. See [[gargoyle-granite]].
 - [[the-trial-of-the-last-gargoyle]] — where she hunts him down and loses the argument.
 - [[the-ambush-on-the-road]] — her assassins, and the wraith who stops them.
 - [[val-s-castle]] — her seat; [[wraith-delahaye]] — the wraith who followed her out of realm-08.
+- [[the-unfreezing-of-the-kingdom]] — where the engine edits her; [[the-retcon-engine]] — what did it.
 - [[realm-nearness-and-traversal]] — the map she's old enough to know without asking.
 
 ## Open

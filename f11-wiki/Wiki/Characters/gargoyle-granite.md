@@ -68,7 +68,7 @@ where the game's secret begins.
 entities who carry the whole wheel as fact rather than the myth it's become for everyone else
 ([[realm-nearness-and-traversal]]) — but this specific piece is one the smashing took along with his
 power, not something the ordinary torpor-amnesia erased. He gets it back the way he gets everything
-back: a [[gargoyle-fragments|fragment]] from a smashed kinsman, found somewhere in [[chapter-02]],
+back: a [[gargoyle-fragments|fragment]] from a smashed kinsman, found somewhere in [[chapter-03]], during the search with the Ninja,
 hands him — and the player — the real shape of the wheel.
 
 **He is a protector.** He wants to **protect and save** the green-skins and to stop them being
@@ -101,13 +101,13 @@ exactly one thing — **stealth while standing still** — and ends in sonic fli
 
 ## Ties
 
-Meets [[ninja-kazuma]] in chapter two, when the Ninja follows [[the-second-signal]] through the abandoned
+Meets [[ninja-kazuma]] in [[chapter-03]], when the Ninja — having followed [[the-second-signal]] out in chapter two — comes through the abandoned
 cracked gate in [[the-ancient-ruin]]. The two then **work together to find the mini-fix bot** whose
 signal drew the Ninja out — which [[templar-ermengarda]] has ([[odie]]).
 
 May also meet [[conjurer-voisin]] in the Mystics' underworld.
 
-In [[chapter-03]] he leaves [[realm-07]] with the Ninja for the Celestials' realm — and his
+In [[chapter-04]] he leaves [[realm-07]] with the Ninja for the Celestials' realm — and his
 gameplay changes with it, under [[realm-governs-game-style]]. What his stone kit becomes on a tower
 defence field is not designed.
 
@@ -129,7 +129,7 @@ that he's malfunctioning, and sets the Minotaur on him instead. **He hides it fr
 accusation lands anyway** — after she leaves, he privately begins to doubt he is functioning
 properly. He has no way to check, and every piece of evidence he has still supports her.
 
-**He does not carry it silently for long.** At the start of [[chapter-03]] he tells [[ninja-kazuma]] and
+**He does not carry it silently for long.** At the start of [[chapter-04]] he tells [[ninja-kazuma]] and
 [[mifix]] outright that he may be malfunctioning and cannot tell
 ([[the-diagnosis-of-the-last-gargoyle]]). Mifix knows he cannot fix a gargoyle but offers to try to
 *diagnose* him — and fails, and the attempt glitches Mifix. So the one instrument in reach that

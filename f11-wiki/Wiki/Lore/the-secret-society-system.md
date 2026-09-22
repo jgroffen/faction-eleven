@@ -66,7 +66,7 @@ feature nobody is watching.
 ## A Second Instance Is Coming
 
 The system is not a one-off. A second secret society, working the same three goals against the
-[[mystics]] and the [[werebeasts]], is deferred design work for [[chapter-03]] — see
+[[mystics]] and the [[werebeasts]], is deferred design work for [[chapter-04]] — see
 [[the-mystics-second-secret-society]]. **Open:** whether the system has fired more than these two
 times, unnoticed, anywhere else on the wheel.
 
@@ -83,7 +83,7 @@ times, unnoticed, anywhere else on the wheel.
 Not directly, and probably never by name. What reaches the player is the Guardians of Night as a
 conspiracy to uncover — the system underneath stays implicit, the same way [[the-continuity-system]]
 and [[the-retcon-engine]] stay implicit behind [[continuity-glitches]]. A player who tracks *both*
-conspiracies (this one, and chapter three's second instance) and notices the shared shape is
+conspiracies (this one, and chapter four's second instance) and notices the shared shape is
 finding the system without ever being told it exists.
 
 ## Open

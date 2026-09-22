@@ -42,4 +42,5 @@ rather than a fortress. Falling back to it is an act of research.
 - [[the-answering-of-the-wand|The Answering Of The Wand]] · quest
 - [[the-calling-of-ancient-allies|The Calling Of Ancient Allies]] · quest
 - [[the-convergence-at-the-monastery|The Convergence At The Monastery]] · quest
+- [[the-first-meeting-of-the-realm-champions|The First Meeting Of The Realm Champions]] · quest
 <!-- gd:set-here:end -->

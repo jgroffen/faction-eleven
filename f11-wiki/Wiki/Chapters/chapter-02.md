@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-08
-updated: 2026-09-15
+updated: 2026-09-22
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -15,80 +15,99 @@ chapter_status: outline
 lead_faction: green-skins
 factions:
   - green-skins
-  - institute-of-eight
+  - the-damned
   - celestials
+  - institute-of-eight
   - robots
 quests:
   - the-waking-of-the-last-gargoyle
   - the-calling-of-ancient-allies
   - the-second-signal
-  - the-trial-of-the-last-gargoyle
+  - the-recruitment-of-the-wraith
 ---
 
 # Chapter 2 — The Signals
 
 Where the premise starts to pay. Three protagonists move toward **one machine** — [[odie]] — and
-none of them knows the others are looking. [[templar-ermengarda]] holds him, [[autofix-alto]] detects him, and
-[[ninja-kazuma]] and [[gargoyle-granite]] set out after him.
+none of them knows the others are looking: [[templar-ermengarda]] holds him, [[autofix-alto]] detects
+him, and [[ninja-kazuma]] sets out after him. Meanwhile, in a realm none of them has heard of, the
+player builds an undead kingdom and recruits a ghost who will not stay recruited.
 
-The chapter **focuses on [[gargoyle-granite]]'s gameplay**. The [[mystics]] and the arrivals at the
-Templar belong to [[chapter-03]]. **This shape is provisional.**
+The chapter **focuses on [[gargoyle-granite]]'s gameplay** and **introduces [[the-damned]]' game** in
+reduced form. It ends on three cliffhangers, one per thread, and none of them resolves. **This
+shape is provisional.**
 
 **Status:** outline · **Lead faction:** [[green-skins]]
 
 ## Story
 
-0. **[[the-waking-of-the-last-gargoyle]]** — the chapter's own opening, and the lead faction's.
-   [[gargoyle-granite]] wakes from torpor in a room of smashed guardians, recovers enough of himself to move
-   and to hide, and concludes [[realm-07]] is under threat. He then works toward the truth in
-   stages: the Celestial barrier is broken → the green-skins blame a Celestial incursion → it was
-   broken from inside by [[the-guardians-of-night]] ([[the-broken-barrier]]).
-1. **[[the-calling-of-ancient-allies]]** — [[templar-ermengarda]] loses to the war machine a second time and
-   retreats to [[templar-monastery]], chosen because she believes the Celestials need **ancient
-   allies**. Exploring its ancient parts between battles, she finds and uses [[the-wand]] and
-   [[odie]]. The [[mystics]] and the [[robots]] hear.
-2. **[[the-second-signal]]** — [[mifix]] detects a *second* mini-fix signal, unlike the one through
-   the guardian's cracked gate. It has routed from [[realm-03]] through the open
-   [[celestials]]/[[green-skins]] gate and the cracked one in [[the-ancient-ruin]]. He *detects* it — too far to
-   communicate with — only once beat 1 has happened **and** chapter one's two conditions are met — the crack, and
-   [[autofix-alto]]'s Quantum Comms. Mifix and the Ninja pursue it as **an alternative way to reach the
-   Robot Realm**, the guarded gate being cracked but still impassable. It leads [[ninja-kazuma]] to [[the-ancient-ruin]] and its abandoned,
-   already-cracked gate into [[realm-07]] — and to [[gargoyle-granite]], who is **very ancient** and wants
-   to stop his own faction's war on the Celestials. They set out together to find the bot.
-3. **[[the-trial-of-the-last-gargoyle]]** — the chapter's ending. [[val]], now aware a Gargoyle
-   survived, hunts him down herself, fails to talk him into believing he's malfunctioning, and sets
-   the Minotaur on him instead. He survives on defence alone and cannot let it show, but privately
-   starts to doubt himself. Val leaves unconvinced the Minotaur can win, and resolves to destroy
-   every remaining gargoyle.
+Three threads, told in parallel and closing together.
+
+**The Gargoyle — the truth in stages.**
+
+0. **[[the-waking-of-the-last-gargoyle]]** — [[gargoyle-granite]] wakes from torpor in a room of
+   smashed guardians, recovers enough of himself to move and to hide, and concludes [[realm-07]] is
+   under threat. He works toward the truth in stages: the Celestial barrier is broken → the
+   green-skins blame a Celestial incursion → **it was broken from inside**, by
+   [[the-guardians-of-night]] ([[the-broken-barrier]]). The chapter ends his thread there: the
+   conspiracy found, before the conspirator appears.
+
+**The Celestials and the Institute — the second signal.**
+
+1. **[[the-calling-of-ancient-allies]]** — [[templar-ermengarda]] loses to the war machine a second
+   time and retreats to [[templar-monastery]], chosen because she believes the Celestials need
+   **ancient allies**. Exploring its ancient parts between battles, she finds and uses [[the-wand]]
+   and [[odie]]. The [[mystics]] and the [[robots]] hear. **Kept minimal**: one battle and the
+   exploration — the Celestials' gameplay is at chapter one's scale.
+2. **[[the-second-signal]]** — [[mifix]] detects a *second* mini-fix signal, routed from
+   [[realm-03]] through the open Celestials/green-skins gate and the cracked one in
+   [[the-ancient-ruin]]. He detects it only once beat 1 has happened **and** chapter one's two
+   conditions are met — the crack, and Autofix's Quantum Comms. Mifix and the Ninja resolve to
+   follow it as **an alternative way to reach the Robot Realm**, and the chapter ends the thread
+   with the Ninja **setting out** through the ruin. He arrives in [[chapter-03]].
+
+**The Damned — a kingdom and a ghost.**
+
+3. **[[damned-undead-kingdom-rts]]** — the player names an undead kingdom and plays a short
+   campaign across [[realm-08]]'s world map: a war of Damned kingdoms against each other for the
+   realm's regions and points of interest, with specialist units recruited by **simple minigames**.
+   Those minigames are the chapter's window on other realms: the Damned's recruits are the dead
+   they carried home during the linking ([[the-linking-of-the-realms]]), so each one is a memory
+   of the world before the sealing.
+4. **[[the-recruitment-of-the-wraith]]** — the campaign reaches a map that needs a wraith, and the
+   minigame is [[wraith-memory-puzzle]]: the wraith is [[wraith-delahaye]], and she is the one
+   recruitment that does not take. Her will breaks her out — and **the kingdom freezes**. The
+   chapter ends the thread on the freeze.
 
 ## Faction Balance
 
 | Faction | Form | Game style | What they do |
 |---------|------|-----------|--------------|
-| [[celestials]] | major — [[templar-monastery]] | [[celestials-hero-tower-defence]] ✅ | second defeat; the first *deliberate* reconnection |
-| [[institute-of-eight]] | major — [[ninja-kazuma]] leaves [[realm-01]] | [[ninja-rhythm-platforming]] ✅ — but **swaps to the host realm's Metroid** once he crosses ([[realm-governs-game-style]]) | follows the second signal out through the ruin |
-| [[green-skins]] | **lead** — [[gargoyle-granite]]'s gameplay is the chapter's focus | [[gargoyle-stone-metroidvania]] ✅ | Gargoyle joins the Ninja against his own faction's war |
+| [[green-skins]] | **lead** — [[gargoyle-granite]]'s gameplay is the chapter's focus | [[gargoyle-stone-metroidvania]] ✅ | wake; uncover the broken barrier and who broke it |
+| [[the-damned]] | major — **reduced form**: a short campaign, simple minigames | [[damned-undead-kingdom-rts]] ✅ · [[wraith-memory-puzzle]] ✅ | build a kingdom; recruit by minigame; lose the wraith and freeze |
+| [[celestials]] | **minimal** — one battle, the ancient parts | [[celestials-hero-tower-defence]] ✅ | second defeat; the first *deliberate* reconnection |
+| [[institute-of-eight]] | supporting — detection and departure | [[ninja-rhythm-platforming]] ✅ | hear the second signal; set out through the ruin |
 | [[robots]] | supporting | [[robots-incremental-exploration]] ✅ | hear the monastery bot; comms pay off a second time |
+
+Every faction in this chapter has a settled style.
 
 ## Content Load
 
-Heavier than chapter one:
+The heaviest chapter so far, and the one to watch:
 
-- **Four factions, against chapter one's three.**
-- **One new game style** — [[gargoyle-stone-metroidvania]]. Every faction in this chapter has a
-  settled style.
-- **One new realm** at meaningful scope: [[realm-07]].
+- **Five factions, against chapter one's three.**
+- **Three new game styles** — [[gargoyle-stone-metroidvania]], [[damned-undead-kingdom-rts]] and
+  [[wraith-memory-puzzle]]. The RTS and the puzzle ship **in reduced form**, the chapter one
+  pattern: a short campaign, a handful of maps, minigames that are explicitly simple.
+- **Two new realms** at meaningful scope: [[realm-07]] and [[realm-08]] — the second as a world map
+  and a mansion ([[the-wraith-s-mansion]]) rather than a traversable realm.
 - New locations: [[templar-monastery]] with its ancient parts, [[the-ancient-ruin]].
-- The first cross-realm **travel** by a protagonist, rather than signalling.
 
-**Two things hold the build cost down.** The Gargoyle runs on the **Ninja's platforming engine**
-with a different move set ([[exploration-core-loop]]), so the chapter's headline system is a
-re-skin of chapter one's rather than a new build. And under [[realm-governs-game-style]] the Ninja
-plays the same Metroid map the Gargoyle does — so [[realm-07]] is **built once and played twice**.
-
-**The chapter's real cost is map, not systems.** Metroidvania is the most content-hungry genre on
-the roster: a linear platformer ships level by level, an interconnected map is not playable until
-the loop closes. Chapter two's schedule is a level-design problem.
+**What holds the build cost down.** The Gargoyle runs on the Ninja's platforming engine with a
+different move set ([[exploration-core-loop]]); the Celestials reuse chapter one's tower defence;
+the recruitment minigames are small by design. **The chapter's real cost is map, not systems** —
+the Metroidvania is the most content-hungry genre on the roster, and the RTS adds a second map on
+top of it. Chapter two's schedule is a level-design problem twice over.
 
 **The pacing question is open:** the Gargoyle's ladder ends in **full flight**, which dissolves
 platform gating. How far up that ladder chapter two goes is undecided — see
@@ -96,8 +115,9 @@ platform gating. How far up that ladder chapter two goes is undecided — see
 
 ## Continuity
 
-Tracked across all chapters in [[story-continuity-timeline]]. [[gargoyle-granite]] is the first protagonist
-who can **name** a continuity glitch; they are present from chapter one regardless.
+Tracked across all chapters in [[story-continuity-timeline]]. [[gargoyle-granite]] is the first
+protagonist who can **name** a continuity glitch; they are present from chapter one regardless, and
+the kingdom's freeze is the largest one the player has yet seen ([[continuity-glitches]]).
 
 **Depends on chapter one:**
 
@@ -109,34 +129,34 @@ Beat 2 is gated on **three protagonists across two chapters** — the crack (Nin
 Comms (Autofix, ch1) and the Templar activating his signals (ch2). The most demanding gating chain
 in the game, and the clearest argument for tracking beats per chapter.
 
-**Sets up:** [[chapter-03]] — the Ninja and Gargoyle's search unresolved at chapter end, the
-[[mystics]]' response to [[the-wand]] still to come, and the Celestials' war machine problem
-unsolved. [[the-trial-of-the-last-gargoyle]] also sends the Gargoyle out of [[realm-07]] with the
-Ninja, toward [[realm-03]] — and the doubt it plants in him is the first thing chapter three shows
-([[the-diagnosis-of-the-last-gargoyle]]).
+**Sets up [[chapter-03]]:** the Ninja on the road to [[realm-07]]; the Gargoyle knowing *what*
+broke the barrier but not yet meeting *who*; and Delahaye loose on a frozen map with a
+thousand-year-old plan.
 
 ## Open
 
 - **The chapter's shape is provisional.**
 - Whether [[the-calling-of-ancient-allies]] stays here. It must precede [[the-second-signal]]'s
-  detection, so it cannot move to chapter three — **inference, not established**.
-- The route from [[realm-07]] to [[realm-03]] is unexplained — see [[the-second-signal]].
-- The [[mystics]] "receive" the wand's call; [[conjurer-voisin]] answers it in chapter three, but the
-  journey is unwritten ([[the-answering-of-the-wand]]).
+  detection, so it cannot move later — **inference, not established**.
 - **How much of the Gargoyle's ability ladder belongs in this chapter**, given that flight ends
   platform gating.
-- **How much of the Guardians' conspiracy is revealed in this chapter** versus held back. The chain
-  is three deep and only the bottom two rungs can safely be shown.
+- **How much of the Guardians' conspiracy is revealed here** versus held back. The chain is three
+  deep and only the bottom two rungs can safely be shown; "broken from inside" is the second rung.
 - **Where the broken barrier is** in [[realm-07]], and how they broke gargoyle-shaped stone.
-- **Whether [[the-damned]]' protagonist enters here.** [[wraith-delahaye]] watches
-  [[the-trial-of-the-last-gargoyle]] unseen ([[the-shadowing-of-the-ninja]]), which puts her road
-  ([[the-recruitment-of-the-wraith]], [[the-search-of-the-frozen-map]]) before this chapter's close
-  in story time. Which chapter ships her content is a balancing decision not yet made.
+- **How short the Damned's campaign can be** and still make the wraith map feel earned — and what
+  the other recruitment minigames are.
+- Whether the reduced RTS is *playable* enough to be a selling point, or a framing device for the
+  wraith puzzle.
 
 ## What Ends The Chapter
 
-**Settled:** [[the-trial-of-the-last-gargoyle]] — [[val]] hunts the surviving Gargoyle down herself,
-fails to convince him he's malfunctioning, and sets the Minotaur on him. It is the chapter-scale
-revelation with a named antagonist this chapter needed, and it sends the Gargoyle out of
-[[realm-07]] with [[ninja-kazuma]] at the start of the next stretch of story — see the handoff on what
-follows.
+**Three cliffhangers, none resolved:**
+
+- **The barrier was broken from inside** — the Gargoyle has found the conspiracy
+  ([[the-broken-barrier]]).
+- **The second signal is heard, and the Ninja sets out** — the first protagonist to leave his realm
+  ([[the-second-signal]]).
+- **Delahaye breaks out, and the kingdom freezes** — the player's own game stops
+  ([[the-recruitment-of-the-wraith]]).
+
+The chapter's named antagonist, [[val]], is now one chapter away.

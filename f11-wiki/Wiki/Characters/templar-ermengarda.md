@@ -74,6 +74,12 @@ exactly what [[celestials-hero-tower-defence]] asks for, and it is why later all
 units reads as reinforcement rather than as a cast change. The Celestials' Front Liner is the **Knight**, a different
 faction class in the same faction.
 
+**Later — the counterattack.** In a later chapter (six, provisionally) she **takes the war machine
+and turns it on the Damned**, who by then hold land in her realm and defend it with tower defences
+of their own ([[damned-undead-kingdom-rts]], [[celestials-hero-tower-defence]]). She is also the
+one who names the party at the monastery: [[the-realm-champions]]
+([[the-first-meeting-of-the-realm-champions]]).
+
 ## Quests
 
 <!-- gd:quests:start -->

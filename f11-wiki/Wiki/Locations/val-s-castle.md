@@ -37,9 +37,14 @@ who does not know whose it is. It is a location on the Damned's world map
 ## Set Here
 
 <!-- gd:set-here:start -->
+- [[the-unfreezing-of-the-kingdom|The Unfreezing Of The Kingdom]] · quest
 <!-- gd:set-here:end -->
 
 ## Notes
+
+**It is where the kingdom comes back.** Val's second return here, after the trial, is when she
+notices the realm is frozen — and when [[the-retcon-engine]] unfreezes it and edits her noticing
+away ([[the-unfreezing-of-the-kingdom]]).
 
 **Delahaye never goes in — or is not yet written to.** The beat is timing: just as the Wraith moves
 close, Val appears on the map heading for the castle, and what Delahaye learns is where Val is going

@@ -97,9 +97,21 @@ until she returns to take control of it. The fiction claims it as her power of w
 a rule from one realm that another realm's game cannot resolve — a cross-realm glitch, and this
 table's Freeze at the largest scale the game shows one.
 
-**The first glitch shown on purpose is [[mifix]]'s**, when he tries to diagnose [[gargoyle-granite]] and
-cannot ([[the-diagnosis-of-the-last-gargoyle]]). Which manifestation it takes is not decided; it is
-the one concrete instance the design has to build from.
+### The Glitch Register
+
+**Which glitch comes first does not matter. What matters is that every glitch the player can see is
+tracked, so they can be presented at an increasing frequency** — the rate climbs, and should
+accelerate ([[story-continuity-timeline]]). The register, in chapter order:
+
+| Chapter | Glitch | Manifestation | Who sees it |
+|---|---|---|---|
+| [[chapter-01]] | [[autofix-alto]] woken from a freeze by [[mifix]]'s activity log ([[the-first-signal]]) | freeze, ended | the player, as Autofix |
+| [[chapter-01]] onward | [[wraith-delahaye]]'s object readings return dev-layer text — a flicker, ASCII in the eyes ([[wraith-object-reading]]) | bug | the player; she takes it for oracles |
+| [[chapter-02]] | The Damned's kingdom **freezes** when Delahaye breaks out ([[the-recruitment-of-the-wraith]]) | freeze | the player, whose game stops |
+| [[chapter-03]] | [[val]] notices the freeze; the engine rewrites her noticing and unfreezes the game ([[the-unfreezing-of-the-kingdom]]) | hard-retcon | the player, watching an NPC forget |
+| [[chapter-04]] | [[mifix]] tries to diagnose [[gargoyle-granite]] and glitches ([[the-diagnosis-of-the-last-gargoyle]]) | not decided | the party; the first glitch a *character* names |
+
+Add to it as scenes are written; a chapter with no row is a chapter with a gap in the curve.
 
 Four kinds, in rough order of how loud they are:
 
@@ -217,6 +229,7 @@ No values yet. The knobs to expect:
 
 <!-- gd:used-in:start -->
 - [[the-diagnosis-of-the-last-gargoyle|The Diagnosis Of The Last Gargoyle]] · quest
+- [[the-unfreezing-of-the-kingdom|The Unfreezing Of The Kingdom]] · quest
 <!-- gd:used-in:end -->
 
 ## Related

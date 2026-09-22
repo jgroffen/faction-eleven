@@ -66,6 +66,6 @@ Follows [[the-fall-of-the-outpost]].
 ## Open
 
 - Whether the two signals arrive simultaneously, and whether the player chooses which to send.
-- The [[mystics]]' answer is [[conjurer-voisin]] reaching the monastery in [[chapter-03]]
+- The [[mystics]]' answer is [[conjurer-voisin]] reaching the monastery in [[chapter-04]]
   ([[the-answering-of-the-wand]]); the journey itself is unwritten. What the [[robots]] do about it
   is open.

@@ -59,8 +59,9 @@ The signal's source is [[odie]] — the machine [[templar-ermengarda]] switched 
 [[templar-monastery]] ([[the-calling-of-ancient-allies]]). **The Templar has it.**
 
 So the Ninja and the Gargoyle set out together to find a bot that is already in a third faction's
-hands, in a third realm. Three of chapter two's four factions converge on one object, and none of
-them knows the others are looking.
+hands, in a third realm. Three factions converge on one object, and none of them knows the others
+are looking. **The quest spans the chapter break:** the detection and the Ninja's departure close
+[[chapter-02]]; his arrival through the ruin and the meeting with the Gargoyle open [[chapter-03]].
 
 ## Why It Matters
 

@@ -12,7 +12,7 @@ aliases:
   - The Conjurer's Arrival
 quest_status: design
 quest_type: main
-chapter: chapter-03
+chapter: chapter-04
 giver: templar-ermengarda
 location: templar-monastery
 mechanics: []
@@ -27,7 +27,7 @@ prerequisites:
 reach [[templar-ermengarda]] at [[templar-monastery]] — before [[ninja-kazuma]], [[gargoyle-granite]] and [[mifix]] arrive
 ([[the-convergence-at-the-monastery]]).
 
-**Status:** design · **Type:** main · **Chapter:** [[chapter-03]] · **Giver:** [[templar-ermengarda]] ·
+**Status:** design · **Type:** main · **Chapter:** [[chapter-04]] · **Giver:** [[templar-ermengarda]] ·
 **Location:** [[templar-monastery]]
 
 ## Hook
@@ -58,7 +58,7 @@ The Templar's call reached the Mystics ([[the-calling-of-ancient-allies]]). Some
 - Sequencing is the settled part: Conjurer first, then the three from [[realm-07]]. Everything
   between the wand's signal and the Conjurer standing in the monastery is undesigned.
 - The Mystics' game style does not exist yet, so what this quest *plays* like is unknown
-  ([[chapter-03]]).
+  ([[chapter-04]]).
 
 ## Open
 

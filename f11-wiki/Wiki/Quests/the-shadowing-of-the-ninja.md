@@ -13,7 +13,7 @@ aliases:
   - Following The Ninja
 quest_status: design
 quest_type: main
-chapter: ""
+chapter: chapter-04
 giver: ""
 location: realm-07
 mechanics:
@@ -78,10 +78,7 @@ to the Pirate realm** ([[realm-nearness-and-traversal]]). He could lead her ther
 
 ## Open
 
-- Which chapter ships this ([[chapter-based-release]]) — the trial closes [[chapter-02]] and
-  [[the-diagnosis-of-the-last-gargoyle]] opens [[chapter-03]]; where the camps fall between them
-  is not decided.
 - What "thwart the Ninja's plans" would have looked like had the ambush not intervened
   ([[the-ambush-on-the-road]]).
 - Whether the camp minigame can be failed — being seen — and what that costs.
-- What the party is doing on the road: heading for the Celestials' gate, or still in [[realm-07]].
+- Where on the road the camps fall — in [[realm-07]] before the crossing to [[realm-03]], or after.

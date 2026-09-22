@@ -2199,3 +2199,81 @@ Delahaye does after the break-out, the freeze, and the Damned's genre.**
   what happened to her crew and The Drunken Mermaid, and whether Tortuga is still held by her
   crew's descendants — alongside revenge, and with her unsure what she will find. "Ancestors" in
   the author's text is read as descendants.
+
+### Round 49 — 2026-09-22
+
+**Q97 — The chapter restructure: spreading chapters two and three apart so parallel stories
+converge, with the Damned's RTS starting early.** (The author's proposal, then feedback on the
+compiler's response.)
+
+> Actually, I'm thinking about spreading the current chapters apart so parallel stories can
+> converge by having the damned gameplay start in an earlier chapter, playing the RTS and
+> recruiting wraiths and other units in simple minigames until the Damned campaign reaches a
+> certain stage and that stage includes recruiting a wraith that happens to be Delahaye. This
+> will lead to world-building across the realms with the small minigames. I'm thinking:
+> - Chapter 1 stays focused on the Robots, Celestials and the Institute
+> - Chapter 2 keeps the Gargoyle focus but splits half the story into chapter 3, adds the Damned
+>   RTS gameplay up to Delahaye breaking out of the minigame, celestial story needs to stay too
+>   as the calling of ancient allies needs to happen here, but the amount of celestial gameplay
+>   needs to be kept minimal.
+> - Chapter 3 - the second half of chapter 2 is moved here; the remainder of the Gargoyle story
+>   and the second half of the Wraith story of searching the world map and following val to the
+>   trial of the gargoyle.
+> - Chapter 4 - current chapter 3 is wholly bumped to chapter 4, this chapter would include the
+>   assassination attempt on the Gargoyle that leads to the Wraith reavealing herself to the
+>   Gargoyle and Ninja
+
+> OK happy with this - please update the wiki. Some feedback on the chapter restructure:
+> - I don't really care what glitch is first ... we don't need to pay special attention to that,
+>   only need to keep track of the glitches so we track opportunities to present glitches
+>   occurring to the player in an increasing frequency.
+> - The player's interaction with the Damned realm while the game is frozen is the same and the
+>   kingdom doesn't progress until Val returns to her castle after the trial of the gargoyle. On
+>   her second time back to the Damned realm she notices the world is frozen - as she is
+>   questioning what is going on the retcon engine kicks in causing a continuity glitch - this
+>   glitch rewrites Val's memory of the freeze so that she didn't notice it but also unfreezes
+>   the game. Now the play can continue playing their Damned kingdom.
+> - Keep the ambush before the the council - if the meeting of the council doesn't have a note
+>   add one called 'the first meeting of the Realm Champions'. The term Realm Champions is
+>   created by the Templar at the meeting once she realises the people present are each from
+>   different realms.
+> - The reason for Delahaye to follow Kazuma seems to break, and she raises it, but Granite
+>   points out that there are Five realms that have paths to the Pirate realm and the Robot realm
+>   is one of them. As the ultimate goal of Kazuma is to get to the Robot realm and he is from a
+>   realm connected to the Pirate realm, and Kazuma is known to have the power to open sealed
+>   interplanar gates she reasons it makes sense to stick with him.
+> The Damned game is a war of Damned kingdoms against each other for control of the various
+> regions and points of interest of Damned realm. It's contained within the realm. The Guardians
+> of Night intend to expand the Damned kingdoms into the Celestial realm - which in a later
+> chapter (chapter 6 maybe?) the Templar takes the War Machine and starts counterattacking with
+> it ... showing that the Damned are now defending the land they invaded in the Celestial realm
+> and that plays like the Celestial game where the Damned have tower defences.
+
+## Notes For The Compiler — Round 49
+
+- **Chapters renumbered**: the old `chapter-03` (The Convergence) is now `chapter-04`; a new
+  `chapter-03` is written; `chapter-02` rewritten. Every `chapter-03` reference under `Wiki/`
+  (outside Logs, Handovers, Decisions) now points at `chapter-04`. Chapter shape as the author
+  gave it, with the compiler's suggested three-thread close of chapter two accepted: the barrier
+  broken from inside · the second signal detected and the Ninja departing · Delahaye breaking out
+  and the kingdom freezing. Recorded as decision `spread-the-chapters-to-converge`.
+- **Glitches are a register, not a race.** "First glitch" wording removed from
+  `continuity-glitches`, `the-diagnosis-of-the-last-gargoyle` and `mifix`; a Glitch Register
+  section on `continuity-glitches` lists every glitch the player can see, by chapter, so
+  frequency can be tuned upward.
+- **The unfreeze** is a new quest `the-unfreezing-of-the-kingdom` (chapter 3, realm-08, Val): on
+  her second return she notices the freeze; the retcon engine rewrites her memory of noticing and
+  unfreezes the game. Compiled as a hard-retcon on `the-retcon-engine`, `val`, `val-s-castle`,
+  `damned-undead-kingdom-rts`.
+- **The council** gets its own quest `the-first-meeting-of-the-realm-champions` (chapter 4);
+  `the-convergence-at-the-monastery` keeps the arrivals. New lore `the-realm-champions` — the
+  Templar's term. Delahaye's "why stick with Kazuma" exchange closes the council note: Granite
+  knows the network's shape (five gates per realm; the Robot realm is one of the Pirate realm's
+  five), Odie has just named Kazuma's power, and Kazuma's goal is the Robot realm.
+- **The Damned's RTS** is a war of Damned kingdoms against each other for the regions and points
+  of interest of realm-08, contained within the realm. The Guardians intend to expand the Damned
+  kingdoms into the Celestial realm; in a later chapter (six, provisionally) the Templar takes the
+  War Machine and counterattacks, and the Damned defend invaded Celestial land in the Celestial
+  game's style with their own tower defences. On `damned-undead-kingdom-rts`,
+  `the-guardians-of-night`, `celestials-hero-tower-defence`, `templar-ermengarda`.
+- `chapter:` set on every Delahaye quest; the Damned's rows added to the chapter balance tables.

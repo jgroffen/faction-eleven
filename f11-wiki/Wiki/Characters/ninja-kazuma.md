@@ -83,10 +83,10 @@ generations — and the reason the Ninja survives everything except a boss fight
 The guardian's gate faces [[realm-02]], the [[robots]] — not the green-skins, as the prototype
 notes had it. The Ninja does not beat it until **every faction has been introduced**.
 
-They reach [[gargoyle-granite]] another way. In chapter two the Ninja and [[mifix]] decide the faint second
+They reach [[gargoyle-granite]] another way. In [[chapter-02]] the Ninja and [[mifix]] decide the faint second
 signal is **worth investigating as an alternative route to the Robot Realm** — the guarded gate
 being cracked but not passable — and follow it out through the abandoned cracked gate in
-[[the-ancient-ruin]] ([[the-second-signal]]). The two then hunt together for
+[[the-ancient-ruin]] ([[the-second-signal]]) — arriving in [[chapter-03]]. The two then hunt together for
 [[odie]] — which [[templar-ermengarda]] has.
 
 **He is followed, and he does not know it.** [[wraith-delahaye]] — a Pirate ghost, dead a thousand

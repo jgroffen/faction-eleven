@@ -126,6 +126,21 @@ Set beside the Institute's case, the pair shows the engine's range: given materi
 treason, a sentence and a shrine; given none, it writes a culprit and leaves the rest blank. Both are
 believed completely.
 
+## The Third Worked Example — On Screen
+
+The first two are history. The third the player **watches happen** ([[the-unfreezing-of-the-kingdom]]).
+
+When [[wraith-delahaye]] breaks out of the Damned's recruitment minigame, the Damned's game
+**freezes** — a Pirate mechanic the Damned's rules cannot resolve ([[continuity-glitches]]). It
+stays frozen until [[val]] comes home to her castle and **notices**. She starts to question what is
+going on — and the engine treats her noticing as the error. It **rewrites her memory** so that she
+did not notice, and in the same correction **unfreezes the game.** Play resumes; Val goes on with a
+gap where the noticing was.
+
+This is the engine's whole method in one scene: it does not fix the freeze, it fixes the *account*
+of the freeze, and the world falls back into step behind the account. The player has just seen a
+named antagonist edited, and she never will.
+
 ## What It Cannot Touch
 
 **The liches are immune, and they are the only thing that is** ([[the-lich-experiment]]).

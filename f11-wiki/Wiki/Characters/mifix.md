@@ -88,8 +88,8 @@ generations.
 When [[gargoyle-granite]] admits he may be malfunctioning ([[the-diagnosis-of-the-last-gargoyle]]), Mifix
 is the only thing in reach that reads code at all. He knows he cannot *fix* a gargoyle — it is not
 a robot, and he cannot even repair himself ([[no-machine-repairs-itself]]) — but he offers to see
-whether he can **diagnose** him. He cannot. And the attempt **glitches Mifix** — the first glitch
-the game shows on screen ([[continuity-glitches]]).
+whether he can **diagnose** him. He cannot. And the attempt **glitches Mifix** — a glitch the party
+sees and names ([[continuity-glitches]]).
 
 It is the same shape of act that froze [[autofix-alto]]: a fixbot reaching for something that is not a
 robot and comes from another realm. Read that as a parallel; what the glitch actually is, and

@@ -84,7 +84,7 @@ time, which is what makes the mystery detectable at all.
 
 ## Chapters
 
-- [[chapter-01]] · [[chapter-02]] · [[chapter-03]] — the beats, faction balance and build load per
+- [[chapter-01]] · [[chapter-02]] · [[chapter-04]] — the beats, faction balance and build load per
   chapter. Which game style a chapter's scenes use follows [[realm-governs-game-style]].
 
 ## Sources

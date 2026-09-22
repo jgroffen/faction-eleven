@@ -42,8 +42,11 @@ of a [[wraiths|wraith]], which does not go as recruitment is supposed to.
 The Damned's protagonist, [[wraith-delahaye]], is not who the player is here — she is something the
 kingdom tries to acquire.
 
-**The main game is the map.** A campaign across the Damned's world map ([[realm-08]]): take
-territory, grow the kingdom, push the living kingdoms back. The genre is RTS in the Warcraft mould —
+**The main game is the map.** A campaign across the Damned's world map ([[realm-08]]): **a war of
+Damned kingdoms against each other for control of the realm's regions and points of interest.** It
+is **contained within the realm** — the enemy is other undead kingdoms, not the living of other
+worlds. [[val-s-castle]] and [[the-guardians-of-night]] sit on the same map; whether they are a rival
+kingdom is open. The genre is RTS in the Warcraft mould —
 base, army, expansion — and it is the most zoomed-out style any faction has been given, alongside the
 [[pirates]]' unconfirmed 4X.
 
@@ -61,7 +64,9 @@ breaks her out of the game.** The player cannot fail this. It is not will at all
 recruitment has no rule for.
 
 **The break-out freezes the RTS.** The kingdom's game stops — still there, going nowhere — while its
-would-be wraith is loose. A Pirate mechanic active inside the Damned's game is a cross-realm
+would-be wraith is loose, and it **stays frozen until [[val]] returns to her castle after the trial**
+([[the-unfreezing-of-the-kingdom]]): she notices, [[the-retcon-engine]] rewrites her noticing, and the
+game unfreezes. The player is back in their kingdom from [[chapter-03]]'s end. A Pirate mechanic active inside the Damned's game is a cross-realm
 interference of the kind [[the-setting-statement]] describes, and a **freeze** is one of the four
 ways it can fail ([[continuity-glitches]]).
 
@@ -74,6 +79,13 @@ finds is [[the-guardians-of-night]]'s, and it leads to [[val-s-castle]] and out 
 [[val]] opened to [[realm-07]]. The RTS's own board becomes
 an exploration space, frozen mid-campaign, and the specialist unit the kingdom tried to recruit is
 loose on it.
+
+**Beyond the realm — later.** [[the-guardians-of-night]] intend to **expand the Damned kingdoms into
+the Celestial realm.** In a later chapter — six, provisionally — [[templar-ermengarda]] takes the
+war machine and **counterattacks**, and the game shows the Damned **defending the land they invaded
+in the Celestial realm** — played in the Celestials' own genre, with **Damned tower defences**
+([[celestials-hero-tower-defence]], [[realm-governs-game-style]]). The kingdom that was the aggressor
+at home becomes the defender abroad.
 
 **She has to come back.** Eventually the Wraith must **return and take control of the kingdom in the
 RTS** to achieve some goal for the protagonists — and **she needs other protagonists' help to get
@@ -99,6 +111,10 @@ broken-out Wraith can reach against how much the kingdom holds.
 - **Which protagonists help her**, and what kind of help unfreezes a game.
 - Whether [[val-s-castle]] and the Guardians' holdings are "other kingdoms" on the RTS map, or
   outside that layer.
+- How the player's kingdom relates to the Guardians' expansion into the Celestial realm — a
+  participant, a rival, or the kingdom the Templar's counterattack lands on.
+- How the RTS runs while the Wraith is abroad from [[chapter-04]] on — whether the player switches
+  between kingdom and Wraith, and how.
 - What the other minigames are — one per specialist unit type, each in its own style, or all
   wraith-style.
 - Whether the Wraith's search of the map and the kingdom's expansion interact — whether places she
@@ -111,6 +127,7 @@ broken-out Wraith can reach against how much the kingdom holds.
 
 <!-- gd:used-in:start -->
 - [[the-recruitment-of-the-wraith|The Recruitment Of The Wraith]] · quest
+- [[the-unfreezing-of-the-kingdom|The Unfreezing Of The Kingdom]] · quest
 <!-- gd:used-in:end -->
 
 ## Related

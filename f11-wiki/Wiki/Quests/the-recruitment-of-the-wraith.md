@@ -13,7 +13,7 @@ aliases:
   - The Freezing Of The Kingdom
 quest_status: design
 quest_type: main
-chapter: ""
+chapter: chapter-02
 giver: ""
 location: realm-08
 mechanics:
@@ -78,8 +78,8 @@ recruited by minigame, so the game hands the player a grave and a ghost who does
 
 ## Open
 
-- Which chapter ships this ([[chapter-based-release]]) — the Damned have no chapter yet, but the
-  road this starts reaches the close of [[chapter-02]].
+- How the kingdom's freeze is presented to the player at [[chapter-02]]'s close — a cliffhanger,
+  not a bug ([[continuity-glitches]]).
 - How much of the kingdom's campaign the player plays before the wraith map — and whether other
   recruitment minigames come first.
 - What triggers the break-out — a memory threshold, or the minigame running its course.

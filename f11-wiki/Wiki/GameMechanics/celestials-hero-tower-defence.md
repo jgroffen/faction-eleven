@@ -57,7 +57,7 @@ the shell's presentations ([[exploration-core-loop]]).
 Templar's eventual answer is to take one, upgrade it, and turn it on its owners.
 
 **Visitors play this style too** ([[realm-governs-game-style]]): when [[ninja-kazuma]] and [[gargoyle-granite]]
-reach the Celestials' realm in [[chapter-03]], **their gameplay swaps to this one**. "Later allies
+reach the Celestials' realm in [[chapter-04]], **their gameplay swaps to this one**. "Later allies
 become hero units" is therefore not a bonus feature but the general rule — and it means this system is built once and played by at least three protagonists.
 
 What it does **not** yet answer: what a Ninja or a Gargoyle *is* on a tower-defence field, and
@@ -68,6 +68,11 @@ Not yet established:
 - Whether the player builds towers, or only positions and upgrades a fixed castle.
 - Whether the hero unit can die, and what that costs.
 - How the two presentations transition — menu, or walked into.
+
+**Played against the Celestials, later.** In a later chapter — six, provisionally — the Damned hold
+land they have invaded in [[realm-03]] with **their own tower defences**, and [[templar-ermengarda]]
+counterattacks with the war machine ([[damned-undead-kingdom-rts]], [[the-guardians-of-night]]). The
+realm's genre governs ([[realm-governs-game-style]]); the sides swap.
 
 ## Why It's Fun
 

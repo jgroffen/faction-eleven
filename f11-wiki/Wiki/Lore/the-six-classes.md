@@ -36,7 +36,7 @@ The six roles, and the protagonist who carries each:
 
 | Class | Protagonists |
 |-------|--------------|
-| Commander | [[templar-ermengarda]] ([[celestials]]), [[captain-leon]] ([[pirates]]) |
+| Commander | [[templar-will]] ([[celestials]]), [[captain-leon]] ([[pirates]]) |
 | Medic | [[autofix-alto]] ([[robots]]), [[squidling-calamari]] ([[aliens]]) |
 | Infiltrator | [[ninja-kazuma]] ([[institute-of-eight]]), [[gargoyle-granite]] ([[green-skins]]) |
 | Specialist | [[conjurer-voisin]] ([[mystics]]), [[wraith-delahaye]] ([[the-damned]]) |
@@ -46,11 +46,11 @@ The six roles, and the protagonist who carries each:
 Ten protagonists over six classes: four classes are doubled, and **Front Liner and Heavy Weapons are
 held by one faction each**. That asymmetry is unexplained.
 
-Note what the doubled classes pair up: two Commanders are [[templar-ermengarda]] and [[captain-leon]]. Two
+Note what the doubled classes pair up: two Commanders are [[templar-will]] and [[captain-leon]]. Two
 Infiltrators are [[ninja-kazuma]] and [[gargoyle-granite]] — the two protagonists who meet first. Two Specialists
 are [[conjurer-voisin]] and [[wraith-delahaye]]. Two Medics are [[autofix-alto]] and [[squidling-calamari]].
 
-**[[templar-ermengarda]] being a Commander fits the design.** Her game style is
+**[[templar-will]] being a Commander fits the design.** His game style is
 [[celestials-hero-tower-defence]] — the player directs a defence while fighting inside it, and later
 allies join as hero units under the same wall. That is a commander's game, and the two protagonists
 who lead are the two whose factions are built around a **crew** and a **garrison**.
@@ -63,8 +63,8 @@ of *which* class each protagonist was drawn from, not of any faction lacking a r
 
 | Class | 01 [[institute-of-eight]] | 02 [[robots]] | 03 [[celestials]] | 04 [[mystics]] | 05 [[fey-folk]] |
 |---|---|---|---|---|---|
-| Commander | Samurai | Tactical Cortex | **[[templar-ermengarda]]** | Oracle | Fairy |
-| Front Liner | Mercenary | Battlebot | Knight | Summoner | Elf |
+| Commander | Samurai | Tactical Cortex | **[[templar-will]]** | Oracle | Fairy |
+| Front Liner | Mercenary | Battlebot | [[knight-ermengarda]] | Summoner | Elf |
 | Heavy Weapons | Sniper | MWP Killbot | Monk | Battle Mage | **[[phoenix-ember]]** |
 | Infiltrator | **[[ninja-kazuma]]** | Android | Reaper | Illusionist | Pixie |
 | Medic | Kami | **[[autofix-alto]]** | Angel | Witch Doctor | Unicorn |
@@ -92,8 +92,9 @@ of *which* class each protagonist was drawn from, not of any faction lacking a r
 - **The gargoyles were made by two factions' Medics.** Necromancer is the Damned's Medic; Shaman is
   the green-skins'. The healers of two realms built the guardians out of the dead
   ([[the-gargoyle-guardians]]) — a far better fit than warriors doing it.
-- **[[templar-ermengarda]] and Knight are two different classes of the same faction**, not two names for one
-  character: the Celestials' Commander and their Front Liner respectively.
+- **[[templar-will]] and [[knight-ermengarda]] are two different classes of the same faction** — the
+  Celestials' Commander and their Front Liner — and two different characters. Knight is not another
+  name for the Templar.
 - **Gargoyle is the green-skins' Infiltrator**, matching [[gargoyle-stone-metroidvania]]. Two
   gargoyle abilities appear here that the ability ladder does not have: they **move through stone**,
   and **with wings folded can appear to be flesh and bone**. The second is a disguise, and a strong

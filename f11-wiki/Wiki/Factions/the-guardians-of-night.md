@@ -69,8 +69,11 @@ around. Both are defending the realm; only one of them was allowed to choose wha
 - [[green-skins]] · [[werebeasts]] · [[the-damned]] — the three realms they operate inside and
   are steering. Not enemies in their own eyes; they would say they are the only ones awake.
 - [[celestials]] — the target. **They intend to expand the Damned kingdoms into the Celestial
-  realm** ([[damned-undead-kingdom-rts]]); in a later chapter the Templar takes the war machine and
-  counterattacks, and the Damned end up defending Celestial land in the Celestials' own genre.
+  realm** ([[damned-undead-kingdom-rts]]) — **and Damned are already in the waves attacking
+  [[templar-monastery]]** ([[the-stand-at-the-monastery]]), which is that intent arriving on screen
+  long before anyone in [[realm-03]] can name it; in a later chapter the Templar takes the war
+  machine and counterattacks, and the Damned end up defending Celestial land in the Celestials' own
+  genre.
 - [[mystics]] — also under invasion, by the Damned and some werebeasts, **and that was instigated by
   the Guardians too**. So this is not one war but a coordinated push across the whole opposition
   axis of [[the-wheel-of-realms]].

@@ -103,7 +103,7 @@ exactly one thing — **stealth while standing still** — and ends in sonic fli
 
 Meets [[ninja-kazuma]] in [[chapter-03]], when the Ninja — having followed [[the-second-signal]] out in chapter two — comes through the abandoned
 cracked gate in [[the-ancient-ruin]]. The two then **work together to find the mini-fix bot** whose
-signal drew the Ninja out — which [[templar-ermengarda]] has ([[odie]]).
+signal drew the Ninja out — which [[templar-will]] has ([[odie]]).
 
 May also meet [[conjurer-voisin]] in the Mystics' underworld.
 

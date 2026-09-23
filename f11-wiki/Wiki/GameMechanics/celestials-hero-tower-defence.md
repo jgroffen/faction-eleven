@@ -23,8 +23,8 @@ related_mechanics:
 # Templar — Hero Tower Defence
 
 The [[celestials]]' game style: **top-down tower defence with a directly-controlled hero unit**.
-The [[templar-ermengarda]] is not a cursor or a menu — she is a unit the player moves around the top-down
-defence field, while the defence plays out around her.
+The [[templar-will]] is not a cursor or a menu — he is a unit the player moves around the top-down
+defence field, while the defence plays out around him.
 
 Between battles, the player **explores in platforming sections** — so this faction uses both of
 the shell's presentations ([[exploration-core-loop]]).
@@ -39,9 +39,12 @@ the shell's presentations ([[exploration-core-loop]]).
 
 - Waves of enemies attack a fixed position; the player upgrades between waves.
 - The **Templar moves around the field as a hero unit** — plugging gaps, being the piece that can
-  be everywhere, rather than issuing orders from above. They are the Celestials' **Commander** class
-  ([[the-six-classes]]), which is what this style is: a commander who has to stand in their own
+  be everywhere, rather than issuing orders from above. He is the Celestials' **Commander** class
+  ([[the-six-classes]]), which is what this style is: a commander who has to stand in his own
   battle line.
+- **[[knight-ermengarda]] is a second hero unit**, and a Celestial: the faction's Front Liner
+  fighting beside its Commander. She is also who the Templar talks to, so the defence has dialogue
+  in it and not only orders.
 - Later allies from other factions **also become hero units**, with special powers, levelling and
   loot. That makes convergence *visible on the battlefield*: the
   more of the multiverse you have met, the more heroes stand on the wall.
@@ -70,7 +73,7 @@ Not yet established:
 - How the two presentations transition — menu, or walked into.
 
 **Played against the Celestials, later.** In a later chapter — six, provisionally — the Damned hold
-land they have invaded in [[realm-03]] with **their own tower defences**, and [[templar-ermengarda]]
+land they have invaded in [[realm-03]] with **their own tower defences**, and [[templar-will]]
 counterattacks with the war machine ([[damned-undead-kingdom-rts]], [[the-guardians-of-night]]). The
 realm's genre governs ([[realm-governs-game-style]]); the sides swap.
 
@@ -86,17 +89,31 @@ No values yet.
 
 ## Defeat As Design
 
-Unusually, this faction is **built around losing**. The Templar loses the outpost in chapter one
-([[the-fall-of-the-outpost]]) and loses again in chapter two, retreating to the monastery both
-times. The tower defence is therefore not a challenge the player is expected to beat but a
-**siege they are expected to survive and withdraw from** — which changes how failure must be
-tuned, and means "you lost" cannot read as "you played badly".
+Unusually, this faction is **built around losing**. The Templar loses [[the-outpost]] in chapter
+one ([[the-fall-of-the-outpost]]) and [[oluja-town]] in chapter two
+([[the-evacuation-of-oluja-town]]). The tower defence is therefore not a challenge the player is
+expected to beat but a **siege they are expected to survive and withdraw from** — which changes how
+failure must be tuned, and means "you lost" cannot read as "you played badly".
+
+**Three defeats, three different meanings**, which is how the repetition stays readable:
+
+| Battle | What holding means | How it ends |
+|---|---|---|
+| [[the-fall-of-the-outpost]] | hold the line | the siege machine breaks it — a rout |
+| [[the-evacuation-of-oluja-town]] | **buy time for the town to empty** | the position is abandoned on purpose |
+| [[the-stand-at-the-monastery]] | **stop retreating** | the war machine arrives, and is answered here |
+
+The middle one is the important variant: a defence whose **win condition is somewhere else on the
+map**. The player is not holding ground, they are covering an evacuation, and the ground was always
+going to be lost.
 
 ## Used In
 
 <!-- gd:used-in:start -->
 - [[the-calling-of-ancient-allies|The Calling Of Ancient Allies]] · quest
+- [[the-evacuation-of-oluja-town|The Evacuation Of Oluja Town]] · quest
 - [[the-fall-of-the-outpost|The Fall Of The Outpost]] · quest
+- [[the-stand-at-the-monastery|The Stand At The Monastery]] · quest
 <!-- gd:used-in:end -->
 
 ## Related

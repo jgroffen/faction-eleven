@@ -37,7 +37,7 @@ game convention rather than ignoring it. **Lore only for now**, not a systems co
 | [[captain-leon]] | Pay the ferryman, losing booty |
 | [[werewolf-gill]] | Reverts to a puppy or baby for a while |
 | [[squidling-calamari]] | Beamed up and restored (unconfirmed) |
-| [[templar-ermengarda]] | TBD |
+| [[templar-will]] | TBD |
 | [[gargoyle-granite]] | TBD |
 | [[wraith-delahaye]] | Bound to a single spawn point — a grave to return to; the grave anchors a story about becoming less dead ([[wraith-memory-puzzle]]) |
 

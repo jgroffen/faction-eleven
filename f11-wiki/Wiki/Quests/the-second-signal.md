@@ -55,7 +55,7 @@ around a door they cannot open**.
 
 ## What They Find, And Who They Look For
 
-The signal's source is [[odie]] — the machine [[templar-ermengarda]] switched back on in
+The signal's source is [[odie]] — the machine [[templar-will]] switched back on in
 [[templar-monastery]] ([[the-calling-of-ancient-allies]]). **The Templar has it.**
 
 So the Ninja and the Gargoyle set out together to find a bot that is already in a third faction's
@@ -89,7 +89,7 @@ Two things follow, and both are good:
    from realm-09 to realm-07 (equidistant from realm-03 either way).
 2. **The Ninja follows the signal back up its own path.** Going to [[realm-07]] is not a detour; it
    is the first leg of the route the signal took. That is why the trail leads to [[gargoyle-granite]]
-   before it leads to [[templar-ermengarda]]. **The second leg is resolved:** the cracked gate in
+   before it leads to [[templar-will]]. **The second leg is resolved:** the cracked gate in
    [[the-ancient-ruin]] is one of realm-01's three *enemy* gates under the fixed network
    ([[realm-nearness-and-traversal]]) — "near" was never the actual rule, and distance-4 is exactly
    where an enemy gate belongs.
@@ -103,7 +103,7 @@ far too distant — only when **all three** are true:
 |---|-----------|---------|---------|
 | 0 | the guarded gate is **cracked** — without it Mifix hears nothing at all | [[institute-of-eight]] | one |
 | 1 | [[autofix-alto]] has unlocked **Quantum Comms** | [[robots]] | one |
-| 2 | [[templar-ermengarda]] has **found and activated** her signals | [[celestials]] | two |
+| 2 | [[templar-will]] has **found and activated** his signals | [[celestials]] | two |
 
 Conditions 0 and 1 are chapter one's business ([[the-first-signal]]); condition 2 is
 [[the-calling-of-ancient-allies]]. So this beat is gated on **three protagonists in two chapters**,

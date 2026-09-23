@@ -74,7 +74,7 @@ round was asked. What remains is what was **never settled**:
 
 Rejected during the interview, so do not re-propose: the Ancients building the signalling devices
 (they are [[allied-faction-signals]], faction-made); renaming Templar to Knight (**Knight is a
-separate faction class** — the Celestials' Front Liner — and [[templar-ermengarda]] is their **Commander**,
+separate faction class** — the Celestials' Front Liner — and [[templar-will]] is their **Commander**,
 settled 2026-08-16); chapter one as
 Institute + Green Skins; the Ninja's genre as rogue-like; **party/squad mechanics for the
 [[gargoyle-granite]]** (unsuited to the realm — reserved for a different faction); **failure costing the

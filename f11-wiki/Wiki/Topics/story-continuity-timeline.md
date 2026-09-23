@@ -20,7 +20,7 @@ and across the chapters that ship. It tracks four things: which factions have ga
 events, the count of subtle and strong [[continuity-glitches]], and what the gods do.
 
 This page **does not own faction balance or story beats.** The [[chapter-based-release]] notes —
-[[chapter-01]], [[chapter-02]], [[chapter-04]] — remain the source of truth for those, and carry the
+[[chapter-01]] through [[chapter-04]] — remain the source of truth for those, and carry the
 detail. What lives here and nowhere else is the **glitch budget** and the **god-action schedule**,
 both of which are cross-chapter by nature and cannot be balanced one chapter at a time.
 
@@ -62,8 +62,8 @@ Rolled up from the chapter notes. Cells are terse by design; follow the link for
 | Ch                 | Lead                   | Factions with gameplay                                                                                              | Key events                                                                                                                | Subtle                             | Strong | God actions                                                                       |
 | ------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------ | --------------------------------------------------------------------------------- |
 | **[[chapter-01]]** | [[robots]]             | [[robots]] full · [[institute-of-eight]] reduced · [[celestials]] reduced                                           | [[the-cracking-of-the-gate]] · [[the-fall-of-the-outpost]] · [[the-first-signal]]. **Every faction fails**                | TBD                                | TBD    | none scheduled                                                                    |
-| **[[chapter-02]]** | [[green-skins]]        | [[green-skins]] lead · [[the-damned]] reduced · [[celestials]] minimal · [[institute-of-eight]] · [[robots]] | [[the-waking-of-the-last-gargoyle]] · [[the-calling-of-ancient-allies]] · [[the-second-signal]] · [[the-recruitment-of-the-wraith]] — ends on three cliffhangers, the kingdom frozen |
-| **[[chapter-03]]** | [[green-skins]] · [[the-damned]] | [[green-skins]] lead · [[the-damned]] by story · [[institute-of-eight]] travelling | [[the-search-of-the-frozen-map]] · [[the-trial-of-the-last-gargoyle]] (watched twice) · [[the-unfreezing-of-the-kingdom]] |
+| **[[chapter-02]]** | [[green-skins]]        | [[green-skins]] lead · [[the-damned]] reduced · [[celestials]] small · [[institute-of-eight]] · [[robots]] | [[the-waking-of-the-last-gargoyle]] · [[the-calling-of-ancient-allies]] · [[the-evacuation-of-oluja-town]] · [[the-second-signal]] · [[the-recruitment-of-the-wraith]] — ends on three cliffhangers, the kingdom frozen, [[oluja-town]] lost |
+| **[[chapter-03]]** | [[green-skins]] · [[the-damned]] | [[green-skins]] lead · [[the-damned]] by story · [[institute-of-eight]] travelling · [[celestials]] small | [[the-search-of-the-frozen-map]] · [[the-stand-at-the-monastery]] (the war machine arrives) · [[the-trial-of-the-last-gargoyle]] (watched twice) · [[the-unfreezing-of-the-kingdom]] |
 | **[[chapter-04]]** | [[mystics]] (inferred) | [[mystics]] ❌ no style · [[celestials]] · [[institute-of-eight]] · [[green-skins]] · [[robots]] by proxy · [[the-damned]] travelling | [[the-diagnosis-of-the-last-gargoyle]] · [[the-shadowing-of-the-ninja]] · [[the-ambush-on-the-road]] · [[the-answering-of-the-wand]] · [[the-convergence-at-the-monastery]] · [[the-first-meeting-of-the-realm-champions]] |
 | 5                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 | 6                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
@@ -74,7 +74,7 @@ Rolled up from the chapter notes. Cells are terse by design; follow the link for
 
 **The target is 8–10 chapters with several faction arcs running per chapter.** Four exist. Rows
 five onward are placeholders for a shape, not a plan — except that chapter six, provisionally, is
-where the Templar takes the war machine against the Damned in her own realm
+where the Templar takes the war machine against the Damned in his own realm
 ([[damned-undead-kingdom-rts]]).
 
 **Gameplay coverage is the healthiest column.** Seven of ten styles are settled and, under

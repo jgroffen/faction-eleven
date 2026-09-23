@@ -88,7 +88,11 @@ Gate by gate, where the state has actually been decided:
   it believe the Celestials did it. Whether the werebeasts' gate to the Celestials was opened the
   same way, or some other, is unstated.
 - **Unsealed by a god.** [[the-damned]]'s allied gate to the [[green-skins]] was opened by [[val]],
-  carrying [[the-red-power|power]] [[xipe-totec-the-red]] gave her for the purpose. This is the
+  carrying [[the-red-power|power]] [[xipe-totec-the-red]] gave her for the purpose. **It is now a
+  through-route.** Chained to the open, barrier-broken gate from [[realm-07]] into [[realm-03]],
+  it carries Damned forces all the way into the [[celestials]]' realm
+  ([[the-stand-at-the-monastery]]) — one unsealing and one smashed barrier, combining into a road
+  between realms that are direct opposites and have no usable gate of their own. This is the
   intervention [[quetzalcoatl-the-white]] noticed too late to stop. The Red's imbuement was meant
   to reach the [[werebeasts]] too — the Damned's *other* allied gate — but that road was never
   found, despite being exactly the kind of ordinary allied gate a very old entity should simply know

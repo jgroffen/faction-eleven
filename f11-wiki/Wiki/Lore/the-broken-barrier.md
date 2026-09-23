@@ -86,8 +86,13 @@ Staged across his story, and the staging matters:
 
 **Yes — it is the Gargoyle's investigation.** The player is told in the cutscene that something is
 being arranged, and then spends the chapter finding out what. Note the asymmetry this creates
-across the game: the [[templar-ermengarda]] is defending a wall in [[chapter-01]] against an invasion whose
+across the game: the [[templar-will]] is defending a wall in [[chapter-01]] against an invasion whose
 cause the player only learns in [[chapter-02]], from the other side.
+
+**The hole keeps being used.** By [[chapter-03]] it is carrying more than green-skins: [[the-damned]]
+come through [[realm-07]] and in through this gate to attack [[templar-monastery]]
+([[the-stand-at-the-monastery]]). A barrier broken to start one war becomes the road a second
+faction invades by.
 
 ## Open
 

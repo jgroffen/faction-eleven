@@ -22,9 +22,9 @@ prerequisites: []
 
 # The Fall Of The Outpost
 
-The [[celestials]]' entire chapter-one appearance, in genuinely reduced form: [[templar-ermengarda]] defends
+The [[celestials]]' entire chapter-one appearance, in genuinely reduced form: [[templar-will]] defends
 [[the-outpost]] in **a very simple tower defence**, and **loses on the last wave, when the siege
-machine comes**. The Templar then **leads her people in retreat** to [[templar-monastery]].
+machine comes**. The Templar then **leads his people in retreat** to [[templar-monastery]].
 
 **Status:** design · **Type:** main · **Location:** [[the-outpost]]
 
@@ -34,8 +34,9 @@ A siege the player is meant to lose. Waves are held; the last one is not. What b
 is the **siege machine** — the same green-skin war machinery that will define the faction's
 struggle, introduced here as the thing you cannot answer.
 
-The retreat is led, not fled. The Templar's chapter-one arc is a commander getting her people
-out.
+The retreat is led, not fled. The Templar's chapter-one arc is a commander getting his people
+out — and where he takes them is a choice, not the nearest wall
+([[templar-monastery]], [[the-calling-of-ancient-allies]]).
 
 ## Why It Matters
 
@@ -43,7 +44,7 @@ Chapter one ends with **all three factions failing**:
 
 - [[autofix-alto]] finds sealed gates the robots cannot open alone.
 - [[ninja-kazuma]] cannot beat the gate guardian.
-- [[templar-ermengarda]] loses the outpost.
+- [[templar-will]] loses the outpost.
 
 Three factions, three walls, and no way through any of them alone — which is the game's thesis
 delivered without opening a single gate. Whether that is a satisfying place to leave a paying

@@ -22,7 +22,7 @@ home: realm-03
 # Odie
 
 A **mini-fix bot** lying dormant in the ancient parts of [[templar-monastery]], venerated by the
-[[celestials]] as the **Relic of St Archivus**. [[templar-ermengarda]] is able to turn him back on.
+[[celestials]] as the **Relic of St Archivus**. [[templar-will]] is able to turn him back on.
 
 Once activated he knows his own designation: **MF-710D** — `MF-28941` in decimal — and he remembers
 that the Celestials **nicknamed him Odie**, before they put him into **stand-by mode to preserve
@@ -79,7 +79,7 @@ can be trusted meets a witness who knows what the evidence means.
 
 ## In-Game Role
 
-Found and activated by [[templar-ermengarda]] in [[templar-monastery]]. His reactivation is one of the two
+Found and activated by [[templar-will]] in [[templar-monastery]]. His reactivation is one of the two
 signals the Templar sends in [[the-calling-of-ancient-allies]] — and it is his own faint call that
 [[mifix]] detects and pursues in [[the-second-signal]].
 
@@ -105,7 +105,7 @@ about the one thing the party needs, and the party goes to ask a gargoyle instea
 ## Ties
 
 - [[mifix]] — the other mini-fix bot, and the one whose memory he can restore.
-- [[templar-ermengarda]] — who wakes him without knowing what he is.
+- [[templar-will]] — who wakes him without knowing what he is.
 - [[autofix-alto]] — whose `ACCESS DENIED` branch he holds hints for.
 - [[celestials]] — who named him twice, and remember neither name's origin.
 - [[ninja-kazuma]] — whose Red Power he identifies at the monastery.

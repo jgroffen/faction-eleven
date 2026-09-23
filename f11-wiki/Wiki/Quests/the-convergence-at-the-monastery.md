@@ -28,7 +28,7 @@ prerequisites:
 # The Convergence At The Monastery
 
 The culmination of a chapter, and the first time protagonists from four factions stand in the same
-place: **[[ninja-kazuma]], [[mifix]] and [[gargoyle-granite]] reach [[templar-ermengarda]] and [[conjurer-voisin]]**, who are
+place: **[[ninja-kazuma]], [[mifix]] and [[gargoyle-granite]] reach [[templar-will]] and [[conjurer-voisin]]**, who are
 already together. Then the five of them — six, with the Wraith who joined on the road — decide what to do
 ([[the-first-meeting-of-the-realm-champions]]).
 
@@ -51,7 +51,7 @@ the Celestials do not understand — and a Templar and Conjurer who have just wo
   has it).
 - **Hints toward `ACCESS DENIED`.** Odie knows something about what is needed to unblock the
   autonomous-robotics branch of [[autofix-skill-tree]] — the [[robots]]' forbidden future.
-- **The Templar gets her ancient allies**, which is what she retreated to the monastery to find.
+- **The Templar gets his ancient allies**, which is what he retreated to the monastery to find.
 - **[[odie]] names what the Ninja is** — a carrier of [[the-red-power]], able to breach a sealed
   gate.
 
@@ -68,8 +68,8 @@ It is the first time the game's structure delivers on its premise in full: five 
 five genres, five realms, one room. Everything before it is signals; this is arrival.
 
 It also resolves the Celestials' framing. The Templar believed the Celestials needed **ancient
-allies** to defeat the war machine and chose where to retreat on that belief. She turns out to be
-right — and the allies were partly in her own cellar the whole time.
+allies** to defeat the war machine and chose where to retreat on that belief. He turns out to be
+right — and the allies were partly in his own cellar the whole time.
 
 And it turns the game's premise into something the characters themselves have said: the devices in
 the shrines are how allies once called each other, and the way home for two of the parties in the

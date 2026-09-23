@@ -38,7 +38,7 @@ silence for generations finally reach the frozen [[autofix-alto]] and wake him.
    beaten. Back story opens; training begins. The Ninja returns to the boss battle with a **newly
    trained skill**, loses again, and the fight **cracks the gate** to [[realm-02]]
    ([[the-cracked-gate]]).
-2. **[[the-fall-of-the-outpost]]** — [[templar-ermengarda]] holds [[the-outpost]] through a simple siege and
+2. **[[the-fall-of-the-outpost]]** — [[templar-will]] holds [[the-outpost]] through a simple siege and
    loses it on the last wave to the siege machine, leading a retreat to [[templar-monastery]].
 3. **[[the-first-signal]]** — three beats of its own. [[mifix]]'s call reaches through the crack
    carrying his **activity log**, which resolves the paradox that froze [[autofix-alto]] and **wakes him**;

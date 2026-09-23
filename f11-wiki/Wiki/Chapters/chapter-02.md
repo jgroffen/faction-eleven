@@ -22,6 +22,7 @@ factions:
 quests:
   - the-waking-of-the-last-gargoyle
   - the-calling-of-ancient-allies
+  - the-evacuation-of-oluja-town
   - the-second-signal
   - the-recruitment-of-the-wraith
 ---
@@ -29,7 +30,7 @@ quests:
 # Chapter 2 — The Signals
 
 Where the premise starts to pay. Three protagonists move toward **one machine** — [[odie]] — and
-none of them knows the others are looking: [[templar-ermengarda]] holds him, [[autofix-alto]] detects
+none of them knows the others are looking: [[templar-will]] holds him, [[autofix-alto]] detects
 him, and [[ninja-kazuma]] sets out after him. Meanwhile, in a realm none of them has heard of, the
 player builds an undead kingdom and recruits a ghost who will not stay recruited.
 
@@ -54,12 +55,15 @@ Three threads, told in parallel and closing together.
 
 **The Celestials and the Institute — the second signal.**
 
-1. **[[the-calling-of-ancient-allies]]** — [[templar-ermengarda]] loses to the war machine a second
-   time and retreats to [[templar-monastery]], chosen because she believes the Celestials need
-   **ancient allies**. Exploring its ancient parts between battles, she finds and uses [[the-wand]]
-   and [[odie]]. The [[mystics]] and the [[robots]] hear. **Kept minimal**: one battle and the
-   exploration — the Celestials' gameplay is at chapter one's scale.
-2. **[[the-second-signal]]** — [[mifix]] detects a *second* mini-fix signal, routed from
+1. **[[the-calling-of-ancient-allies]]** — [[templar-will]], fallen back to [[templar-monastery]]
+   after [[the-outpost]] and holding it, explores its ancient parts between battles and finds and
+   uses [[the-wand]] and [[odie]]. The [[mystics]] and the [[robots]] hear.
+2. **[[the-evacuation-of-oluja-town]]** — word reaches the monastery that the war machine is making
+   for [[oluja-town]]. The Templar goes, joins [[knight-ermengarda]] there, and the two hold waves
+   **while the town evacuates**, abandoning the position when the machine arrives and falling back
+   to the monastery with its people. This closes the Celestials' chapter.
+   **Kept small**: two tower-defence battles at chapter one's scale, plus the exploration.
+3. **[[the-second-signal]]** — [[mifix]] detects a *second* mini-fix signal, routed from
    [[realm-03]] through the open Celestials/green-skins gate and the cracked one in
    [[the-ancient-ruin]]. He detects it only once beat 1 has happened **and** chapter one's two
    conditions are met — the crack, and Autofix's Quantum Comms. Mifix and the Ninja resolve to
@@ -68,13 +72,13 @@ Three threads, told in parallel and closing together.
 
 **The Damned — a kingdom and a ghost.**
 
-3. **[[damned-undead-kingdom-rts]]** — the player names an undead kingdom and plays a short
+4. **[[damned-undead-kingdom-rts]]** — the player names an undead kingdom and plays a short
    campaign across [[realm-08]]'s world map: a war of Damned kingdoms against each other for the
    realm's regions and points of interest, with specialist units recruited by **simple minigames**.
    Those minigames are the chapter's window on other realms: the Damned's recruits are the dead
    they carried home during the linking ([[the-linking-of-the-realms]]), so each one is a memory
    of the world before the sealing.
-4. **[[the-recruitment-of-the-wraith]]** — the campaign reaches a map that needs a wraith, and the
+5. **[[the-recruitment-of-the-wraith]]** — the campaign reaches a map that needs a wraith, and the
    minigame is [[wraith-memory-puzzle]]: the wraith is [[wraith-delahaye]], and she is the one
    recruitment that does not take. Her will breaks her out — and **the kingdom freezes**. The
    chapter ends the thread on the freeze.
@@ -85,7 +89,7 @@ Three threads, told in parallel and closing together.
 |---------|------|-----------|--------------|
 | [[green-skins]] | **lead** — [[gargoyle-granite]]'s gameplay is the chapter's focus | [[gargoyle-stone-metroidvania]] ✅ | wake; uncover the broken barrier and who broke it |
 | [[the-damned]] | major — **reduced form**: a short campaign, simple minigames | [[damned-undead-kingdom-rts]] ✅ · [[wraith-memory-puzzle]] ✅ | build a kingdom; recruit by minigame; lose the wraith and freeze |
-| [[celestials]] | **minimal** — one battle, the ancient parts | [[celestials-hero-tower-defence]] ✅ | second defeat; the first *deliberate* reconnection |
+| [[celestials]] | **small** — two battles, the ancient parts | [[celestials-hero-tower-defence]] ✅ | the first *deliberate* reconnection; then Oluja Town held long enough to empty, and lost |
 | [[institute-of-eight]] | supporting — detection and departure | [[ninja-rhythm-platforming]] ✅ | hear the second signal; set out through the ruin |
 | [[robots]] | supporting | [[robots-incremental-exploration]] ✅ | hear the monastery bot; comms pay off a second time |
 
@@ -101,11 +105,11 @@ The heaviest chapter so far, and the one to watch:
   pattern: a short campaign, a handful of maps, minigames that are explicitly simple.
 - **Two new realms** at meaningful scope: [[realm-07]] and [[realm-08]] — the second as a world map
   and a mansion ([[the-wraith-s-mansion]]) rather than a traversable realm.
-- New locations: [[templar-monastery]] with its ancient parts, [[the-ancient-ruin]].
+- New locations: [[templar-monastery]] with its ancient parts, [[oluja-town]], [[the-ancient-ruin]].
 
 **What holds the build cost down.** The Gargoyle runs on the Ninja's platforming engine with a
-different move set ([[exploration-core-loop]]); the Celestials reuse chapter one's tower defence;
-the recruitment minigames are small by design. **The chapter's real cost is map, not systems** —
+different move set ([[exploration-core-loop]]); the Celestials reuse chapter one's tower defence
+twice, adding only a map; the recruitment minigames are small by design. **The chapter's real cost is map, not systems** —
 the Metroidvania is the most content-hungry genre on the roster, and the RTS adds a second map on
 top of it. Chapter two's schedule is a level-design problem twice over.
 
@@ -138,6 +142,9 @@ thousand-year-old plan.
 - **The chapter's shape is provisional.**
 - Whether [[the-calling-of-ancient-allies]] stays here. It must precede [[the-second-signal]]'s
   detection, so it cannot move later — **inference, not established**.
+- **Whether two Celestial battles is still "minimal."** The faction is meant to be at chapter one's
+  scale here, and it now has the outpost's tower defence reused twice plus a new map
+  ([[oluja-town]]) — the cheapest addition on the roster, but an addition.
 - **How much of the Gargoyle's ability ladder belongs in this chapter**, given that flight ends
   platform gating.
 - **How much of the Guardians' conspiracy is revealed here** versus held back. The chain is three
@@ -154,6 +161,10 @@ thousand-year-old plan.
 
 - **The barrier was broken from inside** — the Gargoyle has found the conspiracy
   ([[the-broken-barrier]]).
+
+The Celestials' thread closes differently — not on a cliffhanger but on a **defeat taken on
+purpose**: the town emptied, the position abandoned, the column walking back to the monastery with
+its people ([[the-evacuation-of-oluja-town]]). The machine follows them into [[chapter-03]].
 - **The second signal is heard, and the Ninja sets out** — the first protagonist to leave his realm
   ([[the-second-signal]]).
 - **Delahaye breaks out, and the kingdom freezes** — the player's own game stops

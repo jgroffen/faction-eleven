@@ -25,7 +25,7 @@ prerequisites:
 
 # The First Meeting Of The Realm Champions
 
-The assembled protagonists hold council at [[templar-monastery]]. [[templar-ermengarda]] names
+The assembled protagonists hold council at [[templar-monastery]]. [[templar-will]] names
 them **[[the-realm-champions|Realm Champions]]**, they decide to seek out a
 [[werebeasts|Werebeast]] gargoyle — and [[wraith-delahaye]] works out why she should stay with a
 party heading away from home. Closes [[chapter-04]].
@@ -43,7 +43,7 @@ mini-fix bots meeting, and five realms in one room.
 ## Objectives
 
 1. **The Templar names the room.** Realising that each person present is from a different realm,
-   she calls them **Realm Champions** ([[the-realm-champions]]).
+   he calls them **Realm Champions** ([[the-realm-champions]]).
 2. **Each party says what it brings.**
    - The Ninja, Mifix and the Gargoyle say plainly what they want: to reach the [[robots]].
    - The Templar and Conjurer have worked out what the relics are — links to ancient allies and a
@@ -98,14 +98,14 @@ mini-fix bots meeting, and five realms in one room.
   wants d'Artigue dead; neither is said at the council. The help she has been promised is
   conditional on not interfering with the party's missions, and her mission is the one thing she
   has not told them.
-- **The Templar is right about the ancient allies**, and the word she coins is her saying so
+- **The Templar is right about the ancient allies**, and the word he coins is him saying so
   ([[the-realm-champions]]).
 
 ## Open
 
 - Whether the war machine is beaten before, during, or after the council.
 - What [[conjurer-voisin]] does mechanically once the second party arrives.
-- Whether [[templar-ermengarda]] learns what [[odie]] is beyond "a link to an ancient ally".
+- Whether [[templar-will]] learns what [[odie]] is beyond "a link to an ancient ally".
 - How the party travels from the monastery to [[realm-09]] — the Celestials' gate to the
   Werebeasts stands open ([[celestials]]), a road the enemy is using in the other direction.
 - Whether Delahaye tells anyone about d'Artigue before she reaches realm-06, and who first.

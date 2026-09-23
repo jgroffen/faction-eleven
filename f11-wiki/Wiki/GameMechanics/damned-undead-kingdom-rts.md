@@ -81,7 +81,7 @@ an exploration space, frozen mid-campaign, and the specialist unit the kingdom t
 loose on it.
 
 **Beyond the realm — later.** [[the-guardians-of-night]] intend to **expand the Damned kingdoms into
-the Celestial realm.** In a later chapter — six, provisionally — [[templar-ermengarda]] takes the
+the Celestial realm.** In a later chapter — six, provisionally — [[templar-will]] takes the
 war machine and **counterattacks**, and the game shows the Damned **defending the land they invaded
 in the Celestial realm** — played in the Celestials' own genre, with **Damned tower defences**
 ([[celestials-hero-tower-defence]], [[realm-governs-game-style]]). The kingdom that was the aggressor

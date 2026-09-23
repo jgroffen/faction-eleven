@@ -100,7 +100,7 @@ gate is the first place a signal can get through, and it is caused by [[ninja-ka
 ## Who Works It Out
 
 For most of the game nobody knows what these things are. The first characters to understand are
-[[templar-ermengarda]] and [[conjurer-voisin]], together at [[templar-monastery]] ([[the-answering-of-the-wand]]):
+[[templar-will]] and [[conjurer-voisin]], together at [[templar-monastery]] ([[the-answering-of-the-wand]]):
 **the Templar's relics are links to ancient allies, and a way to call for help.** When [[ninja-kazuma]],
 [[gargoyle-granite]] and [[mifix]] arrive, the same reading extends to Mifix — **the
 [[institute-of-eight]]'s link to the [[robots]]**, kept for generations as an ancestor spirit

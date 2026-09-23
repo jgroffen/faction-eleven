@@ -24,7 +24,7 @@ _What is already written down. Link it, do not restate it._
 - [[ninja-kazuma]] — carries [[xipe-totec-the-red]]'s power to breach a sealed gate (gates only —
   [[the-red-power]]), felt as a compulsion rather than known as a tool, until [[odie]] identifies it.
 - [[odie]] — the one who identifies the Ninja's power, at [[templar-monastery]].
-- [[templar-ermengarda]] — where the meeting happens; already the point [[chapter-02]] and [[chapter-03]]
+- [[templar-will]] — where the meeting happens; already the point [[chapter-02]] and [[chapter-03]]
   converge on via [[the-second-signal]] and [[the-calling-of-ancient-allies]].
 - [[the-trial-of-the-last-gargoyle]] — the scene immediately before this thread starts.
 - [[the-realm-barriers]] — the gate/barrier distinction this whole sequence turns on: the Gargoyle

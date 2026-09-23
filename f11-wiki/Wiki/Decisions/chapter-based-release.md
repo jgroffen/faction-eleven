@@ -35,7 +35,7 @@ feedback until all ten genres are finished — which for a solo developer is the
 kills projects of this shape.
 
 The author reports the most concrete ideas for five factions: [[ninja-kazuma]] ([[institute-of-eight]]),
-[[autofix-alto]] ([[robots]]), [[templar-ermengarda]] ([[celestials]]), [[gargoyle-granite]]
+[[autofix-alto]] ([[robots]]), [[templar-will]] ([[celestials]]), [[gargoyle-granite]]
 ([[green-skins]]) and [[conjurer-voisin]] ([[mystics]]).
 
 ## Options Considered

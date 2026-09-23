@@ -34,7 +34,7 @@ quests:
 **Provisional.** Opens on [[gargoyle-granite]]'s doubt and [[mifix]]'s glitch, follows the party
 out of [[realm-07]] with a ghost on its trail, introduces the [[mystics]]' gameplay as
 [[conjurer-voisin]] answers [[the-wand]], and ends with [[ninja-kazuma]], [[mifix]], the Gargoyle
-**and [[wraith-delahaye]] reaching [[templar-ermengarda]] and the Conjurer** — the council where the
+**and [[wraith-delahaye]] reaching [[templar-will]] and the Conjurer** — the council where the
 Templar names them [[the-realm-champions|Realm Champions]] and they decide to seek out a
 [[werebeasts|Werebeast]] gargoyle ([[the-first-meeting-of-the-realm-champions]]).
 
@@ -65,7 +65,7 @@ This restructure is **not settled**.
    missions.
 4. **[[the-answering-of-the-wand]]** — the [[mystics]]' realm and gameplay are introduced —
    **undesigned**, and the subject of a dedicated session. [[conjurer-voisin]] answers the wand and is the
-   first to reach [[templar-ermengarda]]. Together they work out that the Templar's relics are links to ancient
+   first to reach [[templar-will]]. Together they work out that the Templar's relics are links to ancient
    allies and a way to call for help ([[allied-faction-signals]]).
 5. **[[the-convergence-at-the-monastery]]** — the Ninja, Mifix, the Gargoyle and the Wraith
    arrive. [[mifix]] meets [[odie]]; the Robot Realm's lost history can be recovered, along with
@@ -107,8 +107,10 @@ This restructure is **not settled**.
 
 Tracked across all chapters in [[story-continuity-timeline]].
 
-**Depends on:** [[the-trial-of-the-last-gargoyle]] and [[the-unfreezing-of-the-kingdom]]
-(chapter three); [[the-second-signal]] and [[the-calling-of-ancient-allies]] (chapter two).
+**Depends on:** [[the-trial-of-the-last-gargoyle]], [[the-unfreezing-of-the-kingdom]] and
+[[the-stand-at-the-monastery]] (chapter three) — the last of these is why the monastery the allies
+reach is **already under siege**, with [[oluja-town]]'s people inside it; [[the-second-signal]] and
+[[the-calling-of-ancient-allies]] (chapter two).
 
 **Sets up:** the journey from the monastery to [[realm-09]] and the Werebeast gargoyles — deferred
 to [[gargoyle-ninja-and-the-celestials-gate]] and [[the-mystics-second-secret-society]] — plus the

@@ -60,7 +60,7 @@ invader first.
 gate rather than breaking or unlocking one. Which gate, and who they are, is unwritten.
 
 **Their protagonist answers the Templar's call.** [[conjurer-voisin]] is the first ally to reach
-[[templar-ermengarda]] ([[the-answering-of-the-wand]]), and sits on the council at [[templar-monastery]] that
+[[templar-will]] ([[the-answering-of-the-wand]]), and sits on the council at [[templar-monastery]] that
 decides to seek out a [[werebeasts|Werebeast]] gargoyle — one aim of which is to have the Werebeast
 gargoyles **seal the gate to the Mystics** ([[the-convergence-at-the-monastery]]).
 

@@ -14,7 +14,7 @@ aliases:
 canon: proposed
 era: present
 characters:
-  - templar-ermengarda
+  - templar-will
   - wraith-delahaye
   - ninja-kazuma
   - gargoyle-granite
@@ -27,8 +27,8 @@ locations:
 
 # The Realm Champions
 
-**[[templar-ermengarda]]'s name for the protagonists gathered at [[templar-monastery]]** — coined
-at [[the-first-meeting-of-the-realm-champions]], once she realises that **the people present are
+**[[templar-will]]'s name for the protagonists gathered at [[templar-monastery]]** — coined
+at [[the-first-meeting-of-the-realm-champions]], once he realises that **the people present are
 each from a different realm.**
 
 **Canon:** proposed · **Era:** present
@@ -39,15 +39,15 @@ The name is the first time anyone in the fiction has a word for what the game's 
 doing: one protagonist per faction, converging. Before the Templar says it there are a Ninja, a
 Gargoyle, a Conjurer, a Wraith and two mini-fix bots in a room; after it there is a party.
 
-**Who it covers at the coining:** [[templar-ermengarda]] ([[celestials]]), [[conjurer-voisin]]
+**Who it covers at the coining:** [[templar-will]] ([[celestials]]), [[conjurer-voisin]]
 ([[mystics]]), [[ninja-kazuma]] ([[institute-of-eight]]), [[gargoyle-granite]] ([[green-skins]]),
 [[wraith-delahaye]] ([[pirates]] by birth, [[the-damned]] by grave) — and [[mifix]], who is from
 the [[robots]]' realm and has been living in the Institute's for generations. Five realms in the
 room, six if Mifix counts, and the Templar's word is about *realms*, not people.
 
-**It is a Celestial's word.** The Templar retreated to the monastery believing her people needed
-**ancient allies** ([[the-calling-of-ancient-allies]]); naming the room "Realm Champions" is her
-deciding she has found them.
+**It is a Celestial's word.** The Templar retreated to the monastery believing his people needed
+**ancient allies** ([[the-calling-of-ancient-allies]]); naming the room "Realm Champions" is him
+deciding he has found them.
 
 ## Ties
 

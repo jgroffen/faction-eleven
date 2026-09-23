@@ -13,7 +13,7 @@ aliases:
 quest_status: design
 quest_type: main
 chapter: chapter-04
-giver: templar-ermengarda
+giver: templar-will
 location: templar-monastery
 mechanics: []
 rewards: []
@@ -24,10 +24,10 @@ prerequisites:
 # The Answering Of The Wand
 
 [[conjurer-voisin]] hears [[the-wand]] and comes. The [[mystics]]' protagonist is the **first** ally to
-reach [[templar-ermengarda]] at [[templar-monastery]] — before [[ninja-kazuma]], [[gargoyle-granite]] and [[mifix]] arrive
+reach [[templar-will]] at [[templar-monastery]] — before [[ninja-kazuma]], [[gargoyle-granite]] and [[mifix]] arrive
 ([[the-convergence-at-the-monastery]]).
 
-**Status:** design · **Type:** main · **Chapter:** [[chapter-04]] · **Giver:** [[templar-ermengarda]] ·
+**Status:** design · **Type:** main · **Chapter:** [[chapter-04]] · **Giver:** [[templar-will]] ·
 **Location:** [[templar-monastery]]
 
 ## Hook

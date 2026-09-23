@@ -36,10 +36,18 @@ number, which is canon but is not what the people who live here call home.
 
 See [[the-wheel-of-realms]].
 
-Holds [[the-outpost]] (lost in chapter one) and [[templar-monastery]], **the realm's main setting
-in chapter two**.
+Holds [[the-outpost]] (lost in chapter one), [[oluja-town]] (evacuated and lost in chapter two) and
+[[templar-monastery]], **the realm's main setting from chapter two onward** and the place the
+[[celestials]] stop retreating to. [[azylach]] is also here, and is not played.
 
-Has gates standing **open** to both [[realm-09]] and [[realm-07]], and is attacked through both. Neither attacker is its historic opposite, which is [[realm-08]].
+Has gates standing **open** to both [[realm-09]] and [[realm-07]], and is attacked through both.
+Neither attacker is its historic opposite, which is [[realm-08]] — **and [[the-damned]] are in the
+attacking waves anyway** ([[the-stand-at-the-monastery]]). They do not need a gate of their own:
+they come **through [[realm-07]]**, using the allied gate [[val]] unsealed out of [[realm-08]] and
+then the open, barrier-broken green-skin gate into this realm. The realm's two open gates are being used by
+three factions.
+
+Holds [[azylach]] as well, which the game does not visit.
 
 ## Set Here
 

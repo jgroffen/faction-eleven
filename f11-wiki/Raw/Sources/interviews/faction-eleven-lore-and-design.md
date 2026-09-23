@@ -2277,3 +2277,132 @@ compiler's response.)
   game's style with their own tower defences. On `damned-undead-kingdom-rts`,
   `the-guardians-of-night`, `celestials-hero-tower-defence`, `templar-ermengarda`.
 - `chapter:` set on every Delahaye quest; the Damned's rows added to the chapter balance tables.
+
+### Round 50 — 2026-09-23
+
+**Volunteered — the Templar is renamed and regendered.** Not in answer to a question.
+
+> I want to rename and regender the Templar - change to male with the name Will of Azylach.
+
+## Notes For The Compiler — Round 50
+
+- **The Templar is Will of Azylach, male.** The name and gender given in Round 40 —
+  "Ermengarda of Oluja, female" — are replaced, not recorded alongside; compiled notes state the
+  current name only (Hard Rule 7), and the change itself is recorded here and in `Wiki/Logs/`.
+- **Note renamed** `templar-ermengarda` → `templar-will`; every wikilink, alias and frontmatter
+  reference under `Wiki/` rewritten. Logs and Raw sources keep the old name as written.
+- **The honorific follows the gender**: the Celestials' "Sister" becomes **"Brother"**. The
+  author gave the honorific in Round 40 as the form the Celestials use for this character, not as
+  a fixed word; "Brother Will" is the compiler's reading and is flagged as such.
+- **Pronouns**: the Templar is **he** wiki-wide, replacing the she/her set applied in Round 41.
+
+### Round 51 — 2026-09-23
+
+**Volunteered — the honorific is confirmed, and Ermengarda returns as a Knight.** Not in answer to
+a question.
+
+> Lock in use of 'Brother' and add Ermegarda as a side character that is a Knight factionclass
+> instead of a Templar. Ermengarda acts as a hero unit in the Celestial Tower Defence game - and
+> provides someone for Will to have dialog with.
+
+## Notes For The Compiler — Round 51
+
+- **"Brother" is confirmed**, not inferred. The Round 50 flag on `templar-will` and `celestials`
+  is removed; the Celestials' honorific for [[templar-will]] is Brother.
+- **Ermengarda is a new character note**, `knight-ermengarda` — a side character, the Celestials'
+  **Front Liner** class ([[the-six-classes]]), where the Templar is their Commander. She is not the
+  protagonist and not a renamed one: the name is reused, the character is new.
+- **She is a hero unit** in `celestials-hero-tower-defence` — the same directly-controlled kind as
+  the Templar, which the mechanic already allows for allies from other factions; she is the first
+  one from the Templar's own faction.
+- **Her other job is dialogue**: she gives Will someone to talk to. The Celestials' story to this
+  point has been a commander alone with a decision; this is the character the decisions get spoken
+  to.
+- **Not given by the author**: whether she keeps the "of Oluja" second name the Templar had before
+  the rename (the compiler does not assume it), her gender beyond the name, where she is in
+  chapter one versus chapter two, and whether she survives the retreats. Recorded as open.
+- **"Sister"** is the natural pair to the now-confirmed "Brother" for a female Celestial, but the
+  author has not said it; recorded as open rather than asserted.
+
+### Round 52 — 2026-09-23
+
+**Volunteered — Ermengarda's full name and honorific.** Not in answer to a question.
+
+> Please reuse 'of Oluja' and her honorific is 'Sister'.
+
+## Notes For The Compiler — Round 52
+
+- **Ermengarda of Oluja**, and the [[celestials]] call her **Sister**. Both open items left on
+  `knight-ermengarda` in Round 51 are closed; the note now states them as fact.
+- **"Of Oluja" transfers to her**: the second name the Templar carried before the rename belongs
+  to the Knight now, and not to [[templar-will]], who is of Azylach.
+- **The Celestials use gendered honorifics** — Brother for the Templar, Sister for the Knight.
+  Recorded on `celestials` as the faction's practice rather than as two separate facts about two
+  characters.
+
+### Round 53 — 2026-09-23
+
+**Volunteered — Oluja Town, and the Celestials' timeline cleaned up.** Not in answer to a question.
+
+> She is at the second battle location - I don't think this location is named - let's make it
+> Oluja Town. She retreats with Will to the Monastory - helping lead the townsfolk to safety.
+> After the battle at the monastary she leaves to lead a party to liberate Oluja Town.
+> Lets clean up this timeline a little - Will retreats from the Outpst to the Monastary, activates
+> the call for ancient allies, heads to Oluja Town when word reaches that the War machine is headed
+> there. Will and Ermengarda join up and defend waves of enemies while the town evacuates,
+> abandoning the position when the war machine arrives. They again retreat to the monastary where
+> waves of Green Skin and Damned attack and the Templar decides to make a stand against the War
+> Machine here.
+
+**Asked which chapters the two new battles belong to**, given the standing constraint from Round 49
+that the Celestials' chapter-two gameplay stay minimal:
+
+> Oluja Town in Chapter 2, retreat back to the Monastary and defend against waves in Chapter 3.
+> Chapter 3 ends with the arrival of the War Machine at the Monastary
+
+## Notes For The Compiler — Round 53
+
+- **The Celestials' order of events is now**: the outpost falls (ch1) → retreat to the monastery →
+  the call for ancient allies is activated there (ch2) → word that the war machine is heading for
+  Oluja Town → the town's evacuation defence, abandoned when the machine arrives (ch2, ends their
+  chapter two) → retreat to the monastery with the townsfolk → waves of green-skins and Damned at
+  the monastery, and the Templar decides to make his stand against the machine there (ch3) → **the
+  war machine arrives at the monastery, ending chapter three.** Chapter four's convergence then
+  happens at a monastery already under siege, which it always said it was.
+- **This replaces "having lost to the war machine a second time"** as the reason the Templar is at
+  the monastery. He retreats there once, from the outpost, and chooses it deliberately; the second
+  defeat is Oluja Town, and it sends him back to a place he already holds.
+- **Oluja Town** is a new location in `realm-03` — the second battle location, previously unnamed.
+- **`knight-ermengarda` is placed in the story**: she is at Oluja Town, joins up with the Templar
+  there, helps lead the townsfolk to safety on the retreat, fights the monastery waves, and
+  **after the battle at the monastery leaves to lead a party to liberate Oluja Town.** Which
+  chapter that departure falls in is not given — the monastery battle is not over when chapter
+  three ends.
+- **Two new quests**: `the-evacuation-of-oluja-town` (ch2) and `the-stand-at-the-monastery` (ch3).
+- **The Damned are in the waves at the monastery.** That is the first Damned attack on `realm-03`
+  and it is earlier than the later-chapter counterattack implies. How they reach the realm is not
+  stated — `realm-03`'s open gates are to `realm-09` and `realm-07`, and its gate to `realm-08` is
+  the direct-opposite enemy gate. Recorded as open, and tied to the Guardians' stated intent to
+  expand the Damned kingdoms into the Celestial realm.
+- **"Of Oluja" is the town.** The Knight's name and the town's are the same word; the author named
+  the town after her name was set. Whether she is from there, or holds it, is not stated.
+
+### Round 54 — 2026-09-23
+
+**Volunteered — the Damned's route, and Azylach.** Not in answer to a question.
+
+> The damned at the monistary are coming via the Green Skins realm. Azylach is a place in the
+> Celestial realm too - but it not present in the gameplay yet, and may never be.
+
+## Notes For The Compiler — Round 54
+
+- **The Damned reach `realm-03` through `realm-07`**, the green-skins' realm. Two legs, and both already exist in the
+  material: [[val]] unsealed [[the-damned]]'s allied gate to the [[green-skins]]
+  ([[the-red-power]], [[sealed-interplane-gates]]), and the Celestials' enemy gate to the
+  green-skins stands **open with its barrier broken** ([[the-broken-barrier]]). So the undead in
+  the waves at [[templar-monastery]] came through the gate a Guardian opened and then through the
+  hole the Guardians made. The open question raised in Round 53 is closed.
+- **Azylach is a place in `realm-03`**, the Celestials' realm — [[templar-will]] is of it, as
+  [[knight-ermengarda]] is of [[oluja-town]]. **It does not appear in the gameplay, and may never.**
+  That is the current fact, not a gap: recorded as a location with nothing designed and no
+  guarantee it ever will be.

@@ -87,7 +87,7 @@ They reach [[gargoyle-granite]] another way. In [[chapter-02]] the Ninja and [[m
 signal is **worth investigating as an alternative route to the Robot Realm** — the guarded gate
 being cracked but not passable — and follow it out through the abandoned cracked gate in
 [[the-ancient-ruin]] ([[the-second-signal]]) — arriving in [[chapter-03]]. The two then hunt together for
-[[odie]] — which [[templar-ermengarda]] has.
+[[odie]] — which [[templar-will]] has.
 
 **He is followed, and he does not know it.** [[wraith-delahaye]] — a Pirate ghost, dead a thousand
 years in a war the Institute started — picks him out after [[the-trial-of-the-last-gargoyle]] as her

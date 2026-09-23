@@ -96,7 +96,7 @@ robot and comes from another realm. Read that as a parallel; what the glitch act
 whether it is the act or the exposure to a second foreign realm ([[realm-07]] is his second, after a
 lifetime on one) that costs him, is not stated.
 
-**A link, and a way to call for help.** At [[templar-monastery]], [[templar-ermengarda]] and [[conjurer-voisin]] have
+**A link, and a way to call for help.** At [[templar-monastery]], [[templar-will]] and [[conjurer-voisin]] have
 already worked out that the Templar's relics are links to ancient allies and a way to call for help
 ([[allied-faction-signals]]) — and that **Mifix is the same thing for the [[institute-of-eight]]**.
 An ancestor spirit in a toy car, understood at last as an old ally's telephone.
@@ -160,7 +160,7 @@ Two jobs, one mechanical and one narrative:
 - [[the-setting-statement]] — why a fixbot degrades away from home, and why one realm's worth of it
   has not killed him.
 - [[gargoyle-granite]] — the one thing he tries to read and cannot.
-- [[templar-ermengarda]] and [[conjurer-voisin]] — who work out what he is.
+- [[templar-will]] and [[conjurer-voisin]] — who work out what he is.
 - [[val]] — who wants him **captured**, not destroyed, because she is curious what he is
   ([[the-ambush-on-the-road]]); [[wraith-delahaye]] — who stops the attempt and joins the party.
 

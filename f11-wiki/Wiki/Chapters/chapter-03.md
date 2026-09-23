@@ -57,9 +57,9 @@ Gargoyle by gameplay, the Wraith by story**
 
 3. **[[the-search-of-the-frozen-map]]** — Delahaye searches the frozen world map for her allies and
    learns, object by object, that much time has passed; rescue becomes revenge. Investigation and
-   infiltration reveal [[the-guardians-of-night]] working to reopen gates, and lead her to
-   [[val-s-castle]] — just as Val arrives, and leaves for the green-skins' realm. Delahaye follows
-   her through the gate Val herself opened.
+   infiltration reveal [[the-guardians-of-night]] working to reopen gates — and that the kingdom
+   she is crossing is theirs — and lead her to [[val-s-castle]], its seat, just as Val arrives and
+   leaves for the green-skins' realm. Delahaye follows her through the gate Val herself opened.
 
 **The Celestials.**
 

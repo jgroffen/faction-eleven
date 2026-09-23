@@ -77,7 +77,9 @@ Three threads, told in parallel and closing together.
    realm's regions and points of interest, with specialist units recruited by **simple minigames**.
    Those minigames are the chapter's window on other realms: the Damned's recruits are the dead
    they carried home during the linking ([[the-linking-of-the-realms]]), so each one is a memory
-   of the world before the sealing.
+   of the world before the sealing. **One of the rival kingdoms on that map is
+   [[the-guardians-of-night]]**, seated at [[val-s-castle]] — the chapter's conspiracy, present as
+   a neighbour on the player's board before anyone can name it.
 5. **[[the-recruitment-of-the-wraith]]** — the campaign reaches a map that needs a wraith, and the
    minigame is [[wraith-memory-puzzle]]: the wraith is [[wraith-delahaye]], and she is the one
    recruitment that does not take. Her will breaks her out — and **the kingdom freezes**. The

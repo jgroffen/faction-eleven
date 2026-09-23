@@ -94,7 +94,8 @@ This makes them the game's most compromised faction:
 - **Their own gargoyles have been smashed too**, in the same pattern as the green-skins'
   ([[the-smashing-of-the-gargoyles]]).
 - **They are now leading an invasion into the [[mystics]]' realm**, with some [[werebeasts]] —
-  instigated by [[the-guardians-of-night]].
+  instigated by [[the-guardians-of-night]], who are **one of their own kingdoms**: a power on
+  [[realm-08]]'s map with [[val-s-castle]] as its seat ([[damned-undead-kingdom-rts]]).
 - **[[val]] is one of theirs**: a vampire — their **Commander** class — and the one who gave the
   order to destroy the gargoyles her own people helped build.
 - **Their Medic is the Necromancer**, "Rulers of the great majority", which is also the faction's

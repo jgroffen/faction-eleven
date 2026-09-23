@@ -49,7 +49,9 @@ it is frozen mid-campaign, and every object she touches tells her something is w
    knowing what she will find**: what happened to her crew and [[the-drunken-mermaid]], and
    whether [[tortuga]] is still her crew's ([[captain-anne]]).
 4. **Find the Guardians of Night.** Investigation and infiltration reveal that
-   [[the-guardians-of-night]] exist and **are working on ways to reopen gates between realms** —
+   [[the-guardians-of-night]] exist, that **the kingdom whose territory she is crossing is theirs**
+   ([[damned-undead-kingdom-rts]]), and that they **are working on ways to reopen gates between
+   realms** —
    the first thing she has found that could get her home.
 5. **Follow the trail to a vampire castle** — [[val-s-castle]]. Just as the Wraith moves close,
    **Val appears on the world map, moving toward the castle.**

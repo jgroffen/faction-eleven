@@ -120,7 +120,8 @@ manipulated realm is an invaded one. See [[gargoyle-granite]].
 
 ## Ties
 
-- [[the-guardians-of-night]] — her group, and her conviction.
+- [[the-guardians-of-night]] — her group, her conviction, and the kingdom she seats at
+  [[val-s-castle]] on the Damned's world map ([[damned-undead-kingdom-rts]]).
 - [[the-smashing-of-the-gargoyles]] — her order.
 - [[the-broken-barrier]] — what it was for.
 - [[gargoyle-granite]] — the one she failed to finish, and later tries to talk out of existing.

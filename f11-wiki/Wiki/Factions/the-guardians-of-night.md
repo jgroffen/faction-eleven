@@ -10,7 +10,7 @@ sources:
 source_count: 1
 aliases:
   - Guardians of Night
-homeland: ""
+homeland: realm-08
 allies: []
 enemies:
   - green-skins
@@ -32,8 +32,25 @@ guardians were too powerful, [[the-damned]] were stagnating, and there was nowhe
 conflict on that side of the wheel. Everything downstream followed from a system doing exactly what
 it was built to do, unsupervised.
 
-**Homeland:** none — they cut across [[realm-07]], [[realm-08]] and [[realm-09]] rather than
-belonging to one.
+**Homeland:** [[realm-08]] — where their kingdom is. Their membership still cuts across
+[[realm-07]], [[realm-08]] and [[realm-09]] rather than belonging to one; the kingdom is the seat,
+not the extent.
+
+## The Kingdom
+
+**They are one of the kingdoms in [[damned-undead-kingdom-rts]].** The Damned's game is a war of
+undead kingdoms for [[realm-08]]'s regions and points of interest, and the Guardians hold one of
+them — with [[val-s-castle]] as its seat. The player's own kingdom shares a map with them.
+
+**So the conspiracy is on the player's board before it is a story.** From chapter two the player is
+expanding against, bargaining with or avoiding a rival kingdom that is, unknown to them, the thing
+driving [[the-broken-barrier]], [[the-smashing-of-the-gargoyles]] and the invasion the
+[[celestials]] are losing to a realm away. Every other protagonist meets the Guardians as a
+mystery; the Damned's player has been playing next to them.
+
+**Secret and visible are different layers here.** A kingdom is not hidden — it holds ground and
+fields armies. What stays hidden is **what it is for**, and that it has counterparts in two other
+realms. Whether the map ever labels it "the Guardians of Night" is not established.
 
 ## Identity
 
@@ -68,6 +85,9 @@ around. Both are defending the realm; only one of them was allowed to choose wha
 
 - [[green-skins]] · [[werebeasts]] · [[the-damned]] — the three realms they operate inside and
   are steering. Not enemies in their own eyes; they would say they are the only ones awake.
+- **The player's undead kingdom** — a neighbour on [[realm-08]]'s map, and a rival for the same
+  regions ([[damned-undead-kingdom-rts]]). Whether the campaign ever puts the two in direct war is
+  not established.
 - [[celestials]] — the target. **They intend to expand the Damned kingdoms into the Celestial
   realm** ([[damned-undead-kingdom-rts]]) — **and Damned are already in the waves attacking
   [[templar-monastery]]** ([[the-stand-at-the-monastery]]), which is that intent arriving on screen

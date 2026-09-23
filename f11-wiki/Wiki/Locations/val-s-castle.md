@@ -16,8 +16,9 @@ controlling_faction: the-guardians-of-night
 
 # Val's Castle
 
-A vampire castle on the Damned's world map — [[val]]'s seat, and the place [[wraith-delahaye]]'s
-search of the frozen map leads her to once she has found the trail of [[the-guardians-of-night]].
+A vampire castle on the Damned's world map — [[val]]'s seat, **the seat of the
+[[the-guardians-of-night|Guardians of Night]]' kingdom**, and the place [[wraith-delahaye]]'s
+search of the frozen map leads her to once she has found their trail.
 
 **Part of:** [[realm-08]] · **Controlled by:** [[the-guardians-of-night]]
 
@@ -25,14 +26,16 @@ search of the frozen map leads her to once she has found the trail of [[the-guar
 
 Not yet described beyond what it is: a **vampire castle**, seen first from the outside by a wraith
 who does not know whose it is. It is a location on the Damned's world map
-([[damned-undead-kingdom-rts]]), reached on foot by Delahaye after the RTS has frozen.
+([[damned-undead-kingdom-rts]]), reached on foot by Delahaye after the RTS has frozen — and it is
+**inside the Guardians' own kingdom**, one of the rival kingdoms the player's undead kingdom shares
+the map with. The wraith walking to it is walking into a neighbouring power's territory.
 
 ## Who's Here
 
 - [[val]] — it is hers. She is not in it when Delahaye arrives; she appears on the world map
   moving toward it, and leaves from it for the [[green-skins]]' realm.
-- [[the-guardians-of-night]] — the castle is where Delahaye's investigation of the Guardians ends
-  up, so it is at least a place they work from.
+- [[the-guardians-of-night]] — whose kingdom this is the seat of, and where Delahaye's
+  investigation of them ends up.
 
 ## Set Here
 
@@ -55,5 +58,6 @@ close, Val appears on the map heading for the castle, and what Delahaye learns i
 - Whether the castle is a playable interior — for Delahaye, for the kingdom in the RTS, or for
   neither.
 - What Delahaye learns there and how: object reading, overheard talk, infiltration.
-- Whether the castle is a kingdom on the RTS map — one of the "other kingdoms" the player's undead
-  kingdom expands against — or sits outside that layer.
+- **What it is to the player's kingdom** — a capital to be taken, a neighbour to be dealt with, or
+  a place the campaign keeps out of reach.
+- Whether it is named on the map, and whether the name gives the Guardians away.

@@ -2406,3 +2406,27 @@ that the Celestials' chapter-two gameplay stay minimal:
   [[knight-ermengarda]] is of [[oluja-town]]. **It does not appear in the gameplay, and may never.**
   That is the current fact, not a gap: recorded as a location with nothing designed and no
   guarantee it ever will be.
+
+### Round 55 — 2026-09-23
+
+**Volunteered — the Guardians are a kingdom on the RTS map.** Not in answer to a question.
+
+> Lets make the Guardians of Night be a Kingdom in the Damned game, and the Val's Vampire castle
+> is in that kingdom.
+
+## Notes For The Compiler — Round 55
+
+- **The Guardians of Night are one of the kingdoms** in [[damned-undead-kingdom-rts]] — one of the
+  "other kingdoms" the player's own undead kingdom expands against on [[realm-08]]'s world map.
+  This closes two open items that already asked the question, on `damned-undead-kingdom-rts` and
+  `val-s-castle`.
+- **[[val-s-castle]] is in that kingdom** — its seat, on the same map the player is playing.
+- **The conspiracy is therefore on the player's board from chapter two**, as a rival kingdom,
+  before any protagonist can say what it is.
+- **A tension to record rather than resolve**: the Guardians are a *secret cross-realm society*,
+  and a kingdom is a visible thing. The reading taken is that the kingdom is their **power base in
+  realm-08** and is not secret; what is secret is what it is for, and that it has counterparts in
+  two other realms. Nothing in the author's material says the kingdom announces itself as "the
+  Guardians of Night", so whether the player ever sees that name on the map is left open.
+- **Homeland set to `realm-08`** on the faction note — they still cut across three realms, but they
+  now have a seat.

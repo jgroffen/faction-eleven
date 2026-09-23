@@ -40,7 +40,8 @@ See [[the-wheel-of-realms]].
 Connected to alien space by a **void** in which ancient Lovecraftian gods dwell. High-level liches here are **opening** gates into [[realm-10]] — the only faction shown deliberately making new ways through.
 
 **It is the world map of the Damned's game** ([[damned-undead-kingdom-rts]]) — the board an undead
-kingdom expands across — and one of the two spaces the wraith minigame is played in
+kingdom expands across, and one of the kingdoms on it is [[the-guardians-of-night]], seated at
+[[val-s-castle]] — and one of the two spaces the wraith minigame is played in
 ([[wraith-memory-puzzle]]), the other being [[the-wraith-s-mansion]], which is not a place in the
 realm but a representation of the [[wraith-delahaye]]'s mind. The Wraith's grave, her single spawn
 point, is here; once she breaks out of the minigame, the realm's map is what she searches

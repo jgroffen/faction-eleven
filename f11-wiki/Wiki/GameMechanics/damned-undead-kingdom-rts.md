@@ -45,8 +45,13 @@ kingdom tries to acquire.
 **The main game is the map.** A campaign across the Damned's world map ([[realm-08]]): **a war of
 Damned kingdoms against each other for control of the realm's regions and points of interest.** It
 is **contained within the realm** — the enemy is other undead kingdoms, not the living of other
-worlds. [[val-s-castle]] and [[the-guardians-of-night]] sit on the same map; whether they are a rival
-kingdom is open. The genre is RTS in the Warcraft mould —
+worlds.
+
+**One of those kingdoms is [[the-guardians-of-night]]**, with [[val-s-castle]] as its seat. The
+conspiracy behind the game's opening war is a **rival power on the player's own map**, holding
+ground and fielding armies like any other kingdom — so the Damned's player is playing alongside it
+from chapter two, long before any protagonist can name what it is. Whether the campaign ever puts
+the two kingdoms at war, and whether the map labels it, are not established. The genre is RTS in the Warcraft mould —
 base, army, expansion — and it is the most zoomed-out style any faction has been given, alongside the
 [[pirates]]' unconfirmed 4X.
 
@@ -109,8 +114,10 @@ broken-out Wraith can reach against how much the kingdom holds.
   commander, whether the player-named kingdom keeps its name, and what the goal for the
   protagonists is.
 - **Which protagonists help her**, and what kind of help unfreezes a game.
-- Whether [[val-s-castle]] and the Guardians' holdings are "other kingdoms" on the RTS map, or
-  outside that layer.
+- **Whether the player's kingdom and the Guardians' ever go to war**, and whether the campaign lets
+  the player take [[val-s-castle]].
+- **Whether the map names them.** A kingdom labelled "the Guardians of Night" tells the player
+  something no character knows; an unnamed neighbour tells them nothing until much later.
 - How the player's kingdom relates to the Guardians' expansion into the Celestial realm — a
   participant, a rival, or the kingdom the Templar's counterattack lands on.
 - How the RTS runs while the Wraith is abroad from [[chapter-04]] on — whether the player switches

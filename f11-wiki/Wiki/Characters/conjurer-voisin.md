@@ -43,7 +43,7 @@ to the monastery, and what she plays like on the way, is not worked out.
 
 ## In-Game Role
 
-Player character. Specialist archetype. Currency: Scrolls. Gear comes out of dungeons and is refined or enhanced at the cottage.
+Player character. Specialist archetype. Currency: Reagents.
 
 ## Quests
 

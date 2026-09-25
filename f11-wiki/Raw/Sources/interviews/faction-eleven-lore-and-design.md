@@ -2430,3 +2430,49 @@ that the Celestials' chapter-two gameplay stay minimal:
   Guardians of Night", so whether the player ever sees that name on the map is left open.
 - **Homeland set to `realm-08`** on the faction note — they still cut across three realms, but they
   now have a seat.
+
+### Round 56 — 2026-09-23
+
+**Volunteered — the Mystic story and gameplay.** Opening statement for a dedicated grilling
+session on the Mystics.
+
+> - When entering the mystic game the player is auto-taken through a character creation screen,
+>   creating Voisin and selecting Conjurer class and selecting from a big list of starting bonuses
+>   'ancient relic', which means she starts with a powerful magic wand.
+> - Voisin lives in a quaint cottage in a village with other Mystics.
+> - Voisin and other mystics adventure into the caves regularly to find materials for magic
+>   crafting called Reagents. This is the currency in the Mystic realm (please replace 'Scrolls'
+>   with 'Reagents').
+> - Chapter 4 starts with Voisin waking up and having breakfast with her Homunculi. She lives with
+>   many Homunculi
+> - She heads out to the village to go adventuring, heading into a cave.
+> - The homunculi are how the Mystic recovers from death, one of her homunculi from home come and
+>   find her and reconstitute her. They are also how the Mystic fast-travels, she de-constitutes
+>   into the Homunculi which travels back to town.
+>
+> - Voisin arrives at the Monastery before the War Machine arrives and agrees to support the
+>   battle, fights to great effect in a final wave before the War Machine arrives.
+> - At the end of that final wave, the Ninja, Mifix, Gargoyle, and Wraith arrive
+> - The war machine arriving is the end of Chapter 4. The Monastery vs the War Machine battle is
+>   the opener to Chapter 5
+>
+> - The Mystic gameplay is isometric action rpg. Characters level up and unlock skills using
+>   skillpoints they get per level.
+> - The skill tree is like the Robot incremental progression tree. While the world may have gear in
+>   scripted locations, there is no gear drops from monsters - only 'Reagents'. Gear is instead
+>   purchased from vendors in town.
+> - Characters have three main stats - Health, Magic, and Reagents. Reagents are both currency and
+>   resource used in performing actions.
+
+## Notes For The Compiler — Round 56
+
+- **Currency rename**: `Scrolls` → **`Reagents`** on [[mystics]], [[conjurer-voisin]] and
+  [[faction-currencies]]. Reagents are not merely money: they are crafting material, spendable
+  action resource, and the only thing monsters drop.
+- **The war machine's arrival has moved.** [[the-stand-at-the-monastery]] currently ends
+  [[chapter-03]] on the machine arriving, and [[chapter-04]] opens with the monastery already
+  besieged by it. The author now places the arrival at the **end of chapter four**. Raised as a
+  contradiction in Round 56's questions; not compiled until answered.
+- **The council's position is now in question.** [[the-first-meeting-of-the-realm-champions]]
+  currently closes chapter four; the author's sequence has the four arrive at the end of the final
+  wave and the machine arrive immediately after. Raised; not compiled until answered.

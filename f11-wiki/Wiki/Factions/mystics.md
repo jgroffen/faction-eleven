@@ -31,7 +31,7 @@ than an army. Their protagonist is [[conjurer-voisin]], whose cottage is the hub
 dungeons to be refined and enhanced, and **homunculi** retrieve the Conjurer's gear and body and
 revive her.
 
-**Currency:** Scrolls · **Role archetype:** Specialist
+**Currency:** Reagents · **Role archetype:** Specialist
 
 ## Standing
 

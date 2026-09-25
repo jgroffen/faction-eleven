@@ -19,8 +19,12 @@ locations: []
 
 # Faction Currencies
 
-Each faction has its own currency. These are **lore-only** — they may come to matter for some game
+Each faction has its own currency. Most are **lore-only** — they may come to matter for some game
 types, and **simplification of the scheme is under consideration**.
+
+**Two are not lore-only.** The [[robots]]' chain and the [[mystics]]' **Reagents** are load-bearing
+systems in their factions' game styles, not flavour. Where a currency is doing real work, the
+faction's own notes own it and this table only points at them.
 
 **Canon:** proposed · **Era:** present
 
@@ -31,7 +35,7 @@ types, and **simplification of the scheme is under consideration**.
 | [[robots]] | _in play, a refining chain of scrap, construction materials, modules and components ([[autofix-skill-tree]]); the "Parts" label is legacy_ |
 | [[institute-of-eight]] | Tablets |
 | [[celestials]] | Relics |
-| [[mystics]] | Scrolls |
+| [[mystics]] | **Reagents** — _not lore-only: crafting material, spendable action resource and the only monster drop ([[mystics]])_ |
 | [[fey-folk]] | Crystals |
 | [[pirates]] | Booty |
 | [[werebeasts]] | Teeth |
@@ -51,5 +55,6 @@ treats other realms as resources.
 
 ## Player-Facing
 
-Currently fiction only. **Design status: unsettled** — simplification is on the table, so
-do not build systems against this table yet.
+Fiction only except for the [[robots]] and the [[mystics]], whose currencies are real systems.
+**Design status: unsettled** for the rest — simplification is on the table, so do not build
+systems against the other eight rows yet.

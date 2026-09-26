@@ -36,8 +36,9 @@ as a different loadout or stat spread. **Incremental**, **tower defence**, **RPG
 - **The shared style is a shell.** Faction genres build on [[exploration-core-loop]] rather than
   replacing it; a realm may add mechanics but may not opt out of the shell. This is what reconciles
   "a mostly platform or top-down exploration game" with genre labels like 4X and bullet-hell.
-- **A genre belongs to a realm, not to a protagonist** ([[realm-governs-game-style]]). When a
-  protagonist travels, they play the host realm's genre: the [[ninja-kazuma]] plays a Metroid in
+- **A genre belongs to a realm, not to a protagonist** ([[realm-governs-game-style]]), and what a
+  traveller keeps is set by [[cross-realm-power-and-progression]]. When a protagonist travels, they play
+  the host realm's genre: the [[ninja-kazuma]] plays a Metroid in
   [[realm-07]], and both he and the [[gargoyle-granite]] play [[celestials-hero-tower-defence]] in
   [[chapter-04]]. This turns ten one-shot genre systems into systems that get **played more than
   once**, and is the direct mitigation for the scope risk below.
@@ -49,7 +50,7 @@ as a different loadout or stat spread. **Incremental**, **tower defence**, **RPG
 
 ## Game Style By Faction
 
-Seven are settled — the Pirates' as a style, not yet as content. The rest carry an inherited genre from the earlier prototype which is
+Eight are settled — the Pirates' as a style, not yet as content, and the Mystics' as systems without values. The rest carry an inherited genre from the earlier prototype which is
 **unconfirmed** — the genre list has moved since then, and a per-faction review of game style and
 mechanics is outstanding.
 
@@ -59,7 +60,7 @@ mechanics is outstanding.
 | [[robots]] | [[robots-incremental-exploration]] | settled |
 | [[celestials]] | [[celestials-hero-tower-defence]] | settled |
 | [[green-skins]] | [[gargoyle-stone-metroidvania]] | settled |
-| [[mystics]] | Iso explorer / Diablo | **unconfirmed** — and they lead [[chapter-04]] |
+| [[mystics]] | [[mystics-isometric-action-rpg]] — isometric action RPG, simple 2D | settled as a style; systems specified, values not tuned |
 | [[fey-folk]] | Bullet-hell / 1941 | **unconfirmed**, explicitly not locked down |
 | [[pirates]] | [[pirates-open-exploration]] — open world with 4X elements; freedom built in | settled as a style, content not yet filled in |
 | [[werebeasts]] | RPG | **unconfirmed** |

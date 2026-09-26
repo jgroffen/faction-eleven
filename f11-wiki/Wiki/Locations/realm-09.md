@@ -36,8 +36,10 @@ number, which is canon but is not what the people who live here call home.
 
 See [[the-wheel-of-realms]].
 
-Has an open gate to [[realm-03]], through which the werebeasts attack in small numbers with very
-powerful units.
+**Its gate to [[realm-03]] is closed**, and realm-09 is not fighting anybody
+([[werebeasts]]). Its gargoyles — the only intact set in the game — are in **stasis**, and the
+[[mystics]] are coming through the 04↔09 gate to capture werebeasts for Reagents
+([[the-harvesting-of-the-werebeasts]]).
 
 ## Set Here
 

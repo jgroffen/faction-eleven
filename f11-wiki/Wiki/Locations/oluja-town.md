@@ -60,7 +60,9 @@ screen and the reason the faction's second defeat reads as a success.
   her, is not stated.
 - **What holds it** after the Celestials leave — the war machine's column, a green-skin garrison,
   or the [[the-damned|Damned]] who turn up at the monastery next.
-- Whether the liberation is played, and by whom; the [[celestials]] are a faction the player plays
-  as the Templar, and the party is hers.
+- **What the liberation plays like.** It is one objective of the counterattack
+  ([[the-first-meeting-of-the-realm-champions]]): [[knight-ermengarda]] and [[templar-will]] driving
+  the captured war machine back along the invasion route. A tower-defence faction attacking with a
+  siege engine is a new mode for [[celestials-hero-tower-defence]].
 - Where the townsfolk go after the monastery, and whether a sheltering population changes what the
   monastery's defence is protecting.

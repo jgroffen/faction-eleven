@@ -89,11 +89,16 @@ units reads as reinforcement rather than as a cast change. The first of those al
 faction's Front Liner: [[knight-ermengarda]], a second hero unit on the field — and the person he
 speaks to, which is what gives the Celestials' decisions somewhere to be spoken.
 
-**Later — the counterattack.** In a later chapter (six, provisionally) he **takes the war machine
-and turns it on the Damned**, who by then hold land in his realm and defend it with tower defences
-of their own ([[damned-undead-kingdom-rts]], [[celestials-hero-tower-defence]]). He is also the
-one who names the party at the monastery: [[the-realm-champions]]
-([[the-first-meeting-of-the-realm-champions]]).
+**He names the alliance and then leaves it.** At the monastery he calls the assembled protagonists
+[[the-realm-champions|Realm Champions]] ([[the-first-meeting-of-the-realm-champions]]) — and then, at
+[[knight-ermengarda]]'s urging, does not travel with them. The war machine is **captured** at that
+battle, and the two Celestials take it **back the way it came**, recovering territory and liberating
+towns including [[oluja-town]].
+
+**The counterattack is his arc's turn.** It carries on into Damned-held Celestial land, which the
+[[the-damned|Damned]] defend with tower defences of their own — the Celestials' own genre played
+against them ([[damned-undead-kingdom-rts]], [[celestials-hero-tower-defence]]). The faction built
+around retreating spends the rest of its story advancing.
 
 ## Quests
 
@@ -103,7 +108,7 @@ one who names the party at the monastery: [[the-realm-champions]]
 
 ## Ties
 
-Defends against [[green-skins]] and [[werebeasts]].
+Defends against [[green-skins]] and [[the-damned]].
 
 - [[knight-ermengarda]] — the Knight who fights beside him, and who he talks to.
 - [[the-outpost]] · [[oluja-town]] · [[templar-monastery]] — the two he loses, and the one he
@@ -115,4 +120,4 @@ Defends against [[green-skins]] and [[werebeasts]].
 ## Open
 
 - Whether the Templar learns what [[odie]] is beyond "a link to an ancient ally."
-- What the Templar does about the war machine while the party goes looking for a gargoyle.
+- Whether leaving the Realm Champions costs him anything with them, and whether he expects to rejoin.

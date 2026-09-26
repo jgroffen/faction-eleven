@@ -18,9 +18,13 @@ enemies:
 
 # The Guardians of Night
 
-A **secret cross-realm group** working to incite the [[green-skins]], the [[werebeasts]] and
-[[the-damned]] to invade the [[celestials]]. They smashed the gargoyles, broke the barrier, and let
-three realms believe they were defending themselves.
+A **secret cross-realm group** working to incite the [[green-skins]] and [[the-damned]] to invade the
+[[celestials]]. They smashed the gargoyles, broke the barrier, and let two realms believe they were
+defending themselves.
+
+**They meant to have three.** The [[werebeasts]] were part of the design and are not in the war:
+[[val]] never found a path into [[realm-09]], so they were never recruited
+([[werebeasts]]).
 
 **They are not a conspiracy. They are a feature.** [[huitzilopochtli-the-blue]] built
 [[the-secret-society-system]] — hidden groups seeded into realms with their own convictions and
@@ -94,9 +98,9 @@ around. Both are defending the realm; only one of them was allowed to choose wha
   long before anyone in [[realm-03]] can name it; in a later chapter the Templar takes the war
   machine and counterattacks, and the Damned end up defending Celestial land in the Celestials' own
   genre.
-- [[mystics]] — also under invasion, by the Damned and some werebeasts, **and that was instigated by
-  the Guardians too**. So this is not one war but a coordinated push across the whole opposition
-  axis of [[the-wheel-of-realms]].
+- [[mystics]] — **not their war.** The Mystics are running their own incursion into [[realm-09]] for
+  Reagents ([[the-harvesting-of-the-werebeasts]]), authored by a different instance of the same system
+  ([[the-graceful-servants]]). Two societies, one author, no coordination.
 - [[fey-folk]] — **not attacked**, and the reason is fear. The [[werebeasts]]' barrier facing them
   still stands, spared because the Guardians are commanded from [[realm-08]] and [[the-damned]] are
   afraid of the Fey Folk. Somebody else's fear is why realm-09's gargoyles survived.

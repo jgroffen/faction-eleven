@@ -45,9 +45,14 @@ abandon the position when the machine itself arrives — **Ermengarda leading th
 **She fights the monastery waves** beside him, against green-skins and [[the-damned]], through the
 battle in which the Templar decides to stop retreating ([[the-stand-at-the-monastery]]).
 
-**Then she leaves.** After the battle at the monastery she takes a party back to **liberate Oluja
-Town** — the first Celestial action in their whole story that is not a defence. Which chapter that
-falls in is not set.
+**Then she turns the faction around.** After the war machine is taken at the monastery she
+**convinces the Templar to join her in driving it back the way it came** — recovering territory and
+liberating towns, [[oluja-town]] among them ([[the-first-meeting-of-the-realm-champions]]). It is the
+first Celestial action in their whole story that is not a defence, and **she is the one who argues for
+it**: the Templar has just named an alliance and is about to leave it on her say-so.
+
+That makes her the faction's hinge. Every Celestial decision until now has been the Templar's, spoken
+to her; this one is hers, spoken to him.
 
 ## Character
 

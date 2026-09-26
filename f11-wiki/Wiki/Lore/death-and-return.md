@@ -32,7 +32,7 @@ game convention rather than ignoring it. **Lore only for now**, not a systems co
 |-------------|--------------------|
 | [[autofix-alto]] | A restore-bot, left outside of locations |
 | [[ninja-kazuma]] | A cut-scene: his child grows up, is trained, and replaces him |
-| [[conjurer-voisin]] | Homunculi from the cottage retrieve her gear and body, and revive her |
+| [[conjurer-voisin]] | A **standby pool** of homunculi, starting at one and bought up to six. One comes and restores her where she fell; the last one instead carries her gear home and she reconstitutes at the cottage, refilling the pool ([[mystics-isometric-action-rpg]]) |
 | [[phoenix-ember]] | Reborn from ashes |
 | [[captain-leon]] | Pay the ferryman, losing booty |
 | [[werewolf-gill]] | Reverts to a puppy or baby for a while |
@@ -40,6 +40,10 @@ game convention rather than ignoring it. **Lore only for now**, not a systems co
 | [[templar-will]] | TBD |
 | [[gargoyle-granite]] | TBD |
 | [[wraith-delahaye]] | Bound to a single spawn point — a grave to return to; the grave anchors a story about becoming less dead ([[wraith-memory-puzzle]]) |
+
+**[[conjurer-voisin]]'s is the only one the player can buy more of**, which makes it the only death
+mechanic that is also a progression decision: spend Reagents on lives, or on the power that stops you
+needing them.
 
 The strongest of these is [[ninja-kazuma]]'s, because it is the only one where **death advances the
 fiction instead of undoing it**: the family's sentence is generational, so dying is how the story

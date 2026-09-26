@@ -57,29 +57,64 @@ mini-fix bots meeting, and five realms in one room.
    Celestials' awareness of their own gates has faded. The Gargoyle knows the network's *shape*
    ([[realm-nearness-and-traversal]]) — so everyone can agree a Celestials↔Robots gate exists — but
    not where in [[realm-03]] it sits.
-4. **The decision: seek out a Werebeast gargoyle.** Four reasons, one per party:
+4. **Voisin tells them what she saw.** She has already told [[templar-will]] privately, and **at his
+   prompting she discloses everything to the room**: sneaking through [[celestial-tower]] she
+   overheard that the gate to the [[werebeasts]] is open; she believes the motive is **harvesting
+   werebeasts for Reagents**; and she heard that whoever is doing it is **stockpiling** Reagent
+   ([[the-harvesting-of-the-werebeasts]]). She is informing on her own faction, to five realms she met
+   this week.
+
+   **[[gargoyle-granite]] objects on the evidence.** If anyone has breached the Werebeast realm, the
+   werebeast gargoyles' **barrier** must have been breached — and a breached barrier *wakes the
+   gargoyles that built it* ([[the-realm-barriers]]). Realm-09's guardians are the one intact set;
+   if they were awake, none of this could be happening.
+
+   **Nobody in the room can resolve it.** Voisin's answer is that the incursion **cannot be large
+   scale** — powerful Mystics could get small parties past a barrier without breaking it. She is right,
+   and she does not know she is right; the gargoyles are in **stasis**, which nobody present has
+   considered.
+
+   **And she is asked what the stockpile could be for.** She can only guess, and offers two: **crafting
+   a very powerful artifact**, or **supplying an army of Mystics through a protracted war with no
+   pauses to resupply**. Both are guesses. Neither is comforting, and the second is the first time
+   anyone in the game has said out loud that a faction might be preparing for a long war.
+
+5. **The decision: seek out a Werebeast gargoyle.** Four reasons, one per party:
    1. **An intact gargoyle knows where the gates are** — gargoyles carry the whole network as
       fact, and a functioning one can point to the door nobody in the room can find.
    2. **The Gargoyle can find out whether he is malfunctioning.** He does not trust [[val]]'s
       verdict and a machine could not read him ([[the-diagnosis-of-the-last-gargoyle]]); another
       gargoyle is the one judge he would trust.
-   3. **If the Werebeast gargoyles can be reactivated, they should seal the gate to the
-      [[mystics]].** Which gate, and why they need reactivating, is open
-      ([[the-mystics-second-secret-society]]).
+   3. **The Werebeast gargoyles should be woken, and should seal the gate to the [[mystics]].** This
+      is the **04↔09 gate** — and the room learns why from Voisin, below.
    4. **Val will try to destroy them if she can reach them.** She has resolved to destroy every
       remaining gargoyle ([[the-trial-of-the-last-gargoyle]]); the intact set in [[realm-09]] is her
       next target, and they need warning.
-5. **Delahaye raises the obvious problem.** She followed the Ninja because his realm connects to
+6. **Delahaye raises the obvious problem.** She followed the Ninja because his realm connects to
    hers; the party is now going to [[realm-09]], the wrong way round the wheel. **The Gargoyle
    answers her**: five realms have paths to the Pirate realm, and the Robot realm is one of them.
    Kazuma's ultimate goal is the Robot realm; he is from a realm connected to the Pirate realm; and
    he is known to have the power to open sealed interplanar gates ([[the-red-power]] — [[odie]] has
    just named it in him). **She reasons it makes sense to stick with him.**
 
+## Where They Go
+
+**The road to [[realm-09]] runs through the Mystics.** The Celestials' own gate to the Werebeasts is
+closed ([[realm-nearness-and-traversal]]), so the party travels 04↔03 into [[realm-04]] by
+[[celestial-tower]], then 04↔09 — **the harvest gate this council has just resolved to seal**, with
+[[the-graceful-servants]] at one end of it. [[conjurer-voisin]] leads five strangers back through the
+tower she burgled, to use the door she asked them to close.
+
+**And the Templar does not come.** [[knight-ermengarda]] convinces him to **take the captured war
+machine back the way it came** — recovering territory and liberating towns, [[oluja-town]] among them.
+The faction built around losing goes on the offensive, and its Commander leaves the alliance he just
+named to do it.
+
 ## Rewards
 
 - No item. A party with a name, a destination, and a reason for every member to be in it —
   including the one whose reason is revenge.
+- A second party: a Templar, a Knight and a captured siege engine, pointed the other way.
 
 ## Prerequisites
 
@@ -94,8 +129,10 @@ mini-fix bots meeting, and five realms in one room.
   05, 07 (allied) and 10, 01, 02 (enemy) ([[realm-nearness-and-traversal]]); the Robot realm is a
   real door home. What she cannot know is that every one of them is sealed and that the party's
   road to the Robots runs through a gargoyle nobody has met yet.
-- **She keeps her own counsel.** She sees Kazuma as an enemy ([[the-shadowing-of-the-ninja]]) and
-  wants d'Artigue dead; neither is said at the council. The help she has been promised is
+- **One person keeps their own counsel, and it is not the Mystic.** Delahaye sees Kazuma as an enemy
+  ([[the-shadowing-of-the-ninja]]) and wants d'Artigue dead; neither is said at the council. Voisin
+  does the opposite — she volunteers the most damaging thing anyone in the room could say about their
+  own people, and needs prompting only to say it twice. The help she has been promised is
   conditional on not interfering with the party's missions, and her mission is the one thing she
   has not told them.
 - **The Templar is right about the ancient allies**, and the word he coins is him saying so
@@ -106,6 +143,9 @@ mini-fix bots meeting, and five realms in one room.
 - Whether the war machine is beaten before, during, or after the council.
 - What [[conjurer-voisin]] does mechanically once the second party arrives.
 - Whether [[templar-will]] learns what [[odie]] is beyond "a link to an ancient ally".
-- How the party travels from the monastery to [[realm-09]] — the Celestials' gate to the
-  Werebeasts stands open ([[celestials]]), a road the enemy is using in the other direction.
+- Whether the split (below) is a clean parting or a disagreement, and who argues for which side.
 - Whether Delahaye tells anyone about d'Artigue before she reaches realm-06, and who first.
+- **How the room takes it.** A council that has just been named as champions of ten realms learns in
+  its first hour that one member's faction is the aggressor somewhere else, from that member.
+- **Whether the Templar's prompting is kind or political.** He has known privately for a while by the
+  time he asks her to repeat it.

@@ -19,6 +19,10 @@ aliases:
 view, no narrator standing above the realms, and no cutaway to the studio. Whatever the four
 developers do, the player meets it the way an inhabitant meets it: as an act of a god.
 
+**This holds even where the premise implies more than the game shows.** The realms are a studio's
+games and a studio's games have players ([[the-four-developers]]) — and none of those players is ever a
+character, a voice, or a thing the fiction refers to. The implication exists and stays out of reach.
+
 **That constraint is not a stylistic choice — it is a property of the characters.** No protagonist is
 aware they are in a game, and none can become aware: their code explains everything through their home
 realm's terms ([[the-setting-statement]]). So the ladders below are the player's, never a character's,

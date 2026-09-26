@@ -19,8 +19,13 @@ enemies:
 
 # The Werebeasts
 
-Known mainly through the [[celestials]], who they attack through an open gate — **less frequently
-than the green-skins, with fewer but very buff units**. Their protagonist is [[werewolf-gill]].
+Known mainly through the [[celestials]], who they attack — **less frequently than the green-skins, with
+fewer but very buff units**. Their protagonist is [[werewolf-gill]].
+
+**And they are being robbed.** The [[mystics]] are running incursions into [[realm-09]], capturing
+werebeasts and harvesting them for Reagents, because a werebeast yields an inordinate amount
+([[the-harvesting-of-the-werebeasts]]). Their gargoyles, the only intact set in the game, are in
+**stasis** and did not stop it.
 
 **Homeland:** [[realm-09]] — see [[the-wheel-of-realms]]
 
@@ -39,13 +44,14 @@ while**, which reads as a growth/regression system rather than a straight respaw
 They are the third realm of the
 old defensive alliance — with [[the-damned]] and the [[green-skins]] — invaded by the
 [[celestials]], [[mystics]] and [[fey-folk]] until [[the-gargoyle-guardians]] ended it. They have
-gargoyles of their own, loyal to [[realm-07]]. They are now being incited to attack the Celestials
-by [[the-guardians-of-night]], and some of them are joining the Damned's invasion of the
-[[mystics]].
+gargoyles of their own, loyal to [[realm-09]]. They are now being incited to attack the Celestials
+by [[the-guardians-of-night]].
 
-**And they are the exception that makes a later chapter possible: their gargoyles were never
-smashed, and their barriers still stand** ([[the-smashing-of-the-gargoyles]]). Realm 09 holds the
-only intact set of realm guardians in the game — which [[gargoyle-granite]] will eventually go looking for.
+**Their gargoyles were never smashed and their barriers still stand**
+([[the-smashing-of-the-gargoyles]]) — realm-09 holds the only intact set of realm guardians in the game,
+which is why [[gargoyle-granite]] comes looking. **But they will not wake.** The Servants passed the
+04↔09 barrier without breaking it and put the guardians under, so the alarm never rang and the sleepers
+never answered. The champions discover this in [[chapter-06]].
 
 **The party at [[templar-monastery]] is coming for them** ([[the-convergence-at-the-monastery]]):
 to ask an intact gargoyle where the Celestials' gate to the [[robots]] is, to give [[gargoyle-granite]] a

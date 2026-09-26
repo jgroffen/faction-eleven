@@ -51,6 +51,17 @@ Every divine act in [[the-four-gods]] is a change to a codebase:
 the games' clock have no relationship, and the mismatch is a source of glitches rather than a
 problem to be smoothed over ([[continuity-glitches]]).
 
+## The Games Have Players
+
+A studio's games are played. **So the realms have players**, and the exploit that started
+[[the-harvesting-of-the-werebeasts]] is the kind of thing players find.
+
+**It is deliberately kept out of reach.** No player of a realm is ever a character, is ever seen, or is
+ever referred to; nothing in the fiction addresses them and no protagonist could perceive one
+([[the-revelation-schedule]]). It is a property of the premise rather than a thread — at most it
+surfaces the way anything else about the machinery surfaces, as a [[continuity-glitches|glitch]]. It is
+**not a focus and not a reveal**, and nothing should be built on it.
+
 ## The Four
 
 |           | Who                          | Seniority   | Age      |

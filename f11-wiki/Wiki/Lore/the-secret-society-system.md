@@ -65,9 +65,17 @@ feature nobody is watching.
 
 ## A Second Instance Is Coming
 
-The system is not a one-off. A second secret society, working the same three goals against the
-[[mystics]] and the [[werebeasts]], is deferred design work for [[chapter-04]] — see
-[[the-mystics-second-secret-society]]. **Open:** whether the system has fired more than these two
+The system is not a one-off. Its second known instance is [[the-graceful-servants]], fired on the
+[[mystics]] — where the stagnation it detected was **the realm's own enemies**, a bestiary that had
+stopped being interesting. The society it built went looking for better monsters in [[realm-09]], and
+**the system did not foresee that werebeasts would break the Mystics' economy**
+([[the-harvesting-of-the-werebeasts]]).
+
+**The two instances are not the same quality of work.** The Guardians solved three problems at once.
+The Servants solved one and created a larger one. Read together they are the more honest picture of an
+unsupervised system: not reliably elegant, just running.
+
+**Open:** whether the system has fired more than these two
 times, unnoticed, anywhere else on the wheel.
 
 ## Ties

@@ -41,16 +41,23 @@ This makes the shell **the first thing to build** and the only system built once
 times — which for a solo project ([[project-scope-and-constraints]]) is the difference between ten
 games and one.
 
-**Two presentations, chosen per faction.** Platforming and top-down are not
-blended; they are both available in the shell, and a faction's game style picks one:
+**More than two presentations, chosen per faction.** Presentations are not blended; the shell
+offers several and a faction's game style picks one. **There are at least three and probably more**
+— see [[the-shell-carries-more-than-two-presentations]]:
 
 | Presentation | Factions |
 |--------------|----------|
 | **Platforming** | [[robots]] ([[robots-incremental-exploration]]), [[institute-of-eight]] ([[ninja-rhythm-platforming]]), [[green-skins]] ([[gargoyle-stone-metroidvania]]) |
 | **Top-down** | [[celestials]] ([[celestials-hero-tower-defence]]), [[pirates]], and probably [[the-damned]] — **not yet settled** |
+| **Isometric (2D)** | [[mystics]] ([[mystics-isometric-action-rpg]]) — simple 2D, not a 3D engine |
 
 A faction may use both: the [[celestials]] fight top-down but **explore in platforming sections
 between battles**. So the split is per *activity*, not strictly per faction.
+
+**What reconciles ten genres is reuse.** Each presentation is real build; what keeps the count
+affordable is that **several factions share each one**, that the count is held to the minimum a
+faction's style actually needs, and that no faction so far has needed 3D
+([[the-shell-carries-more-than-two-presentations]]).
 
 **One platformer, three factions.** The [[gargoyle-granite]] uses **the same
 platforming engine as the [[ninja-kazuma]]**, with a different move set and no rhythm layer — which makes

@@ -60,28 +60,36 @@ compatible; **allied or enemy** means compatible.
 
 ![The Wheel of Realms — the gate network](realm-gate-network.svg)
 
-The ring is the ten allied gates. The crossing lines are the fifteen enemy gates — three of them
-(thick, solid) are the ones that also carry a gargoyle-built barrier from the War of the Six Realms
-([[the-realm-barriers]]); the other twelve are plain, sealed Ancient gates that have never been
-dramatised.
+The ring is the ten allied gates. The crossing lines are the fifteen enemy gates, in three kinds:
+
+| On the diagram | Which | What it means |
+|---|---|---|
+| thick red | 3↔7, 3↔8, 3↔9, 4↔8, 4↔9, 5↔9 | **old-war gates**, gargoyle-guarded — the six fronts of [[the-war-of-the-six-realms]] |
+| thin solid | 1↔7, 2↔7, 2↔8 | gargoyle-guarded, but never a front |
+| dashed | 1↔5, 1↔6, 2↔6, 4↔10, 5↔10, 6↔10 | plain sealed gates, **no barrier** |
+
+**Every enemy gate into [[realm-07]], [[realm-08]] or [[realm-09]] is gargoyle-guarded** — nine of
+the fifteen — because those are the three realms that built gargoyles
+([[the-gargoyle-guardians]]). The other six touch none of them and carry nothing but the Ancients'
+seal.
 
 ### Full Table
 
 | Realm | Allied gates (2) | Enemy gates (3) |
 |---|---|---|
 | 01 [[institute-of-eight]] | [[realm-10]], [[realm-02]] | [[realm-05]], [[realm-06]], **[[realm-07]]** |
-| 02 [[robots]] | [[realm-01]], [[realm-03]] | [[realm-06]], **[[realm-07]]**, [[realm-08]] |
-| 03 [[celestials]] | [[realm-02]], [[realm-04]] | **[[realm-07]]**, [[realm-08]], [[realm-09]] |
-| 04 [[mystics]] | [[realm-03]], [[realm-05]] | **[[realm-08]]**, [[realm-09]], [[realm-10]] |
+| 02 [[robots]] | [[realm-01]], [[realm-03]] | [[realm-06]], **[[realm-07]]**, **[[realm-08]]** |
+| 03 [[celestials]] | [[realm-02]], [[realm-04]] | **[[realm-07]]**, **[[realm-08]]**, **[[realm-09]]** |
+| 04 [[mystics]] | [[realm-03]], [[realm-05]] | **[[realm-08]]**, **[[realm-09]]**, [[realm-10]] |
 | 05 [[fey-folk]] | [[realm-04]], [[realm-06]] | **[[realm-09]]**, [[realm-10]], [[realm-01]] |
 | 06 [[pirates]] | [[realm-05]], [[realm-07]] | [[realm-10]], [[realm-01]], [[realm-02]] |
-| 07 [[green-skins]] | [[realm-06]], [[realm-08]] | **[[realm-01]]**, [[realm-02]], **[[realm-03]]** |
-| 08 [[the-damned]] | [[realm-07]], [[realm-09]] | [[realm-02]], [[realm-03]], **[[realm-04]]** |
-| 09 [[werebeasts]] | [[realm-08]], [[realm-10]] | [[realm-03]], **[[realm-04]]**, **[[realm-05]]** |
+| 07 [[green-skins]] | [[realm-06]], [[realm-08]] | **[[realm-01]]**, **[[realm-02]]**, **[[realm-03]]** |
+| 08 [[the-damned]] | [[realm-07]], [[realm-09]] | **[[realm-02]]**, **[[realm-03]]**, **[[realm-04]]** |
+| 09 [[werebeasts]] | [[realm-08]], [[realm-10]] | **[[realm-03]]**, **[[realm-04]]**, **[[realm-05]]** |
 | 10 [[aliens]] | [[realm-09]], [[realm-01]] | [[realm-04]], [[realm-05]], [[realm-06]] |
 
-**Bold** marks the three barrier-carrying enemy pairs (07↔03, 08↔04, 09↔05) — the ones the War of the Six Realms
-was actually fought through.
+**Bold** marks enemy gates that carry a gargoyle barrier ([[the-realm-barriers]]). There are nine:
+every enemy gate into realms 07, 08 and 09.
 
 ### Two Layers Of State, On Top Of A Fixed Existence
 
@@ -90,11 +98,14 @@ two independent layers:
 
 1. **The seal** (the Black's/Ancients' layer). **All twenty-five gates were sealed at once** by
    [[the-long-disconnection]]. The only thing that unseals one is [[xipe-totec-the-red]]'s power,
-   exercised by [[val]] or [[ninja-kazuma]] — which is why most of the network is still sealed and dark, and
-   the handful of open or cracked gates in the material are the exceptions, not the rule.
-2. **The barrier** (the gargoyles' layer, [[the-realm-barriers]]), which exists **only** on the three
-   old-war gates (07↔03, 08↔04, 09↔05). Breaking it is a second, separate act from unsealing the
-   gate underneath — [[the-guardians-of-night]] broke barriers; they did not use Red Power to do it.
+   exercised by [[val]], [[ninja-kazuma]] or [[coruscate]] — which is why most of the network is still
+   sealed and dark, and the handful of open or cracked gates in the material are the exceptions, not
+   the rule.
+2. **The barrier** (the gargoyles' layer, [[the-realm-barriers]]), which exists on the **nine** enemy
+   gates into realms 07, 08 and 09. Breaking it is a second, separate act from unsealing the gate
+   underneath — [[the-guardians-of-night]] broke barriers; they did not use Red Power to do it. A
+   barrier can also be **passed without breaking**, by a small party of very capable specialists, in
+   which case the gargoyles never wake ([[the-harvesting-of-the-werebeasts]]).
 
 **A gate's existence never needed a story reason. Its current state always does.** Every dramatised
 gate in the material now reads as one specific state on top of a network that was always there:
@@ -106,11 +117,16 @@ gate in the material now reads as one specific state on top of a network that wa
   and has simply neglected the enemy gate nobody was watching. That neglect is why [[ninja-kazuma]] gets
   through it at all.
 - The Damned's gate to the Green Skins (08↔07, allied) — **unsealed by Red Power**, [[val]]'s.
-- The Celestials' gates to the Green Skins and the Werebeasts (03↔07, 03↔09, both enemy,
-  barrier-carrying on the 03↔07 side) — **open**, because [[the-guardians-of-night]] broke the
-  barriers from the inside ([[the-broken-barrier]]).
-- Every other gate in the table — roughly twenty of the twenty-five — has **no stated state at all**
-  yet, and defaults to sealed.
+- The Celestials' gate to the Green Skins (03↔07, enemy) — **open**, because
+  [[the-guardians-of-night]] broke the barrier from the inside ([[the-broken-barrier]]).
+- The Celestials' gate to the Werebeasts (03↔09, enemy) — **closed**, and the [[werebeasts]] are not
+  in the war at all ([[werebeasts]]). Nothing comes through it in either direction.
+- The Mystics' gates to the Werebeasts and the Celestials (04↔09, 04↔03, both enemy) — **unsealed
+  recently** by [[coruscate]]'s Red Power. The 04↔09 barrier on realm-09's side is **intact and snuck
+  past**; the 04↔03 gate sits inside [[celestial-tower]] under guard
+  ([[the-harvesting-of-the-werebeasts]]).
+- Every other gate in the table — most of the twenty-five — has **no stated state at all** yet, and
+  defaults to sealed.
 
 ## Who Already Knows The Map
 

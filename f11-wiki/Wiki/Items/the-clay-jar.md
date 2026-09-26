@@ -44,7 +44,15 @@ A family branded traitors, sentenced to guard a gate, has been unknowingly keepi
 call two other realms. Whether the "treason" was connected to that is unwritten and is a strong
 hook.
 
+## Where It Goes
+
+**[[ninja-kazuma]] takes it with him** when he leaves [[realm-01]] to follow Mifix's signal
+([[the-second-signal]]) — a family relic carried by someone who does not know what it is. It comes back
+into the story in [[chapter-06]], when the champions split and the Ninja's party goes looking for the
+[[aliens]]' gate: the jar is what calls them, and [[the-red-power]] is what opens the door.
+
 ## Open
 
 - What activating it does to the egg, and whether an alien arrives or merely hears.
 - Whether the family knows.
+- Whether the jar has to be *activated* to help find the gate, or only carried.

@@ -32,6 +32,16 @@ being a werewolf.
 
 Not yet established. The death mechanic carries the only characterisation on record: on death the Werewolf **reverts to a puppy or baby for a while**, which implies growth and regression are part of how the character is played rather than a cosmetic penalty.
 
+## He Joins The Champions
+
+**In [[chapter-06]]**, when the [[the-realm-champions|Realm Champions]] reach [[realm-09]]. He is the
+sixth protagonist to join them, and he leaves with [[gargoyle-granite]] and [[conjurer-voisin]] to work
+towards **freeing his own realm's gargoyles**, who [[the-graceful-servants]] put into stasis
+([[the-harvesting-of-the-werebeasts]]).
+
+He is therefore the only protagonist recruited by people who arrived **because** his realm was being
+robbed — one of whom belongs to the faction doing the robbing.
+
 ## In-Game Role
 
 Player character. Front Liner archetype, RPG gameplay. Currency: Teeth.
@@ -43,6 +53,10 @@ Player character. Front Liner archetype, RPG gameplay. Currency: Teeth.
 
 ## Ties
 
-The Werebeasts attack the [[celestials]] through an open gate; the Werewolf's own part in that is unrecorded.
+The Werebeasts are **not at war** with anyone in the present ([[werebeasts]]) — which makes the Werewolf
+the only protagonist whose realm is a victim without being a combatant.
+
+- [[conjurer-voisin]] · [[gargoyle-granite]] — who he leaves realm-09 with ([[chapter-06]]).
+- [[the-graceful-servants]] — the Mystics harvesting his people.
 
 **Unconfirmed** — carried over from the earlier prototype.

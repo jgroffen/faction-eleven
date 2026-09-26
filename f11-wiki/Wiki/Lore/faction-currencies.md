@@ -35,7 +35,7 @@ faction's own notes own it and this table only points at them.
 | [[robots]] | _in play, a refining chain of scrap, construction materials, modules and components ([[autofix-skill-tree]]); the "Parts" label is legacy_ |
 | [[institute-of-eight]] | Tablets |
 | [[celestials]] | Relics |
-| [[mystics]] | **Reagents** — _not lore-only: crafting material, spendable action resource and the only monster drop ([[mystics]])_ |
+| [[mystics]] | **Reagents** — _one currency for everything: gear, skills and the cost of casting; the only monster drop. All gear is crafted from them, by NPCs ([[mystics-isometric-action-rpg]])_ |
 | [[fey-folk]] | Crystals |
 | [[pirates]] | Booty |
 | [[werebeasts]] | Teeth |

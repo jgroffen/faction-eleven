@@ -66,10 +66,12 @@ better place to stand, after the room has fought together.
 4. **[[the-ordinary-day-of-the-conjurer]]** — the Mystics' introduction. A character-creation
    screen that refuses every class but Conjurer and picks "Ancient Relic" by itself; breakfast with
    the homunculi; the village; a cave. The realm, the genre and the economy in one ordinary day.
-5. **[[the-answering-of-the-wand]]** — the relic wakes at the bottom of a cave and starts leading
-   her, **talking through the homunculi**. The route runs past a **gate to the [[werebeasts]]** —
-   [[coruscate]]'s, and the harvest's — and on to the **04↔03 gate inside a mage tower** held by
-   [[the-graceful-servants]]. Voisin sneaks in and crosses to [[realm-03]].
+5. **[[the-answering-of-the-wand]]** — the relic wakes in a cave, catching its counterpart's signal,
+   and leads her **out and across the realm** to [[celestial-tower]] — **talking through the
+   homunculi** the whole way. The Celestial gate inside should be sealed and is not. Getting past the
+   [[the-graceful-servants|Servants]] is played **as the homunculi**, and hiding there she
+   **overhears** that the werebeast gate is open too and that Reagent is being stockpiled — enough to
+   infer the **harvest** ([[the-harvesting-of-the-werebeasts]]). Then she crosses to [[realm-03]].
 6. **[[the-convergence-at-the-monastery]]** — she reaches [[templar-will]] first, agrees to support
    the defence, and **fights a final wave as a hero unit, to great effect**. Together they work out
    what the relics are ([[allied-faction-signals]]). **At the end of that wave the Ninja, Mifix, the
@@ -80,7 +82,7 @@ better place to stand, after the room has fought together.
 
 | Faction | Form | Game style | What they do |
 |---------|------|-----------|--------------|
-| [[mystics]] | **lead** | ❌ **isometric action RPG — settled as a style, not yet designed** | the whole faction introduced: realm, village, caves, Reagents, homunculi; Voisin crosses to realm-03 and fights |
+| [[mystics]] | **lead** | [[mystics-isometric-action-rpg]] ✅ (systems specified, values untuned) | the whole faction introduced: realm, village, caves, Reagents, homunculi; Voisin finds out what her faction is, crosses to realm-03 and fights |
 | [[celestials]] | major | [[celestials-hero-tower-defence]] ✅ | hold the monastery with the machine closing; take their first foreign hero unit; work out what their relics are |
 | [[institute-of-eight]] | travelling | [[ninja-rhythm-platforming]] ✅ | arrive with [[mifix]], who glitches on the way |
 | [[green-skins]] | travelling | [[gargoyle-stone-metroidvania]] ✅ (home realm only) | [[gargoyle-granite]] voices his doubt and travels on |
@@ -89,9 +91,12 @@ better place to stand, after the room has fought together.
 
 ## Content Load
 
-- **The entire Mystics faction** — realm, village, cave system, economy, and an isometric action
-  RPG that shares nothing with the shell's platforming or top-down presentations
-  ([[exploration-core-loop]]). This is the chapter's whole budget.
+- **The entire Mystics faction** — realm, village, cave system, economy, and
+  [[mystics-isometric-action-rpg]], which is a **third presentation** for the shell
+  ([[exploration-core-loop]], [[the-shell-carries-more-than-two-presentations]]). Simple 2D
+  isometric, but new build. This is the chapter's whole budget.
+- **A stealth section played as the homunculi** — [[celestial-tower]]. No new stealth system, but a
+  second control mode for the Mystic game.
 - **Two glitch scenes in two factions**: Mifix's diagnosis failure, and the character-creation
   screen. Neither explains the other and neither is commented on.
 - **The camp minigame** — the wraith puzzle pointed at living protagonists — and an ambush scene in
@@ -115,19 +120,19 @@ Tracked across all chapters in [[story-continuity-timeline]].
 **Sets up [[chapter-05]]:** the war-machine battle with six protagonists on one wall, and the
 council that follows it ([[the-first-meeting-of-the-realm-champions]]).
 
-**Plants, unexplained:** the [[werebeasts]] gate in the Mystic caverns and the tower that holds the
-Celestial one. Both are [[the-graceful-servants]]', both are [[coruscate]]'s work, and the player
-walks past them knowing neither.
+**Plants:** two unsealed gates and a Reagent supply line, all [[coruscate]]'s and
+[[the-graceful-servants]]' work, none of it explained. [[the-werebeast-caverns]] are named and not
+visited until [[chapter-05]].
 
 **Glitches this chapter:** Mifix's, and the character-creation screen
 ([[continuity-glitches]]).
 
 ## Open
 
-- **The Mystic genre is a style, not a design.** Isometric action RPG with a levelled skill tree,
-  Reagents as currency-and-resource, vendor gear — the shape is settled; none of it is specified.
-- **Nothing in [[realm-04]] has a name.** Not the realm as its people call it, not the village, not
-  the cave, not the tower.
+- **The Mystic genre has systems but no values** ([[mystics-isometric-action-rpg]]) — the Reagent
+  yield against the price curve is the whole feel of the faction and is untuned.
+- **Naming is deferred.** [[celestial-tower]] is named; the realm, the village and the cave are not.
+  Every realm is to be named at once, later, and **a realm's name is also its game's name**.
 - What Mifix's glitch looks like and costs ([[the-diagnosis-of-the-last-gargoyle]]).
 - Where on the road the ambush falls — in [[realm-07]] before the crossing, or in [[realm-03]]
   after it.

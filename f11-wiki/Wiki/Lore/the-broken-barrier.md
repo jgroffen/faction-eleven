@@ -39,9 +39,10 @@ The green-skins are not being lied to in words. They are being shown **a piece o
 lies by itself**, which is why it works so completely and why it will be so hard for one damaged
 gargoyle to argue against.
 
-**What actually followed:** the realm was unsealed so that the [[green-skins]], [[the-damned]] and
-the [[werebeasts]] could **attack the Celestials** — the invasion that every other faction in the
-game meets as an unprovoked horde. This is the concrete mechanism behind
+**What actually followed:** the realm was unsealed so that the [[green-skins]] and [[the-damned]] could
+**attack the Celestials** — the invasion that every other faction in the game meets as an unprovoked
+horde. The [[werebeasts]] were meant to be the third and never joined: [[val]] found no path into
+[[realm-09]] ([[werebeasts]]). This is the concrete mechanism behind
 [[the-manipulation-of-the-green-skins]], and the reason the [[celestials]]' gate stands open in
 [[sealed-interplane-gates]].
 

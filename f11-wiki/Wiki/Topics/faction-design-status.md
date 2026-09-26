@@ -27,7 +27,7 @@ record.
 | 01 | [[institute-of-eight]] | **deep** | **settled** — [[ninja-rhythm-platforming]] | settled; gate opens late-game |
 | 03 | [[celestials]] | **deep** | **settled** — [[celestials-hero-tower-defence]] | settled through chapter two |
 | 07 | [[green-skins]] | **deep** | **settled** — [[gargoyle-stone-metroidvania]] | **settled** — origin, instructions, antagonist and story spine |
-| 04 | [[mystics]] | **deep — next session** | ❌ none — and they lead [[chapter-04]] | substantial, **plus a war**: invaded by the Damned and werebeasts, instigated by [[the-guardians-of-night]] |
+| 04 | [[mystics]] | **deep** | [[mystics-isometric-action-rpg]] ✅ systems, values untuned | substantial: realm, village, caves, economy, [[the-graceful-servants]] and [[the-harvesting-of-the-werebeasts]] |
 | 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | **a role, not a story**: one of the three old invader realms |
 | 06 | [[pirates]] | thin — leave | **settled** — [[pirates-open-exploration]]: open world with 4X elements, freedom built in; content unfilled | **a war**: nearly wiped out by the Institute ([[the-pirate-institute-war]]); their dead First Mate is the Damned's protagonist |
 | 09 | [[werebeasts]] | thin — leave | unconfirmed | **a role**: old defensive ally; **their gargoyles survive**, which sets up a much later chapter |

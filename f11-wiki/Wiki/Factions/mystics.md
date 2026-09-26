@@ -36,21 +36,22 @@ revive her.
 
 ## Standing
 
-Deep in the underworld is an **open connection** to the [[green-skins]] realm — which is why the
-dungeons keep repopulating. The green-skins have been **mining the magic-rich plane**, making the
-Mystics a resource colony as much as a rival. **This isn't one of the fixed network's twenty-five
-gates** — realm-04 and realm-07 sit at ring-distance three, where the Black's network has nothing at
-all ([[realm-nearness-and-traversal]]) — so whatever this connection actually is remains unwritten.
+**They are the aggressor, and the motive is arithmetic.** Reagent yield scales with how magical a
+creature is, and werebeasts pay out an inordinate amount
+([[the-harvesting-of-the-werebeasts]]). A secret society among them — [[the-graceful-servants]] —
+holds records of this dating to [[the-linking-of-the-realms]], and one of their number, the ancient
+Summoner [[coruscate]], carries [[the-red-power]] and used it to dispel the seal on the **04↔09
+gate**. The Mystics have been **harvesting werebeasts** through it ever since.
 
-**They are the aggressor.** A secret society among them — [[the-graceful-servants]] — holds records
-dating to [[the-linking-of-the-realms]] saying the [[werebeasts]] are **rich in Reagents**. One of
-their number, the ancient Summoner [[coruscate]], carries [[the-red-power]] and used it to dispel
-the seal on the **04↔09 gate**. The Mystics have been **harvesting werebeasts for Reagents**
-through it ever since.
+**Almost none of them know.** Most Mystics cannot harvest werebeasts, and it is not common knowledge
+that the gate is open at all. The village practitioner works her own caves and has no idea there is a
+better seam.
 
-**And they have done this before.** In [[the-war-of-the-six-realms]] the Mystics were among the
-three realms "constantly incurring" into the green-skin, damned and werebeast realms — which is
-what the gargoyles were built to stop ([[the-gargoyle-guardians]]). Realm-09 holds the one set of
+**And they have done this before — and lie about it.** In [[the-war-of-the-six-realms]] the Mystics
+were among the three realms "constantly incurring" into the green-skin, damned and werebeast realms,
+which is what the gargoyles were built to stop ([[the-gargoyle-guardians]]). Those incursions were
+the same harvest. **The Mystics' own histories record it with the werebeasts as the aggressors**, and
+there is nothing in realm-04 to check that against. Realm-09 holds the one set of
 gargoyles never smashed, whose entire function is to wake when something comes through, and **they
 have not woken**. The same realm is being raided by the same realm for the second time, and the
 guard that stopped it last time is not answering.
@@ -63,8 +64,8 @@ whether either party knows about the other is open.
 [[templar-will]] ([[the-answering-of-the-wand]]), and sits on the council at [[templar-monastery]] that
 decides to seek out a [[werebeasts|Werebeast]] gargoyle — one aim of which is to have the Werebeast
 gargoyles **seal the gate to the Mystics** ([[the-first-meeting-of-the-realm-champions]]). That is
-the 04↔09 gate. **She does not know her own faction opened it**, and the Reagents she spends every
-time she casts may be coming through it.
+the 04↔09 gate — **and she knows it**, because she found out on her way out of the realm
+([[celestial-tower]]). She agrees to have her own faction's door shut and does not explain why.
 
 ## Open
 
@@ -73,10 +74,6 @@ time she casts may be coming through it.
   toward ([[the-mystics-second-secret-society]]).
 - **Whether [[the-graceful-servants]] are an instance of [[the-secret-society-system]]** or arose on
   their own.
-- **Whether the green-skin underworld connection above is still true.** It predates this account and
-  has not been re-examined against it.
-- How far the harvest reaches into ordinary Mystic life — whether village Reagents are werebeast
-  Reagents, and whether anyone outside the tower could tell.
 
 ## Faction Classes
 

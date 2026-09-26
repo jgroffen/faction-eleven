@@ -54,7 +54,8 @@ what he is protecting them from is **whoever is using them**.
 ## Who Is Doing It
 
 **[[the-guardians-of-night]]**, a secret cross-realm group, working to incite the green-skins, the
-[[werebeasts]] and [[the-damned]] to invade the [[celestials]]. Their method is on record:
+[[the-damned]] to invade the [[celestials]] — the [[werebeasts]] were intended too and were never
+reached ([[werebeasts]]). Their method is on record:
 
 1. **Smash the gargoyles**, because a defensive construct that cannot be commanded would have
    prevented a pre-emptive war ([[the-smashing-of-the-gargoyles]]).

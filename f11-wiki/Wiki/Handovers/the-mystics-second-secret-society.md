@@ -31,7 +31,45 @@ _What is already written down. Link it, do not restate it._
   now realm-09, Green Skins realm-07.)
 - [[val]] — carries the Red's first instance of gate/barrier power; this thread introduces a third.
 
-## Mostly resolved — 2026-09-25
+## Resolved — 2026-09-26
+
+**This thread is closed.** The dedicated grilling ran over rounds 56-59 and everything it was holding
+is now compiled canon. Read the notes, not the sketch below.
+
+| Question it held | Where the answer lives |
+|---|---|
+| Who the society is | [[the-graceful-servants]] — a secret society, existence not public |
+| Who the third Red Power carrier is | [[coruscate]], an ancient female Summoner. **Not** [[conjurer-voisin]] |
+| The route to realm-09 | the **04↔09 gate**, unsealed recently by Coruscate. Not catacombs, not via the Aliens |
+| The motive | [[the-harvesting-of-the-werebeasts]] — Reagent yield scales with how magical a creature is |
+| Why the gargoyles did not wake | Servants **passed the barrier without breaking it** and put the guardians in **stasis**; it needs unique gear and high-level class skills, so it runs as small parties |
+| Whether the Mystics are invader or invaded | **invader**; the old "invaded by the Damned and some Werebeasts" account is gone |
+| Whether it is a [[the-secret-society-system]] instance | **yes** — second known instance, fired on stagnation in the Mystics' own bestiary, and it missed the economic consequences |
+| "The gate to the Mystics" at the council | the 04↔09 gate. Voisin reports it herself ([[the-first-meeting-of-the-realm-champions]]) |
+| The barrier question | [[the-realm-barriers]] now carries **nine** barriers, per the gate-network diagram in [[realm-nearness-and-traversal]] |
+
+### Still open, and now tracked on the notes themselves
+
+- **What the Servants' Reagent stockpile is for.** Their actual goal; nothing known.
+- **Whether the stasis can be undone**, and whether the player does it. This is what the
+  [[the-realm-champions|Realm Champions]] are travelling toward.
+- **The 03↔09 gate.** Recorded as open elsewhere, but under nine barriers it has a realm-09 barrier
+  facing realm-03; if that were broken the werebeast gargoyles would have woken. Flagged on
+  [[the-realm-barriers]].
+- Deconflicting with [[gargoyle-ninja-and-the-celestials-gate]].
+
+### Naming, deferred deliberately
+
+- **Every realm needs a name, and a realm's name is also the name of its game.** All ten are to be
+  named in one pass, **after every realm has been fleshed out completely** — not piecemeal as each
+  faction is designed. Until then `realm-NN` stands.
+- **Settled now:** the Mystics' mage tower is [[celestial-tower]], and the [[celestials]]' game will be
+  called **Celestial Tower Defence**. Watch the collision: a tower called Celestial Tower in realm-04,
+  and a realm-03 game called Celestial Tower Defence.
+
+## Superseded detail — kept only as the record of the thread
+
+
 
 The dedicated grilling happened. **Most of this handover is now compiled canon**; read the notes
 rather than the sketch below, which is kept only for the parts still open.
@@ -48,17 +86,6 @@ rather than the sketch below, which is kept only for the parts still open.
   [[mystics]]. The Guardians want to reach the Werebeasts and **have not managed it**.
 - **"The gate to the Mystics"** in [[the-first-meeting-of-the-realm-champions]] is the 04↔09 gate,
   and Voisin agrees to seal her own faction's door without knowing it.
-
-### Still open after that session
-
-- **Why realm-09's gargoyles did not wake.** Stasis (point 3) remains the candidate and remains
-  unwritten, as does whether it is reversible. This is the one that decides what the party finds.
-- **Whether [[the-graceful-servants]] are an instance of [[the-secret-society-system]]** (point 2),
-  and what balance problem they would be solving if so.
-- **The barrier question.** [[the-realm-barriers]] records three barriers (07→03, 08→04, 09→05) and
-  none on 04↔09. Whether the Werebeasts hold a fourth against the Mystics, or the harvest runs
-  through a gate with no barrier on it at all, is unresolved — see this session's open questions.
-- **Point 5** — deconflicting the Servants' thread with [[gargoyle-ninja-and-the-celestials-gate]].
 
 ## Not yet written down
 
@@ -137,14 +164,6 @@ opened.
 
 ## Next step
 
-Run a dedicated grilling session (**llm-wiki-grilling** via **grill-into-wiki**) on the three
-contradictions above first — they decide what the Werebeast gargoyles *are* when the party reaches
-them — then the route (Aliens or catacombs), the second society's specific balance target, and the
-stasis mechanic's reversal. Point 5 is half-answered: the monastery party's side is settled
-([[the-convergence-at-the-monastery]]); the Mystics' side is this handover.
-
-## Suggested skills
-
-- **grill-into-wiki** — the whole thread is interview-shaped, not research-shaped.
-- **gdd-worldbuild** — the Mystics have no game style or realm detail yet; this thread may be the
-  occasion to finally design them, per [[chapter-03]]'s existing open question.
+**None for this thread.** The remaining items above live on the notes that own them. The Mystics now
+have a game style ([[mystics-isometric-action-rpg]]), a realm with content, and a story; this handover
+can be pruned once the werebeast side of [[chapter-05]] onward is designed.

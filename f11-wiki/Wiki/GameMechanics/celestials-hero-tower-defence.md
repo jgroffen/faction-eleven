@@ -56,8 +56,11 @@ the shell's presentations ([[exploration-core-loop]]).
 - This is where story and artifacts are found, including [[the-wand]] and
   [[odie]].
 
-**The war machine:** the green-skins bring siege machinery, and the
-Templar's eventual answer is to take one, upgrade it, and turn it on its owners.
+**The war machine:** the green-skins bring siege machinery, and the Templar's answer is to take one,
+upgrade it, and turn it on its owners. **It is captured at [[templar-monastery]]**, in the battle the
+six Realm Champions fight together, and driven back down the invasion route by [[templar-will]] and
+[[knight-ermengarda]] ([[the-first-meeting-of-the-realm-champions]]) — which is the faction's turn
+from defence to offence and needs a mode this note does not yet describe.
 
 **Visitors play this style too** ([[realm-governs-game-style]]): when [[ninja-kazuma]] and [[gargoyle-granite]]
 reach the Celestials' realm in [[chapter-04]], **their gameplay swaps to this one**. "Later allies

@@ -81,6 +81,8 @@ time, which is what makes the mystery detectable at all.
 - [[the-setting-statement]] — the engine layer underneath all of it, and why nobody inside can see it.
 - [[the-lich-experiment]] — the one group of characters that can.
 - [[chapter-based-release]] — how it's intended to ship.
+- [[the-stabilisation-of-the-realms]] — how it ends: the ten protagonists stabilising the realms
+  *while* the links reopen, and the developers reading it as self-recovery.
 
 ## Chapters
 

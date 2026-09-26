@@ -40,6 +40,11 @@ its own kind, calling from somewhere else entirely.
 The trail leads out of the Institute's territory to a ruin, and to a gate nobody has guarded for a
 very long time, standing cracked. The Ninja crosses.
 
+**He takes [[the-clay-jar]] with him.** The shrine held two ancient devices and he is leaving with both —
+the bot that talks and the jar that does not. He has no idea what the jar is for; it is a family relic and
+he is not coming back soon. It matters much later, when the party needs to find the [[aliens]]
+([[chapter-06]]).
+
 On the other side is [[gargoyle-granite]].
 
 ## Why They Go

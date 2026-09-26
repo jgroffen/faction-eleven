@@ -105,6 +105,8 @@ all. Anything they say is simultaneously true and theatrical, so the player rece
 in a register that invites them to discount it. By the time it can be checked, it has been sitting in
 the player's head for chapters ([[continuity-glitches]], [[a-heal-is-a-patch]]).
 
+**The champions meet them in [[chapter-06]]**, when the Ninja's party opens a gate into [[realm-10]].
+
 **Planned gag, recorded as intent:** the **Glitch Lich** — *liches cause glitches*. Placement and
 tone are undecided, but the joke lands on something true, since the liches breaking containment is a
 real source of instability.

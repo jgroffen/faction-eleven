@@ -47,9 +47,10 @@ fill itself in.
    the player learns what a homunculus is by sitting at a table with several.
 3. **Walk out into the village.** Other Mystics, other cottages, Reagent vendors. The above-world
    of [[realm-04]] is friendly and this is the beat that establishes it.
-4. **Go adventuring in a cave.** The routine trip every Mystic makes, for the Reagents magic
-   crafting runs on. The tutorial for the isometric action RPG, and the place the player first
-   dies — and first sees a homunculus walk out from home to reconstitute her.
+4. **Go adventuring in a cave.** The routine trip every Mystic makes, for the Reagents all Mystic gear
+   is made from. The tutorial for the isometric action RPG, and the place the player first dies — and
+   first sees a standby homunculus come and put her back together where she fell. It is also the cave
+   the wand goes off in ([[the-answering-of-the-wand]]).
 
 ## Rewards
 
@@ -68,18 +69,17 @@ it reads as a game being linear about its protagonist. Re-read later it is evide
 [[the-diagnosis-of-the-last-gargoyle]], the chapter's opening beat. Chapter four therefore opens
 and re-opens on the seams, in two different factions, without either scene explaining the other.
 
-**Fast travel is taught at the moment it matters.** The wand calls at the bottom of a cave
-([[the-answering-of-the-wand]]) — the furthest from home the player has been — and the answer is to
-de-constitute into a homunculus and be back in the village at once.
+**Fast travel and death are taught in the same cave.** The standby homunculus that reconstitutes her
+where she falls, and the one she de-constitutes into to get home, are the same creatures she had
+breakfast with ([[mystics-isometric-action-rpg]]).
 
 ## Open
 
 - **The village has no name**, and neither does the cave. [[realm-04]] itself has no name its own
   people use — "Realm 04" is the Ancients' catalogue number.
-- Whether the player names the character, or "Voisin" is filled in like everything else.
 - What the rest of the starting-bonus list contains, and whether the player can read it before it
   chooses for them.
-- Whether any player could plausibly *not* notice — the beat only works if a first-time player
-  reads it as linearity rather than as a bug report.
-- Whether other factions get a creation screen at all. If only the Mystics do, that asymmetry needs
-  a reason.
+- Whether any player could plausibly *not* notice — the beat only works if a first-time player reads it
+  as linearity rather than as a bug report, and there is no other creation screen in the game to compare
+  it against.
+- Whether the player names the character, or "Voisin" is filled in like everything else.

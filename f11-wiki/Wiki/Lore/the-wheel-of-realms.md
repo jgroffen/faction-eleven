@@ -76,7 +76,7 @@ story.
 
 The ring describes the *old* alignments. Several present-day facts sit against them:
 
-- The [[celestials]] (03) are attacked by the [[green-skins]] (07) and the [[werebeasts]] (09) —
+- The [[celestials]] (03) are attacked by the [[green-skins]] (07) and [[the-damned]] (08) —
   but the Celestials' historic enemy by position is [[the-damned]] (08). Both attackers sit four
   places away: far, but not opposite — this holds regardless of which of the two occupies 07 or 09,
   since both are equidistant from 03. **The 03–07 gate is load-bearing**: it is the first leg of the

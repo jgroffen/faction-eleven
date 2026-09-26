@@ -2550,3 +2550,437 @@ Templar's wand?**
   chapter as Mifix's glitch.
 - **The wand speaks through the homunculi.** They are not only death-return and fast-travel; they
   are the Conjurer's voice-interface to an object that cannot otherwise talk.
+
+### Round 58 — 2026-09-26
+
+**Q(mystic-7) — If Reagents power actions, what is Magic for?**
+
+> The actions almost always use reagents if the action is magical in nature. There is always basic
+> actions and possibly other actions that don't use reagents, but all actions cost some mana which
+> regenerates, and usually cost a small amount of reagents. Crafting magical items consumes a large
+> number of reagants.
+
+**Q(mystic-8) — Reagents are money and ammunition. Is the squeeze the point?**
+
+> The 'harvest' is intentional - beings with a magical nature yield much more reagent than usual.
+> It's another example of how linking the realms led to game imbalance. Within the mystics game you
+> would only be clearing monsters, slowly building strength and clearing progressively harder
+> dungeons until the end-game. With the realms getting linked there were many magic-imbued beings
+> and once some Mystics players and NPC's discovered this they abused the mechanic and invaded other
+> realms, especially the werebeasts realm as 'harvesting' from a werebeast produced an inordinate
+> amount of reagent. The Voisin gameplay doesn't have the player attacking the werebeasts - I think
+> I'll tighten up the story around this which may cause a change - not all Mystics have access to
+> harvest Werebeasts, and it's not common knowledge that the gate to the Werebeasts realm is open,
+> but when sneaking through the Graceful Servants' tower to get to the Celestial realm Voisin
+> discovers this. Voisin knows what this means - the fact that the Mystics used to harvest the
+> Werebeasts is known through recorded Mystics history, but the historical record is skewed to treat
+> the werebeasts as the aggressors when they weren't.
+
+**Q(mystic-9) — Isometric is a third presentation and the shell only has two.**
+
+> The shell's claim is wrong. Reusing engines is the goal but there will need to be more than two,
+> maybe more than three. It's simple isometric view - 2D graphics - think Vampire Survivors not
+> Diablo 3 with a 3D engine.
+
+**Q(mystic-10) — What does the Mystic skill tree borrow from the Robot one?**
+
+> Yes borrow the shape, but skills have a level requirement, are purchased with reagents, and are
+> considerably expesnive. Every class has a unique branch of the class tree. Drop the 'ACCESS
+> DENIED' detail from the Mystics skill tree - it's related to the Robot realm only.
+
+**Q(mystic-11) — What pulls you into a cave, if gear is vendor-only?**
+
+> Reagents are used to buy gear - one currency for everything. Gear is very expensive and impactful
+> to gameplay. The reason to be pulled to different places is increasing costs of skills and gear
+> occur at rapid scaling.
+
+**Q(mystic-12) — Nothing in realm-04 has a name.**
+
+> I think every realm needs a name - The name of the realm should also be the name of the game. Lets
+> hand over naming all the games and realms to after every realm has been fleshed out completely.
+> Lets name the tower 'Celestial Tower' as the gate to the celestials is known to be there. Also,
+> include in the handover that we'll name the Celestials game 'Celestial Tower Defence'
+
+## Notes For The Compiler — Round 58
+
+- **Reagents are the single currency**: gear, skills and crafting all cost them, and costs scale
+  rapidly. Magic is a separate regenerating pool that *every* action spends. Magical actions spend a
+  small amount of Reagents on top. Crafting spends a lot.
+- **The harvest is a diegetic balance exploit, and it is the Mystics' version of the theme the whole
+  game runs on.** Magically-natured beings yield far more Reagent. That only became exploitable when
+  the realms were linked ([[the-linking-of-the-realms]]); werebeasts yield an inordinate amount.
+  Recorded as [[the-harvesting-of-the-werebeasts]].
+- **Voisin learns it in the tower, and the player never harvests a werebeast.** This replaces the
+  earlier framing in which she walks past a Werebeast gate without understanding it. She discovers
+  in the tower that the gate is open and in use — not common knowledge, and not available to most
+  Mystics — and she knows what it means, because the *old* harvest is in the Mystics' own histories.
+- **The Mystics' historical record is skewed.** It treats the werebeasts as the aggressors in
+  [[the-war-of-the-six-realms]]; they were not. This is [[continuity-glitches]]' stated rule showing
+  up as ordinary propaganda: a realm's account of itself, airtight from inside, contradicting the
+  realm next door.
+- **She therefore knows what she is agreeing to at the council.** The earlier compiled claim that
+  she does not know her faction opened the 04↔09 gate is **wrong and retired**. She knows, and says
+  nothing.
+- **The shell has more than two presentations.** `exploration-core-loop`'s
+  platforming/top-down claim is retired. Isometric is **2D, simple** — Vampire Survivors, not
+  Diablo 3. Recorded as a decision.
+- **Skill purchase contradicts Round 56.** Round 56 said "unlock skills using skillpoints they get
+  per level"; Round 58 says skills have a level requirement and are **bought with Reagents**. Taken
+  as: level gates availability, Reagents pay, no skill-point currency. Flagged for confirmation.
+- **Naming is deferred wholesale.** Every realm needs a name and **the realm's name is also the
+  game's name**; all ten are to be named once every realm is fleshed out. Settled now: the mage
+  tower is **Celestial Tower**, and the Celestials' game will be **Celestial Tower Defence**.
+
+### Round 59 — 2026-09-26
+
+**Corrections to the compiled notes, volunteered on review.**
+
+> - Voisin discovers that the werebeasts gate is open by overhearing it when in the Celestial Tower.
+>   It is common knowledge in the mystics realm that the Mystics used to harvest reagents from
+>   creatures of other realms when the realms were linked. Voisin concludes that the people in the
+>   tower must be harvesting reagents from the Werebeasts. The mystics falsely believe the Werebeasts
+>   were the aggressors because there knowledge is based on the Mystics' own written history - which
+>   was biaised.
+> - The wiki is implying that the Mystic -> Werebeast gate has been open a long time. This is not
+>   true - Coruscate used her red power recently to unseal the gate. Other powerful mystics that are
+>   members of the Graceful Servants worked with Coruscate to sneak past the Gargoyle barrier and
+>   cast the stasis spell on the Gargoyles of the Werebeasts realm. This takes unique, powerful gear
+>   as well as high level Mystics with particular faction-class skills. The Graceful Servants are
+>   stockpiling massive amounts of reagent for a mysterious, dangerous purpose.
+> - The servants are a secret society - their existence is generally unknown. Voisin was not aware of
+>   them. Voisin only becomes aware of the harvesting when she moves through the Celestial Tower. She
+>   doesn't trust werebeasts but thinks the harvesting is immoral.
+> - I keep seeing comments like 'the earlier claim that exactly two presentations ...' - which is
+>   breaking hard rule 7. I don't care how many presentations we end up with - I will ensure it's kept
+>   to the minimum needed and reuse where possible, and a short decision on that is all that's needed.
+> - There are no skill points in the Mystic game - that was an earlier idea and is OBE.
+
+**Q(mystic-13) — Do the Werebeast gargoyles need stasis at all, given no barrier is recorded on
+04↔09?**
+
+> I believe there is a gargoyle barrier ... I updated Wiki/GameMechanics/realm-gate-network.svg with
+> accurate details on the realm linkages, please review and apply.
+
+**Q(mystic-14) — Do realms have players?**
+
+> There are but it's not something that will be addressed in the fiction or apparent through the
+> game. I can't avoid the fact that a Game dev company has games that are played by players but It's
+> not going to be relevant to gameplay. It may come through in the glitches but won't be something to
+> focus on.
+
+**Q(mystic-15) — Does Voisin tell anyone, and when?**
+
+> It's A and C - She reveals what she knows to the Templar and at Will's prompting she discloses
+> everything she knows to the council. She even reveals her belief that their motive is to harvest
+> the werebeasts and she overheard that they are stockpiling reagant. Granite the Gargoyle states
+> that if they have breached the Werebeast realm then the Werebeast gargoyles' barrier must have been
+> breached which would have awoken the gargoyles. No-one at the council knows for sure but Voisin
+> voices that she believes the incursion can't be large scale, and powerful mystics could sneak small
+> parties past the barrier.
+
+**Q(mystic-16) — Are the Graceful Servants an instance of the Secret Society System?**
+
+> Hrmmm ... great question. My thinking was it is an example of the secret society system - I'm going
+> with B. The system justification would be the enemies in the mystics game is the point of
+> stagnation - the society system has missed the game-imbalancing consequences.
+
+**Q(mystic-17) — Does the green-skin hole in the Mystic underworld survive?**
+
+> agree - retire it.
+
+## Notes For The Compiler — Round 59
+
+- **Coruscate is female.** Her gender was fabricated as male in the compiled note; corrected.
+- **The gate network diagram is authoritative.** `Wiki/GameMechanics/realm-gate-network.svg` now
+  classifies all fifteen enemy gates: six plain (1-5, 1-6, 2-6, 4-10, 5-10, 6-10), three
+  gargoyle-guarded (1-7, 2-7, 2-8), and six gargoyle-guarded **old-war** gates (3-7, 3-8, 3-9, 4-8,
+  4-9, 5-9). The gate *topology* is unchanged; what changes is that **nine** enemy gates carry
+  gargoyles, not three. Every enemy gate into [[realm-07]], [[realm-08]] or [[realm-09]] is guarded.
+- **The harvest is recent and difficult.** Coruscate unsealed the 04↔09 gate lately; Servants **snuck
+  past** the intact barrier — not breaking it, which is why nothing rang — and cast **stasis** on the
+  werebeast gargoyles. It needs unique powerful gear and high-level Mystics with particular
+  faction-class skills, so it cannot be done at scale.
+- **The Servants are stockpiling Reagent for a mysterious, dangerous purpose.** Unstated.
+- **Voisin infers rather than discovers.** She overhears; the historical harvest is common knowledge
+  in realm-04; she concludes the tower is harvesting werebeasts. She had never heard of the Servants.
+  She distrusts werebeasts and thinks the harvest is immoral anyway.
+- **She tells Will, then the council.** At Will's prompting she discloses everything, including the
+  stockpiling. Granite objects that a breached werebeast barrier would have woken the gargoyles;
+  nobody knows; Voisin argues the incursion must be small parties sneaking past.
+- **The Servants are a [[the-secret-society-system]] instance.** Stagnation target: **the enemies in
+  the Mystics' game**. The system missed the game-imbalancing consequences of its own fix.
+- **Retire** the green-skins' open connection in the Mystic underworld.
+- **Rule 7**: compiled notes must not narrate what the wiki used to say. Several such lines were
+  introduced in rounds 57-58 and are removed.
+
+### Round 60 — 2026-09-26
+
+**Q(mystic-18) — The 03↔09 gate contradicts the nine-barrier scheme.**
+
+> It's C - The werebeasts to Celestials gate should be closed.
+
+**Q(mystic-19) — Four sources of gear and nothing distinguishes them.**
+
+> What you are proposing is a little too complicated. There is only gear and from a story perspective
+> it's always crafted by mystics using reagents. Crafting is not player mechanic - they are crafted by
+> vendors or NPC's. The unique powerful gear was crafted the same way, but by high level and often
+> historically significant charactes, and held by powerful NPC's or rumored to be somewhere in the
+> world.
+
+**Q(mystic-20) — Stealth in a game with no stealth verbs.**
+
+> I like C - the player controls the homunculi throughout that portion. If caught then that homunculi
+> is destroyed but the player can send another one - I like the play pattern.
+
+**Q(mystic-21) — What is the stockpile for, now or later?**
+
+> yes defer it. The council can discuss it - Voisin would be asked what that amount of reagent could
+> be used for and Voisin suggests maybe crafting a very powerful artifact or supplying an army of
+> Mystics to fight a protracted war without slowdowns to resupply.
+
+**Q(mystic-22) — Does the skill tree have a shared trunk?**
+
+> They share a root and two branches, the third branch is unique per faction class.
+
+**Q(mystic-23) — Celestial Tower vs Celestial Tower Defence.**
+
+> I think keep the pun. The mystics have pretty good knowledge of what gates exist and each one has a
+> clear location in the mystics realm - we'll work out the details only when we need to.
+
+## Notes For The Compiler — Round 60
+
+- **The 03↔09 gate is closed.** The werebeasts must therefore reach [[realm-03]] another way; the
+  established road is through their ring-allies and out through the broken 07↔03 barrier, exactly as
+  [[the-damned]] do.
+- **This changes how the Realm Champions get to [[realm-09]]** — an inference worth flagging rather
+  than burying: realm-03's only open outward gates are 03↔07 (hostile, broken barrier) and **04↔03**,
+  [[coruscate]]'s, inside [[celestial-tower]]. And realm-04's open gate onward is **04↔09**, the
+  harvest route. So the party's road to the Werebeast gargoyles runs **through the Mystics, through the
+  Servants' tower, and through the very gate the council has just resolved to seal**.
+- **Gear is one category.** All Mystic gear is crafted by Mystics from Reagents, **by vendors and
+  NPCs — never by the player**. Gear being expensive *is* the crafting cost. Unique powerful gear was
+  crafted the same way by high-level and often historically significant Mystics, and is **held by
+  powerful NPCs or rumoured to be somewhere in the world**.
+- **The tower is played as the homunculi.** The player controls them for that section. A homunculus
+  that is caught is **destroyed**, and another can be sent.
+- **The stockpile is discussed at the council, not explained.** Asked what that much Reagent could be
+  for, Voisin offers two guesses: **a very powerful artifact**, or **supplying an army of Mystics
+  through a protracted war with no resupply pauses**.
+- **Skill tree:** a shared **root**, **two shared branches**, and a **third branch unique to each
+  faction class**.
+- **The Mystics know their gate geography.** Which gates exist and where each one is in [[realm-04]] is
+  ordinary Mystic knowledge; what is secret is that two of them have been **unsealed**. Specific
+  locations to be worked out when needed.
+
+### Round 61 — 2026-09-26
+
+**Q(mystic-24) — Confirm the road to realm-09 runs through the Mystics.**
+
+> agree - and to lock it in that Knight Ermengarda convinces Will to join her in taking the war
+> machine back the way it came, recovering territory and liberating towns including Oluja Town.
+
+**Q(mystic-25) — Does realm-04 keep playing after Voisin leaves?**
+
+> agree - no fast travel across realms using homuculi.
+
+**Q(mystic-26) — What is on the two shared skill branches?**
+
+> defer this until we are closer to implementing the mystics gameplay. Include in the defer notes that
+> one branch will be 'spells' for common attacks and abilities, and another will be 'body' for
+> increasing magic pool, health pool, basic healing and damage resistances, movement speed, and other
+> things I can hopefully think of.
+
+**Q(mystic-27) — What is the Reagent-free / basic kit?**
+
+> four different, simple wand attacks, with different damage types, a simple heal spell, a dash spell,
+> a summon homunculi spell.
+
+**Q(mystic-28) — Homunculi as a spendable resource: what numbers?**
+
+> Start with a pool of one. Purchasing more of the summon homunculi skills increases the number of
+> homunculi the conjurer can have on stand-by, up to a limit, lets say six. Whenever the player dies a
+> homunculi will come and restore them where they died and the player doesn't have to return to the
+> cottage. If it's the last homunculi then the last one will collect gear and return to the cottage.
+> Once reconstituted the standby homunculi are automatically replenished by the reconstituted mystic.
+
+**Q(mystic-29) — Are caves / caverns / dungeons / underworld a tier ladder?**
+
+> no clear latter please, we'll work it out closer to development of the mystics gameplay. It could be
+> ruins, castles, or more. No need to lock it in yet.
+
+## Notes For The Compiler — Round 61
+
+- **The party's road to [[realm-09]] is settled**: through [[realm-04]], by [[celestial-tower]]'s gate
+  and then the harvest gate. No longer an inference.
+- **[[templar-will]] does not go with them.** [[knight-ermengarda]] convinces him to **take the war
+  machine back the way it came**, recovering territory and liberating towns including
+  [[oluja-town]]. This settles three standing open questions at once: the machine is **captured, not
+  destroyed**; what the Templar does while the party seeks a gargoyle; and which chapter Ermengarda's
+  liberation of Oluja Town falls in.
+- **Homunculus fast travel does not cross realms.** [[realm-04]] stays live while Voisin is abroad
+  because she can jump home *within* her realm; leaving it needs a gate like anyone else.
+- **Skill tree branch contents are deferred** to near implementation. Named so far: a **spells** branch
+  (common attacks and abilities) and a **body** branch (magic pool, health pool, basic healing, damage
+  resistances, movement speed, more TBD). The third branch is the faction class's own.
+- **The basic kit**: four simple wand attacks with **different damage types**, a simple **heal**, a
+  **dash**, and a **summon homunculi** spell.
+- **The homunculus pool is the death mechanic.** Start at **one**; summon-homunculi skills raise the
+  standby cap toward **six**. On death a standby homunculus **restores her where she fell** — no walk
+  home. On the **last** one, that homunculus **collects her gear and returns to the cottage**, and she
+  is reconstituted there; the standby pool then **replenishes automatically**.
+- **No tier ladder for realm-04's underground.** Caves, caverns, dungeons — and possibly ruins,
+  castles or more — with no progression structure locked in yet.
+
+### Round 62 — 2026-09-27
+
+**Correction — the route out of the cave, and realm-04's gate geography.**
+
+> Chapter 4 note states the wand routes Voisin 'past an unexplained gate to the werebeasts' - this is
+> not correct and I don't know where this came from. Voisin is in a cave when her wand receives the
+> signal from it's celestial counterpart and leads Voisin out of the cave to the Celestial Tower. Lets
+> simplify things: in the Mystics realm the location of the gates to other realms is well known -
+> allied gates have a structure built around them like a tower or castle. Enemy gates are underground
+> in caves for the green skins, caverns for the werebeasts, and catacombs for the Damned. Voisin knows
+> roughly the way to each gate's location. It may take some searching through the caverns but Voisin
+> will know which caverns - the one that is still called the Werebeast Caverns. The Graceful Servants
+> will be guarding it, and wagons with reagents will be shipping the reagent to the Graceful Servants'
+> stockpile.
+
+**Q(mystic-30) — Does any faction but the Mystics get a character-creation screen?**
+
+> so far only the mystics - probably the only game to have it.
+
+**Q(mystic-31) — Who is Voisin?**
+
+> her destiny comes from the regular Mystics game - she levels up until she is powerful enough to
+> defeat the mystics end-boss - I haven't settled on what that is yet and will defer it until closer to
+> developing the mystics game. She is diverted from the normal gameplay initially without much
+> explanation except her wand has led her to support an ancient ally to the mystics. She believes the
+> propaganda that the werebeasts were invaders and messing with them is dangerous - also stockpiling
+> that much reagent seems very dangerous to Voisin too - she is worried about what the Graceful
+> Servants are up to and doesn't like that they are inviting risk of renewing war with the enemy realms
+> by running incursions into an enemy realm. Finally, she wants to know more about why the gate to the
+> celestial realm was even open - she assumes the Graceful Servants have unsealed the way to the
+> Celestial realm but she doesn't know why, and wants to find out.
+
+**Q(mystic-32) — Does her economy travel with her?**
+
+> her gameplay changes to suit the realm. She can't harvest outside of the mystics realm - this also
+> means the Graceful Servants must be harvesting werebeasts while they are in the mystics realm. Here
+> power level in other realms matches roughly her level in the mystics realm and progression in other
+> realms does translate to progression when she returns to the mystics realm. This is true for all
+> protagonists ... and will be a challenge to develop.
+
+**Q(mystic-33) — Does the Mystic thread continue past chapter five?**
+
+> They aren't walked past - The champions must get through the Celestial tower guarded by the Graceful
+> Servants, and then get through the gate to the Werebeast realm, also under the control of the
+> Graceful Servants. Getting the werebeast gargoyles involved is a direct act against the goals of the
+> Graceful Servants, all of this progresses the mystics story. Chapter 5 will also include the
+> Werebeast realm gameplay. Chapter 6 is when the champions will meet the werebeast protagonist who
+> will ultimately also join the champtions. Chapter 6 is also when the champtions will discover that
+> the Werebeasts' Gargoyles are in stasis and they will need to decide what their next move is. Some
+> will decide to work against Val and the Guardians of Night while others decide to investigate the
+> Graceful Servants further to find out what they are up to and if the statis on the Werebeast
+> gargoyles can be reversed. The ninja and Mifix are trying to get to the Robot realm still - and
+> Delahaye wants to get to the Pirate realm. They will consider their options and likely split into two
+> parties - The Ninja will have the alien egg with him (may need to update that he takes the egg with
+> him before leaving to follow the signal Mifix receives) and could try to find the way to the Alien
+> realm - if they can find the gate then the ninja should be able to open it. The wraith would agree to
+> this as the Alien realm has a pathway to the Pirate realm as well. The gargoyle would leave with
+> Voisin and the werebeast protagonist to work towards freeing the Werebeast gargoyles. They decide
+> that working against Val directly will have to wait, but once the gargoyles are freed Granite will go
+> to them and see if working against the Guardians of Night is what the Gargoyles should do. Chapter 6
+> will include Alien realm gameplay and will involve discovering the Glitch Liches.
+
+## Notes For The Compiler — Round 62
+
+- **Realm-04's gate geography is a pattern.** Gate locations are **well known**. **Allied gates have a
+  structure built around them** — a tower or castle. **Enemy gates are underground**: caverns for the
+  [[werebeasts]], catacombs for [[the-damned]]. Voisin knows roughly the way to each.
+- **⚠ Contradiction to resolve:** the third underground gate was given as **"caves for the green
+  skins"**, but realm-04 has **no gate to [[realm-07]]** — green-skins sit at ring-distance three,
+  where the network has nothing ([[realm-nearness-and-traversal]]). Realm-04's three enemy gates are
+  08, 09 and **10 ([[aliens]])**. Recorded as **Aliens** pending confirmation, since the pattern needs
+  three underground gates and the Aliens are the third enemy.
+- **The Werebeast Caverns keep their name.** The place is still called that, which is how Voisin knows
+  where to look. [[the-graceful-servants]] guard it, and **wagons of Reagent run from it to the
+  stockpile** — visible logistics, not a rumour.
+- **Harvesting only works inside the Mystic realm**, so **the Servants bring werebeasts back through the
+  gate and harvest them in realm-04.** The incursions are captures.
+- **Voisin's route is simpler**: she is in a **cave**; the wand receives its counterpart's signal and
+  leads her **out of the cave to [[celestial-tower]]**. She does not pass a werebeast gate.
+- **Character creation: Mystics only**, and probably the only game in the ten to have one.
+- **Voisin's destiny is the ordinary Mystic game** — level up until strong enough to beat the Mystics'
+  end-boss, which is deferred. She is diverted from it with little explanation beyond the wand leading
+  her to support an ancient ally. Her objections to the Servants are **risk-shaped**: she believes the
+  propaganda that the werebeasts were invaders and that meddling with them is dangerous; the size of the
+  stockpile frightens her; and she does not like that incursions into an enemy realm risk **renewing the
+  war**. She also wants to know **why the Celestial gate was unsealed at all**.
+- **Cross-realm progression, for every protagonist:** gameplay changes to suit the host realm; power
+  level abroad roughly matches level at home; progression abroad **translates back**; and faction
+  abilities tied to a realm (harvesting) **do not work outside it**. Noted as a development challenge.
+- **Chapters 5 and 6 are now outlined.** Chapter 5 adds **Werebeast realm gameplay** and makes the
+  Servants an active obstacle twice over (the tower, then the caverns). Chapter 6: the champions meet
+  the werebeast protagonist, who joins them; they discover the gargoyles are **in stasis**; they split
+  into two parties; **Alien realm gameplay**; and they discover the **Glitch Liches** ([[the-void]]).
+- **The Ninja takes the alien egg with him** ([[the-clay-jar]]) when he leaves to follow Mifix's signal —
+  needs adding to the earlier chapters.
+
+### Round 63 — 2026-09-27
+
+**Correction — the werebeasts are not at war.**
+
+> I need to correct the statement that the werebeasts are invading other realms in the present time of
+> the game. they arent.
+
+**Q(mystic-34) — The third underground gate is the Aliens', not the green-skins'.**
+
+> agree.
+
+**Q(mystic-35) — Chapter five is overloaded; end it at the gate and push the Aliens to chapter seven.**
+
+> agree
+
+**Q(mystic-36) — When does the player actually play the Mystic game?**
+
+> agree but the end boss fight and concluding the original gameplay of any of the realms is not
+> required for the Faction-eleven game - the finale of the game will involve the protagonists from all
+> realms working together to stabilise the realms, eliminating the glitches - even though the links
+> between realms are reopening. The actions of the protagonists will show the devs there is a better way
+> and that they can work together and lean on each others' strengths to resolve the issues with their
+> games instead of restarting from scratch. Another thread of this end-story is the games will appear to
+> the devs that they have have self-stabilised and they should be allowed continue to exist and be
+> supported. The end-game is very rough at the moment, but there won't be a need to 'complete' each
+> individual game for the factions-eleven game to be complete.
+
+**Q(mystic-37) — Does the player choose the chapter-six split?**
+
+> the player does not choose. They play both.
+
+**Q(mystic-38) — Do the Werebeasts and Aliens get sessions of their own?**
+
+> agree, and so will the fey, and the pirates need story. Hand these over to later sessions.
+
+## Notes For The Compiler — Round 63
+
+- **The [[werebeasts]] are not invading anyone in the present.** Every compiled claim that they attack
+  the [[celestials]] is retired. This resolves cleanly against what is already on record: the
+  [[the-guardians-of-night|Guardians]] **wanted** to bring them into the war and **could not reach
+  them**; realm-09's gate to [[realm-03]] is **closed**; and its gargoyles are in **stasis**. The
+  werebeasts are the one realm in the old alliance that is not fighting — and the one being robbed.
+- **Chapters resequence again.** [[chapter-05]] ends as the champions step through the harvest gate.
+  [[chapter-06]] is [[realm-09]] — [[werewolf-gill]], the stasis, the argument, the split. The
+  [[aliens]] and the Glitch Liches move to a new **chapter seven**.
+- **The player does not choose the split. They play both parties.**
+- **THE ENDING.** Recorded as [[the-stabilisation-of-the-realms]], rough by the author's own account:
+  the protagonists of all ten realms work together to **stabilise the realms and eliminate the
+  glitches**, *while the links between realms are reopening rather than being closed again*. Their
+  actions **show the four developers a better way** — that they can work together and lean on each
+  other's strengths to fix their games **instead of restarting from scratch**. A second thread: to the
+  devs the games **appear to have self-stabilised**, and therefore deserve to be allowed to exist and be
+  supported.
+- **No realm's own game has to be completed** for Faction Eleven to be complete. The Mystics' end-boss,
+  and every other realm's, is optional content rather than a gate on the main story.
+- **Later sessions needed** for the [[werebeasts]] (first, and blocking), the [[fey-folk]], and the
+  [[pirates]] (who have a style but no story).

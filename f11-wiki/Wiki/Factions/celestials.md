@@ -22,7 +22,7 @@ enemies:
 # The Celestials
 
 A besieged holy order defending a castle. Their realm has gates standing **open** to both the
-[[green-skins]] and the [[werebeasts]], and they are under attack from both at once.
+[[green-skins]] and [[the-damned]], and they are under attack from both at once.
 
 **Homeland:** [[realm-03]] — see [[the-wheel-of-realms]]
 
@@ -43,7 +43,9 @@ The only faction in the material fighting a **two-front war**, and the clearest 
 realm gates are not uniformly sealed — the disconnection is uneven.
 
 - [[green-skins]] — attack relentlessly, many small units with occasional war machines.
-- [[werebeasts]] — attack less frequently, with fewer, very buff units.
+- [[werebeasts]] — **not an attacker.** Their gate to [[realm-03]] is closed and they are not in the
+  present war ([[werebeasts]]); the [[the-guardians-of-night|Guardians]] meant to bring them in and
+  could not reach them.
 - [[the-damned]] — **in the waves at [[templar-monastery]]** ([[the-stand-at-the-monastery]]),
   arriving **through the [[green-skins]]' realm** rather than through any gate of their own:
   [[val]] unsealed [[realm-08]]'s allied gate to [[realm-07]], and [[realm-07]]'s gate into this

@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-08-12
-updated: 2026-09-22
+updated: 2026-09-25
 sources:
   - Raw/Sources/interviews/faction-eleven-lore-and-design.md
 source_count: 1
@@ -24,112 +24,115 @@ quests:
   - the-diagnosis-of-the-last-gargoyle
   - the-shadowing-of-the-ninja
   - the-ambush-on-the-road
+  - the-ordinary-day-of-the-conjurer
   - the-answering-of-the-wand
   - the-convergence-at-the-monastery
-  - the-first-meeting-of-the-realm-champions
 ---
 
 # Chapter 4 — The Convergence
 
-**Provisional.** Opens on [[gargoyle-granite]]'s doubt and [[mifix]]'s glitch, follows the party
-out of [[realm-07]] with a ghost on its trail, introduces the [[mystics]]' gameplay as
-[[conjurer-voisin]] answers [[the-wand]], and ends with [[ninja-kazuma]], [[mifix]], the Gargoyle
-**and [[wraith-delahaye]] reaching [[templar-will]] and the Conjurer** — the council where the
-Templar names them [[the-realm-champions|Realm Champions]] and they decide to seek out a
-[[werebeasts|Werebeast]] gargoyle ([[the-first-meeting-of-the-realm-champions]]).
+The [[mystics]] arrive — as a faction, a realm and a genre, all at once. The chapter opens on
+[[gargoyle-granite]]'s doubt and [[mifix]]'s glitch, follows the party out of [[realm-07]] with a
+ghost on its trail, then hands the player a character-creation screen that fills itself in and a
+quiet village to wake up in. [[conjurer-voisin]] is led out of her own realm by a relic she did not
+choose, past a door her faction should not have, and into a monastery under siege. She fights a
+final wave; the Ninja, Mifix, the Gargoyle and the Wraith walk in at the end of it; and the war
+machine arrives.
 
-**Status:** outline · **Lead faction:** [[mystics]] — **inference, not established**
+**Status:** outline · **Lead faction:** [[mystics]]
 
 ## Why This Chapter Exists
 
-The Ninja–Mifix–Gargoyle arrival at the Templar is a **chapter culmination**, and the Mystics'
-protagonist reaching and supporting the Templar should culminate in the same chapter. Rather than
-loading both into an earlier chapter, the Mystics' gameplay and the arrivals sit here together —
-and the road between the trial and the monastery is where the Damned's protagonist stops being
-unseen.
+It is the Mystics' chapter. Everything else in it is travelling toward one room.
 
-This restructure is **not settled**.
+The chapter used to carry the council as well, and the war machine's arrival used to sit at the end
+of [[chapter-03]]. Both moved: the machine is only **sighted** at chapter three's close and spends
+this chapter walking, and the council is now the second beat of [[chapter-05]]. That leaves this
+chapter with one job it can actually do — introduce a whole faction — and gives the council a
+better place to stand, after the room has fought together.
 
 ## Story
 
-1. **[[the-diagnosis-of-the-last-gargoyle]]** — the chapter's opening. [[gargoyle-granite]] tells [[ninja-kazuma]]
-   and [[mifix]] he may be malfunctioning and cannot tell. Mifix cannot fix him but offers to
-   diagnose him; the attempt fails and glitches Mifix ([[continuity-glitches]]).
+1. **[[the-diagnosis-of-the-last-gargoyle]]** — the opening. [[gargoyle-granite]] tells
+   [[ninja-kazuma]] and [[mifix]] he may be malfunctioning and cannot tell. Mifix cannot fix him but
+   offers to diagnose him; the attempt fails and glitches Mifix ([[continuity-glitches]]).
 2. **[[the-shadowing-of-the-ninja]]** — on the road out of [[realm-07]], [[wraith-delahaye]]
    follows the Ninja as her way to [[realm-01]] and so to [[realm-06]], sneaking his camps in
-   **wraith minigames** to learn who these people are — and learning that the Ninja has never
-   heard of the Pirates.
+   **wraith minigames** — and learning that the Ninja has never heard of the Pirates.
 3. **[[the-ambush-on-the-road]]** — [[val]]'s assassins come to kill the Ninja, destroy the
    Gargoyle and capture Mifix; one is a wraith. Delahaye sees it coming, thwarts it, reveals
    herself, and is invited to travel with them — as long as it doesn't interfere with their
    missions.
-4. **[[the-answering-of-the-wand]]** — the [[mystics]]' realm and gameplay are introduced —
-   **undesigned**, and the subject of a dedicated session. [[conjurer-voisin]] answers the wand and is the
-   first to reach [[templar-will]]. Together they work out that the Templar's relics are links to ancient
-   allies and a way to call for help ([[allied-faction-signals]]).
-5. **[[the-convergence-at-the-monastery]]** — the Ninja, Mifix, the Gargoyle and the Wraith
-   arrive. [[mifix]] meets [[odie]]; the Robot Realm's lost history can be recovered, along with
-   hints toward the `ACCESS DENIED` branch of [[autofix-skill-tree]]; Odie names what the Ninja is.
-6. **[[the-first-meeting-of-the-realm-champions]]** — the chapter's ending. The Templar names the
-   room; the three want to reach the [[robots]], nobody present knows where the gate is, and the
-   party settles on finding a Werebeast gargoyle — for the gate's location, for the Gargoyle's
-   answer, to seal the gate to the Mystics, and to warn them about [[val]]. Delahaye asks why she
-   should go the wrong way round the wheel, and the Gargoyle tells her: the Robot realm is one of
-   the Pirate realm's five doors, and the Ninja can open doors.
+4. **[[the-ordinary-day-of-the-conjurer]]** — the Mystics' introduction. A character-creation
+   screen that refuses every class but Conjurer and picks "Ancient Relic" by itself; breakfast with
+   the homunculi; the village; a cave. The realm, the genre and the economy in one ordinary day.
+5. **[[the-answering-of-the-wand]]** — the relic wakes at the bottom of a cave and starts leading
+   her, **talking through the homunculi**. The route runs past a **gate to the [[werebeasts]]** —
+   [[coruscate]]'s, and the harvest's — and on to the **04↔03 gate inside a mage tower** held by
+   [[the-graceful-servants]]. Voisin sneaks in and crosses to [[realm-03]].
+6. **[[the-convergence-at-the-monastery]]** — she reaches [[templar-will]] first, agrees to support
+   the defence, and **fights a final wave as a hero unit, to great effect**. Together they work out
+   what the relics are ([[allied-faction-signals]]). **At the end of that wave the Ninja, Mifix, the
+   Gargoyle and the Wraith arrive.**
+7. **The machine arrives.** The chapter's ending, and the opening of [[chapter-05]].
 
 ## Faction Balance
 
 | Faction | Form | Game style | What they do |
 |---------|------|-----------|--------------|
-| [[mystics]] | **lead** (inferred) | ❌ **none designed** | introduced; [[conjurer-voisin]] answers [[the-wand]] and reaches the Templar first |
-| [[celestials]] | major | [[celestials-hero-tower-defence]] ✅ | hold the monastery; receive the allies they retreated to find; work out what their relics are |
+| [[mystics]] | **lead** | ❌ **isometric action RPG — settled as a style, not yet designed** | the whole faction introduced: realm, village, caves, Reagents, homunculi; Voisin crosses to realm-03 and fights |
+| [[celestials]] | major | [[celestials-hero-tower-defence]] ✅ | hold the monastery with the machine closing; take their first foreign hero unit; work out what their relics are |
 | [[institute-of-eight]] | travelling | [[ninja-rhythm-platforming]] ✅ | arrive with [[mifix]], who glitches on the way |
-| [[green-skins]] | travelling | [[gargoyle-stone-metroidvania]] ✅ (home realm only) | [[gargoyle-granite]] voices his doubt, arrives with the Ninja, and gets his reason to go on |
-| [[robots]] | by proxy | [[robots-incremental-exploration]] ✅ | [[mifix]] and [[odie]] meet; history recovered; Mifix understood as the Institute's link to them |
-| [[the-damned]] | travelling — the Wraith on the road; the kingdom plays on at home | [[wraith-memory-puzzle]] ✅ (camp minigames) · [[damned-undead-kingdom-rts]] ✅ | shadow the Ninja; stop the assassins; join the party; sit at the council |
+| [[green-skins]] | travelling | [[gargoyle-stone-metroidvania]] ✅ (home realm only) | [[gargoyle-granite]] voices his doubt and travels on |
+| [[robots]] | by proxy | [[robots-incremental-exploration]] ✅ | [[mifix]] and [[odie]] in the same building at last |
+| [[the-damned]] | travelling — the Wraith on the road; the kingdom plays on at home | [[wraith-memory-puzzle]] ✅ (camp minigames) · [[damned-undead-kingdom-rts]] ✅ | shadow the Ninja; stop the assassins; join the party |
 
 ## Content Load
 
-- **The entire Mystics faction** — realm, story and a game style that does not exist.
-- **A glitch scene** in a companion who is also the save/restore mechanic in [[realm-07]]
-  ([[continuity-glitches]]).
-- **The camp minigame** — the wraith puzzle pointed at living protagonists — and an ambush scene
-  in which the Wraith needs something to *do* against assassins ([[the-ambush-on-the-road]]).
-- A convergence scene involving five protagonists from five genres, which is a **presentation
-  problem nothing else in the game has had to solve**: what does the player *play* when five
-  different games arrive in one room?
-- The Damned's RTS continuing at home while its protagonist is abroad — whether the player
+- **The entire Mystics faction** — realm, village, cave system, economy, and an isometric action
+  RPG that shares nothing with the shell's platforming or top-down presentations
+  ([[exploration-core-loop]]). This is the chapter's whole budget.
+- **Two glitch scenes in two factions**: Mifix's diagnosis failure, and the character-creation
+  screen. Neither explains the other and neither is commented on.
+- **The camp minigame** — the wraith puzzle pointed at living protagonists — and an ambush scene in
+  which the Wraith needs something to *do* against assassins ([[the-ambush-on-the-road]]).
+- **The Damned's RTS continuing at home** while its protagonist is abroad — whether the player
   switches between them, and how, is not designed.
-- What [[gargoyle-granite]]'s stone kit becomes in [[realm-03]] under [[realm-governs-game-style]] — not
-  designed.
+- What [[gargoyle-granite]]'s stone kit becomes in [[realm-03]] under [[realm-governs-game-style]] —
+  not designed.
+- The war machine as a **clock** rather than a set piece: it is visible and closing for the whole
+  chapter and only lands on the last beat.
 
 ## Continuity
 
 Tracked across all chapters in [[story-continuity-timeline]].
 
 **Depends on:** [[the-trial-of-the-last-gargoyle]], [[the-unfreezing-of-the-kingdom]] and
-[[the-stand-at-the-monastery]] (chapter three) — the last of these is why the monastery the allies
-reach is **already under siege**, with [[oluja-town]]'s people inside it; [[the-second-signal]] and
-[[the-calling-of-ancient-allies]] (chapter two).
+[[the-stand-at-the-monastery]] (chapter three) — the last of these is why the monastery is
+**already besieged**, with [[oluja-town]]'s people inside it and the machine on the horizon;
+[[the-second-signal]] and [[the-calling-of-ancient-allies]] (chapter two).
 
-**Sets up:** the journey from the monastery to [[realm-09]] and the Werebeast gargoyles — deferred
-to [[gargoyle-ninja-and-the-celestials-gate]] and [[the-mystics-second-secret-society]] — plus the
-`ACCESS DENIED` unblocking work, and whatever the assembled protagonists do about the war machine.
-Further out: [[the-guardians-of-night]] mean to expand the Damned kingdoms into the Celestial realm,
-and in a later chapter — six, provisionally — the Templar takes the war machine and counterattacks,
-with the Damned defending invaded Celestial land in the Celestials' own genre
-([[damned-undead-kingdom-rts]], [[celestials-hero-tower-defence]]).
+**Sets up [[chapter-05]]:** the war-machine battle with six protagonists on one wall, and the
+council that follows it ([[the-first-meeting-of-the-realm-champions]]).
+
+**Plants, unexplained:** the [[werebeasts]] gate in the Mystic caverns and the tower that holds the
+Celestial one. Both are [[the-graceful-servants]]', both are [[coruscate]]'s work, and the player
+walks past them knowing neither.
+
+**Glitches this chapter:** Mifix's, and the character-creation screen
+([[continuity-glitches]]).
 
 ## Open
 
-- The whole restructure. See above.
-- What the five-protagonist convergence plays like.
-- What the Conjurer's journey from [[realm-04]] to [[realm-03]] is, and whether the Mystics' Red
-  Power carrier is involved ([[the-answering-of-the-wand]]).
+- **The Mystic genre is a style, not a design.** Isometric action RPG with a levelled skill tree,
+  Reagents as currency-and-resource, vendor gear — the shape is settled; none of it is specified.
+- **Nothing in [[realm-04]] has a name.** Not the realm as its people call it, not the village, not
+  the cave, not the tower.
 - What Mifix's glitch looks like and costs ([[the-diagnosis-of-the-last-gargoyle]]).
 - Where on the road the ambush falls — in [[realm-07]] before the crossing, or in [[realm-03]]
   after it.
-- Whether the player plays the kingdom at all this chapter, or only the Wraith.
-- **Which gate the Werebeast gargoyles would seal, and why they need reactivating** — deferred in
-  full to [[the-mystics-second-secret-society]], along with the second
-  [[the-secret-society-system]] instance and the Mystics' Red Power carrier.
+- Whether the player plays the Damned kingdom at all this chapter, or only the Wraith.
+- **What five protagonists arriving mid-battle plays like** — the presentation problem is smaller
+  than it was now that the council has moved, but the arrival is still five genres walking into one
+  tower defence.
+- Whether [[the-graceful-servants]] notice they were burgled.

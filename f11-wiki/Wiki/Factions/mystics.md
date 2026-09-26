@@ -15,6 +15,7 @@ homeland: realm-04
 allies: []
 enemies:
   - green-skins
+  - werebeasts
 ---
 
 # The Mystics
@@ -41,37 +42,41 @@ Mystics a resource colony as much as a rival. **This isn't one of the fixed netw
 gates** — realm-04 and realm-07 sit at ring-distance three, where the Black's network has nothing at
 all ([[realm-nearness-and-traversal]]) — so whatever this connection actually is remains unwritten.
 
-**They are under invasion — and it is not mainly the green-skins.** The Mystics
-are being invaded **mostly by [[the-damned]], with some [[werebeasts]]**, and that invasion was
-**instigated by [[the-guardians-of-night]]** — the same group, the same method, the same false
-premise as the war on the [[celestials]] ([[the-broken-barrier]]). The Damned's own gargoyles were
-smashed to clear the way, exactly as the green-skins' were.
+**They are the aggressor.** A secret society among them — [[the-graceful-servants]] — holds records
+dating to [[the-linking-of-the-realms]] saying the [[werebeasts]] are **rich in Reagents**. One of
+their number, the ancient Summoner [[coruscate]], carries [[the-red-power]] and used it to dispel
+the seal on the **04↔09 gate**. The Mystics have been **harvesting werebeasts for Reagents**
+through it ever since.
 
-So the Mystics are not a bystander realm with a mining problem. They are **the second front of one
-coordinated war**, and their story connects directly to the Gargoyle's.
+**And they have done this before.** In [[the-war-of-the-six-realms]] the Mystics were among the
+three realms "constantly incurring" into the green-skin, damned and werebeast realms — which is
+what the gargoyles were built to stop ([[the-gargoyle-guardians]]). Realm-09 holds the one set of
+gargoyles never smashed, whose entire function is to wake when something comes through, and **they
+have not woken**. The same realm is being raided by the same realm for the second time, and the
+guard that stopped it last time is not answering.
 
-**They were also on the other side once.** In [[the-war-of-the-six-realms]] the Mystics were among the three realms
-"constantly incurring" into the green-skin, damned and werebeast realms — which is what the
-gargoyles were built to stop ([[the-gargoyle-guardians]]). The faction now being invaded was an
-invader first.
-
-**One of them carries [[the-red-power]].** A Mystic, not yet named, holds the same gift
-[[xipe-totec-the-red]] gave [[ninja-kazuma]] and [[val]] — manifesting for them as *dispelling* a sealed
-gate rather than breaking or unlocking one. Which gate, and who they are, is unwritten.
+**It is not the Guardians' war.** [[the-guardians-of-night]] want to reconnect with the
+[[werebeasts]] and **have not managed it**. The Servants managed it alone, for a resource, and
+whether either party knows about the other is open.
 
 **Their protagonist answers the Templar's call.** [[conjurer-voisin]] is the first ally to reach
 [[templar-will]] ([[the-answering-of-the-wand]]), and sits on the council at [[templar-monastery]] that
 decides to seek out a [[werebeasts|Werebeast]] gargoyle — one aim of which is to have the Werebeast
-gargoyles **seal the gate to the Mystics** ([[the-convergence-at-the-monastery]]).
+gargoyles **seal the gate to the Mystics** ([[the-first-meeting-of-the-realm-champions]]). That is
+the 04↔09 gate. **She does not know her own faction opened it**, and the Reagents she spends every
+time she casts may be coming through it.
 
 ## Open
 
-- **Which gate "the gate to the Mystics" is**, and what the Mystics' Red Power carrier has done with
-  their gift. There is an unresolved sketch in which that carrier opened a route to the Werebeasts
-  through other realms and the Mystics are the aggressor there, which does not sit with this note's
-  account of the Mystics as the invaded party — held, unreconciled, in
-  [[the-mystics-second-secret-society]].
-- Whether [[conjurer-voisin]] is the Red Power carrier.
+- **Why realm-09's gargoyles did not wake** for an active incursion. Stasis worked by the Servants
+  is the standing candidate, and whether it can be reversed is what the Realm Champions are walking
+  toward ([[the-mystics-second-secret-society]]).
+- **Whether [[the-graceful-servants]] are an instance of [[the-secret-society-system]]** or arose on
+  their own.
+- **Whether the green-skin underworld connection above is still true.** It predates this account and
+  has not been re-examined against it.
+- How far the harvest reaches into ordinary Mystic life — whether village Reagents are werebeast
+  Reagents, and whether anyone outside the tower could tell.
 
 ## Faction Classes
 

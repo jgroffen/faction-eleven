@@ -50,4 +50,5 @@ them by a gate — a gap, like the Celestials' case, rather than a match (see
 ## Set Here
 
 <!-- gd:set-here:start -->
+- [[the-ordinary-day-of-the-conjurer|The Ordinary Day Of The Conjurer]] · quest
 <!-- gd:set-here:end -->

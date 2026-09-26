@@ -44,6 +44,7 @@ Known devices:
 | [[the-clay-jar]], holding an alien egg | [[realm-01]], the same shrine | [[aliens]] |
 | [[odie]] | [[templar-monastery]], [[realm-03]] | [[robots]] |
 | [[the-wand]] | [[templar-monastery]], [[realm-03]] | [[mystics]] |
+| [[the-ancient-relic]] | [[realm-04]], in [[conjurer-voisin]]'s hands | **the receiving half** of the wand above — it lights up when the Templar calls, and leads her to him |
 
 Two patterns are already visible and worth protecting:
 
@@ -52,6 +53,9 @@ Two patterns are already visible and worth protecting:
    left behind.
 2. **They cluster.** [[realm-01]]'s shrine holds two; [[templar-monastery]] holds two. These are
    the embassies of the old alliances — the places where friends kept a way to call each other.
+3. **They come in pairs.** [[the-wand]] calls and [[the-ancient-relic]] answers — a telephone has
+   two ends, and the first one the game shows both ends of is the Mystics'. Whether every device in
+   the table has a counterpart somewhere is unwritten, and would be a lot of unfound objects.
 
 That they are found in **shrines and monasteries** is the quiet tragedy: objects left by allies
 for practical use, kept for generations as holy relics by people who no longer knew what a friend

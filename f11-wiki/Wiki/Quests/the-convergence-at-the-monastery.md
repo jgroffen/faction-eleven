@@ -18,6 +18,7 @@ giver: ""
 location: templar-monastery
 mechanics:
   - protagonist-swapping-and-story-gating
+  - celestials-hero-tower-defence
 rewards: []
 prerequisites:
   - the-second-signal
@@ -29,8 +30,9 @@ prerequisites:
 
 The culmination of a chapter, and the first time protagonists from four factions stand in the same
 place: **[[ninja-kazuma]], [[mifix]] and [[gargoyle-granite]] reach [[templar-will]] and [[conjurer-voisin]]**, who are
-already together. Then the five of them — six, with the Wraith who joined on the road — decide what to do
-([[the-first-meeting-of-the-realm-champions]]).
+already together. They arrive **at the end of a wave Voisin has just fought**, and the war machine arrives
+behind them — which ends [[chapter-04]]. What the room decides is the council, and it happens
+after the battle, in [[chapter-05]] ([[the-first-meeting-of-the-realm-champions]]).
 
 **Status:** design · **Type:** main · **Chapter:** [[chapter-04]] · **Location:**
 [[templar-monastery]]
@@ -38,11 +40,16 @@ already together. Then the five of them — six, with the Wraith who joined on t
 ## The Beat
 
 Two arrivals, in order. The Conjurer is first, in answer to [[the-wand]]
-([[the-answering-of-the-wand]]). Then the Ninja, Mifix and the Gargoyle come following the faint
-signal they have been chasing since [[the-second-signal]].
+([[the-answering-of-the-wand]]). She agrees to support the defence and **fights a final wave as a
+hero unit, to great effect** — the [[celestials-hero-tower-defence|tower defence]] taking its first
+foreign hero, which is what that mechanic was built for.
 
-They arrive at a monastery under siege by a war machine the Celestials cannot beat, holding a relic
-the Celestials do not understand — and a Templar and Conjurer who have just worked out what it is.
+**At the end of that wave**, the Ninja, Mifix, the Gargoyle and [[wraith-delahaye]] walk in,
+following the faint signal they have been chasing since [[the-second-signal]].
+
+They arrive at a monastery under siege, holding a relic the Celestials do not understand — and a
+Templar and Conjurer who have just worked out what it is. Then the war machine arrives, and the
+chapter ends.
 
 ## What It Unlocks
 
@@ -55,12 +62,12 @@ the Celestials do not understand — and a Templar and Conjurer who have just wo
 - **[[odie]] names what the Ninja is** — a carrier of [[the-red-power]], able to breach a sealed
   gate.
 
-## The Council
+## The Council Is Not Here
 
-Held as its own beat — [[the-first-meeting-of-the-realm-champions]] — where the Templar names the
-room, each party says what it brings, and the five settle on seeking a Werebeast gargoyle.
-[[wraith-delahaye]] is in the room too, having joined the Ninja's party on the road
-([[the-ambush-on-the-road]]).
+It follows the war-machine battle, in [[chapter-05]] —
+[[the-first-meeting-of-the-realm-champions]]. Nobody in this scene gets to sit down: the machine is
+on them before anyone can be introduced properly, and the Templar names the room only after he has
+watched it fight.
 
 ## Why It Matters
 
@@ -77,7 +84,8 @@ room runs through a door that only a guardian remembers.
 
 ## Open
 
-- What the convergence *plays* like with five genres in one room — see [[chapter-04]].
+- What the convergence *plays* like with five genres arriving mid-battle — see [[chapter-04]].
+- Whether the four arrivals fight the tail of the wave, or reach the walls just as it breaks.
 - **Which gate "the gate to the Mystics" is** and what state the Werebeast gargoyles are in — the
   whole Werebeast side is deferred to [[the-mystics-second-secret-society]] and
   [[gargoyle-ninja-and-the-celestials-gate]].

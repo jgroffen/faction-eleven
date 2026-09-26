@@ -26,7 +26,7 @@ prerequisites:
 The [[celestials]] stop retreating. Back at [[templar-monastery]] with [[oluja-town]]'s people
 behind their walls, [[templar-will]] and [[knight-ermengarda]] fight **waves of [[green-skins]] and
 [[the-damned]]** — and the Templar decides that **this is where he answers the war machine**, rather
-than falling back a third time. The chapter ends as the machine arrives.
+than falling back a third time. The chapter ends with the machine **in sight and still coming**.
 
 **Status:** design · **Type:** main · **Chapter:** [[chapter-03]] · **Location:**
 [[templar-monastery]]
@@ -43,8 +43,9 @@ faction that has been **built around losing** picks a place to stop.
 1. **Hold the monastery** through waves of green-skin and Damned attackers.
 2. **Make the stand.** The Templar commits: no third retreat, and the answer to the machine happens
    here.
-3. **See the machine arrive.** The chapter's ending, and the start of the siege the party walks
-   into in [[chapter-04]].
+3. **See the machine coming.** It is **sighted, not arrived** — the Templar makes his decision
+   looking at it on the horizon. That is the chapter's ending; the machine spends the whole of
+   [[chapter-04]] closing, and reaches the walls at that chapter's end.
 
 ## The Beat
 
@@ -69,11 +70,14 @@ withdrawing ([[celestials-hero-tower-defence]]).
 
 ## Why It Matters
 
-- It **ends [[chapter-03]]** on the machine's arrival, which is a cliffhanger the player has been
-  promised since chapter one.
-- It puts the monastery **under siege before [[chapter-04]] begins**, which is the state
-  [[conjurer-voisin]] and then the Ninja's party arrive into
-  ([[the-answering-of-the-wand]], [[the-convergence-at-the-monastery]]).
+- It **ends [[chapter-03]]** on the machine in sight, which is a cliffhanger the player has been
+  promised since chapter one — and one that now pays off a chapter later rather than immediately.
+- It puts the monastery **under siege before [[chapter-04]] begins** — besieged by green-skin and
+  Damned waves, with the machine closing — which is the state [[conjurer-voisin]] and then the
+  Ninja's party arrive into ([[the-answering-of-the-wand]],
+  [[the-convergence-at-the-monastery]]).
+- **The machine's approach is chapter four's clock.** Everything the Mystic does in realm-04 is
+  happening while it walks.
 - It is the hinge from defence to offence for the whole faction, and the last Celestial beat
   before help arrives.
 

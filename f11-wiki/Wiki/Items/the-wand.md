@@ -32,9 +32,18 @@ That a **wand** is what reaches the mystics follows the pattern: each device is 
 faction it calls. A wand lying in a Celestial monastery is a mystic thing in a place it does not
 belong — which is itself the evidence that the realms were once in contact.
 
+## Its Other End
+
+[[conjurer-voisin]] holds the **receiving half**: [[the-ancient-relic]], a wand she was handed in a
+character-creation screen as a starting bonus. When the Templar uses this one, that one lights up
+and leads her here ([[the-answering-of-the-wand]]). The call is not broadcast to a faction in
+general — it reaches a specific object in a specific Mystic's hand, which is why the Mystics' answer
+is one person rather than an embassy.
+
 ## Open
 
 - What it looks like, what it costs to use, and whether it can be used more than once.
 - What it looked like to the Celestials who kept it, and whether they knew it was mystic work.
+- Whether the Templar recognises [[the-ancient-relic]] when he sees it.
 
 Not the Ancients' work: it is old allied-faction technology — see [[allied-faction-signals]].

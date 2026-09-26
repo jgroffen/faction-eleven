@@ -13,7 +13,7 @@ aliases:
   - The Council At The Monastery
 quest_status: design
 quest_type: main
-chapter: chapter-04
+chapter: chapter-05
 giver: ""
 location: templar-monastery
 mechanics: []
@@ -28,9 +28,9 @@ prerequisites:
 The assembled protagonists hold council at [[templar-monastery]]. [[templar-will]] names
 them **[[the-realm-champions|Realm Champions]]**, they decide to seek out a
 [[werebeasts|Werebeast]] gargoyle — and [[wraith-delahaye]] works out why she should stay with a
-party heading away from home. Closes [[chapter-04]].
+party heading away from home. Follows the war-machine battle that opens [[chapter-05]].
 
-**Status:** design · **Type:** main · **Chapter:** [[chapter-04]] · **Location:**
+**Status:** design · **Type:** main · **Chapter:** [[chapter-05]] · **Location:**
 [[templar-monastery]]
 
 ## Hook

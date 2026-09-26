@@ -17,6 +17,7 @@ characters:
   - ninja-kazuma
   - val
   - xipe-totec-the-red
+  - coruscate
 factions:
   - mystics
 locations: []
@@ -38,7 +39,7 @@ power is identical, only the flavour changes:
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [[ninja-kazuma]]               | **breaks** it — force, a blow that lands wrong and still gets through                                       | [[realm-01]]'s guarded gate to [[realm-02]] ([[the-cracked-gate]])                |
 | [[val]]                 | **unlocks** it — deliberate, precise, like a key she was always going to find                               | [[the-damned]]'s allied gate to the [[green-skins]] ([[sealed-interplane-gates]]) |
-| a Mystic, not yet named | **dispels** it — the seal is treated as a working that can be undone rather than a wall that must be forced | unestablished                                                                     |
+| [[coruscate]] ([[mystics]])  | **dispels** it — the seal is treated as a working that can be undone rather than a wall that must be forced | **two**: [[realm-04]]'s gate to the [[werebeasts]] (04↔09), and its gate to the [[celestials]] (04↔03) |
 
 None of the three understands the gift for what it is. [[ninja-kazuma]] does not even know it is
 happening — [[odie]] is the one who eventually identifies it in him ([[templar-monastery]]).

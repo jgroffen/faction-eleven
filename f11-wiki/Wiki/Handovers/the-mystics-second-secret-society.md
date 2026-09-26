@@ -31,6 +31,35 @@ _What is already written down. Link it, do not restate it._
   now realm-09, Green Skins realm-07.)
 - [[val]] — carries the Red's first instance of gate/barrier power; this thread introduces a third.
 
+## Mostly resolved — 2026-09-25
+
+The dedicated grilling happened. **Most of this handover is now compiled canon**; read the notes
+rather than the sketch below, which is kept only for the parts still open.
+
+- **The society has a name and a member**: [[the-graceful-servants]], and [[coruscate]], an ancient
+  Summoner who is the third carrier of [[the-red-power]] (the "unnamed Mystic" of point 4 — and it
+  is **not** [[conjurer-voisin]]).
+- **The route is the 04↔09 gate itself**, dispelled by Coruscate. Not the catacombs of point 1, and
+  not the Mystics→Aliens→Werebeasts chain of the Round 37 sketch.
+- **The motive is Reagents.** Werebeasts are rich in them; the Servants knew it from records dating
+  to [[the-linking-of-the-realms]]; the Mystics are harvesting them.
+- **The direction of the invasion is settled: the Mystics are the aggressor.** The old "invaded by
+  the Damned and some Werebeasts at the Guardians' instigation" account is retired from
+  [[mystics]]. The Guardians want to reach the Werebeasts and **have not managed it**.
+- **"The gate to the Mystics"** in [[the-first-meeting-of-the-realm-champions]] is the 04↔09 gate,
+  and Voisin agrees to seal her own faction's door without knowing it.
+
+### Still open after that session
+
+- **Why realm-09's gargoyles did not wake.** Stasis (point 3) remains the candidate and remains
+  unwritten, as does whether it is reversible. This is the one that decides what the party finds.
+- **Whether [[the-graceful-servants]] are an instance of [[the-secret-society-system]]** (point 2),
+  and what balance problem they would be solving if so.
+- **The barrier question.** [[the-realm-barriers]] records three barriers (07→03, 08→04, 09→05) and
+  none on 04↔09. Whether the Werebeasts hold a fourth against the Mystics, or the harvest runs
+  through a gate with no barrier on it at all, is unresolved — see this session's open questions.
+- **Point 5** — deconflicting the Servants' thread with [[gargoyle-ninja-and-the-celestials-gate]].
+
 ## Not yet written down
 
 _What only exists in this conversation: what was mid-flight, what is unverified,

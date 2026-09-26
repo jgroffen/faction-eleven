@@ -101,7 +101,7 @@ failure must be tuned, and means "you lost" cannot read as "you played badly".
 |---|---|---|
 | [[the-fall-of-the-outpost]] | hold the line | the siege machine breaks it — a rout |
 | [[the-evacuation-of-oluja-town]] | **buy time for the town to empty** | the position is abandoned on purpose |
-| [[the-stand-at-the-monastery]] | **stop retreating** | the war machine arrives, and is answered here |
+| [[the-stand-at-the-monastery]] | **stop retreating** | the war machine comes into view, and the Templar picks this ground to answer it |
 
 The middle one is the important variant: a defence whose **win condition is somewhere else on the
 map**. The player is not holding ground, they are covering an evacuation, and the ground was always
@@ -111,6 +111,7 @@ going to be lost.
 
 <!-- gd:used-in:start -->
 - [[the-calling-of-ancient-allies|The Calling Of Ancient Allies]] · quest
+- [[the-convergence-at-the-monastery|The Convergence At The Monastery]] · quest
 - [[the-evacuation-of-oluja-town|The Evacuation Of Oluja Town]] · quest
 - [[the-fall-of-the-outpost|The Fall Of The Outpost]] · quest
 - [[the-stand-at-the-monastery|The Stand At The Monastery]] · quest

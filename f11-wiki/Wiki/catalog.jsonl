@@ -1,12 +1,14 @@
 {"path": "Wiki/Chapters/chapter-01.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "chapter", "title": "Chapter 1 — Three Walls", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Chapters/chapter-02.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "chapter", "title": "Chapter 2 — The Signals", "topics": [], "updated": "2026-09-22"}
 {"path": "Wiki/Chapters/chapter-03.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "chapter", "title": "Chapter 3 — The Trial", "topics": [], "updated": "2026-09-22"}
-{"path": "Wiki/Chapters/chapter-04.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "chapter", "title": "Chapter 4 — The Convergence", "topics": [], "updated": "2026-09-22"}
+{"path": "Wiki/Chapters/chapter-04.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "chapter", "title": "Chapter 4 — The Convergence", "topics": [], "updated": "2026-09-25"}
+{"path": "Wiki/Chapters/chapter-05.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "chapter", "title": "Chapter 5 — The Machine", "topics": [], "updated": "2026-09-25"}
 {"path": "Wiki/Characters/autofix-alto.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "character", "title": "Alto, the Autofix Bot", "topics": [], "updated": "2026-09-15"}
 {"path": "Wiki/Characters/captain-anne.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "character", "title": "Captain Anne", "topics": [], "updated": "2026-09-22"}
 {"path": "Wiki/Characters/captain-d-artigue.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "character", "title": "d'Artigue, the Betrayer", "topics": [], "updated": "2026-09-22"}
 {"path": "Wiki/Characters/captain-leon.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "character", "title": "Leon, the Captain", "topics": [], "updated": "2026-09-15"}
 {"path": "Wiki/Characters/conjurer-voisin.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "character", "title": "Voisin, the Conjurer", "topics": [], "updated": "2026-09-15"}
+{"path": "Wiki/Characters/coruscate.md", "sources": [], "tag": "character", "title": "Coruscate", "topics": [], "updated": "2026-09-25"}
 {"path": "Wiki/Characters/gargoyle-granite.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "character", "title": "Granite, the Gargoyle", "topics": [], "updated": "2026-09-15"}
 {"path": "Wiki/Characters/huitzilopochtli-the-blue.md", "sources": [], "tag": "character", "title": "Huitzilopochtli the Blue", "topics": [], "updated": "2026-08-19"}
 {"path": "Wiki/Characters/knight-ermengarda.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/labs-faction-classes.md"], "tag": "character", "title": "Ermengarda of Oluja, the Knight", "topics": [], "updated": "2026-09-23"}
@@ -38,6 +40,7 @@
 {"path": "Wiki/Factions/pirates.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/labs-faction-classes.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "faction", "title": "The Pirates", "topics": [], "updated": "2026-09-15"}
 {"path": "Wiki/Factions/robots.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md", "Raw/Sources/labs-faction-classes.md"], "tag": "faction", "title": "Robots", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Factions/the-damned.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/labs-faction-classes.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "faction", "title": "The Damned", "topics": [], "updated": "2026-09-15"}
+{"path": "Wiki/Factions/the-graceful-servants.md", "sources": [], "tag": "faction", "title": "The Graceful Servants", "topics": [], "updated": "2026-09-25"}
 {"path": "Wiki/Factions/the-guardians-of-night.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "faction", "title": "The Guardians of Night", "topics": [], "updated": "2026-08-16"}
 {"path": "Wiki/Factions/werebeasts.md", "sources": ["Raw/Sources/factions-retro-readme.md", "Raw/Sources/labs-faction-classes.md", "Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "faction", "title": "The Werebeasts", "topics": [], "updated": "2026-09-13"}
 {"path": "Wiki/GameMechanics/autofix-skill-tree.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "game-mechanic", "title": "The Autofix Skill Tree", "topics": [], "updated": "2026-08-12"}
@@ -64,6 +67,7 @@
 {"path": "Wiki/Handovers/glitch-causes-and-manifestation.md", "sources": [], "tag": "handover", "title": "Handover: Glitch causes and manifestation", "topics": [], "updated": "2026-08-22"}
 {"path": "Wiki/Handovers/the-mystics-second-secret-society.md", "sources": [], "tag": "handover", "title": "Handover: The Mystics' Second Secret Society", "topics": [], "updated": "2026-09-15"}
 {"path": "Wiki/Items/gargoyle-fragments.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "Gargoyle Fragments", "topics": [], "updated": "2026-09-15"}
+{"path": "Wiki/Items/the-ancient-relic.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "The Ancient Relic", "topics": [], "updated": "2026-09-25"}
 {"path": "Wiki/Items/the-clay-jar.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "The Clay Jar", "topics": [], "updated": "2026-08-08"}
 {"path": "Wiki/Items/the-drunken-mermaid.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "The Drunken Mermaid", "topics": [], "updated": "2026-09-22"}
 {"path": "Wiki/Items/the-holy-socks.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "item", "title": "The Holy Socks", "topics": [], "updated": "2026-09-22"}
@@ -185,6 +189,7 @@
 {"path": "Wiki/Quests/the-fall-of-the-outpost.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Fall Of The Outpost", "topics": [], "updated": "2026-09-15"}
 {"path": "Wiki/Quests/the-first-meeting-of-the-realm-champions.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The First Meeting Of The Realm Champions", "topics": [], "updated": "2026-09-22"}
 {"path": "Wiki/Quests/the-first-signal.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The First Signal", "topics": [], "updated": "2026-09-15"}
+{"path": "Wiki/Quests/the-ordinary-day-of-the-conjurer.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Ordinary Day Of The Conjurer", "topics": [], "updated": "2026-09-25"}
 {"path": "Wiki/Quests/the-recruitment-of-the-wraith.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Recruitment Of The Wraith", "topics": [], "updated": "2026-09-22"}
 {"path": "Wiki/Quests/the-search-of-the-frozen-map.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Search Of The Frozen Map", "topics": [], "updated": "2026-09-22"}
 {"path": "Wiki/Quests/the-second-signal.md", "sources": ["Raw/Sources/interviews/faction-eleven-lore-and-design.md"], "tag": "quest", "title": "The Second Signal", "topics": [], "updated": "2026-09-15"}

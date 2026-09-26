@@ -2476,3 +2476,77 @@ session on the Mystics.
 - **The council's position is now in question.** [[the-first-meeting-of-the-realm-champions]]
   currently closes chapter four; the author's sequence has the four arrive at the end of the final
   wave and the machine arrive immediately after. Raised; not compiled until answered.
+
+### Round 57 — 2026-09-25
+
+**Q(mystic-1) — The war machine has moved from the end of chapter three to the end of chapter four.
+Did the world change, or was the note wrong?**
+
+> I moved it - your suggestion is spot on. The content is getting dense so I want to spread it out
+> over more chapters.
+
+**Q(mystic-2) — Where does the council go, given there is no room for it before the machine
+arrives?**
+
+> Agreed
+
+*(recommendation was: move `the-first-meeting-of-the-realm-champions` wholesale into chapter five,
+after the war-machine battle.)*
+
+**Q(mystic-3) — Is Voisin's starting "ancient relic" wand the same class of object as the
+Templar's wand?**
+
+> It's (c) - The description displayed with 'Ancient Relic' is 'A historic treasure of forgotten
+> lore and unexpected purpose'.
+
+**Q(mystic-4) — Is the auto-played character-creation screen diegetic?**
+
+> It just that the game is built around certain selections being made - I'm thinking whenever the
+> player selects a class besides Conjurer the game glitches and they can't, and the 'Anchient
+> Relic' is selected as a glitch too.
+
+**Q(mystic-5) — When does the wand's call land, and is the crossing played?**
+
+> A big part of chapter 4 we haven't covered is the mystic gameplay - the player will play as
+> Voisin and at some point the wand will light up and start leading the character to the other
+> wand. The wand will start talking to Voisin through the Homunculi, so the wand and Voisin can
+> have dialogue with the wand. The adventuring will lead Voisin into caverns and past a gate to the
+> Werebeast realm. The wand will instead lead the Mystic to the gate between realm 4 and 3 which is
+> in a mage tower guarded by the currently unwritten mystic secret society that a mystic with the
+> red power belongs to. This red-powered mystic has already opened the mystic-celestial gate, and
+> Voisin will need to sneak in to the tower to cross to the celestial realm.
+
+**Q(mystic-6) — Where is the invasion of the Mystics in chapter four?**
+
+> oh that's old and wrong - mystics were historically part the six realm war. The Guardians of
+> night want to reconnect with the Werebeasts but haven't been able to. Instead there is a Mystic
+> with the Red Power that has opened a path to the Werebeasts realm and mystics are 'harvesting'
+> werebeasts for reagents. Werebeasts are rich with reagents, which the Mystic secret society knows
+> from ancient records dating back to the first linking of the realms. Lets name the Mystic secret
+> society - The Graceful Servants. Lets also name the red-powered mystic: an ancient Summoner named
+> 'Coruscate' — which is Gaelic for a flash of lightning.
+
+## Notes For The Compiler — Round 57
+
+- **The Mystics are not the invaded party. They are the aggressor.** The whole "second front of one
+  coordinated war" paragraph on [[mystics]] is retired. What replaces it: [[coruscate]], an ancient
+  Summoner carrying [[the-red-power]], opened the gate to [[realm-09]], and the Mystics are
+  **harvesting [[werebeasts]] for Reagents**. [[the-graceful-servants]] knew werebeasts were
+  reagent-rich from records dating to [[the-linking-of-the-realms]].
+- **This is continuous with the old war, not a break from it.** [[mystics]] already recorded the
+  Mystics as one of the three realms "constantly incurring" into the green-skin, damned and
+  werebeast realms — which is what the gargoyles were built to stop. They are doing it again, to
+  the same victim, for a resource.
+- **It explains the council's fourth reason.** "If the Werebeast gargoyles can be reactivated they
+  should seal the gate to the Mystics" ([[the-first-meeting-of-the-realm-champions]]) is the
+  04↔09 gate Coruscate opened — and "reactivated" is why the gargoyles did not stop the harvest
+  themselves. [[conjurer-voisin]] sits on a council agreeing to seal a gate her own faction opened,
+  and does not know it.
+- **The third Red Power carrier is named.** [[the-red-power]]'s "a Mystic, not yet named" row is
+  now Coruscate, whose gate is the Mystics' to the Werebeasts — and who has *also* opened the
+  Mystics↔Celestials gate, which is how Voisin crosses.
+- **Character creation is a glitch, not framing.** Every class but Conjurer refuses to be selected;
+  "Ancient Relic" selects itself. This is [[continuity-glitches]] at the UI layer, in the same
+  chapter as Mifix's glitch.
+- **The wand speaks through the homunculi.** They are not only death-return and fast-travel; they
+  are the Conjurer's voice-interface to an object that cannot otherwise talk.

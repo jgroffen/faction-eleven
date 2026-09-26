@@ -35,7 +35,7 @@ Gargoyle, played in the room as Granite and, unseen, from behind Val's shoulder 
 
 A realm away, the [[celestials]] stop running. [[templar-will]] brings a town's people behind the
 monastery walls, holds them through waves of green-skins and undead, and decides to meet the war
-machine where he stands.
+machine where he stands — as it comes over the horizon.
 
 **Status:** outline · **Lead factions:** [[green-skins]] and [[the-damned]], jointly — **the
 Gargoyle by gameplay, the Wraith by story**
@@ -66,7 +66,8 @@ Gargoyle by gameplay, the Wraith by story**
 4. **[[the-stand-at-the-monastery]]** — [[templar-will]] and [[knight-ermengarda]] reach
    [[templar-monastery]] with [[oluja-town]]'s people and fight waves of [[green-skins]] **and
    [[the-damned]]** at its walls. The Templar decides there will be no third retreat: the war
-   machine gets answered here. **The chapter ends this thread with the machine arriving.**
+   machine gets answered here. **The chapter ends this thread with the machine in sight and still
+   coming** — it arrives at the end of [[chapter-04]], not this one.
 
 **The trial.**
 
@@ -86,7 +87,7 @@ Gargoyle by gameplay, the Wraith by story**
 | [[green-skins]] | **lead** — the Gargoyle's map, the search, the trial | [[gargoyle-stone-metroidvania]] ✅ | find the signal; meet Val; start to doubt |
 | [[the-damned]] | **lead by story** — the frozen map, the castle, the pursuit | [[wraith-memory-puzzle]] ✅ on a frozen [[damned-undead-kingdom-rts]] map | rescue → revenge; find the Guardians; follow Val; watch the trial; get the kingdom back |
 | [[institute-of-eight]] | travelling | [[gargoyle-stone-metroidvania]] as a visitor ([[realm-governs-game-style]]) | arrive through the ruin; search with the Gargoyle; stand beside him at the trial |
-| [[celestials]] | **small** — one battle | [[celestials-hero-tower-defence]] ✅ | shelter the town; fight green-skins and Damned; stop retreating; meet the machine |
+| [[celestials]] | **small** — one battle | [[celestials-hero-tower-defence]] ✅ | shelter the town; fight green-skins and Damned; stop retreating; see the machine coming |
 
 The [[robots]] and [[mystics]] do not appear; their threads wait at the monastery for
 [[chapter-04]] — which the [[celestials]] spend this chapter putting under siege.
@@ -115,8 +116,9 @@ freeze.
 
 **Sets up [[chapter-04]]:** the Gargoyle's doubt ([[the-diagnosis-of-the-last-gargoyle]]); Val's
 assassins ([[the-ambush-on-the-road]]); Delahaye on the Ninja's trail; a kingdom back in play with
-its would-be wraith gone; and **the monastery under siege by the war machine**, which is the state
-[[conjurer-voisin]] and then the Ninja's party arrive into.
+its would-be wraith gone; and **the monastery under siege with the war machine closing**, which is
+the state [[conjurer-voisin]] and then the Ninja's party arrive into. The machine's approach is
+chapter four's clock.
 
 **Glitches this chapter:** the unfreeze — [[the-retcon-engine]] editing a named antagonist's memory
 on screen ([[continuity-glitches]]).
@@ -136,7 +138,7 @@ on screen ([[continuity-glitches]]).
 
 ## What Ends The Chapter
 
-**Two endings, one per realm.** In [[realm-03]], the war machine arrives at the monastery and the
+**Two endings, one per realm.** In [[realm-03]], the war machine comes into view and the
 Celestials do not run ([[the-stand-at-the-monastery]]). In [[realm-07]], the trial.
 
 **Settled:** [[the-trial-of-the-last-gargoyle]], seen twice. It is the chapter-scale revelation with

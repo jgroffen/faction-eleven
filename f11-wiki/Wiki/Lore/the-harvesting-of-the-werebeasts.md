@@ -44,7 +44,8 @@ creatures and the Reagent problem goes away forever.
 
 **The [[werebeasts]] are the extreme case.** Harvesting a werebeast yields an **inordinate** amount of
 Reagent. Realm-09 is therefore not a rival or a threat to the Mystics; it is the richest seam in the
-wheel.
+wheel. **Not every realm pays:** the [[aliens]] yield no Reagents, which is why nobody in realm-04 has
+any interest in its gate to them.
 
 **This is [[the-war-of-the-six-realms]]' cause on the Mystics' side.** The Mystics were one of the
 three realms "constantly incurring" into the green-skin, damned and werebeast realms, and
@@ -58,10 +59,12 @@ acted on them **recently**. Three steps, none of which one person could do alone
 1. **[[coruscate]] unsealed the 04↔09 gate** with [[the-red-power]], which opens gates and nothing
    else. It is in [[the-werebeast-caverns]], deep under [[realm-04]] — a place everyone knew about and
    nobody had visited in a thousand years.
-2. **Other Servants got past the gargoyle barrier behind it without breaking it.** Breaking a barrier
-   wakes the gargoyles bound to it ([[the-realm-barriers]]); passing it quietly does not. This took
+2. **Other Servants circumvented the gargoyle barrier behind it, and its fortifications, with magic.**
+   Breaching a barrier alerts the gargoyles bound to it ([[the-realm-barriers]]); getting round it does
+   not. This took
    **unique, powerful gear** and **high-level Mystics with particular faction-class skills**.
-3. **They put realm-09's gargoyles into stasis**, so the guardians could not wake later either.
+3. **They put realm-09's gargoyles into stasis**, so the guardians could not wake later either — and
+   then **dismantled enough of the fortifications** to run the harvest through.
 
 **It cannot be done at scale.** Every stage needs the realm's most capable practitioners and gear that
 barely exists — artefacts crafted by historically significant Mystics, held rather than bought
@@ -114,8 +117,9 @@ she does not need to be told what a Mystic does with an open door to realm-09.
 She had **never heard of [[the-graceful-servants]]**; their existence is not public.
 
 **She does not like werebeasts and objects anyway.** She distrusts them — the histories she was
-raised on cast them as the aggressors — and still concludes the harvest is **immoral**. That is the
-whole of her position, and she takes it into the alliance.
+raised on cast them as the aggressors — and still objects — on **risk**: the stockpile, a purpose nobody knows,
+and incursions that invite the old war back — and because she thinks it **immoral**
+([[conjurer-voisin]]). She takes that into the alliance.
 
 ## What The Player Does And Doesn't Do
 
@@ -131,7 +135,7 @@ whole chapter, without once being shown where the good ones come from.
 - [[the-linking-of-the-realms]] — what made it possible, argued for and won on the merits.
 - [[the-secret-society-system]] — which authored the Servants, to fix Mystic stagnation, and did not
   foresee this.
-- [[the-realm-barriers]] — the lock they passed without breaking.
+- [[the-realm-barriers]] — the lock they got round without breaching.
 - [[faction-genre-mechanics]] — which already holds that carrying a capability across realms is a
   balancing problem *by construction*. This is that principle with a body count.
 - [[the-first-meeting-of-the-realm-champions]] — where Voisin tells the room, and the room resolves to
@@ -151,4 +155,3 @@ their own memory of the resource bar.
 - Whether the werebeasts know what is being done to them, or only that something is.
 - Who skewed the record, and whether [[the-retcon-engine]] had anything to do with it or it is plain
   authorship.
-- Whether Voisin can act on what she knows, or only carry it.

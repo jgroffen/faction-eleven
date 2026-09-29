@@ -21,8 +21,8 @@ enemies:
 
 # The Celestials
 
-A besieged holy order defending a castle. Their realm has gates standing **open** to both the
-[[green-skins]] and [[the-damned]], and they are under attack from both at once.
+A besieged holy order defending a castle. Their realm's gate to the [[green-skins]] stands
+**open**, and they are under attack through it from the green-skins and [[the-damned]] at once.
 
 **Homeland:** [[realm-03]] — see [[the-wheel-of-realms]]
 
@@ -39,7 +39,7 @@ directly-controlled hero unit, plus platforming exploration between battles.
 
 ## Standing
 
-The only faction in the material fighting a **two-front war**, and the clearest evidence that
+The only faction in the material fighting **two invaders at once**, and the clearest evidence that
 realm gates are not uniformly sealed — the disconnection is uneven.
 
 - [[green-skins]] — attack relentlessly, many small units with occasional war machines.
@@ -48,8 +48,8 @@ realm gates are not uniformly sealed — the disconnection is uneven.
   could not reach them.
 - [[the-damned]] — **in the waves at [[templar-monastery]]** ([[the-stand-at-the-monastery]]),
   arriving **through the [[green-skins]]' realm** rather than through any gate of their own:
-  [[val]] unsealed [[realm-08]]'s allied gate to [[realm-07]], and [[realm-07]]'s gate into this
-  realm is already open with its barrier broken ([[the-broken-barrier]]). This is
+  [[val]] unsealed [[realm-08]]'s allied gate to [[realm-07]], and then [[realm-07]]'s gate into
+  this realm, whose barrier the Guardians broke ([[the-broken-barrier]]). This is
   [[the-guardians-of-night]]' intended expansion into the Celestial realm, arriving before anyone
   here can name it.
 
@@ -112,13 +112,13 @@ It is also the faction that **works out what the game is about first**: nobody w
 
 And he is answered: [[conjurer-voisin]] arrives first ([[the-answering-of-the-wand]]), and with the
 Templar works out that the relics are **links to ancient allies and a way to call for help**
-([[allied-faction-signals]]). Then [[ninja-kazuma]], [[gargoyle-granite]] and [[mifix]] arrive
+([[allied-faction-signals]]). Then [[ninja-kazuma]], [[gargoyle-granite]], [[mifix]] and [[wraith-delahaye]] arrive
 ([[the-convergence-at-the-monastery]]).
 
 ## What They Have Forgotten
 
-**Their awareness of the gates has faded.** The Celestials hold two open gates because the enemy
-comes through them; the sealed ones — to the [[robots]] and the [[mystics]], their old allies — they
+**Their awareness of the gates has faded.** The Celestials know their one open gate because the enemy
+comes through it; the sealed ones — to the [[robots]] and the [[mystics]], their old allies — they
 can no longer find ([[realm-nearness-and-traversal]]). They kept the relics of two friendships and
 lost the doors. It is why, when the party at the monastery wants to reach the Robots, nobody in the
 Celestials' own house can say where the way is, and the answer has to come from a gargoyle.

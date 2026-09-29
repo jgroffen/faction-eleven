@@ -33,7 +33,7 @@ death, how she travels home, and — once the wand wakes — how she holds a con
 ## Character
 
 Not yet established as a person. The loop that defines her is domestic as much as heroic — go down,
-come back, refine what you found — and she is the only protagonist in the game whose home is
+come back, spend what you found — and she is the only protagonist in the game whose home is
 peaceful.
 
 **Her own story is the ordinary one.** A Mystic levels up until she is strong enough to beat the
@@ -42,7 +42,8 @@ almost no explanation** — only that the relic is leading her to support an anc
 and she goes.
 
 **She works out what her own faction is doing, from a conversation she was not meant to hear.**
-Sneaking through [[celestial-tower]] she **overhears** that the gate to the [[werebeasts]] is open and
+Sneaking through [[celestial-tower]] she **overhears** that the gate to the [[werebeasts]] is open — and its
+gargoyle barrier still there when the Servants cross — and
 that Reagent is being stockpiled, and infers the harvest
 ([[the-harvesting-of-the-werebeasts]]) — she does not need telling, because that the Mystics once
 harvested other realms' creatures is common knowledge at home. She had never heard of
@@ -74,8 +75,7 @@ as *"a historic treasure of forgotten lore and unexpected purpose"* — was sele
 and [[mifix]] do. With the Templar she works out what the Templar's relics are — **links to ancient
 allies, and a way to call for help** ([[allied-faction-signals]]) — and, once the second party
 arrives, that Mifix is the same for the [[institute-of-eight]]. She sits on the council that decides
-to seek out a [[werebeasts|Werebeast]] gargoyle ([[the-convergence-at-the-monastery]]). How she gets
-to the monastery, and what she plays like on the way, is not worked out.
+to seek out a [[werebeasts|Werebeast]] gargoyle ([[the-first-meeting-of-the-realm-champions]]).
 
 **Death mechanic:** a **standby pool** of homunculi. One comes and restores her where she fell; when
 the last is spent it carries her gear back to the cottage instead and she reconstitutes there, refilling
@@ -108,9 +108,6 @@ monsters.
 - [[gargoyle-granite]], [[ninja-kazuma]], [[mifix]] — who arrive after her at the monastery.
 - [[the-graceful-servants]] and [[coruscate]] — the secret society whose tower ([[celestial-tower]])
   she burgles to leave her realm, and the Summoner whose gate she walks through.
-- The green-skins have an open connection deep in the Mystics' underworld and are mining the realm
-  for magic (not one of the fixed network's gates — see [[realm-nearness-and-traversal]]).
-  **Unreviewed** against the Mystics' current account of themselves.
 
 ## Open
 

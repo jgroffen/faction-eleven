@@ -89,7 +89,7 @@ justify all three.
 ## The Ninja In Realm 07
 
 Under [[realm-governs-game-style]], the [[ninja-kazuma]] plays the **same Metroid structure** when he
-crosses into [[realm-07]] in [[chapter-02]] — the rhythm layer stays home in [[realm-01]], and his
+crosses into [[realm-07]] in [[chapter-03]] — the rhythm layer stays home in [[realm-01]], and his
 progression becomes ability-gated too.
 
 But he acquires abilities **his own way**, keeping the Institute's model intact: he finds a
@@ -103,7 +103,7 @@ survives inside a Metroid: hard, self-contained, optional-feeling rooms in a map
 exploration.
 
 **[[mifix]] is the save/restore mechanic in realm-07.** The companion who lets the Ninja retry in
-chapter one becomes, mechanically, the save point in chapter two — so the Ninja and the Gargoyle
+chapter one becomes, mechanically, the save point in chapter three — so the Ninja and the Gargoyle
 share a map with **different failure models**: the Ninja restores from Mifix, the Gargoyle restarts
 the section.
 

@@ -51,7 +51,7 @@ faction has reduced to legend.
 Told in full at [[the-linking-of-the-realms]]: the green-skins and werebeasts raided rather than
 warred, the Damned took the dead of other realms home, the Celestials, Mystics and Fey Folk allied
 and pushed back hard, and the invaded built the gargoyle guardians. The barriers those gargoyles
-raised ([[the-realm-barriers]]) still stand on the 07↔03, 08↔04 and 09↔05 gates, and the sealing
+raised ([[the-realm-barriers]]) walled every enemy gate into their three realms, and the sealing
 that followed ([[the-long-disconnection]]) froze the war's last shape for a thousand years.
 
 **Underneath, it is the Red's arc against the Blue's** — two gods who disagree about improvements,

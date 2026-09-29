@@ -28,10 +28,13 @@ generation, and no one has ever beaten it.
 
 ## Character
 
-**It is a protection, and the Institute did not place it.** [[quetzalcoatl-the-white]] set guardians
-on the gates of the realms he leads, to stop anything from another realm getting in and breaking them
-further — a response to [[xipe-totec-the-red]] imbuing [[ninja-kazuma]] with
-[[the-red-power|the power to unseal gates]] ([[the-four-gods]]).
+**It is a protection, and the Institute did not place it.** [[quetzalcoatl-the-white]] noticed a change
+to his game: [[xipe-totec-the-red]] had given [[ninja-kazuma]] [[the-red-power|the power to unseal
+gates]] — and the Ninja's family was historically [[realm-01]]'s **main contact with the [[robots]] and
+the [[aliens]]**. So he blocked the Ninja from the allied realms, placing guardians on those two gates
+to keep anything from another realm getting in and breaking his games further ([[the-four-gods]]).
+There are two: this one on 01↔02, which the family fights, and one on 01↔10, which no story has yet
+reached.
 
 **It is a stopgap, and it is a sign of frustration.** The White is not fortifying a position he is
 comfortable in; he is protecting a world he built from a failure he can see coming, with a **quick
@@ -40,14 +43,15 @@ well-understood, architectural work is — and shipping one is the clearest meas
 badly the four's argument has stalled ([[quetzalcoatl-the-white]]).
 
 **So chapter one's boss is a patch.** The single most important antagonist the player meets in the
-first release is a temporary fix by a frightened man, and its worst consequence — a family sentenced
-to a treason it never committed — is a side effect he never looked for.
+first release is a temporary fix by a frightened man — and the treason that came with it was no side effect.
 
-**The Institute's sentence is a fiction the realm wrote to explain it.** A boss appeared at a gate
-with no history attached, and [[realm-01]] generated one: a family who committed treason, condemned
-to fight it endlessly, generation after generation ([[the-retcon-engine]]). Nobody in the Institute
+**The treason is his change too; the generations are the realm's.** So that the Ninja and [[mifix]]
+would get no help reconnecting with the [[robots]], the White also branded the family **traitors** and
+cost them their reputation. [[realm-01]] then generated the rest ([[the-retcon-engine]]): a boss placed
+recently given a history older than anyone's memory, and a treason turned into a sentence served
+generation after generation. Nobody in the Institute
 is lying. The records are real, the shame is real, and [[ninja-kazuma]]'s family have lived and died inside
-an explanation that was written to cover an edit.
+an explanation that was written to cover two edits.
 
 This is the game's **worked example of a retcon, and the player stands inside it from chapter one.**
 It is also why the guarded gate faces a historically friendly neighbour and nobody can say why: the
@@ -92,5 +96,3 @@ design-side term.
 ## Open
 
 - Whether it can be reasoned with, and whether it is a victim of the same disconnection.
-- Whether a second guardian stands on [[realm-01]]'s gate to [[realm-10]], which the White protected
-  at the same time and which no story has yet reached.

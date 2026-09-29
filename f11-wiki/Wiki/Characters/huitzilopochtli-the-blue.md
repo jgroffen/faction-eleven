@@ -67,7 +67,7 @@ was coming and that striking first was the only defence. **The elegance is the s
 it answered all three of its own goals in one instance — the gargoyles were too powerful (balance),
 the Damned were stagnating (balance), and the War of the Six Realms had gone quiet (conflict) — and he never
 designed that convergence, only the machine that could find it. Everything downstream — the smashing
-of the gargoyles, the broken barrier, realms marching on the [[celestials]] and [[mystics]] — followed
+of the gargoyles, the broken barrier, realms marching on the [[celestials]] — followed
 from a system doing exactly what it was built to do ([[the-smashing-of-the-gargoyles]],
 [[the-broken-barrier]]).
 

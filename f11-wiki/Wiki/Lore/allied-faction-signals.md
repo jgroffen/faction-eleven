@@ -46,7 +46,7 @@ Known devices:
 | [[the-wand]] | [[templar-monastery]], [[realm-03]] | [[mystics]] |
 | [[the-ancient-relic]] | [[realm-04]], in [[conjurer-voisin]]'s hands | **the receiving half** of the wand above — it lights up when the Templar calls, and leads her to him |
 
-Two patterns are already visible and worth protecting:
+Three patterns are already visible and worth protecting:
 
 1. **A device is a piece of the faction it calls.** An autofix bot calls the robots. A wand calls
    the mystics. An alien egg calls the aliens. The signal is not a message — it is a *relative*,

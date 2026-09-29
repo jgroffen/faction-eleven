@@ -64,15 +64,19 @@ mini-fix bots meeting, and five realms in one room.
    ([[the-harvesting-of-the-werebeasts]]). She is informing on her own faction, to five realms she met
    this week.
 
-   **[[gargoyle-granite]] objects on the evidence.** If anyone has breached the Werebeast realm, the
-   werebeast gargoyles' **barrier** must have been breached — and a breached barrier *wakes the
-   gargoyles that built it* ([[the-realm-barriers]]). Realm-09's guardians are the one intact set;
-   if they were awake, none of this could be happening.
+   **Is there any point going?** If the Servants have breached the Werebeast realm, they have breached
+   its gargoyles' **barrier** — and a breach summons the gargoyles that built it
+   ([[the-realm-barriers]]). Anything running a harvest past them must already have destroyed them.
 
-   **Nobody in the room can resolve it.** Voisin's answer is that the incursion **cannot be large
-   scale** — powerful Mystics could get small parties past a barrier without breaking it. She is right,
-   and she does not know she is right; the gargoyles are in **stasis**, which nobody present has
-   considered.
+   **Voisin thinks the barrier is being circumvented, not breached** — she overheard that it is still
+   there when the Servants cross. The incursion **cannot be large scale**, and powerful Mystics could get
+   small parties round a barrier by magic. If so, the champions have two ways in: **use the same
+   circumvention**, or **trigger the barrier on purpose** to summon the gargoyles.
+
+   **[[wraith-delahaye]] supplies the other half.** There was no barrier anywhere when she left the
+   Damned realm — she saw its gate to the Mystics with the fortifications standing and no shield. A shield stands only while a gargoyle of its realm exists ([[the-realm-barriers]]) — so
+   the room has real reason to believe **at least one Werebeast gargoyle still functions, and no Damned
+   one does.** Nobody present has considered that the Werebeast ones might be in **stasis**.
 
    **And she is asked what the stockpile could be for.** She can only guess, and offers two: **crafting
    a very powerful artifact**, or **supplying an army of Mystics through a protracted war with no
@@ -102,7 +106,7 @@ mini-fix bots meeting, and five realms in one room.
 **The road to [[realm-09]] runs through the Mystics.** The Celestials' own gate to the Werebeasts is
 closed ([[realm-nearness-and-traversal]]), so the party travels 04↔03 into [[realm-04]] by
 [[celestial-tower]], then 04↔09 — **the harvest gate this council has just resolved to seal**, with
-[[the-graceful-servants]] at one end of it. [[conjurer-voisin]] leads five strangers back through the
+[[the-graceful-servants]] at one end of it. [[conjurer-voisin]] leads the others back through the
 tower she burgled, to use the door she asked them to close.
 
 **And the Templar does not come.** [[knight-ermengarda]] convinces him to **take the captured war
@@ -110,11 +114,14 @@ machine back the way it came** — recovering territory and liberating towns, [[
 The faction built around losing goes on the offensive, and its Commander leaves the alliance he just
 named to do it.
 
+**[[odie]] goes with him.** The council agrees that Odie should stay with the Templar, so that the
+Templar's party and [[mifix]]'s can find each other later.
+
 ## Rewards
 
 - No item. A party with a name, a destination, and a reason for every member to be in it —
   including the one whose reason is revenge.
-- A second party: a Templar, a Knight and a captured siege engine, pointed the other way.
+- A second party: a Templar, a Knight, [[odie]] and a captured siege engine, pointed the other way.
 
 ## Prerequisites
 
@@ -140,9 +147,9 @@ named to do it.
 
 ## Open
 
-- Whether the war machine is beaten before, during, or after the council.
 - What [[conjurer-voisin]] does mechanically once the second party arrives.
 - Whether [[templar-will]] learns what [[odie]] is beyond "a link to an ancient ally".
+- Which way into [[realm-09]] the champions choose — circumvent the barrier, or trigger it.
 - Whether the split (below) is a clean parting or a disagreement, and who argues for which side.
 - Whether Delahaye tells anyone about d'Artigue before she reaches realm-06, and who first.
 - **How the room takes it.** A council that has just been named as champions of ten realms learns in

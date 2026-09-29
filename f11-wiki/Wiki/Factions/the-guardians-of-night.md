@@ -61,13 +61,15 @@ realms. Whether the map ever labels it "the Guardians of Night" is not establish
 **They believe they are the good guys, and that is the whole point of them.** From inside the
 Guardians of Night, the recent unsealing of some of the gates is **proof that the Celestials, Fey
 Folk and Mystics intend to invade their realms again** — as those three did constantly, before the
-gargoyles ended it ([[the-gargoyle-guardians]]). They are not conquerors. They are people who
-believe a war is coming and have decided to land the first blow.
+gargoyles ended it ([[the-gargoyle-guardians]]). They do mean to conquer — every other realm, in
+the end — but as defence rather than appetite: they believe a war is coming and have decided to land
+the first blow.
 
 Everything else follows from that belief:
 
-- The gargoyles could not be used offensively and would have stopped a pre-emptive war, so the
-  gargoyles had to go ([[the-smashing-of-the-gargoyles]]).
+- The gargoyles are too powerful, could not be used offensively, and would interfere with everything
+  the Guardians plan — including opening [[the-damned]]'s own enemy gates when the time is right — so
+  **every** gargoyle has to go, the Damned's own included ([[the-smashing-of-the-gargoyles]]).
 - A realm that will not attack must be given a reason, so the barrier was broken and blamed on the
   enemy ([[the-broken-barrier]]).
 - Their own peoples are not told, because their own peoples would not agree.
@@ -81,6 +83,18 @@ network, which is exactly what makes "lost to her" strange for someone this old 
 balancing itself**: the same routine that judged the gargoyles too powerful to leave standing also
 judges three factions against one too imbalanced to allow, and blocks it the only way the fiction
 can — by losing the road.
+
+## The Plan
+
+**Conquer every other realm, starting with the [[celestials]].** The Guardians are mostly [[val]] and
+[[the-damned]], and the Celestials are the Damned's historic enemies ([[the-wheel-of-realms]]). Val's
+order: find a way to reach and recruit the [[werebeasts]]; defeat the Celestials; then invade the
+[[fey-folk]] with the resources of three realms. The Fey Folk come last, and the Damned fear them.
+
+**The Damned's own enemy gates open when the time is right — one realm at a time.** Not yet: the
+08→04 gate's shield is down, but it is still sealed and its fortifications stand. Not yet — and the gargoyles guarding
+them would stand in the way, which is why the Damned's gargoyles were smashed along with the
+green-skins' ([[the-smashing-of-the-gargoyles]]).
 
 **The name is a claim.** They call *themselves* Guardians — the same word the gargoyles are built
 around. Both are defending the realm; only one of them was allowed to choose what that means.
@@ -101,7 +115,7 @@ around. Both are defending the realm; only one of them was allowed to choose wha
 - [[mystics]] — **not their war.** The Mystics are running their own incursion into [[realm-09]] for
   Reagents ([[the-harvesting-of-the-werebeasts]]), authored by a different instance of the same system
   ([[the-graceful-servants]]). Two societies, one author, no coordination.
-- [[fey-folk]] — **not attacked**, and the reason is fear. The [[werebeasts]]' barrier facing them
+- [[fey-folk]] — **not attacked yet** — they are the plan's last target, and the reason is fear. The [[werebeasts]]' barrier facing them
   still stands, spared because the Guardians are commanded from [[realm-08]] and [[the-damned]] are
   afraid of the Fey Folk. Somebody else's fear is why realm-09's gargoyles survived.
 - [[wraith-delahaye]] — found them. Her investigation of the frozen Damned map reveals that the
@@ -117,13 +131,14 @@ around. Both are defending the realm; only one of them was allowed to choose wha
 - [[val|Val]] · antagonist
 <!-- gd:members:end -->
 
-Also present at the smashing: **a minotaur and a giant**, unnamed, who did the actual work.
+Also present at the smashing: **a minotaur and a giant**, unnamed, who did the actual work. The
+Minotaur now guards the Damned's gate to the [[mystics]], until Val takes him to [[realm-07]] for the
+trial ([[the-search-of-the-frozen-map]]).
 
 ## Notes
 
 **Why this faction matters structurally.** The game has had exactly one antagonist —
-[[faction-eleven-antagonist]] — who is unknowable by design, cannot appear, and whose motive is
-still unwritten. The Guardians of Night are the **middle rung**: visible, defeatable, and wrong for
+[[faction-eleven-antagonist]] — who is unknowable by design and cannot appear. The Guardians of Night are the **middle rung**: visible, defeatable, and wrong for
 reasons the player can follow. That gives the story a three-deep chain —
 
 > an Ancient → the Guardians of Night → three realms at war
@@ -132,7 +147,8 @@ reasons the player can follow. That gives the story a three-deep chain —
 spending any of the Ancients' mystery**. For a chaptered release ([[chapter-based-release]]) that is
 worth a great deal.
 
-They are also the only evidence of the Ancients **acting in the present**. Everything else the
+They are also, with [[the-graceful-servants]], the only evidence of the Ancients **acting in the
+present**. Everything else the
 eleventh faction has done is prehistory: building gates, numbering realms, extending the cycle. This
 is them doing something *now*, through people who have never heard of them.
 

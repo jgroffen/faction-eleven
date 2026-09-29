@@ -33,7 +33,8 @@ the map with. The wraith walking to it is walking into a neighbouring power's te
 ## Who's Here
 
 - [[val]] — it is hers. She is not in it when Delahaye arrives; she appears on the world map
-  moving toward it, and leaves from it for the [[green-skins]]' realm.
+  moving toward it, and leaves from it — by way of the Damned's gate to the Mystics, to collect the Minotaur — for the
+  [[green-skins]]' realm.
 - [[the-guardians-of-night]] — whose kingdom this is the seat of, and where Delahaye's
   investigation of them ends up.
 

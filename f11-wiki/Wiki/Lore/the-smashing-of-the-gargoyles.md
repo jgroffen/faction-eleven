@@ -38,7 +38,9 @@ commanded and cannot be turned against another faction; they exist precisely so 
 the realm's dead as an invasion force ([[the-gargoyle-guardians]]). What they *can* do is wake when
 a barrier breaks — and anyone intending to break a barrier on purpose has to deal with that first.
 
-So the order runs: **smash the guardians, then break the barrier, then start the war.** The
+So the order runs: **smash the guardians, then break the barrier, then start the war.** It is
+an informed order: [[val]] knows how gargoyles work completely — barriers, shields, breaches and
+waking. The
 [[the-guardians-of-night]] removed the safety catch before pulling the trigger, and every green-skin
 now marching on the [[celestials]] is walking through a door that was opened for them.
 
@@ -50,9 +52,11 @@ who escaped — he is a gargoyle who was **partially destroyed** and left for fi
 event in the green-skins' story turns on two people not bothering — which is a better cause than a
 prophecy, and it means the game's whole chapter-two protagonist exists because of shoddy work.
 
-**The Damned's gargoyles were smashed too**, in the same pattern and to the same end — their realm
-is now leading an invasion into the [[mystics]]' realm. **The werebeasts' gargoyles were not
-touched**, and [[realm-09]]'s barriers still stand.
+**The Damned's gargoyles were smashed too**, in the same pattern. The Guardians mean to destroy every
+gargoyle, knowing how powerful they are, because they would interfere with the Guardians' plans —
+which include opening the Damned's own enemy gates when the time is right ([[the-guardians-of-night]]). **The werebeasts' gargoyles were
+not touched by the Guardians**, and [[realm-09]]'s barriers still stand — though
+[[the-graceful-servants]] have since put those gargoyles into stasis.
 
 **Why they were spared is fear, not oversight.** That barrier faces the [[fey-folk]], and
 [[the-guardians-of-night]] are commanded from [[realm-08]] by a vampire. [[the-damned]] are afraid of
@@ -98,5 +102,3 @@ Every party in the room is betraying something, and none of them thinks they are
 - **How long before the barrier breaks does this happen?** The cutscene implies preparation, but the
   interval is unstated — days or centuries both work, and they tell different stories.
 - Whether anyone else in the realm knows the gargoyles were destroyed rather than merely dormant.
-- Whether [[val]] understood that breaking a barrier would wake them, or whether disarming them first
-  was [[the-guardians-of-night]]'s system reasoning it out on her behalf.

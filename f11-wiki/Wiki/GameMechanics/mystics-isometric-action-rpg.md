@@ -196,8 +196,6 @@ anyone who can reach a realm full of magical creatures. That is not a bug in thi
 
 ## Open
 
-- What the tree's branches are besides the six class branches — whether there is a shared trunk and
-  what is on it.
 - What "basic actions" are, and whether a Conjurer has a meaningful Reagent-free kit or only a
   fallback.
 - **What is on the two shared branches**, and what the Conjurer's own branch does.

@@ -46,7 +46,8 @@ screen and the reason the faction's second defeat reads as a success.
 
 - **[[the-evacuation-of-oluja-town]]** — the defence, the evacuation, and the abandonment.
 - **The town is taken**, and holding it is what [[knight-ermengarda]] leaves to undo: after the
-  battle at the monastery she leads a party back to **liberate** it.
+  battle at the monastery she and [[templar-will]] drive the captured war machine back to
+  **liberate** it ([[chapter-05]]).
 
 ## Set Here
 

@@ -40,7 +40,7 @@ as a different loadout or stat spread. **Incremental**, **tower defence**, **RPG
   traveller keeps is set by [[cross-realm-power-and-progression]]. When a protagonist travels, they play
   the host realm's genre: the [[ninja-kazuma]] plays a Metroid in
   [[realm-07]], and both he and the [[gargoyle-granite]] play [[celestials-hero-tower-defence]] in
-  [[chapter-04]]. This turns ten one-shot genre systems into systems that get **played more than
+  [[chapter-05]]. This turns ten one-shot genre systems into systems that get **played more than
   once**, and is the direct mitigation for the scope risk below.
 - **The fiction supplies the reason.** A genre is a realm's [[the-setting-statement|Setting
   Statement]] — the rules the engine reads for that world — so a visitor plays the host genre because
@@ -50,7 +50,7 @@ as a different loadout or stat spread. **Incremental**, **tower defence**, **RPG
 
 ## Game Style By Faction
 
-Eight are settled — the Pirates' as a style, not yet as content, and the Mystics' as systems without values. The rest carry an inherited genre from the earlier prototype which is
+Seven are settled — the Pirates' as a style, not yet as content, and the Mystics' as systems without values. The rest carry an inherited genre from the earlier prototype which is
 **unconfirmed** — the genre list has moved since then, and a per-faction review of game style and
 mechanics is outstanding.
 

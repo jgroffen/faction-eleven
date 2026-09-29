@@ -97,9 +97,8 @@ established.
 
 - **Whether she is at [[the-outpost]]** in chapter one, or first met at [[oluja-town]].
 - **Whether she is from Oluja Town**, or holds it, or only shares its name.
-- **When she leaves to liberate the town**, who goes with her, and whether the player plays any of
-  it — the [[celestials]] are played as the Templar, and the party is hers.
-- Whether she is in the room for the council ([[the-first-meeting-of-the-realm-champions]]), and
-  whether she travels when the Templar does.
+- **What the liberation plays like**, and whether the player plays any of it as her — the
+  [[celestials]] are played as the Templar ([[celestials-hero-tower-defence]]).
+- Whether she is in the room for the council ([[the-first-meeting-of-the-realm-champions]]).
 - What she does mechanically that the Templar does not — a distinct hero kit, or a second body of
   the same kind.

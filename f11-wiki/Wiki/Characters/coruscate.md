@@ -48,18 +48,17 @@ Both gates were unsealed **recently**. This is current business, not old history
 
 | Gate | Why | What it took |
 |------|-----|--------------|
-| **04↔09**, to the [[werebeasts]] | so [[the-graceful-servants]] could harvest werebeasts for Reagents, which pay out an inordinate amount ([[the-harvesting-of-the-werebeasts]]) | her Red Power for the gate — then **other** high-level Servants to sneak past the gargoyle barrier behind it and put realm-09's guardians in **stasis** |
+| **04↔09**, to the [[werebeasts]] | so [[the-graceful-servants]] could harvest werebeasts for Reagents, which pay out an inordinate amount ([[the-harvesting-of-the-werebeasts]]) | her Red Power for the gate — then **other** high-level Servants to circumvent the gargoyle barrier behind it and put realm-09's guardians in **stasis** |
 | **04↔03**, to the [[celestials]] | unstated | her Red Power alone; the gate sits inside [[celestial-tower]] under guard |
 
 **She manifests the gift as *dispelling*** — a seal treated as a working that can be undone, rather
-than a wall to be forced ([[ninja-kazuma]]) or a lock to be turned ([[val]]). Of the three carriers
-she is the only one who has used it more than once, and the only one who appears to understand it as a
-technique.
+than a wall to be forced ([[ninja-kazuma]]) or a lock to be turned ([[val]]). She and [[val]] have
+each used it twice; she is the only one of the three who appears to understand it as a technique.
 
 **Her power alone was not enough.** [[the-red-power]] opens gates and has no purchase on a
 [[the-realm-barriers|barrier]]. Getting into realm-09 took a team: Coruscate for the gate, and
-Servants with unique powerful gear and particular faction-class skills to pass the barrier **without
-breaking it** — which is why nothing woke — and to put the gargoyles under.
+Servants with unique powerful gear and particular faction-class skills to **circumvent** the
+barrier with magic — which is why nothing was alerted — and to put the gargoyles under.
 
 ## Quests
 

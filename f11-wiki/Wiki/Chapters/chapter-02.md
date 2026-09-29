@@ -51,7 +51,9 @@ Three threads, told in parallel and closing together.
    under threat. He works toward the truth in stages: the Celestial barrier is broken → the
    green-skins blame a Celestial incursion → **it was broken from inside**, by
    [[the-guardians-of-night]] ([[the-broken-barrier]]). The chapter ends his thread there: the
-   conspiracy found, before the conspirator appears.
+   conspiracy found, before the conspirator appears. Throughout, he **feels the Celestial shield
+   breached** again and again as the Guardians send Damned and green-skin forces through — the
+   invasion as a pulse only he can feel.
 
 **The Celestials and the Institute — the second signal.**
 
@@ -131,7 +133,7 @@ the kingdom's freeze is the largest one the player has yet seen ([[continuity-gl
 - [[autofix-alto]]'s **Quantum Comms** — without it the monastery bot calls and nobody hears.
 - The Templar's retreat to [[templar-monastery]].
 
-Beat 2 is gated on **three protagonists across two chapters** — the crack (Ninja, ch1), Quantum
+Beat 3 is gated on **three protagonists across two chapters** — the crack (Ninja, ch1), Quantum
 Comms (Autofix, ch1) and the Templar activating his signals (ch2). The most demanding gating chain
 in the game, and the clearest argument for tracking beats per chapter.
 
@@ -151,7 +153,7 @@ thousand-year-old plan.
   platform gating.
 - **How much of the Guardians' conspiracy is revealed here** versus held back. The chain is three
   deep and only the bottom two rungs can safely be shown; "broken from inside" is the second rung.
-- **Where the broken barrier is** in [[realm-07]], and how they broke gargoyle-shaped stone.
+- **Where the broken barrier is** in [[realm-07]], and how they broke a gargoyle shield and its fortifications.
 - **How short the Damned's campaign can be** and still make the wraith map feel earned — and what
   the other recruitment minigames are.
 - Whether the reduced RTS is *playable* enough to be a selling point, or a framing device for the

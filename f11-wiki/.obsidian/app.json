@@ -1,4 +1,12 @@
 {
   "strictLineBreaks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "Raw/",
+    "Schema/",
+    "_prompts/",
+    "_templates/",
+    "scripts/",
+    "Wiki/Logs/"
+  ]
 }

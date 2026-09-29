@@ -47,9 +47,8 @@ When [[templar-will]] uses his to call the [[mystics]] ([[the-calling-of-ancient
 **It talks.** Not directly: it speaks to Voisin **through the homunculi**, which is what turns her
 household of small servants into a dialogue system. An object with no mouth borrows several.
 
-**And it chooses the route.** It leads her past the [[werebeasts]] gate in the deep caverns and on
-to the Celestial one in [[the-graceful-servants]]' tower. It knows the difference between the two
-doors.
+**And it chooses the route.** It leads her up out of the cave and across the realm to the Celestial
+gate in [[the-graceful-servants]]' tower, nowhere near [[the-werebeast-caverns]].
 
 ## Why It Matters
 

@@ -55,7 +55,11 @@ it is frozen mid-campaign, and every object she touches tells her something is w
    the first thing she has found that could get her home.
 5. **Follow the trail to a vampire castle** — [[val-s-castle]]. Just as the Wraith moves close,
    **Val appears on the world map, moving toward the castle.**
-6. **Learn where Val is going next**: to the Green Skins' realm ([[realm-07]]). **Delahaye decides
+6. **Follow Val to the Mystics' gate.** Val does not leave straight away: she goes to the Damned's
+   gate to the [[mystics]] (08→04) to collect **the Minotaur**, who has been guarding it, and takes him
+   with her to ambush the Gargoyle. Delahaye, following, sees the gate's **fortifications standing and
+   no shield** — a gargoyle barrier with nothing left behind it ([[the-realm-barriers]]).
+7. **Learn where Val is going next**: to the Green Skins' realm ([[realm-07]]). **Delahaye decides
    to follow.**
 
 ## Rewards
@@ -74,6 +78,9 @@ it is frozen mid-campaign, and every object she touches tells her something is w
   turned outward — the same verb that recovered her life now dates the world.
 - **Val's timing.** Delahaye does not enter the castle and meet its owner; she arrives as Val does,
   and what she gets is Val's *next* destination. The castle is a signpost ([[val-s-castle]]).
+- **The unshielded gate is evidence she will need.** At the council her word that the Damned realm has
+  no shields left — because it has no gargoyles left — is what lets the room reason about realm-09's
+  ([[the-first-meeting-of-the-realm-champions]]). She sees it here, without knowing what it means.
 - **The gate she follows Val through** is the Damned's allied gate to the green-skins, which Val
   herself opened ([[sealed-interplane-gates]], [[the-red-power]]). Delahaye has no way to know that.
 - **What Delahaye thinks the Guardians are** — allies, a tool, a threat — is not stated; she follows

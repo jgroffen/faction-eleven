@@ -25,14 +25,14 @@ enemies: []
 The eleventh faction is known, where it is known at all, only as **the Ancients** — and almost
 nowhere is it known at all. All awareness that an eleventh faction ever existed has been lost.
 
-**It has three layers, and the game is the descent through them.**
+**It has four layers, and the game is the descent through them.**
 
-| Layer | What the player believes | Where it is answered |
-|---|---|---|
-| **1. Nothing** | There is no eleventh faction. The realms have always been sealed. | the starting condition |
-| **2. Two gods at war** | A destroyer against a preserver, with two lesser powers changing sides. | [[the-revelation-schedule]] |
-| **3. Four gods** | A pantheon made reality and has never agreed what to do with it. | [[the-four-gods]] |
-| **4. Four people** | They are four friends who write software, and the ten realms are ten computer games. | [[the-four-developers]] |
+| Layer                  | What the player believes                                                             | Where it is answered        |
+| ---------------------- | ------------------------------------------------------------------------------------ | --------------------------- |
+| **1. Nothing**         | There is no eleventh faction. The realms have always been sealed.                    | the starting condition      |
+| **2. Two gods at war** | A destroyer against a preserver, with two lesser powers changing sides.              | [[the-revelation-schedule]] |
+| **3. Four gods**       | A pantheon made reality and has never agreed what to do with it.                     | [[the-four-gods]]           |
+| **4. Four people**     | They are four friends who write software, and the ten realms are ten computer games. | [[the-four-developers]]     |
 
 **The player never leaves the inside.** Everything arrives through the eyes of characters within the
 realms, who read the developers' actions and arguments as the acts of gods. There is no outside view
@@ -107,8 +107,8 @@ now getting them to fight each other.
 
 And the realms **cover for them automatically**. Every intervention is absorbed by the realm it lands
 in, which generates whatever history is needed to explain it ([[the-retcon-engine]]). The
-[[institute-of-eight]]'s generational punishment is a fiction a realm wrote to account for a boss
-nobody placed. The cover story is airtight locally and contradicts the realm next door — which is the
+[[institute-of-eight]]'s punishment is two recent changes by the White — a guardian and a treason —
+which the realm has made look generations old. The cover story is airtight locally and contradicts the realm next door — which is the
 only reason the player can ever catch them ([[continuity-glitches]]).
 
 ## Standing
@@ -118,8 +118,9 @@ forgotten them entirely, the eleventh faction has no diplomatic standing at all:
 no one who remembers.
 
 The moral ambiguity in the earliest material still holds and is worth protecting: the Institute's
-gate "was sealed and guarded **for a reason**", and when [[ninja-kazuma]] cracks it open, green-skins pour
-through. The player's first act against the Ancients' work is arguably a mistake.
+gate "was sealed and guarded **for a reason**", and the player's first act against the Ancients'
+work — cracking it — is arguably a mistake. The reason is the White's: he guarded the gate to keep the Ninja,
+carrying the Red's power, out of the allied realms ([[the-gate-guardian]]).
 
 ## Members
 
@@ -132,7 +133,7 @@ through. The player's first act against the Ancients' work is arguably a mistake
 
 ## Ties
 
-- [[the-four-gods]] · [[the-four-developers]] — layers two and three.
+- [[the-four-gods]] · [[the-four-developers]] — layers three and four.
 - [[the-linking-of-the-realms]] · [[the-long-disconnection]] — the two interventions that made the
   world the player finds.
 - [[the-retcon-engine]] · [[continuity-glitches]] — how they hide, and how they fail to.
@@ -149,5 +150,5 @@ chapter one without knowing it. Do not ship a chapter without at least one artif
 cashed later.
 
 The three questions the game must answer — **that they existed, what they did, why** — remain the
-spine. Layer two answers all three, convincingly enough to feel final. Layer three answers them
+spine. The four gods answer all three, convincingly enough to feel final. The four developers answer them
 again.

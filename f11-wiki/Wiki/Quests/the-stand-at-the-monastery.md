@@ -58,7 +58,8 @@ this realm becoming visible before anyone in the room can name it.
 **They come through the green-skins' realm**, in two legs the player has already been shown from
 the other end: [[val]] unsealed [[the-damned]]'s allied gate to the [[green-skins]]
 ([[the-red-power]], [[sealed-interplane-gates]]), and the Celestials' enemy gate to the green-skins
-stands open with its barrier smashed from the inside ([[the-broken-barrier]]). So the undead at
+stands open — Val unsealed that too — with its barrier smashed from the inside ([[the-broken-barrier]]). Every force that crosses breaches the shield on the realm-07 side, and
+[[gargoyle-granite]] feels each one a realm away. So the undead at
 these walls walked through the door a Guardian opened and then through the hole the Guardians made —
 **the same two acts the [[gargoyle-granite|Gargoyle]] is investigating a realm away, arriving as
 enemy waves in somebody else's tower defence.**
@@ -91,5 +92,4 @@ Follows [[the-evacuation-of-oluja-town]] — the Celestials come here from the t
   and whether the Celestials can tell.
 - Whether the stand is a scene, a decision the player makes, or an objective they can fail.
 - What the sheltering townsfolk do to the defence — something to protect, a resource, or scenery.
-- Where [[knight-ermengarda]] is when the battle resolves; she leaves to retake [[oluja-town]]
-  after it, and the chapter that happens in is not set.
+- Where [[knight-ermengarda]] is when the battle resolves.

@@ -21,7 +21,7 @@ locations: []
 # Death And Return
 
 Each faction has its own in-fiction answer to why its protagonist can die and come back. The
-author's stated purpose is to **"justify" repeated death as a mechanic** — the fiction earns the
+stated purpose is to **"justify" repeated death as a mechanic** — the fiction earns the
 game convention rather than ignoring it. **Lore only for now**, not a systems commitment.
 
 **Canon:** proposed · **Era:** present
@@ -38,7 +38,7 @@ game convention rather than ignoring it. **Lore only for now**, not a systems co
 | [[werewolf-gill]] | Reverts to a puppy or baby for a while |
 | [[squidling-calamari]] | Beamed up and restored (unconfirmed) |
 | [[templar-will]] | TBD |
-| [[gargoyle-granite]] | TBD |
+| [[gargoyle-granite]] | Does not die in his own realm — being caught resets the section instead ([[gargoyle-stone-metroidvania]]) |
 | [[wraith-delahaye]] | Bound to a single spawn point — a grave to return to; the grave anchors a story about becoming less dead ([[wraith-memory-puzzle]]) |
 
 **[[conjurer-voisin]]'s is the only one the player can buy more of**, which makes it the only death
@@ -56,8 +56,7 @@ The [[institute-of-eight]] plays as [[ninja-rhythm-platforming]] — a Super Mea
 Boy-like platformer with **constant death and instant respawn**. The generational cut-scene above
 was written for a game where death is rare and meaningful. Both cannot be literal.
 
-**The generational death applies only to boss defeats.** In the
-words — *"he doesn't die except in boss-fights, he can recover from other failures."*
+**The generational death applies only to boss defeats:** *"he doesn't die except in boss-fights, he can recover from other failures."*
 
 So a failed section is a **recoverable failure**, not a death; only losing a boss fight costs a
 generation. This keeps the strongest inherited idea, makes the boss categorically

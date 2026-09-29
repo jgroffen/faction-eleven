@@ -65,20 +65,32 @@ happened. That makes her the game's first sympathetic villain: the person who di
 defences in order to protect it, carrying a power she cannot account for, convinced by a system that
 was built to convince her.
 
-**She wanted three realms, and settled for two.** The plan was to bring the might of the
+**She has used it twice.** Once on [[the-damned]]'s allied gate to the [[green-skins]], as the gift
+intended, and once on the green-skins' enemy gate to the [[celestials]] — the door the war goes
+through ([[the-broken-barrier]]).
+
+**She wants three realms, and is at war with two.** The plan was to bring the might of the
 [[green-skins]], [[the-damned]] and [[werebeasts]] against the [[celestials]] together. She never
 found a way into [[realm-09]] — the road from either [[realm-08]] or [[realm-07]] is lost to her —
-so she gave up looking and went to war with two. **This is the balance routines of
+so the war went ahead with two. **Finding that road is still her plan**: recruit the [[werebeasts]],
+defeat the [[celestials]], then turn the resources of three realms on the [[fey-folk]]
+([[the-guardians-of-night]]). **This is the balance routines of
 [[the-secret-society-system]] showing through, though she has no way to know it:** the gargoyles
 were too powerful, so they were destroyed; three factions against one was too imbalanced, so it was
 blocked from happening. Both look, from inside her story, like her own decisions.
 
 **Her seat is [[val-s-castle]]**, a vampire castle on the Damned's world map. It is where
-[[wraith-delahaye]]'s search for [[the-guardians-of-night]] ends up — and Val arrives there, and leaves
-it for the [[green-skins]]' realm, with a wraith she never notices following her
+[[wraith-delahaye]]'s search for [[the-guardians-of-night]] ends up — and Val arrives there, collects the
+Minotaur from the Damned's gate to the Mystics, where he stands guard, and leaves for the
+[[green-skins]]' realm, with a wraith she never notices following her
 ([[the-search-of-the-frozen-map]]).
 
-**Once she learns a Gargoyle survived, she goes after him personally.** She seeks out what he is —
+**She knows how gargoyles work, completely** — barriers, shields, breaches, waking — which is why
+they were smashed before the fortifications were broken, and not after.
+
+**She knows a Gargoyle survived because realm-07's shields never fell.** She understands that a
+gargoyle realm's shields stand only while one of its gargoyles exists ([[the-realm-barriers]]); after
+the smashing they should have gone down. **So she goes after him personally.** She seeks out what he is —
 damaged, running on a fraction of his power — before she hunts him down. See
 [[the-trial-of-the-last-gargoyle]]: she fails to talk him into believing he's malfunctioning, sets
 the Minotaur on him instead, and leaves without confidence the Minotaur wins. She resolves,
@@ -129,8 +141,8 @@ manipulated realm is an invaded one. See [[gargoyle-granite]].
 - [[the-red-power]] — what she carries, and its two other carriers.
 - [[xipe-totec-the-red]] — whose power she carries.
 - [[huitzilopochtli-the-blue]] — whose system made her a founder.
-- [[ninja-kazuma]] — another carrier of the same power, who will never meet her and is doing the same
-  thing at the other end of the wheel. A third carrier, a Mystic, is unnamed.
+- [[ninja-kazuma]] — another carrier of the same power; neither knows the other carries it, though
+  they meet at the trial. A third carrier is the Mystic [[coruscate]].
 - [[the-secret-society-system]] — what actually shaped her decisions, without her knowledge.
 - [[the-trial-of-the-last-gargoyle]] — where she hunts him down and loses the argument.
 - [[the-ambush-on-the-road]] — her assassins, and the wraith who stops them.

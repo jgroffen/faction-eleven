@@ -38,7 +38,12 @@ The shrine bot — awake for generations, and listening since it first heard any
 its own kind, calling from somewhere else entirely.
 
 The trail leads out of the Institute's territory to a ruin, and to a gate nobody has guarded for a
-very long time, standing cracked. The Ninja crosses.
+very long time, standing cracked. The Ninja crosses — and on the far side finds a **gargoyle
+barrier** ([[the-realm-barriers]]): a yellow, shimmering shield and the stone fortifications around it,
+both crumbling from disrepair. **Mifix and the Ninja talk over what they are looking at** — in-game
+dialogue — before deciding to **push through**. The breach **alerts [[gargoyle-granite]]** — who has been feeling the
+Celestial shield breached for a chapter, and now feels one at a gate nobody uses — and that is
+what brings the two of them together.
 
 **He takes [[the-clay-jar]] with him.** The shrine held two ancient devices and he is leaving with both —
 the bot that talks and the jar that does not. He has no idea what the jar is for; it is a family relic and
@@ -88,16 +93,12 @@ The second signal does not travel in a straight line. It comes from [[realm-03]]
 Two things follow, and both are good:
 
 1. **The green-skins' invasion route is the story's communication route.** The open gate that lets
-   the green-skins attack the Celestials is the same gate that carries the call for help. A
-   long-standing anomaly in [[the-wheel-of-realms]] — realms 03 and 07 are four places apart yet
-   connected — is now load-bearing rather than awkward. This leg is unaffected by Green Skins' move
-   from realm-09 to realm-07 (equidistant from realm-03 either way).
+   the green-skins attack the Celestials is the same gate that carries the call for help — an
+   ordinary enemy gate, realms four places apart ([[realm-nearness-and-traversal]]), doing two jobs.
 2. **The Ninja follows the signal back up its own path.** Going to [[realm-07]] is not a detour; it
    is the first leg of the route the signal took. That is why the trail leads to [[gargoyle-granite]]
-   before it leads to [[templar-will]]. **The second leg is resolved:** the cracked gate in
-   [[the-ancient-ruin]] is one of realm-01's three *enemy* gates under the fixed network
-   ([[realm-nearness-and-traversal]]) — "near" was never the actual rule, and distance-4 is exactly
-   where an enemy gate belongs.
+   before it leads to [[templar-will]]. The second leg is an enemy gate too: the cracked gate in
+   [[the-ancient-ruin]] is one of realm-01's three ([[realm-nearness-and-traversal]]).
 
 ## Preconditions
 
@@ -116,5 +117,7 @@ and it is the game's most demanding piece of [[protagonist-swapping-and-story-ga
 
 ## Open
 
+- **What the barrier dialogue says** — what each of them makes of a yellow shield neither has seen
+  before, and who argues for pushing through.
 - Whether the Ninja can return home, and what the Institute makes of a sentenced son crossing a
   gate he was not sentenced to.

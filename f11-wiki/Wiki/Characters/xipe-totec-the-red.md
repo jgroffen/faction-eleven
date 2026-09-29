@@ -92,14 +92,18 @@ actually is:
 
 - [[ninja-kazuma]] strikes [[the-gate-guardian]] with it, fails to hurt the boss, and **cracks the gate**
   behind it — the first opening in the multiverse's silence ([[the-cracked-gate]]).
-- [[val]] unseals [[the-damned]]'s gates to the [[green-skins]] and [[werebeasts]], and is then picked
+- [[val]] unseals [[the-damned]]'s gate to the [[green-skins]], then the green-skins' gate to the
+  [[celestials]] — the road to the [[werebeasts]] was
+  never found — and is then picked
   up by the Blue's Secret Society System and made the founder of [[the-guardians-of-night]].
-- a third carrier, a [[mystics|Mystic]] not yet named, who manifests it as *dispelling* a seal
-  rather than forcing or unlocking one. Which gate, and what it does to their story, is unwritten.
+- [[coruscate]], a [[mystics|Mystic]], manifests it as *dispelling* a seal rather than forcing or
+  unlocking one, and has opened two gates out of [[realm-04]] — one allied, as intended, and one to
+  the [[werebeasts]] for a harvest ([[the-graceful-servants]]).
 
 **All three carry the same gift, scoped identically: it opens a sealed gate and nothing else.** None
 of them can touch a [[the-realm-barriers|realm barrier]] with it — that lock belongs to a different
-key entirely, one only the Liches of [[the-damned]] have found ([[the-void]]).
+key entirely. The Liches of [[the-damned]] never need one: they cross between realms without gates
+([[the-void]]).
 
 **So the Red is the first cause of both the reconnection and the war.** She intended the first and
 set off the second.
@@ -128,5 +132,5 @@ have since stagnated for want of anyone willing to change them.
 - [[huitzilopochtli-the-blue]] — her opposite, and the other half of the answer.
 - [[quetzalcoatl-the-white]] — the senior she aligns with, until she loses patience with him.
 - [[the-red-power]] — what she gave, and its scope.
-- [[ninja-kazuma]] · [[val]] — two of the three she imbued.
+- [[ninja-kazuma]] · [[val]] · [[coruscate]] — the three she imbued.
 - [[the-cracked-gate]] — what her power produced, by accident.

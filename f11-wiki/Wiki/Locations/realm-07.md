@@ -36,18 +36,18 @@ number, which is canon but is not what the people who live here call home.
 
 See [[the-wheel-of-realms]].
 
-The realm with the most traffic out of it: green-skins press into [[realm-03]], [[realm-04]] and
-[[realm-01]]. The gate to [[realm-01]] is one of the faction's three enemy gates, per the fixed
+Green-skins press into [[realm-03]] through its enemy gate, and [[the-damned]] follow them by the
+same road. The gate to [[realm-01]] is one of the faction's three enemy gates, per the fixed
 network ([[realm-nearness-and-traversal]]) — an ordinary distance-4 gate, abandoned and cracked in
-[[the-ancient-ruin]] because nobody there is currently fighting. Why they are expanding at all has a
-partial answer — they are **being manipulated and used**
-([[the-manipulation-of-the-green-skins]]) — though by whom is unwritten.
+[[the-ancient-ruin]] because nobody there is currently fighting. Why they are expanding at all has an
+answer — they are **being manipulated and used**, by [[the-guardians-of-night]]
+([[the-manipulation-of-the-green-skins]]).
 
 ## As A Playable Space
 
 Realm 07 is a **Metroid map**: one gated space opened by acquiring abilities
 ([[gargoyle-stone-metroidvania]]). Under [[realm-governs-game-style]] it is played by **two
-protagonists** — [[gargoyle-granite]] at home in it, and [[ninja-kazuma]] passing through in [[chapter-02]] — each
+protagonists** — [[gargoyle-granite]] at home in it, and [[ninja-kazuma]] passing through in [[chapter-03]] — each
 with their own ability ladder and their own upgrade nodes, the Gargoyle's **lore fragments** and the
 Ninja's **challenge rooms**.
 

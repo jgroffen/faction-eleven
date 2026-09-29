@@ -110,8 +110,9 @@ they were sealed — that happened after she died ([[the-long-disconnection]]). 
 home.
 
 **Her road.** Investigation on the frozen map reveals [[the-guardians-of-night]], working on ways to
-reopen gates, and leads her to [[val-s-castle]] — just as [[val]] arrives and sets out for the
-[[green-skins]]' realm. Delahaye follows, and unseen watches Val confront [[gargoyle-granite]],
+reopen gates, and leads her to [[val-s-castle]] — just as [[val]] arrives. Delahaye tails her to the Damned's
+unshielded gate to the Mystics, where Val collects the Minotaur, and on into the [[green-skins]]'
+realm. Delahaye follows, and unseen watches Val confront [[gargoyle-granite]],
 [[ninja-kazuma]] and [[mifix]] ([[the-trial-of-the-last-gargoyle]]). Then she follows the Ninja —
 an enemy, to her, and a way to [[realm-01]] — sneaking his camps in wraith minigames to learn who
 these people are, and learning that the Ninja has never heard of the Pirates
@@ -167,7 +168,7 @@ handed glitch information — she fits it into game logic, most often as **messa
 - [[death-and-return]] — the grave as spawn point.
 - [[continuity-glitches]] — what the flicker is, and what characters make of it.
 
-Her faction's liches open gates into alien space and attack the [[aliens]]; whether the Wraith is
+Her faction's liches reach alien space without gates and loot the [[aliens]]; whether the Wraith is
 complicit, opposed, or unaware is unrecorded.
 
 ## Open

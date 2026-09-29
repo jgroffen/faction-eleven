@@ -53,7 +53,7 @@ ground and fielding armies like any other kingdom — so the Damned's player is 
 from chapter two, long before any protagonist can name what it is. Whether the campaign ever puts
 the two kingdoms at war, and whether the map labels it, are not established. The genre is RTS in the Warcraft mould —
 base, army, expansion — and it is the most zoomed-out style any faction has been given, alongside the
-[[pirates]]' unconfirmed 4X.
+[[pirates]]' open world with 4X elements.
 
 **Minigames are recruitment.** A specialist unit is not built; it is *earned* by playing a
 minigame for it. The player will play several over the campaign. Each is triggered by a map that
@@ -86,8 +86,8 @@ an exploration space, frozen mid-campaign, and the specialist unit the kingdom t
 loose on it.
 
 **Beyond the realm — later.** [[the-guardians-of-night]] intend to **expand the Damned kingdoms into
-the Celestial realm.** In a later chapter — six, provisionally — [[templar-will]] takes the
-war machine and **counterattacks**, and the game shows the Damned **defending the land they invaded
+the Celestial realm.** From [[chapter-05]] on, [[templar-will]] takes the
+captured war machine and **counterattacks**, and the game shows the Damned **defending the land they invaded
 in the Celestial realm** — played in the Celestials' own genre, with **Damned tower defences**
 ([[celestials-hero-tower-defence]], [[realm-governs-game-style]]). The kingdom that was the aggressor
 at home becomes the defender abroad.

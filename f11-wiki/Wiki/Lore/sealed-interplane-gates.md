@@ -30,9 +30,9 @@ extended disconnection cannot close by itself.
 Some are sealed, some stand open, some are guarded — and the difference is what drives most of the
 ten stories.
 
-**Not every seal is theirs, though.** The gates from [[realm-07]],
-[[realm-08]] and [[realm-09]] toward the [[celestials]], [[mystics]] and [[fey-folk]] carry a
-**second, faction-made layer**: stone **barriers** raised on the inside by the gargoyles, at the end
+**Not every seal is theirs, though.** The nine enemy gates into [[realm-07]],
+[[realm-08]] and [[realm-09]] carry a
+**second, faction-made layer**: **barriers** — yellow shields fortified with stone — raised on the inside by the gargoyles, at the end
 of the War of the Six Realms ([[the-realm-barriers]]). The gate is the Ancients'; the barrier is the realm's own.
 Where the two coincide, the realms walled themselves in and the Ancients simply made sure nobody
 came back out.
@@ -74,22 +74,23 @@ opening**, so until [[the-cracked-gate]] the robots can neither leave nor call.
 Gate by gate, where the state has actually been decided:
 
 - **Guarded, on top of sealed.** The [[institute-of-eight]]'s allied gate to the **[[robots]]** is
-  held by a **gate guardian**, and [[ninja-kazuma]]'s traitor family is sentenced to fight it endlessly.
-  The guardian is [[quetzalcoatl-the-white]]'s protection against foreign code entering a realm he
-  leads; the sentence is history [[realm-01]] generated to explain it ([[the-gate-guardian]]).
+  held by a **gate guardian** (and its gate to the [[aliens]] by another), and [[ninja-kazuma]]'s traitor family is sentenced to fight it endlessly.
+  The guardians are [[quetzalcoatl-the-white]]'s, placed to keep the Ninja out of the allied
+  realms, and the family's treason is his too; the generations of sentence are history [[realm-01]]
+  generated around both ([[the-gate-guardian]]).
 - **Abandoned and already cracked.** [[realm-01]] has a second gate — one of its three *enemy*
   gates, to the [[green-skins]] — lying forgotten in [[the-ancient-ruin]]. Nobody guards it and it
   has been cracked for a long time, which is how [[ninja-kazuma]] eventually leaves [[realm-01]]
-  ([[the-second-signal]]). The Institute watches the ally it fears and neglects the enemy nobody is
+  ([[the-second-signal]]) — pushing through the crumbling gargoyle barrier on the far side. The Institute watches the ally it fears and neglects the enemy nobody is
   currently fighting — a genuine oversight, not a design.
-- **Open, barrier broken.** The [[celestials]]' enemy gates to the [[green-skins]] and the
-  [[werebeasts]] stand open. **Why is now answered:** [[the-guardians-of-night]] broke the gargoyle
-  barrier on the green-skins' side from the inside ([[the-broken-barrier]]), and the realms behind
-  it believe the Celestials did it. Whether the werebeasts' gate to the Celestials was opened the
-  same way, or some other, is unstated.
+- **Open, barrier broken.** The [[celestials]]' enemy gate to the [[green-skins]] stands open:
+  [[val]] unsealed it ([[the-red-power]]) and [[the-guardians-of-night]] broke the gargoyle barrier's fortifications on the green-skins' side from the inside — the shield still stands
+  ([[the-broken-barrier]]), and the realms behind it believe the Celestials did it. Their enemy gate
+  to the [[werebeasts]] is **closed**.
 - **Unsealed by a god.** [[the-damned]]'s allied gate to the [[green-skins]] was opened by [[val]],
   carrying [[the-red-power|power]] [[xipe-totec-the-red]] gave her for the purpose. **It is now a
-  through-route.** Chained to the open, barrier-broken gate from [[realm-07]] into [[realm-03]],
+  through-route.** Chained to the gate from [[realm-07]] into [[realm-03]] — which Val also unsealed, and whose barrier the
+  Guardians broke —
   it carries Damned forces all the way into the [[celestials]]' realm
   ([[the-stand-at-the-monastery]]) — one unsealing and one smashed barrier, combining into a road
   between realms that are direct opposites and have no usable gate of their own. This is the
@@ -97,14 +98,14 @@ Gate by gate, where the state has actually been decided:
   to reach the [[werebeasts]] too — the Damned's *other* allied gate — but that road was never
   found, despite being exactly the kind of ordinary allied gate a very old entity should simply know
   ([[realm-nearness-and-traversal]] flags this as an open tension, not yet resolved).
+- **Unsealed from inside, recently.** [[coruscate]], a Mystic carrying the same power, dispelled the
+  seals on [[realm-04]]'s allied gate to the [[celestials]], inside [[celestial-tower]], and its enemy
+  gate to the [[werebeasts]] — whose barrier was passed without being broken
+  ([[the-harvesting-of-the-werebeasts]]).
 - **Not a gate at all.** [[the-damned]]'s high-level liches reach [[aliens]] space through a **void**
   instead of a door — and the reason is now concrete: the Damned and the Aliens sit at ring-distance
   2, where **no gate exists**. The void is not a shortcut around a sealed door; it is the only route
   there is ([[the-void]]).
-- **Real, but not one of these twenty-five.** The green-skins mine the Mystics' realm through an
-  open connection in their underworld — but Green Skins and Mystics sit at ring-distance 3, which
-  has no gate under this rule. That connection needs its own explanation, not this one
-  ([[realm-nearness-and-traversal]]).
 
 So the disconnection is **uneven**: most of the network is sealed and untouched, a few gates have
 been forced open by very different hands, and at least one connection in the material was never a

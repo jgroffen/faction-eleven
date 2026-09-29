@@ -29,7 +29,7 @@ Not a place you stand in so much as the arrangement of all the places there are.
 described in [[the-wheel-of-realms]]; its nature in [[the-multiverse-of-realms]].
 
 Whether the Wheel has an *interior* — a between-space the gates pass through — is unrecorded, and
-matters: [[the-damned]]'s liches open gates via a **void** where ancient gods dwell, which may be
+matters: [[the-damned]]'s liches cross between realms without gates, via a **void** where ancient gods dwell, which may be
 that interior, or may be something else entirely.
 
 ## Set Here

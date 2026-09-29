@@ -156,7 +156,8 @@ Two jobs, one mechanical and one narrative:
 - [[ninja-kazuma]] — his student, and the latest of many.
 - [[the-gate-guardian]] — the thing he cannot get past, and cannot protect the Ninja from.
 - [[autofix-alto]] — **his maker**, frozen one realm away, and woken by Mifix's activity log.
-- [[odie]] — the other surviving mini-fix bot, in [[realm-03]], and the source of the second signal.
+- [[odie]] — the other surviving mini-fix bot, in [[realm-03]], and the source of the second signal; stays with the Templar after the council, so the
+  two parties can find each other.
 - [[the-setting-statement]] — why a fixbot degrades away from home, and why one realm's worth of it
   has not killed him.
 - [[gargoyle-granite]] — the one thing he tries to read and cannot.

@@ -20,7 +20,7 @@ and across the chapters that ship. It tracks four things: which factions have ga
 events, the count of subtle and strong [[continuity-glitches]], and what the gods do.
 
 This page **does not own faction balance or story beats.** The [[chapter-based-release]] notes —
-[[chapter-01]] through [[chapter-04]] — remain the source of truth for those, and carry the
+[[chapter-01]] through [[chapter-07]] — remain the source of truth for those, and carry the
 detail. What lives here and nowhere else is the **glitch budget** and the **god-action schedule**,
 both of which are cross-chapter by nature and cannot be balanced one chapter at a time.
 
@@ -41,12 +41,12 @@ consequence of one.
 | The gargoyles           | Necromancers of [[realm-08]] and shamans of [[realm-07]] build [[the-gargoyle-guardians]] out of their own dead; the war stops                                | **mortals** — the one time the four were argued out of a position | [[the-realm-barriers]], and the precedent the protagonists will need    |
 | **The Sealing**         | The White proposes closing the ways and **wins**; White, Red and Blue seal the gates together. The Black does not contest it ([[the-long-disconnection]])     | **The White, Red and Blue**                                       | the game's starting condition                                           |
 | The thousand years      | Realms hollow out rather than keep. The eleventh faction is forgotten **entirely**                                                                            | consequence                                                       | the three-part mystery — that they existed, what they did, why          |
-| **The Red's imbuement** | [[ninja-kazuma]] and [[val]] given the power to breach gates and barriers, felt as a compulsion, to reach their realms' old allies. No proposal, no argument, no review | **The Red** — the **first illegitimate act in the whole history** | two characters who can open doors, and the licence for everything after |
-| The White's answer      | Guardians placed on the gates of the realms he cares for ([[the-gate-guardian]])                                                                              | **The White**                                                     | chapter one's boss                                                      |
+| **The Red's imbuement** | [[ninja-kazuma]], [[val]] and [[coruscate]] given the power to breach gates and barriers, felt as a compulsion, to reach their realms' old allies. No proposal, no argument, no review | **The Red** — the **first illegitimate act in the whole history** | two characters who can open doors, and the licence for everything after |
+| The White's answer      | Guardians on [[realm-01]]'s gates to the Robots and the Aliens, and the Ninja's family branded traitors, to keep the Ninja out ([[the-gate-guardian]])                                                                              | **The White**                                                     | chapter one's boss                                                      |
 | The Blue's answer       | [[the-guardians-of-night]] seeded — a secret society across realms, to reignite the War of the Six Realms                                                                   | **The Blue**                                                      | the present-day conspiracy                                              |
 | Unattended              | The high liches break containment and begin quietly looting [[realm-10]] ([[the-void]])                                                                       | **the Black's creation, acting alone** — none of the four knows   | the game's only witnesses to the outside                                |
 | **The smashing**        | [[val]], a minotaur and a giant go along the row with hammers. On the last one the hammer breaks ([[the-smashing-of-the-gargoyles]])                          | [[the-guardians-of-night]], prompted by an Ancient                | one surviving, partly-destroyed gargoyle                                |
-| **The broken barrier**  | [[realm-07]]'s barrier to the [[celestials]] broken **from inside**, and read by everybody as a Celestial incursion ([[the-broken-barrier]])                  | [[the-guardians-of-night]], prompted by an Ancient                | the war, and the bolt that ends [[gargoyle-granite]]'s torpor                   |
+| **The broken barrier**  | [[val]] unseals [[realm-07]]'s gate to the [[celestials]]; its barrier is broken **from inside**, and read by everybody as a Celestial incursion ([[the-broken-barrier]])                  | [[the-guardians-of-night]], prompted by an Ancient                | the war, and the bolt that ends [[gargoyle-granite]]'s torpor                   |
 
 The last two rows are where the pre-game history hands off: the barrier breaking **is** the opening
 of the game.
@@ -63,30 +63,31 @@ Rolled up from the chapter notes. Cells are terse by design; follow the link for
 | ------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------ | --------------------------------------------------------------------------------- |
 | **[[chapter-01]]** | [[robots]]             | [[robots]] full · [[institute-of-eight]] reduced · [[celestials]] reduced                                           | [[the-cracking-of-the-gate]] · [[the-fall-of-the-outpost]] · [[the-first-signal]]. **Every faction fails**                | TBD                                | TBD    | none scheduled                                                                    |
 | **[[chapter-02]]** | [[green-skins]]        | [[green-skins]] lead · [[the-damned]] reduced · [[celestials]] small · [[institute-of-eight]] · [[robots]] | [[the-waking-of-the-last-gargoyle]] · [[the-calling-of-ancient-allies]] · [[the-evacuation-of-oluja-town]] · [[the-second-signal]] · [[the-recruitment-of-the-wraith]] — ends on three cliffhangers, the kingdom frozen, [[oluja-town]] lost |
-| **[[chapter-03]]** | [[green-skins]] · [[the-damned]] | [[green-skins]] lead · [[the-damned]] by story · [[institute-of-eight]] travelling · [[celestials]] small | [[the-search-of-the-frozen-map]] · [[the-stand-at-the-monastery]] (the war machine arrives) · [[the-trial-of-the-last-gargoyle]] (watched twice) · [[the-unfreezing-of-the-kingdom]] |
-| **[[chapter-04]]** | [[mystics]] (inferred) | [[mystics]] ❌ no style · [[celestials]] · [[institute-of-eight]] · [[green-skins]] · [[robots]] by proxy · [[the-damned]] travelling | [[the-diagnosis-of-the-last-gargoyle]] · [[the-shadowing-of-the-ninja]] · [[the-ambush-on-the-road]] · [[the-answering-of-the-wand]] · [[the-convergence-at-the-monastery]] · [[the-first-meeting-of-the-realm-champions]] |
-| 5                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
-| 6                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
-| 7                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
+| **[[chapter-03]]** | [[green-skins]] · [[the-damned]] | [[green-skins]] lead · [[the-damned]] by story · [[institute-of-eight]] travelling · [[celestials]] small | [[the-search-of-the-frozen-map]] · [[the-stand-at-the-monastery]] (the war machine sighted) · [[the-trial-of-the-last-gargoyle]] (watched twice) · [[the-unfreezing-of-the-kingdom]] |
+| **[[chapter-04]]** | [[mystics]] | [[mystics]] ✅ · [[celestials]] · [[institute-of-eight]] · [[green-skins]] · [[robots]] by proxy · [[the-damned]] travelling | [[the-diagnosis-of-the-last-gargoyle]] · [[the-shadowing-of-the-ninja]] · [[the-ambush-on-the-road]] · [[the-ordinary-day-of-the-conjurer]] · [[the-answering-of-the-wand]] · [[the-convergence-at-the-monastery]] (the war machine arrives) |
+| **[[chapter-05]]** | [[celestials]] · [[mystics]] | [[celestials]] lead · [[mystics]] · [[institute-of-eight]], [[green-skins]], [[the-damned]] as visitors · [[robots]] by proxy | the war machine **captured** · [[the-first-meeting-of-the-realm-champions]] · the Celestials' counterattack begins · through [[celestial-tower]] and [[the-werebeast-caverns]] into [[realm-09]] |
+| **[[chapter-06]]** | [[werebeasts]] | [[werebeasts]] ❌ no style · [[mystics]] · [[green-skins]], [[institute-of-eight]], [[the-damned]] travelling | [[werewolf-gill]] recruited · realm-09's gargoyles found in stasis · the champions split in two |
+| **[[chapter-07]]** | [[aliens]] | [[aliens]] ❌ no style · [[institute-of-eight]], [[the-damned]] travelling · [[robots]] by proxy | the gate to [[realm-10]] opened · the Glitch Liches |
 | 8                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 | 9                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 | 10                 | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 
-**The target is 8–10 chapters with several faction arcs running per chapter.** Four exist. Rows
-five onward are placeholders for a shape, not a plan — except that chapter six, provisionally, is
-where the Templar takes the war machine against the Damned in his own realm
-([[damned-undead-kingdom-rts]]).
+**The target is 8–10 chapters with several faction arcs running per chapter.** Seven exist. Rows
+eight onward are placeholders for a shape, not a plan. The Templar's counterattack with the captured
+war machine starts in chapter five and runs on into Damned-held land in his own realm; which chapter
+that lands in is not set ([[chapter-05]], [[damned-undead-kingdom-rts]]).
 
 **Gameplay coverage is the healthiest column.** Seven of ten styles are settled and, under
 [[realm-governs-game-style]], each is played by whoever visits the realm rather than by one faction
-— so [[realm-07]] is built once and played twice across chapters two and three. The [[mystics]] are the only
-chapter lead without a style, and they lead chapter four ([[faction-design-status]]).
+— so [[realm-07]] is built once and played twice across chapters two and three. The chapter leads
+without a style are the [[werebeasts]] (chapter six) and the [[aliens]] (chapter seven)
+([[faction-design-status]]).
 
 ## Glitch Budget
 
 **Concrete glitch instances now exist, and are tracked in the Glitch Register on
 [[continuity-glitches]]** — the kingdom's freeze (chapter two), the engine editing [[val]]'s memory to
-unfreeze it (chapter three), [[mifix]]'s diagnosis (chapter four), and the Wraith's dev-layer readings
+unfreeze it (chapter three), [[mifix]]'s diagnosis and the Mystics' character-creation screen (chapter four), and the Wraith's dev-layer readings
 throughout. Which comes first is not a design concern; that the rate climbs is.
 
 **One strong candidate now exists, still unauthored to a kind or tier:** that the gargoyles — a
@@ -125,16 +126,16 @@ What *is* settled is the shape the counts must take:
 The **cause** of a glitch has two halves, and the larger one is now settled. **Ten sets of lore
 trying to reconcile into one narrative** is [[the-retcon-engine]], patching detected errors locally
 and seeding new ones it cannot foresee — a loop that manufactures most of what the player finds. The
-other half, **code and mechanics leaking between the ten games**, is what
-[[quetzalcoatl-the-white]]'s gate protections were built against; it is recorded in the interview and
-has never been compiled. What each looks like in a genre remains deferred work.
+other half, **code and mechanics leaking between the ten games**, is self-correction
+([[the-setting-statement]]) — what [[quetzalcoatl-the-white]]'s gate protections were built against. What each looks like in a genre remains deferred work.
 
 ## God Actions
 
 **The four are almost entirely prehistoric.** Every substantial act in the pre-game table is theirs;
-the chapters have **one** between them, and it is indirect — [[huitzilopochtli-the-blue]], acting
-through [[the-secret-society-system]] rather than in person, which the player meets as a green-skin
-invasion and never as a divine act ([[the-manipulation-of-the-green-skins]]). What was carried for a
+the chapters have **two** between them, both indirect and both the same system —
+[[huitzilopochtli-the-blue]]'s [[the-secret-society-system]] firing rather than the god acting in person,
+which the player meets as a green-skin invasion ([[the-manipulation-of-the-green-skins]]) and as a
+Mystic harvest ([[the-graceful-servants]]), and never as a divine act. What was carried for a
 long time as "an Ancient's motive, unknown" is now resolved: there is no motive, only a shipped
 system running its own goals unsupervised.
 
@@ -151,16 +152,13 @@ work read both ways, or it will only ever be a set piece.
 
 ## Open
 
-- **No glitch instances exist**, in any genre, at either tier. Nothing in the Subtle or Strong
-  columns can be filled until they do.
+- **No glitch instance has a tier yet.** The register on [[continuity-glitches]] has instances;
+  the Subtle and Strong columns cannot be filled until each is authored to one.
 - **No per-chapter glitch counts**, and no agreed ramp curve beyond "it climbs".
-- **No god actions scheduled inside any chapter** beyond the one indirect present-day manipulation.
-- **The cause of glitches is unwritten** — mechanical leakage between the ten games, as distinct
-  from the lore reconciliation [[the-retcon-engine]] already covers.
-- **Chapters four onward do not exist**, against a target of 8–10.
-- **What ends [[chapter-02]]** is unwritten, and its shape is provisional.
-- **Whether the chapter two / three restructure sticks.** It was explicitly provisional, and
-  [[chapter-04]]'s lead faction is an inference.
+- **No god actions scheduled inside any chapter** beyond the secret-society system's two present-day instances.
+- **Chapters eight onward do not exist**, against a target of 8–10.
+- **Whether the chapter boundaries hold.** [[chapter-02]] and [[chapter-03]] are marked provisional
+  in their own notes.
 - **Pre-game ordering is relative, not dated.** Only the thousand years has a number. Whether the
   design ever needs absolute dates is unexamined — and [[the-four-developers]] establishes that the
   gods' clock and the games' clock have no relationship at all.
@@ -172,7 +170,7 @@ work read both ways, or it will only ever be a set piece.
 - [[chapter-based-release]] — why the ordering has to be right before anything ships.
 - [[story-outline-requirement]] — the gate this page serves.
 - [[faction-design-status]] — how settled each faction is, behind the gameplay column.
-- [[the-secret-society-system]] — the mechanism behind the chapter table's one god action.
+- [[the-secret-society-system]] — the mechanism behind the chapter table's god actions.
 
 ## Sources
 

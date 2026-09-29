@@ -28,8 +28,8 @@ is friendly; below it are dungeons and an underworld.
 ## Identity
 
 Scholarly and dispersed rather than organised — individual practitioners in their own homes rather
-than an army. Their protagonist is [[conjurer-voisin]], whose cottage is the hub: gear comes back from
-dungeons to be refined and enhanced, and **homunculi** retrieve the Conjurer's gear and body and
+than an army. Their protagonist is [[conjurer-voisin]], whose cottage is the hub: she goes down into the
+caves for Reagents and comes home to spend them, and **homunculi** retrieve the Conjurer's gear and body and
 revive her.
 
 **Currency:** Reagents · **Role archetype:** Specialist
@@ -65,15 +65,13 @@ whether either party knows about the other is open.
 decides to seek out a [[werebeasts|Werebeast]] gargoyle — one aim of which is to have the Werebeast
 gargoyles **seal the gate to the Mystics** ([[the-first-meeting-of-the-realm-champions]]). That is
 the 04↔09 gate — **and she knows it**, because she found out on her way out of the realm
-([[celestial-tower]]). She agrees to have her own faction's door shut and does not explain why.
+([[celestial-tower]]) — and she is the one who tells the council, informing on her own faction.
 
 ## Open
 
-- **Why realm-09's gargoyles did not wake** for an active incursion. Stasis worked by the Servants
-  is the standing candidate, and whether it can be reversed is what the Realm Champions are walking
-  toward ([[the-mystics-second-secret-society]]).
-- **Whether [[the-graceful-servants]] are an instance of [[the-secret-society-system]]** or arose on
-  their own.
+- **What [[the-graceful-servants]]' Reagent stockpile is for.**
+- **Whether the stasis on realm-09's gargoyles can be undone** — what the Realm Champions are walking
+  toward ([[chapter-06]]).
 
 ## Faction Classes
 

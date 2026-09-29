@@ -53,7 +53,8 @@ purpose cannot be turned into somebody's invasion.
 own home. They are not one order; they are three, built to the same design by the same two hands.
 
 **They shape rock.** Alongside fighting, gargoyles are builders in stone — the capability that
-produced [[the-realm-barriers]], and the reason a barrier breaking is something they can feel.
+fortifies [[the-realm-barriers]]. The barriers themselves are shields of their own magic, which is why a
+breach is something they can feel.
 
 **Their makers were both Medics** ([[the-six-classes]]). **Necromancer** is
 [[the-damned]]'s Medic class and **Shaman** is the [[green-skins]]'. The guardians were not built by

@@ -19,8 +19,8 @@ enemies:
 
 # The Werebeasts
 
-Known mainly through the [[celestials]], who they attack — **less frequently than the green-skins, with
-fewer but very buff units**. Their protagonist is [[werewolf-gill]].
+**Not at war with anyone in the present.** Their gate to the [[celestials]] is closed, and
+[[the-guardians-of-night]] never reached them. Their protagonist is [[werewolf-gill]].
 
 **And they are being robbed.** The [[mystics]] are running incursions into [[realm-09]], capturing
 werebeasts and harvesting them for Reagents, because a werebeast yields an inordinate amount
@@ -39,21 +39,21 @@ while**, which reads as a growth/regression system rather than a straight respaw
 
 ## Standing
 
-- [[celestials]] — attacked through an open gate into their realm.
+- [[celestials]] — **not attacked.** The 03↔09 gate is closed ([[realm-nearness-and-traversal]]).
 
 They are the third realm of the
 old defensive alliance — with [[the-damned]] and the [[green-skins]] — invaded by the
 [[celestials]], [[mystics]] and [[fey-folk]] until [[the-gargoyle-guardians]] ended it. They have
-gargoyles of their own, loyal to [[realm-09]]. They are now being incited to attack the Celestials
-by [[the-guardians-of-night]].
+gargoyles of their own, loyal to [[realm-09]]. [[the-guardians-of-night]] meant to bring them into the war
+on the Celestials and never reached them.
 
 **Their gargoyles were never smashed and their barriers still stand**
 ([[the-smashing-of-the-gargoyles]]) — realm-09 holds the only intact set of realm guardians in the game,
-which is why [[gargoyle-granite]] comes looking. **But they will not wake.** The Servants passed the
-04↔09 barrier without breaking it and put the guardians under, so the alarm never rang and the sleepers
+which is why [[gargoyle-granite]] comes looking. **But they will not wake.** The Servants circumvented
+the 04↔09 barrier and put the guardians under, so the alarm never rang and the sleepers
 never answered. The champions discover this in [[chapter-06]].
 
-**The party at [[templar-monastery]] is coming for them** ([[the-convergence-at-the-monastery]]):
+**The party at [[templar-monastery]] is coming for them** ([[the-first-meeting-of-the-realm-champions]]):
 to ask an intact gargoyle where the Celestials' gate to the [[robots]] is, to give [[gargoyle-granite]] a
 judge he would trust on whether he is malfunctioning, to **reactivate** the Werebeast gargoyles and
 have them seal the gate to the [[mystics]], and to warn them that [[val]] means to destroy them.
@@ -88,12 +88,8 @@ The faction's own one-line description on that site: *"Shapechanging eco-terrori
 
 ## Open
 
-- **What state the Werebeast gargoyles are in.** "Never smashed" and "need reactivating" are both
-  on record; whether that is ordinary torpor or something done to them is unresolved — the
-  competing sketch (a stasis spell, cast by the Mystics) is held in
-  [[the-mystics-second-secret-society]] and contradicts the account above.
-- Which gate to the Mystics a reactivated gargoyle would seal, given no barrier is recorded on the
-  09↔04 gate ([[the-realm-barriers]]).
+- **Their identity, story and game style**, none of which exist yet.
+- Whether the stasis on their gargoyles can be undone, and by whom ([[the-graceful-servants]]).
 
 ## Notes
 

@@ -54,7 +54,7 @@ That war is [[the-war-of-the-six-realms]] — six realms, and only six: the [[pi
 [[institute-of-eight]] fought their own, [[the-pirate-institute-war]], alongside it.
 
 Then the invaded built [[the-gargoyle-guardians]] — the vampires of [[the-damned]] proposing it, the
-green-skins' shamans building it with them — and the war stopped.
+Damned's necromancers and the green-skins' shamans building them together — and the war stopped.
 
 ## What It Broke
 

@@ -33,8 +33,7 @@ The [[gargoyle-granite]] wants to protect and save the green-skins, and to stop 
 
 That is one clause, and it moves more of this game than anything else said about the faction. Every
 other faction in the material meets the green-skins as an invading horde: swarms breaking on the
-[[celestials]]' walls, an open connection repopulating the [[mystics]]' dungeons, a sealed door in
-[[realm-01]] holding them out. The horde has always had an unanswered question attached to it —
+[[celestials]]' walls. The horde has always had an unanswered question attached to it —
 **why are they expanding?** ([[green-skins]]). This is the first answer: they may not be expanding
 of their own accord.
 
@@ -53,7 +52,7 @@ what he is protecting them from is **whoever is using them**.
 
 ## Who Is Doing It
 
-**[[the-guardians-of-night]]**, a secret cross-realm group, working to incite the green-skins, the
+**[[the-guardians-of-night]]**, a secret cross-realm group, working to incite the green-skins and
 [[the-damned]] to invade the [[celestials]] — the [[werebeasts]] were intended too and were never
 reached ([[werebeasts]]). Their method is on record:
 
@@ -64,17 +63,12 @@ reached ([[werebeasts]]). Their method is on record:
 3. **Let the realms defend themselves** into somebody else's invasion.
 
 **And the Guardians are themselves being manipulated — by an Ancient.** The chain is three deep, and
-this is [[faction-eleven-antagonist]]'s only concrete action **in the present day** rather than in
-prehistory.
+this is one of [[faction-eleven-antagonist]]'s two concrete actions **in the present day** rather
+than in prehistory — the other is the same system's second instance, [[the-graceful-servants]].
 
-The manipulation is not confined to the green-skins. The [[mystics]] are under invasion by the
-Damned and some werebeasts, and **that was instigated by the Guardians too** — one coordinated push
-across the whole opposition axis of [[the-wheel-of-realms]].
+The manipulation is not confined to the green-skins. [[the-damned]] are in the waves at
+[[templar-monastery]] too, arriving by the same road ([[the-stand-at-the-monastery]]).
 
-## What Is Still Not Established
-
-- Whether this explains why the [[institute-of-eight]]'s gate was "sealed and guarded **for a
-  reason**" ([[the-cracked-gate]]). **Inference, not established.**
 
 ## The Ancient's Motive, Resolved
 

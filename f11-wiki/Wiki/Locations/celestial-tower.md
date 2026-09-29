@@ -48,7 +48,8 @@ through a tower of Summoners using the one trick Summoners invented.
 
 ## What Voisin Overhears In It
 
-**That the gate to the [[werebeasts]] is open, and that Reagent is being stockpiled.** She is not told
+**That the gate to the [[werebeasts]] is open, that its gargoyle barrier is still there when the
+Servants cross, and that Reagent is being stockpiled.** She is not told
 and nothing is explained to her; she hears it in passing while hiding, and **infers the harvest**
 ([[the-harvesting-of-the-werebeasts]]) — which she can do without help, because that the Mystics once
 harvested other realms' creatures is common knowledge at home.
@@ -69,9 +70,6 @@ supposed to know about. **The name is accurate and tells you nothing.**
 
 ## Open
 
-- **Whether the Werebeast gate is also physically in the tower**, or whether the tower only holds the
-  *evidence* that it is open — records, the Reagent stockpile, a way through. The caverns on Voisin's
-  route pass a Werebeast gate; whether that is the same door seen from below is unresolved.
 - **What exactly she overhears**, and from whom.
 - **What happens if the standby pool runs out inside the tower.** It does not refill in the field
   ([[mystics-isometric-action-rpg]]), so the section has a hard floor — whether that ejects her, fails

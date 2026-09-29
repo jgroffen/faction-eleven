@@ -34,7 +34,7 @@ Nobody else in [[realm-04]] has that reach.
 never heard of them, [[conjurer-voisin]] included, until she is standing in their tower.
 
 They do not smash. Where [[the-guardians-of-night]] hammer gargoyle heads
-([[the-smashing-of-the-gargoyles]]), the Servants **put things to sleep** — they walked past a barrier
+([[the-smashing-of-the-gargoyles]]), the Servants **put things to sleep** — they got round a barrier
 rather than breaking it, and left the guardians behind it dormant rather than dead. The name is not
 ironic: they regard what they do as tidy, reversible and owed.
 
@@ -48,9 +48,10 @@ amount, because Reagent yield scales with how magical a creature is.
 **Acting on it took three things and they had all three.** [[coruscate]], an ancient Summoner among
 them, unsealed the **04↔09 gate to [[realm-09]]** with [[the-red-power]]. Other Servants — high-level
 Mystics with particular faction-class skills, carrying **artefacts crafted by historically significant
-Mystics** rather than anything a vendor sells — got past realm-09's gargoyle barrier **without breaking
-it**, so nothing woke. Then they put the werebeast gargoyles into
-**stasis**, so nothing would wake later either. All of this is **recent**.
+Mystics** rather than anything a vendor sells — used magic to **circumvent** realm-09's gargoyle barrier and
+its fortifications, so nothing was alerted. Then they put the werebeast gargoyles into
+**stasis**, so nothing would wake later either, and **dismantled enough of the fortifications** for the
+harvest. All of this is **recent**.
 
 **It is a trickle, not an invasion.** Every stage needs the realm's best practitioners and equipment
 that barely exists, so the harvest runs as small parties slipping through. That is why nobody has

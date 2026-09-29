@@ -53,7 +53,7 @@ The Templar's call reached the Mystics ([[the-calling-of-ancient-allies]]). Some
    **This is her second question, and she asks it before the first.** A Mystic knows the Celestial gate
    is in that tower and knows it is supposed to be shut. Somebody has opened it, and she wants to know
    why.
-5. **Overhear what the tower is actually for.** Hiding, she hears that **the gate to the werebeasts
+5. **Overhear what the tower is actually for.** Hiding, she hears that **the barrier is still there** when the Servants cross, that **the gate to the werebeasts
    is open** and that **Reagent is being stockpiled**, and infers the rest
    ([[the-harvesting-of-the-werebeasts]]). She needs no explanation: that the Mystics once harvested
    other realms' creatures is common knowledge at home. What the histories at home *also* say is that
@@ -87,8 +87,8 @@ The Templar's call reached the Mystics ([[the-calling-of-ancient-allies]]). Some
   what she came for.
 - **The player never harvests a werebeast.** The exploit is something she learns about, not a verb
   she is given ([[the-harvesting-of-the-werebeasts]]).
-- **The wand chooses.** It leads her past the Werebeast gate to the Celestial one, which means the
-  object knows the difference. Whether that is navigation or intent is not established.
+- **The wand chooses.** It leads her out of the caves and across the realm to the Celestial gate,
+  nowhere near the Werebeast Caverns. Whether that is navigation or intent is not established.
 - **She is a hero unit when she gets there.** [[celestials-hero-tower-defence]] is built to take
   allies from other factions as hero units with their own powers and levelling; Voisin is the first
   one it takes. She fights a **final wave** before the machine arrives, to great effect.
@@ -98,7 +98,6 @@ The Templar's call reached the Mystics ([[the-calling-of-ancient-allies]]). Some
 - **What the Servants do about an intruder**, and whether Voisin is caught, seen, or clean. Whether
   [[coruscate]] appears at all.
 - **What exactly she overhears and from whom.**
-- Whether the caverns' Werebeast gate and the tower's secret are the same door from two sides.
 - Whether the wand's dialogue is a character or a voice — how much it knows, and whether it lies.
 - How the Templar and Conjurer arrive at the relics insight — what each knew that the other didn't.
 - Whether the cave she starts in is the tutorial cave or a later one, and how far across the realm the

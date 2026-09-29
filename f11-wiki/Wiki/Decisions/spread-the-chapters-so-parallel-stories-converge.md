@@ -18,7 +18,7 @@ superseded_by: ""
 
 # Spread the chapters so parallel stories converge
 
-The decision in one sentence, stated as a choice made — not as a topic.
+Spread the chapters apart, so a faction's gameplay begins a chapter before its protagonist joins the others.
 
 **Status:** accepted · **Decided:** 2026-09-22
 

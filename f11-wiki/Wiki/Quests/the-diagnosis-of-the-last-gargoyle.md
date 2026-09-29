@@ -52,7 +52,7 @@ been carrying that silently; here he stops carrying it silently.
 
 - No item. The Gargoyle's question is now shared rather than private, and it is still unanswered —
   which is what sends him looking for a gargoyle who could answer it
-  ([[the-convergence-at-the-monastery]]).
+  ([[the-first-meeting-of-the-realm-champions]]).
 
 ## Prerequisites
 

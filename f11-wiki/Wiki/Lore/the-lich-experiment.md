@@ -101,7 +101,7 @@ repellent: a thing that has understood it is owned, and gone into the dark to av
 - [[the-setting-statement]] — the rules they can read and everyone else lives inside.
 - [[the-retcon-engine]] — the system that cannot touch them.
 - [[continuity-glitches]] — what they see, and can explain.
-- [[the-realm-barriers]] — the lock only they can pass directly.
+- [[the-realm-barriers]] — a lock that never stands in their way: they move between realms without gates.
 
 ## Player-Facing
 
@@ -116,4 +116,4 @@ know what the gods are.
 - Whether any of the four ever discovers the hardening. A developer finding they cannot edit their own
   character is one of the sharpest scenes available, and the design has no place for it yet.
 - How many liches there are, and whether the AI nature belongs to all of them or only the high liches.
-- Exactly how they worked out barrier-breaking, and whether it has ever been used ([[the-void]]).
+- Exactly how they hack their way between realms, and where besides [[realm-10]] they have been ([[the-void]]).

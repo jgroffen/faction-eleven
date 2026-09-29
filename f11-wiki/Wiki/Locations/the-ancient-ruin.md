@@ -19,10 +19,9 @@ controlling_faction: ""
 A ruin in [[realm-01]] holding an **old abandoned gate** — and that gate is **already cracked**. It
 faces [[realm-07]], the [[green-skins]].
 
-**Resolved:** this is simply one of [[realm-01]]'s three *enemy* gates — realm-01 and realm-07 sit
-at ring-distance four, and distance-4 is exactly where an enemy gate exists
-([[realm-nearness-and-traversal]]). It isn't near, and it was never supposed to be; "near" was
-never actually the rule. What's genuinely notable is that the Institute guards its one allied gate
+It is one of [[realm-01]]'s three *enemy* gates — realm-01 and realm-07 sit at ring-distance four,
+and distance-4 is exactly where an enemy gate exists ([[realm-nearness-and-traversal]]). What's
+genuinely notable is that the Institute guards its one allied gate
 obsessively and has let this enemy gate rot unwatched — which is the real anomaly, and the reason
 [[ninja-kazuma]] gets through it at all.
 
@@ -34,6 +33,11 @@ Abandoned, unguarded, and forgotten — the opposite of the gate the [[institute
 a family to hold. Two gates in one realm, and the Institute watches the wrong one: they guard the
 door to their historic friends while the door to a hostile realm stands cracked open in a ruin
 nobody visits.
+
+**On the realm-07 side stands a gargoyle barrier**, as on every enemy gate into that realm
+([[the-realm-barriers]]): a yellow, shimmering shield and its stone fortifications, both crumbling from
+disrepair. Pushing through it is a breach, and a breach alerts the gargoyles — which is how
+[[gargoyle-granite]] learns someone has come.
 
 The Ninja is led here in chapter two, when the shrine's mini-fix bot detects **a second mini-fix
 signal** — one that is not coming through the cracked guardian gate ([[the-second-signal]]).
@@ -47,8 +51,6 @@ never let the robot signal through, because it does not face [[realm-02]].
 ## Open
 
 - Who built the ruin, who abandoned the gate, and how long it has been cracked.
-- Whether the "sealed and guarded **for a reason**" beat belongs here now
-  — see [[the-cracked-gate]].
 
 ## Set Here
 

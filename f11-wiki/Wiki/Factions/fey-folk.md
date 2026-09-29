@@ -56,7 +56,7 @@ The faction's own one-line description on that site: *"Creatures of folk lore an
 
 ## Notes
 
-One of five factions still substantially unwritten, alongside [[pirates]], [[werebeasts]],
-[[the-damned]] and [[green-skins]].
+One of the three factions without a settled game style, alongside [[werebeasts]] and [[aliens]]
+([[faction-design-status]]).
 
 **Unconfirmed** — carried over from the earlier prototype.

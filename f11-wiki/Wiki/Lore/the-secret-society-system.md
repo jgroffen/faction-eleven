@@ -63,7 +63,7 @@ eleventh faction wants from manipulating the Guardians of Night. It wants nothin
 Ancient in the sense the Guardians imagine — only a system running its own goals, with a shipped
 feature nobody is watching.
 
-## A Second Instance Is Coming
+## The Second Instance
 
 The system is not a one-off. Its second known instance is [[the-graceful-servants]], fired on the
 [[mystics]] — where the stagnation it detected was **the realm's own enemies**, a bestiary that had

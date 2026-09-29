@@ -106,14 +106,15 @@ accelerate ([[story-continuity-timeline]]). The register, in chapter order:
 | Chapter | Glitch | Manifestation | Who sees it |
 |---|---|---|---|
 | [[chapter-01]] | [[autofix-alto]] woken from a freeze by [[mifix]]'s activity log ([[the-first-signal]]) | freeze, ended | the player, as Autofix |
-| [[chapter-01]] onward | [[wraith-delahaye]]'s object readings return dev-layer text — a flicker, ASCII in the eyes ([[wraith-object-reading]]) | bug | the player; she takes it for oracles |
+| [[chapter-02]] onward | [[wraith-delahaye]]'s object readings return dev-layer text — a flicker, ASCII in the eyes ([[wraith-object-reading]]) | bug | the player; she takes it for oracles |
 | [[chapter-02]] | The Damned's kingdom **freezes** when Delahaye breaks out ([[the-recruitment-of-the-wraith]]) | freeze | the player, whose game stops |
 | [[chapter-03]] | [[val]] notices the freeze; the engine rewrites her noticing and unfreezes the game ([[the-unfreezing-of-the-kingdom]]) | hard-retcon | the player, watching an NPC forget |
-| [[chapter-04]] | [[mifix]] tries to diagnose [[gargoyle-granite]] and glitches ([[the-diagnosis-of-the-last-gargoyle]]) | not decided | the party; the first glitch a *character* names |
+| [[chapter-04]] | [[mifix]] tries to diagnose [[gargoyle-granite]] and glitches ([[the-diagnosis-of-the-last-gargoyle]]) | not decided | the party, who see it and name it |
+| [[chapter-04]] | The Mystics' character-creation screen refuses every class but Conjurer and picks her relic itself ([[the-ordinary-day-of-the-conjurer]]) | not decided | the player, as a refusal in the UI |
 
 Add to it as scenes are written; a chapter with no row is a chapter with a gap in the curve.
 
-Four kinds, in rough order of how loud they are:
+Five kinds, in rough order of how loud they are:
 
 | Kind | What the player sees |
 |---|---|

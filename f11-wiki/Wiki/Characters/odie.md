@@ -94,8 +94,12 @@ then. Odie names it; the Ninja does not work it out himself.
 **What he cannot tell anyone is the way home.** He knows the interplane gates exist — but not where
 any of them are. And **he does not know why he is in the Celestial realm at all**: whatever put him
 there was not explained to him before he was switched off, or did not survive it. So at the council
-([[the-convergence-at-the-monastery]]) the one uncorrupted memory in the game has nothing to say
+([[the-first-meeting-of-the-realm-champions]]) the one uncorrupted memory in the game has nothing to say
 about the one thing the party needs, and the party goes to ask a gargoyle instead.
+
+**He stays with the Templar.** When the champions split, the council agrees Odie should go with
+[[templar-will]], so that the Templar's party and [[mifix]]'s can find each other later
+([[the-first-meeting-of-the-realm-champions]]).
 
 ## Quests
 

@@ -70,14 +70,14 @@ of *which* class each protagonist was drawn from, not of any faction lacking a r
 | Medic | Kami | **[[autofix-alto]]** | Angel | Witch Doctor | Unicorn |
 | Specialist | Secret Agent | Raptorbot | Exorcist | **[[conjurer-voisin]]** | Banshee |
 
-| Class | 06 [[pirates]] | 07 [[werebeasts]] | 08 [[the-damned]] | 09 [[green-skins]] | 10 [[aliens]] |
+| Class | 06 [[pirates]] | 07 [[green-skins]] | 08 [[the-damned]] | 09 [[werebeasts]] | 10 [[aliens]] |
 |---|---|---|---|---|---|
-| Commander | **[[captain-leon]]** | Wendigo | Vampire | Orc | Grey |
-| Front Liner | Swashbuckler | **[[werewolf-gill]]** | Zombie | Giant | Thunder Lizard |
-| Heavy Weapons | Cannoneer | Werebear | Demon | Minotaur | Tripod |
-| Infiltrator | Quatermaster | Werebird | Mummy | **[[gargoyle-granite]]** | Martian |
-| Medic | Jester | Mermaid | Necromancer | Shaman | **[[squidling-calamari]]** |
-| Specialist | First Mate | Werecat | Wraith | Troll | Feline |
+| Commander | **[[captain-leon]]** | Orc | Vampire | Wendigo | Grey |
+| Front Liner | Swashbuckler | Giant | Zombie | **[[werewolf-gill]]** | Thunder Lizard |
+| Heavy Weapons | Cannoneer | Minotaur | Demon | Werebear | Tripod |
+| Infiltrator | Quatermaster | **[[gargoyle-granite]]** | Mummy | Werebird | Martian |
+| Medic | Jester | Shaman | Necromancer | Mermaid | **[[squidling-calamari]]** |
+| Specialist | First Mate | Troll | Wraith | Werecat | Feline |
 
 **Bold** = the faction's protagonist. Each faction note carries its own six with the taglines.
 

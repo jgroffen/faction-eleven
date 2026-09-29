@@ -41,26 +41,28 @@ alliance; this is where being an alliance costs something.
 
 ## Story
 
-1. **They meet [[werewolf-gill]].** The [[werebeasts]]' protagonist, and the sixth to join the
+1. **Where are the gargoyles?** The barrier said they exist; nobody knows how to find them. The
+   champions talk over their next move and decide to **find a local werebeast and ask**.
+2. **They meet [[werewolf-gill]].** The [[werebeasts]]' protagonist, and the sixth to join the
    champions. **Undesigned** — the Werebeasts have no story and no confirmed game style.
-2. **The gargoyles are in stasis.** Realm-09's guardians are the only intact set in the game and they
-   will not wake ([[the-realm-barriers]]). Somebody walked past their barrier without breaking it and
+3. **The gargoyles are in stasis.** Realm-09's guardians are the only intact set in the game and they
+   will not wake ([[the-realm-barriers]]). Somebody got round their barrier without breaching it and
    put them under — [[the-graceful-servants]], to clear the way for the harvest
    ([[the-harvesting-of-the-werebeasts]]). The champions came for a gargoyle who could answer questions
    and found a room full of sleepers.
-3. **The council argues.** Four goals, one party:
+4. **The council argues.** Four goals, one party:
    - Some want to move against [[val]] and [[the-guardians-of-night]].
    - Some want to **investigate the Servants** — what the stockpile is for, and whether the stasis can be
      reversed.
    - [[ninja-kazuma]] and [[mifix]] still want the [[robots]].
    - [[wraith-delahaye]] still wants the [[pirates]].
-4. **They agree that Val waits**, and split.
-5. **The Ninja's party turns toward the [[aliens]].** Kazuma carries [[the-clay-jar]] — the alien egg
+5. **They agree that Val waits**, and split.
+6. **The Ninja's party turns toward the [[aliens]].** Kazuma carries [[the-clay-jar]] — the alien egg
    from his family shrine — which calls the [[aliens]] ([[allied-faction-signals]]). If they can find the
    gate, **he can open it** ([[the-red-power]]). Delahaye agrees to this road because **the Alien realm
    has a path to the Pirate realm** ([[realm-nearness-and-traversal]]). Where that goes is
    [[chapter-07]].
-6. **The Gargoyle's party stays on the gargoyles.** [[gargoyle-granite]] leaves with
+7. **The Gargoyle's party stays on the gargoyles.** [[gargoyle-granite]] leaves with
    [[conjurer-voisin]] and [[werewolf-gill]] to work towards **freeing realm-09's guardians** — and once
    they are free, Granite means to put the question to them: is working against
    [[the-guardians-of-night]] what gargoyles should do?

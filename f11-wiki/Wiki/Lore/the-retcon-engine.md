@@ -99,14 +99,14 @@ retconning would give the player nothing to find; the seams are the evidence
 ## The Worked Example
 
 [[the-gate-guardian]] is the clearest case and the one the player stands inside from chapter one.
-[[quetzalcoatl-the-white]] added protective code to the gates of the realms he leads. The
-[[institute-of-eight]] now has a boss nobody placed, guarding a door nobody closed — and a complete
-account of why: [[ninja-kazuma]]'s family are traitors, sentenced to fight it endlessly, generation after
-generation.
+[[quetzalcoatl-the-white]] added a guardian to realm-01's gate to the Robots, and branded
+[[ninja-kazuma]]'s family traitors so nobody would help them past it. Both changes were recent. The
+[[institute-of-eight]] now has a boss that has stood there longer than anyone remembers — and a complete
+account of why: the family are traitors, sentenced to fight it endlessly, generation after generation.
 
-The sentence is a fiction the realm wrote to make sense of a change from outside. **Nobody in the
+The generations are a fiction the realm wrote to make two recent changes from outside look ancient. **Nobody in the
 Institute is lying.** The records are real, the shame is real, and generations of a family have
-lived and died inside an explanation that was generated to cover an edit.
+lived and died inside an explanation that was generated to cover two edits.
 
 ## The Second Worked Example
 
@@ -177,9 +177,9 @@ the opposite job — it refuses continuity-breaking events as they occur, and it
 as long as the worlds were separate. The retcon engine exists because prevention has nothing to bite
 on when the contradiction is **inherited rather than committed**.
 
-**This is the sharpest thing in the White's characterisation.** The mechanism that sentenced
-[[ninja-kazuma]]'s family to a treason they did not commit is not an impersonal property of reality. It is
-his fix, doing exactly what he designed it to do. He is the god who papers over the gods' mistakes,
+**This is the sharpest thing in the White's characterisation.** The mechanism that turned the
+treason he placed on [[ninja-kazuma]]'s family into generations of sentence is not an impersonal
+property of reality. It is his fix, doing exactly what he designed it to do. He is the god who papers over the gods' mistakes,
 and the paper is where the player finds every single clue.
 
 ## Ties

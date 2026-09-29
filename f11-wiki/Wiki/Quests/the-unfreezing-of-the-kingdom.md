@@ -82,7 +82,5 @@ into it from outside.
 - Whether the player sees the glitch land on Val — a flicker, a repeated line, a scene that plays
   twice — or only its result.
 - Whether Delahaye's absence from the map is noticed by the engine, the kingdom, or Val.
-- What Val's castle is to the RTS once play resumes — one of the rival kingdoms, or outside the
-  war ([[val-s-castle]]).
 - Whether the kingdom's war has moved on in the fiction while the game was frozen, or the freeze
   was literal for everyone.

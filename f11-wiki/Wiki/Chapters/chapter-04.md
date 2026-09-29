@@ -117,7 +117,7 @@ Tracked across all chapters in [[story-continuity-timeline]].
 **already besieged**, with [[oluja-town]]'s people inside it and the machine on the horizon;
 [[the-second-signal]] and [[the-calling-of-ancient-allies]] (chapter two).
 
-**Sets up [[chapter-05]]:** the war-machine battle with six protagonists on one wall, and the
+**Sets up [[chapter-05]]:** the war-machine battle with six realms on one wall, and the
 council that follows it ([[the-first-meeting-of-the-realm-champions]]).
 
 **Plants:** two unsealed gates and a Reagent supply line, all [[coruscate]]'s and
@@ -137,7 +137,7 @@ visited until [[chapter-05]].
 - Where on the road the ambush falls — in [[realm-07]] before the crossing, or in [[realm-03]]
   after it.
 - Whether the player plays the Damned kingdom at all this chapter, or only the Wraith.
-- **What five protagonists arriving mid-battle plays like** — the presentation problem is smaller
+- **What five characters arriving mid-battle plays like** — the presentation problem is smaller
   than it was now that the council has moved, but the arrival is still five genres walking into one
   tower defence.
 - Whether [[the-graceful-servants]] notice they were burgled.

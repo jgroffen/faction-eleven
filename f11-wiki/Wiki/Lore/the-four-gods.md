@@ -113,10 +113,11 @@ disagreement has grown bad enough that **the four themselves may not survive it*
   were fighting for their own survival and had earned stability ([[the-gargoyle-guardians]]). Their
   combined power is what closed the gates; the Black chose not to contest it and let the world run
   for a thousand years ([[the-long-disconnection]]).
-- **The Red broke the peace**, imbuing [[ninja-kazuma]] and [[val]] with the power to unseal gates to their
+- **The Red broke the peace**, imbuing [[ninja-kazuma]], [[val]] and [[coruscate]] with the power to unseal gates to their
   realms' old allies, because sealed realms were decaying. She was right, and she was **a thousand
   years late** — the realms she meant to save had already been hollowed out while she deliberated.
-- **The White answered** by placing guardians on the gates of the realms he cares for
+- **The White answered** by placing guardians between the Ninja and the realms allied to his, and branding the Ninja's family
+  traitors
   ([[the-gate-guardian]]).
 - **The Blue answered both**, renewing his alliance with the Black and seeding the
   [[the-guardians-of-night]] to reignite the War of the Six Realms.

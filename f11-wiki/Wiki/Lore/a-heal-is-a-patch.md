@@ -101,7 +101,7 @@ only ones the player has any reason to distrust.
 
 **[[mifix]] is the tragedy of it.** He is the one with enough self-awareness to reason about what he
 is seeing, and the one who has been running long enough that he **cannot trust his own code** — a
-conclusion the wiki already reached from the other direction, since his memory is corrupted and the
+conclusion that also follows from the other direction, since his memory is corrupted and the
 reasons have decayed into myth. He is right not to trust himself, he is right about the glitches, and
 he has no way to tell those two apart. `no-machine-repairs-itself` means he can never resolve it
 alone.

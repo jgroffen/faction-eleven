@@ -72,8 +72,8 @@ training, with lore-building and the shrine ([[chapter-based-release]]).
 
 ## Ties
 
-He carries [[the-red-power]], the same gift [[xipe-totec-the-red]] gave [[val]] and one other,
-unnamed, Mystic carrier.
+He carries [[the-red-power]], the same gift [[xipe-totec-the-red]] gave [[val]] and the Mystic
+[[coruscate]].
 
 [[mifix]] is the Ninja's companion and mentor, awake and teaching the family for
 generations — and the reason the Ninja survives everything except a boss fight. In
@@ -86,7 +86,8 @@ notes had it. The Ninja does not beat it until **every faction has been introduc
 They reach [[gargoyle-granite]] another way. In [[chapter-02]] the Ninja and [[mifix]] decide the faint second
 signal is **worth investigating as an alternative route to the Robot Realm** — the guarded gate
 being cracked but not passable — and follow it out through the abandoned cracked gate in
-[[the-ancient-ruin]] ([[the-second-signal]]) — arriving in [[chapter-03]]. The two then hunt together for
+[[the-ancient-ruin]] ([[the-second-signal]]) — arriving in [[chapter-03]] by pushing through the crumbling gargoyle barrier
+on the far side, which is what alerts the Gargoyle. The two then hunt together for
 [[odie]] — which [[templar-will]] has.
 
 **He is followed, and he does not know it.** [[wraith-delahaye]] — a Pirate ghost, dead a thousand
@@ -100,7 +101,7 @@ on condition ([[the-ambush-on-the-road]]).
 On the way, [[gargoyle-granite]] admits to him and Mifix that he may be malfunctioning, and Mifix's attempt
 to diagnose him glitches Mifix ([[the-diagnosis-of-the-last-gargoyle]]).
 
-At [[templar-monastery]] ([[the-convergence-at-the-monastery]]) the Ninja states the goal plainly to
+At the council ([[the-first-meeting-of-the-realm-champions]]) the Ninja states the goal plainly to
 everyone: **they are trying to reach the [[robots]].** Nobody there knows where the gate is, and he
 joins the plan to find a [[werebeasts|Werebeast]] gargoyle who would. He also learns there what
 Mifix is — not an ancestor spirit but the [[institute-of-eight]]'s link to an ancient ally, the same

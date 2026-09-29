@@ -55,10 +55,10 @@ happened. The third is **a hack, and he knows it**: the guardian is a quick miti
 failure he can see coming, shipped to **buy time to push for a longer-term fix**. He is not calmly
 defending his position any more. He is patching.
 
-*Inference, not established:* the White shipping an unexamined stopgap with a catastrophic side
-effect — a family sentenced to a fictional treason — is precisely the failure mode the four attribute
-to [[huitzilopochtli-the-blue]]. Under enough pressure the most careful of them has started working
-like the least careful.
+**And the stopgap has a second half that is not careless at all.** So that the Ninja and [[mifix]] would
+get no help reconnecting with the [[robots]], he also branded the Ninja's family **traitors** and cost
+them their reputation ([[the-gate-guardian]]). The most careful of the four, under enough pressure, has
+started changing people as well as code.
 
 ## The Worst Thing About Him
 
@@ -101,11 +101,11 @@ innovating, [[the-damned]] dwindle. The thousand years of stability he argued fo
 the realms out ([[the-long-disconnection]]).
 
 **And preserving it required him to change it.** He is the only one of the four who has damaged a
-realm while trying to protect it. To keep foreign code out of the games he cares for, he placed
-guardians on their gates — and a realm rewrote its own history to account for a boss that had never
-been there, inventing a treason and sentencing a family to it ([[the-gate-guardian]],
-[[the-retcon-engine]]). Generations of [[ninja-kazuma]]'s family have lived and died inside an explanation
-he caused and never saw.
+realm while trying to protect it. To keep the Ninja out of the allied realms he placed
+guardians on their gates and branded the Ninja's family traitors — and the realm rewrote its own
+history to make both look ancient, turning a recent treason into a sentence served for generations
+([[the-gate-guardian]], [[the-retcon-engine]]). Generations of [[ninja-kazuma]]'s family have lived and
+died inside a history he began on purpose and never saw finished.
 
 He knows. It is the crack the protagonists eventually get in through: **the one god who already
 loves them, and already suspects his own method is failing.**

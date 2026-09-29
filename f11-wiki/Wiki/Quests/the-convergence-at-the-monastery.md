@@ -28,8 +28,8 @@ prerequisites:
 
 # The Convergence At The Monastery
 
-The culmination of a chapter, and the first time protagonists from four factions stand in the same
-place: **[[ninja-kazuma]], [[mifix]] and [[gargoyle-granite]] reach [[templar-will]] and [[conjurer-voisin]]**, who are
+The culmination of a chapter, and the first time protagonists from five factions stand in the same
+place: **[[ninja-kazuma]], [[mifix]], [[gargoyle-granite]] and [[wraith-delahaye]] reach [[templar-will]] and [[conjurer-voisin]]**, who are
 already together. They arrive **at the end of a wave Voisin has just fought**, and the war machine arrives
 behind them — which ends [[chapter-04]]. What the room decides is the council, and it happens
 after the battle, in [[chapter-05]] ([[the-first-meeting-of-the-realm-champions]]).
@@ -86,6 +86,4 @@ room runs through a door that only a guardian remembers.
 
 - What the convergence *plays* like with five genres arriving mid-battle — see [[chapter-04]].
 - Whether the four arrivals fight the tail of the wave, or reach the walls just as it breaks.
-- **Which gate "the gate to the Mystics" is** and what state the Werebeast gargoyles are in — the
-  whole Werebeast side is deferred to [[the-mystics-second-secret-society]] and
-  [[gargoyle-ninja-and-the-celestials-gate]].
+

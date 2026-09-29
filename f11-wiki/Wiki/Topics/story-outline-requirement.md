@@ -43,8 +43,8 @@ being written — which is exactly the situation in which a missing outline beco
 | Deliverable | State |
 |-------------|-------|
 | Chapter one | **specified end to end** — [[chapter-01]] |
-| Chapter two | outlined, unbalanced — [[chapter-02]] |
-| Chapters three onward | nothing |
+| Chapters two to seven | outlined — [[chapter-02]] to [[chapter-07]]; six and seven wait on factions with no story |
+| Chapters eight onward | nothing |
 | The ending | **shape settled**, beats unwritten |
 | The Ancients' motive | **settled** — [[faction-eleven-antagonist]] |
 | Roles of the seven unbuilt factions | nothing — see [[faction-design-status]] |
@@ -95,7 +95,7 @@ choice.
 ## What The Outline Still Needs
 
 - **The beats.** The arc's shape is settled; the scenes that deliver it are not.
-- **Chapters four onward**, under a structure that has changed — see [[chapter-based-release]].
+- **The chapters after seven**, against a target of eight to ten — see [[chapter-based-release]].
 - **The seven thin factions' roles**, which are now derivable from the motive and should be derived
   rather than invented ([[faction-design-status]]).
 - **The beats that carry each rung** of [[the-revelation-schedule]], so evidence lands in chapters

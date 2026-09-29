@@ -88,7 +88,7 @@ is the hard problem, since nothing in the game may stand outside the realms
 
 ## Open
 
-- **Almost all of it.** The shape above is the author's own rough sketch.
+- **Almost all of it.** The shape above is a rough sketch.
 - What "stabilising a realm" is as an *action* — what the protagonists actually do, and whether it is a
   final game mode ([[faction-unique-features]]).
 - How the player is shown the developers' reading without an outside view.

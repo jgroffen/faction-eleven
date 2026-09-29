@@ -49,7 +49,8 @@ explain. A line branded traitors, serving a sentence at a gate, carrying a manda
 multiverse back together that nobody remembers the terms of.
 
 The shrine holds a second thing they do not understand: [[the-clay-jar]], containing an alien egg,
-which can be activated to signal the [[aliens]]. A family sentenced to guard one gate has been
+which can be activated to signal the [[aliens]] — fitting for a family that was historically the
+realm's **main contact with the [[robots]] and the Aliens** ([[the-gate-guardian]]). A family sentenced to guard one gate has been
 quietly keeping the means to call **two** other realms — see [[allied-faction-signals]].
 
 **Game style:** [[ninja-rhythm-platforming]] — a Super Meat Boy-like skill platformer with a
@@ -61,8 +62,10 @@ rhythm layer, replacing the prototype's rogue-like label.
 
 The Institute holds **two gates and watches the wrong one**: a guarded gate to the historically
 friendly [[robots]], and an abandoned, already-cracked gate to the hostile [[green-skins]], lying
-forgotten in a ruin. Why the order guards a friend and ignores an enemy is unwritten and is one of
-the better questions the setting has produced.
+forgotten in a ruin. The friend is guarded because [[quetzalcoatl-the-white]] guarded it: the
+guardian was placed to keep the Ninja out of the allied realms, the family was branded traitors so
+nobody would help him, and the Institute's history was written around both afterwards
+([[the-gate-guardian]]).
 
 **They once set out to erase a realm.** In the linked era, individual [[pirates|Pirate]] ships raided
 [[realm-01]], and the Institute — far more organised than a scatter of raiding captains — launched
@@ -105,4 +108,4 @@ The faction's own one-line description on that site: *"Highly trained specialist
 
 Appears in **chapter one in genuinely reduced form** — a single cycle of boss fight, defeat and
 training, plus lore-building and the mini-fix bot in the family shrine
-([[chapter-based-release]]). The bot is woken by [[the-first-signal]].
+([[chapter-based-release]]). Its call is the first thing through the crack in [[the-first-signal]].

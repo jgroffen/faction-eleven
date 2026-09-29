@@ -53,7 +53,7 @@ how the realm feels about its neighbours:
 | [[realm-05]] [[fey-folk]] | allied | a structure built around it; unplaced |
 | [[realm-09]] [[werebeasts]] | enemy | **[[the-werebeast-caverns]]**, deep underground — and still called that |
 | [[realm-08]] [[the-damned]] | enemy | **catacombs**, underground; unplaced |
-| [[realm-10]] [[aliens]] | enemy | underground; unplaced |
+| [[realm-10]] [[aliens]] | enemy | underground; unplaced — of no interest, since Aliens yield no Reagents |
 
 **Allied gates get a building. Enemy gates get put below ground and left.** A Mystic knows roughly the
 way to any of them — finding the exact spot may take searching, but not asking.
@@ -66,11 +66,6 @@ secret, since the doors themselves never were.
 
 ## Open
 
-- **The third underground gate.** The pattern was given as caverns for the werebeasts, catacombs for the
-  Damned, and **caves for the [[green-skins]]** — but realm-04 has **no gate to [[realm-07]]**, which
-  sits at ring-distance three where the network has nothing
-  ([[realm-nearness-and-traversal]]). Realm-04's third enemy gate is to the [[aliens]], and it is
-  recorded as theirs above. Needs confirming.
 - Where the [[fey-folk]], [[the-damned]] and [[aliens]] gates actually sit, and what buildings stand on
   the allied ones.
 

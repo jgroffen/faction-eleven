@@ -46,6 +46,6 @@ Player character. Medic archetype. Currency: DNA.
 
 ## Ties
 
-Fights [[the-damned]], whose liches opened the gates into alien space.
+Fights [[the-damned]], whose liches reach alien space without any gate.
 
 **Unconfirmed** — carried over from the earlier prototype.

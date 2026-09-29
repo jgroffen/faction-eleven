@@ -42,10 +42,10 @@ Every divine act in [[the-four-gods]] is a change to a codebase:
 | Realms descend into war and reality nears destruction | linking caused severe side effects across the games                                                                    |
 | Three gods seal the gates with their combined power   | the White argued that closing the links would stabilise the games, and won — the three shut them down                   |
 | Realms decay in isolation                             | unmaintained games rot — no patches, no new content                                                                    |
-| The Red imbues [[ninja-kazuma]] and [[val]]                  | a sneaked-in code change letting two characters unseal gates                                                           |
-| The White learns of it and sets guardians             | a notification that characters are appearing in the wrong games, a look through the change history, and defensive code |
+| The Red imbues [[ninja-kazuma]], [[val]], [[coruscate]]            | a sneaked-in code change letting three characters unseal gates                                                           |
+| The White learns of it and sets guardians             | a notification that characters are appearing in the wrong games, a look through the change history, defensive code, and a treason |
 | The Blue seeds the [[the-guardians-of-night]]         | shipped a **Secret Society System**                                                                                    |
-| Liches open gates into a void                         | AI-driven characters that hacked out onto the network ([[the-void]])                                                   |
+| Liches cross realms through a void, without gates     | AI-driven characters that hacked out onto the network ([[the-void]])                                                   |
 
 **Time does not map.** A thousand years in a realm is an afternoon at a desk; the gods' clock and
 the games' clock have no relationship, and the mismatch is a source of glitches rather than a
@@ -173,8 +173,8 @@ between them they produced every large feature of the world the player finds.
 the instability was never cured, only contained, and the containment produced stagnation on top of it.
 The four argued and argued and settled nothing.
 
-3. **The Red sneaked a small change into the codebase** — the Red Power, granted to [[ninja-kazuma]] and
-   [[val]]. No proposal, no argument, no review. **This is the first illegitimate act in the entire
+3. **The Red sneaked a small change into the codebase** — the Red Power, granted to [[ninja-kazuma]],
+   [[val]] and [[coruscate]]. No proposal, no argument, no review. **This is the first illegitimate act in the entire
    history**, and it is the catalyst: it is what licenses
 4. **the Blue's changes**, made the same way and much larger.
 
@@ -198,7 +198,7 @@ who notices when it changes.
 | ---------------------------- | ------------------------------------------------------- |
 | [[quetzalcoatl-the-white]]   | 01 [[institute-of-eight]] · 02 [[robots]]               |
 | [[xipe-totec-the-red]]       | 03 [[celestials]] · 04 [[mystics]] · 05 [[fey-folk]]    |
-| [[huitzilopochtli-the-blue]] | 06 [[pirates]] · 07 [[werebeasts]] · 09 [[green-skins]] |
+| [[huitzilopochtli-the-blue]] | 06 [[pirates]] · 07 [[green-skins]] · 09 [[werebeasts]] |
 | [[tezcatlipoca-the-black]]   | 08 [[the-damned]] · 10 [[aliens]]                       |
 
 Three things fall out of this and none of them had to be invented:
@@ -250,9 +250,9 @@ Facts that were arbitrary become necessary:
   games. [[realm-governs-game-style]] — the realm's mechanics apply to whoever stands in it — stops
   being a design rule and becomes a fact about which Setting Statement the engine is reading
   ([[the-setting-statement]]).
-- **Gates only reach near-by realms** ([[sealed-interplane-gates]]) because *near* means
-  **compatible**. The wheel is a compatibility graph. Nobody chose to build gates only between
-  neighbours; neighbours are the only places a gate can work.
+- **Gates join only allied and enemy realms** ([[sealed-interplane-gates]]) because *allied or
+  enemy* means **compatible**. The wheel is a compatibility graph. Nobody chose to leave realms two
+  or three places apart unconnected; those are places a gate cannot work.
 - **Level one of navigation is the faction select screen** ([[nested-map-navigation]]) — a launcher.
 - **Ten factions have ten different fictional excuses for respawning** ([[death-and-return]]) and ten
   separate currencies ([[faction-currencies]]) because they are ten checkpoint systems and ten
@@ -381,7 +381,7 @@ gate-breaching, corpse-stealing, and the game's least sympathetic faction.
 ## Ties
 
 - [[the-four-gods]] — the layer above this one, and the one the realms can reach.
-- [[faction-eleven-antagonist]] — the three-layer structure in full.
+- [[faction-eleven-antagonist]] — the layered structure in full.
 - [[the-retcon-engine]] · [[continuity-glitches]] — how code changes become lore, and how that fails.
 - [[the-ancient-language]] — the channel this arrives through.
 - [[the-void]] — the only place in the fiction that touches the studio's infrastructure directly.

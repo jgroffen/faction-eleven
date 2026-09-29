@@ -50,9 +50,7 @@ Realms at distance 2 or 3 have **no gate at all**. This is the entire rule, and 
 ten allied gates (the ring itself) and fifteen enemy gates, for twenty-five in total — every realm
 touches five others and is unreachable by gate from the remaining four.
 
-**This corrects [[sealed-interplane-gates]]'s old account.** That note described nearness loosely as
-"gates connect realms that are close," with distant realms flatly impossible. The real rule is
-stranger and more precise: the *closest* relationship (distance 1) and the *three farthest*
+The rule is stranger than plain nearness: the *closest* relationship (distance 1) and the *three farthest*
 (distance 4-5) both get gates; the realms in between (distance 2-3) get nothing. Near does not mean
 compatible; **allied or enemy** means compatible.
 
@@ -104,26 +102,26 @@ two independent layers:
 2. **The barrier** (the gargoyles' layer, [[the-realm-barriers]]), which exists on the **nine** enemy
    gates into realms 07, 08 and 09. Breaking it is a second, separate act from unsealing the gate
    underneath — [[the-guardians-of-night]] broke barriers; they did not use Red Power to do it. A
-   barrier can also be **passed without breaking**, by a small party of very capable specialists, in
-   which case the gargoyles never wake ([[the-harvesting-of-the-werebeasts]]).
+   barrier can also be **circumvented** with magic, by a small party of very capable specialists, in
+   which case the gargoyles are never alerted ([[the-harvesting-of-the-werebeasts]]).
 
 **A gate's existence never needed a story reason. Its current state always does.** Every dramatised
 gate in the material now reads as one specific state on top of a network that was always there:
 
-- [[the-gate-guardian]]'s gate (01↔02, allied) — sealed, then **guarded** on top, by
+- [[the-gate-guardian]]'s gates (01↔02 and 01↔10, allied) — sealed, then **guarded** on top, by
   [[quetzalcoatl-the-white]].
-- [[the-ancient-ruin]]'s gate (01↔07, **enemy**, distance 4) — **abandoned and cracked**. It is one
+- [[the-ancient-ruin]]'s gate (01↔07, **enemy**, distance 4) — **abandoned and cracked**, its realm-07 barrier crumbling. It is one
   of Institute's three enemy gates, not an anomaly: the Institute guards the ally it fears might turn
   and has simply neglected the enemy gate nobody was watching. That neglect is why [[ninja-kazuma]] gets
   through it at all.
 - The Damned's gate to the Green Skins (08↔07, allied) — **unsealed by Red Power**, [[val]]'s.
-- The Celestials' gate to the Green Skins (03↔07, enemy) — **open**, because
+- The Celestials' gate to the Green Skins (03↔07, enemy) — **open**: [[val]] unsealed it and
   [[the-guardians-of-night]] broke the barrier from the inside ([[the-broken-barrier]]).
 - The Celestials' gate to the Werebeasts (03↔09, enemy) — **closed**, and the [[werebeasts]] are not
   in the war at all ([[werebeasts]]). Nothing comes through it in either direction.
-- The Mystics' gates to the Werebeasts and the Celestials (04↔09, 04↔03, both enemy) — **unsealed
-  recently** by [[coruscate]]'s Red Power. The 04↔09 barrier on realm-09's side is **intact and snuck
-  past**; the 04↔03 gate sits inside [[celestial-tower]] under guard
+- The Mystics' gates to the Werebeasts and the Celestials (04↔09 enemy, 04↔03 allied) — **unsealed
+  recently** by [[coruscate]]'s Red Power. The 04↔09 barrier on realm-09's side is **intact and
+  circumvented**; the 04↔03 gate sits inside [[celestial-tower]] under guard
   ([[the-harvesting-of-the-werebeasts]]).
 - Every other gate in the table — most of the twenty-five — has **no stated state at all** yet, and
   defaults to sealed.
@@ -144,9 +142,9 @@ carry the whole network as fact rather than myth:
 
 **Knowing the shape is not knowing the door.** The network's *topology* — which realms connect —
 is one thing; *where in a realm a gate physically stands* is another, and the party at
-[[templar-monastery]] has the first without the second ([[the-convergence-at-the-monastery]]).
+[[templar-monastery]] has the first without the second ([[the-first-meeting-of-the-realm-champions]]).
 [[odie]] knows the interplane gates exist but not where any are. The [[celestials]]' awareness of
-their own gates has faded — they hold two open ones because the enemy uses them, and cannot find a
+their own gates has faded — they know the one open gate because the enemy uses it, and cannot find a
 sealed one. So everyone in the room can agree that a Celestials↔Robots gate exists (it is 03's
 allied gate to 02, in the table above) and nobody can walk to it. An intact gargoyle, carrying the
 network as fact, could — which is one of the four reasons the party goes looking for one.
@@ -157,7 +155,7 @@ This is damage, not the ordinary torpor-amnesia that only erases what happened *
 sleeps: his backstory and everything he knew before the hammer came down should have survived intact,
 and the map is the one exception, lost with the blow that never quite finished him.
 
-**He gets it back the way he gets everything back.** Somewhere in [[chapter-02]], among the
+**He gets it back the way he gets everything back.** Somewhere in [[chapter-03]], among the
 [[gargoyle-fragments]] scattered through [[realm-07]], one fragment carries a smashed kinsman's sense
 of the roads rather than a movement ability — and finding it hands the Gargoyle, and the player, the
 true shape of the wheel: which realms actually connect, independent of whatever a given realm's own
@@ -165,11 +163,6 @@ myths say. It is the diegetic reveal of this very page.
 
 ## What's Still Open
 
-- **The Green Skins' access to the Mystics' underworld is not one of these twenty-five gates.**
-  Realm-07 and realm-04 sit at distance 3 — no gate exists there under this rule. The established fact
-  that green-skins mine the Mystics' realm through an open gate in their underworld needs a different
-  mechanism (a natural seep in the underworld, leftover damage from the War of the Six Realms, or something else
-  entirely) rather than this network. **Not yet re-grounded.**
 - **A real tension, flagged rather than resolved:** the Damned's gate to the Werebeasts (08↔09) is a
   perfectly ordinary allied gate under this rule — exactly the kind of thing a "very old entity" like
   Val should simply know. But [[val]] and [[the-guardians-of-night]] both state that road was "never
@@ -200,9 +193,9 @@ a story decision made gate by gate, not a value.
 
 ## Related
 
-- [[sealed-interplane-gates]] — gate *state* (sealed/guarded/open/cracked), now corrected to sit on
-  top of this fixed network rather than describing which gates exist.
-- [[the-realm-barriers]] — the second lock, on the three old-war gates only.
+- [[sealed-interplane-gates]] — gate *state* (sealed/guarded/open/cracked), on top of this fixed
+  network.
+- [[the-realm-barriers]] — the second lock, on the nine enemy gates into realms 07, 08 and 09.
 - [[the-wheel-of-realms]] — the ring this network is built on.
 - [[the-linking-of-the-realms]] — when the Black built it.
 - [[the-void]] — the one confirmed non-gate route, and why it has to be.

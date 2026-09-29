@@ -29,8 +29,9 @@ Three structural commitments define the game:
   line. The player plays all of them, not one of them.
 - **Convergence.** The stories are separate at first and intertwine over time into a single
   story, driven by the protagonists discovering and interacting with each other.
-- **A hidden antagonist, in three layers.** The eleventh faction is the antagonist. The realms
-  remember nothing of it; the player discovers **four gods** ([[the-four-gods]]) and then discovers
+- **A hidden antagonist, in layers.** The eleventh faction is the antagonist. The realms
+  remember nothing of it; the player discovers gods — first **two at war**, then **four**
+  ([[the-four-gods]]) — and then discovers
   what the gods actually are ([[the-four-developers]]). See [[faction-eleven-antagonist]].
 
 Moment to moment the game is a common exploration style shared by all factions
@@ -86,7 +87,8 @@ time, which is what makes the mystery detectable at all.
 
 ## Chapters
 
-- [[chapter-01]] · [[chapter-02]] · [[chapter-04]] — the beats, faction balance and build load per
+- [[chapter-01]] · [[chapter-02]] · [[chapter-03]] · [[chapter-04]] · [[chapter-05]] · [[chapter-06]] ·
+  [[chapter-07]] — the beats, faction balance and build load per
   chapter. Which game style a chapter's scenes use follows [[realm-governs-game-style]].
 
 ## Sources

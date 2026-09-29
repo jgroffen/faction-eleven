@@ -36,7 +36,7 @@ number, which is canon but is not what the people who live here call home.
 
 See [[the-wheel-of-realms]].
 
-Home to **many alien species** rather than one people. Being invaded from [[realm-08]] through a void, by gates its inhabitants did not open.
+Home to **many alien species** rather than one people. Being looted from [[realm-08]] through a void, by liches who need no gate to reach it.
 
 ## Set Here
 

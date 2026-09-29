@@ -2984,3 +2984,204 @@ Templar's wand?**
   and every other realm's, is optional content rather than a gate on the main story.
 - **Later sessions needed** for the [[werebeasts]] (first, and blocking), the [[fey-folk]], and the
   [[pirates]] (who have a style but no story).
+
+### Round 64 — 2026-09-28
+
+Answers to the follow-up questions from the whole-wiki continuity pass.
+
+**Q(cont-1) — The nine-barrier scheme puts a gargoyle barrier on the 01↔07 ruin gate, which the Ninja
+walks through and the Red Power cannot touch. And how do the champions get past the intact 04→09
+barrier?**
+
+> The barrier from realm 1 to 7 is a genuine issue. Lets change the nature of the barrier. Instead of a
+> physical blockade that if breached summons the gargoyles, lets make the Gargoyle barriers yellow,
+> shimmering, translucent shields that will offer resistence if you were to try to push through it. The
+> Gargoyles also fortify the barrier using their ability to form stone. The barrier that the Ninja comes
+> across shows the yellow barrier and fortifications that are crumbling from disrepair. We will need
+> in-game dialog between Mifix and the Ninja that shows the Ninja and Mifix discussing what they are
+> looking at before deciding to push through the barrier. When they do push through the barrier it will
+> alert Granite that a barrier has been breached and this sets in motion the Ninja and Gargoyle coming
+> together. Check if this change will cause any issues. The barrier from Mystics to Werebeasts is easier
+> to resolve - the Graceful Servants used magic to circumvent the barrier and fortifications, then put
+> the Werebeast gargoyles in stasis so they could dismantle enough of the fortifications for their
+> werebeast harvesting purposes. When the Council of Chapmpions decide to go to the Werebeast realm there
+> is a discussion about whether there is any point in going, because if the Graceful Servants have
+> breached the Werebeast realm then the gargoyles must already be destroyed. Voisin says she thinks it's
+> more likely the barrier is being circumvented instead - and the Champions would need to leverage the
+> same circumvention or intentionally trigger the barrier to summon the gargoyles.
+
+**Q(cont-2) — Who unsealed the 03↔07 gate?**
+
+> It was definitely Val
+
+**Q(cont-3) — With the Damned's invasion of the Mystics retired, were the Damned's own gargoyles still
+smashed, and why?**
+
+> The Guardians of Night intend to open gates between The Damned realm and enemy realms too - but only
+> when the time is right. They intend to destroy all the gargoyles because they know how powerful they
+> are and that they will interfere with the plans of the Guardians of Night.
+
+**Q(cont-4) — Why was realm-09 spared: the Damned's fear of the Fey Folk, or Val never finding the
+road?**
+
+> Both are true - the Guardians of Night intend to conquer all other realms, starting with the
+> Celestials as the Guardians of night are mostly controlled by Val and The Damned and the Celestials
+> are the historic enemies of The Damned. Val's current plan is to work out how to get to and recruit the
+> Werebeasts, defeat the Celestials, then with the resources of three realms invade the Fey Folk realm.
+
+**Q(cont-5) — Realm-04's third underground gate: green-skins or Aliens?**
+
+> Yes it's aliens. Aliens don't produce reagents so the Mystics aren't iterested in harvesting them.
+
+**Q(cont-6) — The "sealed and guarded for a reason" beat no longer lands, since the guarded gate faces
+the Robots.**
+
+> Hrmmm ... good point - I'm thinking the White noticed a change to his game when the Red Power was
+> granted to the Ninja whose family was historically the main contact to the Alien and Robot realms, and
+> decided to block the Ninja from trying to access the allied realms by placing the Gate Guardians to
+> guard those gates.
+
+**Q(cont-7) — What happens to Odie after chapter five?**
+
+> Odie stays with the Templar so the Templar group and Mifix and his group can find each other later.
+> This is discussed at the council.
+
+**Q(cont-8) — Close the stale story-outline and glitch-causes handovers; trim the Gargoyle/Ninja one.**
+
+> agree
+
+## Notes For The Compiler — Round 64
+
+- **Barriers are shields, not walls.** A gargoyle barrier is a **yellow, shimmering, translucent
+  shield** on the inside of an enemy gate that **resists** anyone trying to push through it; the
+  gargoyles **fortify** it with stone. Pushing through is a **breach**, and a breach **alerts** the
+  gargoyles (or summons them). The ruin gate's barrier (07 side of 01↔07) is **crumbling from
+  disrepair** — shield and fortifications both. Mifix and the Ninja discuss what they are looking at,
+  then push through; the breach **alerts Granite**, which is what brings the two together.
+- **The Servants circumvented** the 04→09 barrier and its fortifications with magic, put the gargoyles
+  into stasis, then **dismantled enough of the fortifications** for the harvest.
+- **Council:** is there any point going — if the Servants breached realm-09 the gargoyles must be
+  destroyed? Voisin: more likely circumvented; the champions must use the same circumvention, or
+  **deliberately trigger** the barrier to summon the gargoyles.
+- **Val unsealed the 07↔03 gate** as well as 08↔07.
+- **The Guardians mean to destroy every gargoyle** because the gargoyles would interfere with their
+  plans, which include opening the Damned's **enemy** gates when the time is right. That is why the
+  Damned's own gargoyles were smashed.
+- **The Guardians mean to conquer every other realm**, starting with the Celestials (the Damned's
+  historic enemies; the Guardians are mostly Val and the Damned). Val's plan: find a way to recruit the
+  Werebeasts, defeat the Celestials, then invade the Fey Folk with three realms' resources.
+- **Realm-04's third enemy gate is the Aliens'.** Aliens yield no Reagents, so the Mystics do not
+  harvest them.
+- **The White placed the gate guardians to block the Ninja.** When the Red Power was granted to the
+  Ninja — whose family was historically the main contact with the Alien and Robot realms — the White
+  noticed the change and guarded realm-01's gates to those two allied realms.
+- **Odie stays with the Templar**, so the two parties can find each other later; discussed at the
+  council.
+
+### Round 65 — 2026-09-28
+
+Answers to the checks raised on the Round 64 barrier change.
+
+**Q(cont-9) — The liches were "the only ones who can break a barrier directly". With the Ninja pushing
+through one and the Servants getting round one, what is the liches' edge?**
+
+> the liches don't traverse realms using the gates at all - they have discovered how to 'hack' the games
+> and traverse realms without using interplanar gates, so the gargoyle barriers are no problem.
+
+**Q(cont-10) — Do shields block signals?**
+
+> Shields don't block signals
+
+**Q(cont-11) — Triggering the 04→09 barrier on purpose would summon nothing, because the gargoyles are
+in stasis.**
+
+> The 04-09 barrier being there but not causing the summoning of gargoyles is a useful in-game tell that
+> the Werebeasts' Gargoyles must not have been destroyed. The only reason a barrier exists in the Green
+> Skin realm is one gargoyle still exists. When discovered the champions discuss what their next move is
+> as they don't know how to find the gargoyles. They decide to find a local werebeast and ask. This
+> actually opens up an opportunity for a story improvement - at the council Delahaye should comment that
+> no barrier existed when she left The Damned realm, and let's make Voisin overhear that the barrier does
+> exist when Graceful Servants incur into the werebeasts realm - this closes a weakness in the story
+> giving the council real reason to believe at least one Werebeast gargoyle must still be functioning,
+> and no Damned ones are.
+
+**Q(cont-12) — The Damned's 08→04 barrier state.**
+
+> The 08-04 gate has not been opened yet - though the Gargoyle shield is down, the fortifications are
+> still in place. The Guardians are focusing on one realm at a time.
+
+**Q(cont-13) — Is the Ninja's family's "treason" connected to their being the main contact with the
+Robots and Aliens?**
+
+> The 'treason' is connected - lets make the treason and loss of reputation another change the White
+> made so that the Ninja and Mifix would get no help in their endeavours to reconnect with the robot
+> allies.
+
+## Notes For The Compiler — Round 65
+
+- **The liches never use gates.** They hack the games to move between realms without interplane
+  gates, so gargoyle barriers are no obstacle to them.
+- **Shields do not block signals.**
+- **A shield stands only while at least one gargoyle of its realm exists.** Realm-07's stand because
+  Granite survives. The Damned's are down (every Damned gargoyle smashed); the 08→04 gate is still
+  sealed and its fortifications stand — the Guardians take one realm at a time.
+- **The tell:** the champions find the 04→09 barrier up, and it summons nothing — so the werebeast
+  gargoyles are not destroyed. They do not know how to find them and decide to find a local werebeast
+  and ask.
+- **At the council:** Delahaye says no barrier existed when she left the Damned realm; Voisin overheard
+  that the barrier is there when the Servants cross into realm-09. Together: at least one Werebeast
+  gargoyle still functions, and no Damned one does.
+- **The treason is the White's change.** He branded the Ninja's family traitors, and cost them their
+  reputation, so the Ninja and Mifix would get no help reconnecting with the Robots.
+
+### Round 66 — 2026-09-29
+
+**Q(cont-14) — Delahaye left the Damned realm by the allied 08→07 gate, which never had a barrier, so
+"no barrier when I left" proves nothing unless she saw an unshielded enemy gate.**
+
+> acknowledged - Add to Delahaye's gameplay in The Damned before she follows Val out she follows Val to
+> another gate fortification without a shield. I'm thinking the Mystics gate, Val goes to the gate to
+> get the Minotaur how was guarding the gate to take him with her to ambush the Gargoyle.
+
+**Q(cont-15) — If Granite is why realm-07's shields still stand, killing him drops them all.**
+
+> Agreed - Also we should add events where Granite is detecting breaches of the shield to the
+> Celestial realm regularly as the Guardians of Night send Damned and Green Skin forces through.
+
+## Notes For The Compiler — Round 66
+
+- **On the frozen map, before leaving realm-08, Delahaye follows Val to the 08→04 (Mystics) gate**:
+  fortifications, no shield. Val goes there to collect **the Minotaur**, who has been guarding that
+  gate, and takes him with her to ambush the Gargoyle. This is what Delahaye's council testimony rests
+  on.
+- **Granite's survival is what keeps realm-07's shields up**; destroying him would drop every one.
+- **Granite detects breaches of the 07→03 shield regularly**, as the Guardians send Damned and
+  green-skin forces through it.
+
+### Round 67 — 2026-09-29
+
+**Q(cont-16) — Was the 07→03 shield destroyed, or only its fortifications? And could realm-07's shields
+still standing be how Val knows a gargoyle survived?**
+
+> The 07-03 shield was not destroyed - only the fortifications. I agree with your idea - actually she
+> must have understood that. Please update the wiki to reflect this.
+
+## Notes For The Compiler — Round 67
+
+- **Only the 07→03 fortifications were destroyed**; the shield was never destroyed.
+- **Val understands the shield rule.** After the smashing, realm-07's shields should have fallen; they
+  did not, and she understood that meant a gargoyle had survived. That is how she knows to go after
+  Granite.
+
+### Round 68 — 2026-09-29
+
+**Q(cont-17) — Did Val understand that breaking a barrier would wake the gargoyles, or was disarming
+them first the Guardians' system reasoning it out for her?**
+
+> Agree - Val knows how the gargoyles work completely.
+
+## Notes For The Compiler — Round 68
+
+- **Val knows how gargoyles work, completely** — barriers, shields, breaches, waking. Smashing them
+  before breaking the fortifications was her own informed choice, not luck or the system reasoning for
+  her.

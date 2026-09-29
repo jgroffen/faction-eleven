@@ -23,7 +23,7 @@ home: realm-03
 
 **Role:** protagonist · **Faction:** [[celestials]] · **Home:** [[realm-03]]
 
-Protagonist of the [[celestials]], holding a castle against attacks from two open gates at once.
+Protagonist of the [[celestials]], holding a monastery against two invaders arriving through one open gate.
 
 ## Name
 
@@ -65,7 +65,7 @@ and together the two of them work out what the Templar has actually been holding
 [[institute-of-eight]] ([[the-convergence-at-the-monastery]]).
 
 **What the Templar does not know is where the gates are.** The [[celestials]]' awareness of their
-own gates has faded; the Templar holds two open ones because the enemy comes through them, and could
+own gates has faded; the Templar knows the open one because the enemy comes through it, and could
 not find a sealed one — which is why the party has to go and ask a gargoyle
 ([[realm-nearness-and-traversal]]).
 
@@ -113,9 +113,10 @@ Defends against [[green-skins]] and [[the-damned]].
 - [[knight-ermengarda]] — the Knight who fights beside him, and who he talks to.
 - [[the-outpost]] · [[oluja-town]] · [[templar-monastery]] — the two he loses, and the one he
   stops at; [[azylach]] — the place in his name, unvisited.
-- [[odie]] — the relic he wakes, and the first he understands.
+- [[odie]] — the relic he wakes, the first he understands, and who travels with him after the
+  council so the two parties can find each other.
 - [[conjurer-voisin]] — the first ally to answer, and co-author of the relics insight.
-- [[ninja-kazuma]], [[gargoyle-granite]], [[mifix]] — the second party to arrive.
+- [[ninja-kazuma]], [[gargoyle-granite]], [[mifix]], [[wraith-delahaye]] — the second party to arrive.
 
 ## Open
 

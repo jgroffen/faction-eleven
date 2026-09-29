@@ -38,7 +38,7 @@ into three, each with its own note:
 | System | What it is |
 |--------|-----------|
 | [[robot-repair-puzzle]] | find broken robots, diagnose them, fabricate what they need, bring them back. The source of **skill points, lore, quests and unblocked paths**. |
-| [[autofix-skill-tree]] | one tree, five branches — Scrapping, Upgrades, Fabrication, Repair, Robotics — fed by skill points, refining **scrap → construction materials → modules and components**. |
+| [[autofix-skill-tree]] | one tree, five branches — Scrapping, Upgrades, Fabrication, Repair, Robotics — fed by Data Fragments, refining **scrap → construction materials → modules and components**. |
 | [[minibot-command]] | build minibots and command them within range. The **comms ladder** turns them from followers, to tools, to an automated workforce. |
 
 The incremental curve is the interaction of the three: repairing robots buys the tree, the tree
@@ -65,9 +65,6 @@ they cannot climb with nothing to do about it.
 
 - Where **wall-crawling** and the other movement gates sit — presumably the Upgrades branch's
   *movement* line, but that is not stated.
-- How **[[faction-currencies]]**' "Parts" relates to **scrap**, **construction materials**,
-  **modules** and **components**. The prototype's single currency has been replaced by a chain and
-  the note needs reconciling.
 - What survives of the prototype's region-control map ([[nested-map-navigation]] levels 2–3).
 
 ## Chapter One
@@ -85,5 +82,5 @@ first genre to be built after the shell — and the one the game will be judged 
 
 - [[exploration-core-loop]] — the shell it builds on.
 - [[faction-genre-mechanics]] — the per-faction genre layer this is an instance of.
-- [[faction-unique-features]] — the robots' contribution to the final game mode, still unnamed;
-  repair is the obvious candidate.
+- [[faction-unique-features]] — the robots' contribution to the final game mode: repair and
+  remote communication.

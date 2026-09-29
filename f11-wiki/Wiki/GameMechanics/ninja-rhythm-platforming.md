@@ -60,7 +60,7 @@ chapter one.
 
 ## The Rhythm Stays Home
 
-When the Ninja crosses into [[realm-07]] in [[chapter-02]] he plays that realm's genre instead ([[realm-governs-game-style]]), and **the rhythm layer does not travel with
+When the Ninja crosses into [[realm-07]] in [[chapter-03]] he plays that realm's genre instead ([[realm-governs-game-style]]), and **the rhythm layer does not travel with
 him**. It belongs to the [[institute-of-eight]] — their music, their training, their dojo.
 
 What travels is the *acquisition model*. He still learns by training: in realm-07 he finds a
@@ -88,12 +88,12 @@ Boy pleasure of a hard thing becoming easy through repetition, with the music ma
 No values yet. The critical knob is **section length**: short enough that a retry costs nothing,
 long enough that a musical phrase completes.
 
-## Tension To Resolve
+## Death, Reconciled
 
 [[death-and-return]] gives the Ninja a **generational death mechanic** — a cut-scene in which his
 child grows up, is trained, and replaces him. That was written for a game where death is rare.
-This is a game where **death is constant and respawn is instant**. The two cannot both be literal.
-Flagged, not resolved.
+This is a game where **death is constant and respawn is instant**. The two cannot both be literal, and [[death-and-return]] settles it: **only a lost boss fight costs a
+generation.** Every other failure is recovered, because [[mifix]] repairs him.
 
 ## Used In
 

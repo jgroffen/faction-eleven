@@ -76,10 +76,9 @@ story.
 
 The ring describes the *old* alignments. Several present-day facts sit against them:
 
-- The [[celestials]] (03) are attacked by the [[green-skins]] (07) and [[the-damned]] (08) —
-  but the Celestials' historic enemy by position is [[the-damned]] (08). Both attackers sit four
-  places away: far, but not opposite — this holds regardless of which of the two occupies 07 or 09,
-  since both are equidistant from 03. **The 03–07 gate is load-bearing**: it is the first leg of the
+- The [[celestials]] (03) are attacked by the [[green-skins]] (07) and [[the-damned]] (08). The
+  Damned are their direct opposite, but do not use their own gate: they come through [[realm-07]],
+  four places away, whose gate is the one into realm-03 standing open. **The 03–07 gate is load-bearing**: it is the first leg of the
   route the second signal travels to reach [[realm-01]] ([[the-second-signal]]). The green-skins'
   invasion road is also the multiverse's telephone line.
 - The [[institute-of-eight]]'s (01) **guarded** gate leads to [[realm-02]], an adjacent,
@@ -95,8 +94,8 @@ The ring describes the *old* alignments. Several present-day facts sit against t
 
 Position carries **three** meanings at once, and they were laid down in this order:
 
-1. **Compatibility.** Adjacent realms are the ones a gate can join at all
-   ([[sealed-interplane-gates]]). This is a hard limit, not a preference.
+1. **Compatibility.** Allied and enemy realms — distance 1, 4 or 5 — are the only ones a gate can
+   join ([[sealed-interplane-gates]]). This is a hard limit, not a preference.
 2. **Authorship.** The ring divides into arcs by lead developer ([[the-four-developers]]):
 
    | Lead | Realms |
@@ -132,11 +131,9 @@ The present state is the War of the Six Realms restarted by deception ([[the-bro
 green-skins invading the Celestials is not a scrambling of the old order. It is the old order,
 resumed on false evidence.
 
-**Elsewhere the ring's position and behaviour don't line up.** [[mystics]] (04) and [[green-skins]]
-are a gap, not a match: the green-skins mine the Mystics' realm, but [[green-skins]] occupy
-[[realm-07]] (three places from Mystics, not opposite), while [[werebeasts]] hold the true opposite
-at 09. The Mystics' historic enemy-by-position and their actual despoiler are different factions — a
-gap like the Celestials' case above (see [[realm-04]]). [[robots]] (02) sits adjacent to the
+**Elsewhere the ring's position and behaviour line up exactly.** The [[mystics]] (04) are harvesting
+the [[werebeasts]] (09) — their direct opposite, through their own enemy gate
+([[the-harvesting-of-the-werebeasts]]). [[robots]] (02) sits adjacent to the
 [[institute-of-eight]] (01) — historically friendly — which is where the mini-fix bot in the Ninja's
 family shrine came from, and where the guarded gate leads.
 

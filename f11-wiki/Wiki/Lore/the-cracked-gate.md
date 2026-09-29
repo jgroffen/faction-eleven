@@ -87,7 +87,7 @@ punched by a stranger who does not know they exist, while failing at something e
 
 ## Which Gate
 
-**The guardian's gate leads to [[realm-02]], the [[robots]].** The second reading was right:
+**The guardian's gate leads to [[realm-02]], the [[robots]].**
 [[realm-01]] has more than one gate, and the family's sentence is served at the one facing the
 robots.
 
@@ -102,8 +102,7 @@ family that has been keeping its cousin on a shelf for generations.
 
 **Gates are therefore ten separate doors, not one membrane.** [[realm-01]]'s other gate — the
 abandoned one to [[realm-07]] in [[the-ancient-ruin]] — is *already* cracked and lets a different
-signal through entirely. (Its own distance justification is separately open — see
-[[the-ancient-ruin]].)
+signal through entirely — it is one of realm-01's three enemy gates ([[the-ancient-ruin]]).
 
 ## Why It Gates The Second Signal Too
 
@@ -117,14 +116,14 @@ the Robot Realm, so nothing for either mini-fix bot to answer. The crack is upst
 
 ## Why The Robot Gate Is Guarded
 
-A "sealed and guarded **for a reason**" beat, followed by holding off waves of green-skins, is not
-placed here — the guardian's gate faces the robots, not the green-skins. That beat's natural home is
-[[the-ancient-ruin]]'s gate, which does face [[realm-07]]; see its own Open section.
+The gate was "sealed and guarded **for a reason**", and the reason is the White's.
 
 **Why the robot gate is guarded, and it is not the Institute's doing:**
-[[quetzalcoatl-the-white]] placed the guardian to keep other realms' code out of a game he leads.
-The Institute's account — a traitor family serving a sentence — is history the realm generated
-afterwards to explain a boss that had appeared without one ([[the-gate-guardian]],
+[[quetzalcoatl-the-white]] placed the guardian to keep the Ninja — a Red Power carrier from the family
+that was historically the Institute's main contact with the Robots and the Aliens — out of the allied
+realms.
+The family's treason is his change too, made so that the Ninja and Mifix would get no help; the
+generations of sentence behind it are history the realm generated afterwards ([[the-gate-guardian]],
 [[the-retcon-engine]]). A guard posted against a friend is a story in itself, and the story is that
 nobody posted it.
 

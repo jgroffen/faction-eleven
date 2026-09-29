@@ -27,6 +27,10 @@ The barrier sealing the gate to the [[celestials]]' realm was broken — and the
 believe **the Celestials broke it**, as the opening of another incursion. They are wrong. It was
 broken from the inside, by [[the-guardians-of-night]], to start a war.
 
+**What was broken is the fortifications, not the shield.** The Guardians smashed the stone the
+gargoyles built around the gate; the shield itself was never destroyed, and still stands because
+[[gargoyle-granite]] does ([[the-realm-barriers]]).
+
 **Canon:** proposed · **Era:** the opening of the game
 
 ## The Story
@@ -39,16 +43,22 @@ The green-skins are not being lied to in words. They are being shown **a piece o
 lies by itself**, which is why it works so completely and why it will be so hard for one damaged
 gargoyle to argue against.
 
-**What actually followed:** the realm was unsealed so that the [[green-skins]] and [[the-damned]] could
+**What actually followed:** [[val]] unsealed the gate itself ([[the-red-power]]), and the barrier
+was broken so that the [[green-skins]] and [[the-damned]] could
 **attack the Celestials** — the invasion that every other faction in the game meets as an unprovoked
 horde. The [[werebeasts]] were meant to be the third and never joined: [[val]] found no path into
 [[realm-09]] ([[werebeasts]]). This is the concrete mechanism behind
 [[the-manipulation-of-the-green-skins]], and the reason the [[celestials]]' gate stands open in
 [[sealed-interplane-gates]].
 
-**And it woke him.** The gargoyles are bound to the stone they shaped; the barrier's failure sent
+**And it woke him.** The gargoyles are bound to the barriers they made; the barrier's failure sent
 their own imbued power back to them as the bolt that ends the torpor. It should have woken all of
 them. It woke the one whose head the hammer failed on ([[the-smashing-of-the-gargoyles]]).
+
+**And it keeps telling him.** The fortifications are broken, but the shield itself stands for as long
+as a gargoyle of realm-07 does — which is to say, because of him ([[the-realm-barriers]]). Every Damned
+and green-skin force [[the-guardians-of-night]] send through to the [[celestials]] breaches it again,
+and **he feels each crossing**. The invasion is not rumour to him; it is a pulse.
 
 ## The Chain Of Deception
 
@@ -70,8 +80,8 @@ Staged across his story, and the staging matters:
 
 1. He wakes, sees his fellows destroyed, and concludes **the realm is under threat somehow** —
    correctly, and for entirely the wrong reasons ([[the-waking-of-the-last-gargoyle]]).
-2. He discovers the **Celestial gate barrier was broken**, and that the realm's explanation is
-   another Celestial incursion.
+2. He discovers the **Celestial gate barrier was broken** — the breaches he keeps feeling lead him
+   to it — and that the realm's explanation is another Celestial incursion.
 3. He uncovers that it was broken **by a group secretly working to incite** the green-skins, the
    werebeasts and the damned to invade the Celestials.
 
@@ -99,6 +109,4 @@ faction invades by.
 
 - **Which barrier, and where.** The gate to [[realm-03]] is established as standing open, but the
   barrier's location in [[realm-07]] is not authored.
-- **How** they broke it, given that it is gargoyle-shaped stone with gargoyle magic in it.
-- Whether the Guardians understood that breaking it would wake the gargoyles, or whether smashing
-  them first was luck.
+- **How** they broke it, given that it is a gargoyle shield fortified with gargoyle-shaped stone.

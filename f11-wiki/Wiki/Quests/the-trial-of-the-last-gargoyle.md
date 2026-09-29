@@ -25,7 +25,7 @@ chapter: chapter-03
 
 # The Trial Of The Last Gargoyle
 
-[[val]] has learned a Gargoyle survived, found him damaged and running on limited power, and hunts
+[[val]] has worked out that a Gargoyle survived — realm-07's shields never fell — found him damaged and running on limited power, and hunts
 him down herself. Closes [[chapter-03]] — and is watched twice.
 
 **Status:** design · **Type:** main · **Chapter:** [[chapter-03]] · **Giver:** [[val]] ·
@@ -33,8 +33,10 @@ him down herself. Closes [[chapter-03]] — and is watched twice.
 
 ## Hook
 
-By this point the [[gargoyle-granite]] has traced the broken barrier back to [[the-guardians-of-night]] —
-loud enough that Val notices him noticing. She seeks him out to settle it herself, the same way she
+**Val knows a gargoyle survived because the shields are still up.** She understands that a gargoyle
+realm's shields stand only while one of its gargoyles exists ([[the-realm-barriers]]); after the
+smashing, realm-07's should have fallen, and they did not. By this point the [[gargoyle-granite]] has
+also traced the broken barrier back to [[the-guardians-of-night]]. She seeks him out to settle it herself, the same way she
 settled the original smashing: in person, briefly, and leaving the violence to somebody else.
 
 ## Objectives
@@ -67,6 +69,8 @@ settled the original smashing: in person, briefly, and leaving the violence to s
 
 ## Notes
 
+- **More is at stake than one gargoyle.** Granite is the last of realm-07's, and the realm's shields
+  stand only while he does ([[the-realm-barriers]]). Val knows it: the standing shields are how she knew to come.
 - **[[ninja-kazuma]] and [[mifix]] are present** for the confrontation, alongside Granite.
 - **A fourth presence nobody counts.** [[wraith-delahaye]], who followed Val from [[realm-08]],
   watches unseen — and picks the Ninja out of it as her road home ([[the-shadowing-of-the-ninja]]).
@@ -75,7 +79,8 @@ settled the original smashing: in person, briefly, and leaving the violence to s
   does not show her: after she leaves, he privately begins to doubt he is functioning properly. See
   [[gargoyle-granite]].
 - **The Minotaur is the same Minotaur** who helped smash the gargoyles in
-  [[the-smashing-of-the-gargoyles]] — the soldier who did the hammer-work is the one being talked
+  [[the-smashing-of-the-gargoyles]], collected by Val from his post guarding the Damned's gate to the
+  Mystics ([[the-search-of-the-frozen-map]]) — the soldier who did the hammer-work is the one being talked
   out of finishing the job.
 - **Val's exit line is not a bluff.** She genuinely isn't sure the Minotaur wins, which is why the
   quest's real stakes — for her — are set up here rather than resolved: she leaves to go destroy the

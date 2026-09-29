@@ -2,9 +2,9 @@
 tags:
   - "handover"
 topics: []
-status: open
+status: closed
 created: 2026-08-08
-updated: 2026-09-13
+updated: 2026-09-28
 expires: 2026-11-06
 sources: []
 source_count: 0

@@ -71,12 +71,10 @@ The liches are the one group in the multiverse that is **provably** more than th
 them — they demonstrated it by breaking out, and what they are is set out in full in
 [[the-lich-experiment]]. Everyone else's inner life is an open question; theirs is settled.
 
-**They can also break a [[the-realm-barriers|realm barrier]] directly — nobody else can.** Every
-barrier broken so far was broken the hard way: disable the sleeping gargoyle first, then break the
-wall behind it ([[the-smashing-of-the-gargoyles]]). [[the-red-power|The Red's power]] cannot touch
-a barrier at all — it opens gates only. The liches have worked out how to go straight through a
-barrier, gargoyle still armed, and it is not recorded that they have ever needed to: a capability
-established as theirs alone, not yet used in any story on record.
+**Barriers are no obstacle to them, because they do not use gates at all.** The liches have worked out
+how to **hack** the games and move between realms without interplane gates — so a gargoyle barrier,
+which guards a gate, never stands in their way. [[the-red-power|The Red's power]] opens gates; the
+liches do not need one.
 
 It also makes them the game's **oracle**: the only entities who have been outside and can testify to
 what is there.
@@ -105,7 +103,7 @@ all. Anything they say is simultaneously true and theatrical, so the player rece
 in a register that invites them to discount it. By the time it can be checked, it has been sitting in
 the player's head for chapters ([[continuity-glitches]], [[a-heal-is-a-patch]]).
 
-**The champions meet them in [[chapter-06]]**, when the Ninja's party opens a gate into [[realm-10]].
+**The champions meet them in [[chapter-07]]**, when the Ninja's party opens a gate into [[realm-10]].
 
 **Planned gag, recorded as intent:** the **Glitch Lich** — *liches cause glitches*. Placement and
 tone are undecided, but the joke lands on something true, since the liches breaking containment is a
@@ -121,8 +119,7 @@ real source of instability.
 - [[sealed-interplane-gates]] — the ordinary way between realms, which this is not.
 - [[realm-nearness-and-traversal]] — the fixed network the void has no gate in, and the map the
   liches already carry.
-- [[the-realm-barriers]] — the other lock, which only the liches can bypass without disabling the
-  gargoyle first.
+- [[the-realm-barriers]] — the other lock, which the liches never meet, since they use no gates.
 - [[the-red-power]] — the power that can open a gate but never a barrier, unlike the liches.
 
 ## Player-Facing

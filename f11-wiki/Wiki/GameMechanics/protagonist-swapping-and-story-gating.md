@@ -58,9 +58,9 @@ Not yet established:
 
 ## Worked Example
 
-The first concrete instance, from chapter one: [[the-first-signal]]. [[autofix-alto]] earns
-remote communication with their auto-fix bots in the [[robots]]' story; that signal wakes the
-mini-fix bot sitting in [[ninja-kazuma]]'s family shrine in [[realm-01]]. An event in one faction's story
+The first concrete instance, from chapter one: [[the-first-signal]]. [[ninja-kazuma]]'s defeat
+cracks a gate in the [[institute-of-eight]]'s story; through it [[mifix]]'s call wakes the frozen
+[[autofix-alto]] in the [[robots]]', and the Quantum Comms Autofix earns there answer it. An event in one faction's story
 lands in another's.
 
 Note the shape it suggests for gating in general: the trigger is an **ability the player earned**,

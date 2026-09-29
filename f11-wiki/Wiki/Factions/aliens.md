@@ -51,7 +51,7 @@ game's central one.**
 
 ## Standing
 
-- [[the-damned]] — attacking them; their liches open the gates into alien space, and are looting the
+- [[the-damned]] — attacking them; their liches reach alien space without any gate, and are looting the
   realm through [[the-void]].
 
 **Lead developer:** [[tezcatlipoca-the-black]] ([[the-four-developers]]), who also leads

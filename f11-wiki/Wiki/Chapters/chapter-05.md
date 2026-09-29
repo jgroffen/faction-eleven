@@ -27,7 +27,7 @@ quests:
 
 # Chapter 5 — The Machine
 
-The war machine reaches [[templar-monastery]] and six protagonists from six realms **take it**.
+The war machine reaches [[templar-monastery]] and champions from six realms **take it**.
 Standing in the wreckage they hold council: [[templar-will]] names them
 **[[the-realm-champions|Realm Champions]]** ([[the-first-meeting-of-the-realm-champions]]). Then they
 split — the Templar and [[knight-ermengarda]] drive the captured machine back down the invasion route,
@@ -51,21 +51,26 @@ Templar names the room having just watched it win, rather than on the strength o
    **hero units** — which is what that mechanic was built to do.
 2. **[[the-first-meeting-of-the-realm-champions]]** — the council. The Templar names the room; each
    party says what it brings; nobody knows where the gate to the [[robots]] is. **Voisin informs on her
-   own faction** — the open gate, the harvest, the stockpile — and [[gargoyle-granite]] argues that a
-   breached werebeast barrier should have woken the gargoyles. They settle on finding a
+   own faction** — the open gate, the harvest, the stockpile — and the room asks whether there is any point
+   going — a breach would have summoned realm-09's gargoyles, so they must be destroyed. Voisin thinks the
+   barrier is being **circumvented**, not breached: the champions can use the same trick, or trigger the
+   barrier on purpose to summon the gargoyles. With [[wraith-delahaye]]'s word that the Damned realm has
+   no barriers left, the room concludes that at least one Werebeast gargoyle still functions. [[odie]] is to stay with the Templar, so the parties can
+   find each other later. They settle on finding a
    [[werebeasts|Werebeast]] gargoyle, for four reasons, one per party. Delahaye asks why she should go
    the wrong way round the wheel and the Gargoyle answers her.
 3. **The party splits.** [[knight-ermengarda]] convinces [[templar-will]] to **take the captured war
    machine back the way it came** — recovering territory and liberating towns, [[oluja-town]] among
    them. The Celestials go on the offensive for the first time in their story, and **the Templar does
-   not travel to [[realm-09]]**.
+   not travel to [[realm-09]]** — [[odie]] goes with him.
 4. **Through the tower.** The rest leave for [[realm-09]] **through the Mystics**, because the
    Celestials' own gate there is closed. First [[celestial-tower]] — [[the-graceful-servants]]' building,
    which they have to get through rather than past.
 5. **Through the caverns.** Then across [[realm-04]] to [[the-werebeast-caverns]], the second lock, also
    the Servants'. Here the champions stop taking Voisin's word for it: guards, captured werebeasts, and
    **wagons of Reagent** running out to the stockpile ([[the-harvesting-of-the-werebeasts]]).
-6. **Through the gate.** They step into [[realm-09]] and the chapter ends — the same shape as the war
+6. **Through the gate.** The barrier is **there** — and crossing it **summons nothing**. The werebeast
+   gargoyles exist, and cannot come ([[the-realm-barriers]]). They step into [[realm-09]] and the chapter ends — the same shape as the war
    machine cresting the hill a chapter earlier. **[[realm-09]] itself belongs to [[chapter-06]].**
 
 ## Faction Balance
@@ -89,7 +94,7 @@ Templar names the room having just watched it win, rather than on the strength o
   [[the-werebeast-caverns]] as opposed spaces rather than a stealth corridor.
 The chapter deliberately **does not** enter [[realm-09]] — the werebeasts' realm and game style are
 [[chapter-06]]'s budget, not this one's.
-- **Six hero units in one defence**, five of them imported from other genres. This is the
+- **Six hero units in one defence**, four of them imported from other genres. This is the
   presentation problem chapter four used to carry, moved here and made concrete: it is now a
   *balance* problem in a known system rather than an open question about scene direction.
 - The council as a scene with six speaking parts.
@@ -102,7 +107,7 @@ Tracked across all chapters in [[story-continuity-timeline]].
 **Depends on [[chapter-04]]:** every arrival, and the machine in sight at its close.
 
 **Sets up:** the Werebeast gargoyles and what has been done to them
-([[the-mystics-second-secret-society]]); the `ACCESS DENIED` work ([[autofix-skill-tree]]); the party's
+([[chapter-06]]); the `ACCESS DENIED` work ([[autofix-skill-tree]]); the party's
 second pass through [[realm-04]]; and the Celestial counterattack, which runs back along the invasion
 route and eventually into Damned-held Celestial land ([[damned-undead-kingdom-rts]]).
 

@@ -19,8 +19,8 @@ enemies:
 
 # The Damned
 
-The faction most entangled with the multiverse's machinery. Their **high-level liches are opening
-gates** to the alien worlds, and they hold **ancient Lovecraftian gods that dwell in a void** —
+The faction most entangled with the multiverse's machinery. Their **high-level liches travel between
+realms without gates** — into the alien worlds among others — and they hold **ancient Lovecraftian gods that dwell in a void** —
 a void which connects alien space to the Damned's own realm.
 
 **The liches are not what the faction thinks they are.** They are [[tezcatlipoca-the-black]]'s
@@ -57,7 +57,7 @@ inherited material, but reads as a misplaced death mechanic._
 
 ## Standing
 
-- [[aliens]] — the Damned are attacking them, and their liches open the gates that let it happen.
+- [[aliens]] — the Damned are attacking them, and their liches reach alien space without any gate at all.
 
 The **void** is significant beyond this faction: it is the only named structure in the material
 that is neither a realm nor a gate, and it connects two realms. It may be the mechanism
@@ -91,10 +91,11 @@ This makes them the game's most compromised faction:
 
 - **Their necromancers co-created the gargoyles**, with the shamans of [[realm-07]]
   ([[the-gargoyle-guardians]]). The Damned are half the reason three realms survived the War of the Six Realms.
-- **Their own gargoyles have been smashed too**, in the same pattern as the green-skins'
+- **Their own gargoyles have been smashed too**, in the same pattern as the green-skins', because the Guardians mean to open the Damned's own
+  enemy gates when the time is right
   ([[the-smashing-of-the-gargoyles]]).
-- **They are now leading an invasion into the [[mystics]]' realm**, with some [[werebeasts]] —
-  instigated by [[the-guardians-of-night]], who are **one of their own kingdoms**: a power on
+- **They are in the waves attacking the [[celestials]]**, arriving through [[realm-07]]
+  ([[the-stand-at-the-monastery]]) — instigated by [[the-guardians-of-night]], who are **one of their own kingdoms**: a power on
   [[realm-08]]'s map with [[val-s-castle]] as its seat ([[damned-undead-kingdom-rts]]).
 - **[[val]] is one of theirs**: a vampire — their **Commander** class — and the one who gave the
   order to destroy the gargoyles her own people helped build.
@@ -109,7 +110,7 @@ guardians, and both a dupe and a driver of the war.
 
 ## Notes
 
-The Damned are the only faction shown **deliberately opening gates**. They are a dupe of
+The Damned's liches are the only characters shown **moving between realms without gates**. They are a dupe of
 [[faction-eleven-antagonist]] by proxy: an Ancient manipulates [[the-guardians-of-night]], and
 [[val]] is a Guardian.
 

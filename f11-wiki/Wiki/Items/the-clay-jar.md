@@ -41,8 +41,8 @@ Whether the symbol is in the Ancients' braille-like script or a different mark i
 
 The [[institute-of-eight]]'s shrine holds **two** signalling devices — this and the mini-fix bot.
 A family branded traitors, sentenced to guard a gate, has been unknowingly keeping the means to
-call two other realms. Whether the "treason" was connected to that is unwritten and is a strong
-hook.
+call two other realms. The "treason" is connected: [[quetzalcoatl-the-white]] branded the family traitors so that nobody
+would help them reconnect with those allies ([[the-gate-guardian]]).
 
 ## Where It Goes
 

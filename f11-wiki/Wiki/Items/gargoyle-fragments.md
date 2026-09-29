@@ -50,7 +50,7 @@ The first three come in the opening minutes ([[the-waking-of-the-last-gargoyle]]
    power, **stealth without moving**.
 3. **His head remains damaged**, and stays that way.
 
-**Not every fragment restores an ability.** Somewhere later in [[chapter-02]], one fragment gives
+**Not every fragment restores an ability.** Somewhere later in [[chapter-03]], one fragment gives
 back **the gate network** instead — the sense of the true wheel that every gargoyle should carry as
 fact and his damage specifically cost him ([[realm-nearness-and-traversal]]). Mechanically it's the
 same act as every other pickup — a piece of a dead kinsman, restoring something the hammer took —

@@ -59,7 +59,7 @@ Two devices, two calls, two factions who hear them. See [[allied-faction-signals
   an accident — a signal that happened to land. This is somebody *choosing* to call.
 - It **pays off the Robots' chapter-one ability a second time**, in a different faction's story
   and a different chapter. [[autofix-alto]]'s remote comms are what make the monastery bot audible.
-- It makes the [[mystics]]' realm a **major setting in chapter two**.
+- It is what brings the [[mystics]] into the story, two chapters later ([[chapter-04]]).
 - The Templar is reaching for "ancient allies" and reaching, in fact, for two of the ten factions.
   Whether he is also reaching for [[faction-eleven-antagonist]] without knowing it is the
   question [[allied-faction-signals]] leaves open.

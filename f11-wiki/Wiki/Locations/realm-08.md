@@ -37,7 +37,7 @@ number, which is canon but is not what the people who live here call home.
 
 See [[the-wheel-of-realms]].
 
-Connected to alien space by a **void** in which ancient Lovecraftian gods dwell. High-level liches here are **opening** gates into [[realm-10]] — the only faction shown deliberately making new ways through.
+Connected to alien space by a **void** in which ancient Lovecraftian gods dwell. High-level liches here reach [[realm-10]] **without any gate**, by hacking their way through — the only characters shown moving between realms that way.
 
 **It is the world map of the Damned's game** ([[damned-undead-kingdom-rts]]) — the board an undead
 kingdom expands across, and one of the kingdoms on it is [[the-guardians-of-night]], seated at

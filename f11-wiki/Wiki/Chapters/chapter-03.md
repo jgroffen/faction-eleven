@@ -45,8 +45,10 @@ Gargoyle by gameplay, the Wraith by story**
 **The Gargoyle and the Ninja.**
 
 1. **The arrival.** [[ninja-kazuma]] and [[mifix]] come through the abandoned, already-cracked gate
-   in [[the-ancient-ruin]] into [[realm-07]] — the second half of [[the-second-signal]] — and meet
-   [[gargoyle-granite]], who is very ancient and wants to stop his own faction's war on the
+   in [[the-ancient-ruin]] into [[realm-07]] — the second half of [[the-second-signal]] — and find a
+   **gargoyle barrier** on the far side — a yellow shield and its stone fortifications, both crumbling
+   from disrepair. Mifix and the Ninja talk over what they are looking at, then push through. The
+   breach **alerts [[gargoyle-granite]]**, who comes to find what has crossed — and he is very ancient and wants to stop his own faction's war on the
    Celestials. They set out together to find the bot.
 2. **The search.** Ninja and Gargoyle work [[realm-07]] together toward the faint signal — the
    Gargoyle's Metroidvania played twice, by its own protagonist and by a visitor under
@@ -58,8 +60,9 @@ Gargoyle by gameplay, the Wraith by story**
 3. **[[the-search-of-the-frozen-map]]** — Delahaye searches the frozen world map for her allies and
    learns, object by object, that much time has passed; rescue becomes revenge. Investigation and
    infiltration reveal [[the-guardians-of-night]] working to reopen gates — and that the kingdom
-   she is crossing is theirs — and lead her to [[val-s-castle]], its seat, just as Val arrives and
-   leaves for the green-skins' realm. Delahaye follows her through the gate Val herself opened.
+   she is crossing is theirs — and lead her to [[val-s-castle]], its seat, just as Val arrives. Delahaye tails her to the
+   Damned's gate to the Mystics — fortified, unshielded — where Val collects the Minotaur guarding it,
+   and then follows the pair to the green-skins' realm through the gate Val herself opened.
 
 **The Celestials.**
 
@@ -104,6 +107,7 @@ Lighter than chapter two, on purpose — the chapter spends what chapter two bui
   Celestials' battle reuses [[templar-monastery]], built in chapter two.
 - **The first cross-realm travel by two protagonists**: the Ninja into realm-07 by the ruin gate,
   Delahaye into realm-07 by the gate Val opened ([[sealed-interplane-gates]]).
+- **A dialogue scene at the ruin barrier** — Mifix and the Ninja deciding to push through.
 - **One scene built for two viewpoints.** The trial as a Metroidvania boss encounter for Granite
   and as an observed cutscene for Delahaye.
 

@@ -76,7 +76,8 @@ manipulated and used — gargoyles see themselves as protectors. This is not a p
 but **what he was built as**, which is why he cannot simply decide to do otherwise.
 
 **How he gets there** ([[the-broken-barrier]]): he wakes, finds his fellows destroyed, and concludes
-the realm is under threat somehow — then discovers the Celestial barrier was broken and that the
+the realm is under threat somehow — then, following the breaches he keeps feeling as forces cross into the
+Celestial realm, discovers the Celestial barrier was broken and that the
 green-skins blame a Celestial incursion — then uncovers [[the-guardians-of-night]].
 
 **Death mechanic:** **he does not die.** His story does not involve dying in [[realm-07]]. Failure
@@ -102,10 +103,10 @@ exactly one thing — **stealth while standing still** — and ends in sonic fli
 ## Ties
 
 Meets [[ninja-kazuma]] in [[chapter-03]], when the Ninja — having followed [[the-second-signal]] out in chapter two — comes through the abandoned
-cracked gate in [[the-ancient-ruin]]. The two then **work together to find the mini-fix bot** whose
+cracked gate in [[the-ancient-ruin]] and pushes through the crumbling barrier behind it — a breach
+Granite feels, and goes to find. The two then **work together to find the mini-fix bot** whose
 signal drew the Ninja out — which [[templar-will]] has ([[odie]]).
 
-May also meet [[conjurer-voisin]] in the Mystics' underworld.
 
 In [[chapter-04]] he leaves [[realm-07]] with the Ninja for the Celestials' realm — and his
 gameplay changes with it, under [[realm-governs-game-style]]. What his stone kit becomes on a tower
@@ -118,7 +119,7 @@ defence field is not designed.
 - [[the-ambush-on-the-road]] — where Val's assassins come to destroy him, and a wraith he has never
   seen — [[wraith-delahaye]] — stops them and joins the party. She watched the trial unseen
   ([[the-shadowing-of-the-ninja]]).
-- [[the-convergence-at-the-monastery]] — where he chooses the judge he would trust.
+- [[the-first-meeting-of-the-realm-champions]] — where he chooses the judge he would trust.
 - [[realm-nearness-and-traversal]] — the map every gargoyle should know, and the one thing his
   damage cost him specifically.
 
@@ -128,6 +129,11 @@ defence field is not designed.
 that he's malfunctioning, and sets the Minotaur on him instead. **He hides it from her, but the
 accusation lands anyway** — after she leaves, he privately begins to doubt he is functioning
 properly. He has no way to check, and every piece of evidence he has still supports her.
+
+**He is holding the realm's shields up.** A shield stands only while a gargoyle of its realm exists
+([[the-realm-barriers]]); he is the last of realm-07's, so if the Minotaur finishes him every shield in
+the realm falls. [[val]] understands this — the shields still standing are how she knew he survived
+([[the-trial-of-the-last-gargoyle]]). The trial is not only about his doubt.
 
 **He does not carry it silently for long.** At the start of [[chapter-04]] he tells [[ninja-kazuma]] and
 [[mifix]] outright that he may be malfunctioning and cannot tell
@@ -144,7 +150,7 @@ the two cross together.
 
 ## The Council, And The Judge He Would Trust
 
-At [[templar-monastery]] ([[the-convergence-at-the-monastery]]) the party settles on seeking out the
+At [[templar-monastery]] ([[the-first-meeting-of-the-realm-champions]]) the party settles on seeking out the
 [[werebeasts|Werebeasts']] gargoyles, and his reason is his own. **He does not trust Val. He would
 trust another gargoyle.** A functioning one could tell him whether he is malfunctioning — whether
 trying to stop the war is what he was built for, even though it looks like acting against the
@@ -162,9 +168,9 @@ character arc: the last constraint he sheds is the one that says this realm and 
 
 ## A Later Chapter
 
-**The Werebeast gargoyles need reactivating.** Whether that means waking them from torpor as
-[[realm-07]]'s barrier woke him, or something has been done to them, is open —
-[[the-mystics-second-secret-society]] holds the competing sketches. Once reactivated, the party
-wants them to seal the gate to the [[mystics]]. The journey from the monastery to [[realm-09]], and
-what waits there, is deferred to [[gargoyle-ninja-and-the-celestials-gate]] and
-[[the-mystics-second-secret-society]] — it is a later chapter.
+**The Werebeast gargoyles are in stasis.** [[the-graceful-servants]] passed their barrier without
+breaking it and put them under ([[the-harvesting-of-the-werebeasts]]), so they cannot be woken the way
+he was. The party reaches [[realm-09]] through the Mystics at the end of [[chapter-05]]; in
+[[chapter-06]] he finds the sleepers and leaves with [[conjurer-voisin]] and [[werewolf-gill]] to work
+towards freeing them — meaning, once they are free, to ask them whether working against
+[[the-guardians-of-night]] is what gargoyles should do.

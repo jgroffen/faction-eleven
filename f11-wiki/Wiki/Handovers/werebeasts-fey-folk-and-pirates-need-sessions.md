@@ -4,7 +4,7 @@ tags:
 topics: []
 status: open
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-03
 expires: 2026-12-26
 sources: []
 source_count: 0
@@ -22,9 +22,12 @@ _What is already written down. Link it, do not restate it._
 
 **Werebeasts — first, and blocking.**
 
-- [[werebeasts]] · [[werewolf-gill]] · [[realm-09]] — identity "not yet established", no story, game
-  style recorded as **RPG, unconfirmed**. Gill has a death mechanic (reverts to a puppy) and nothing
-  else.
+- [[werebeasts]] · [[werewolf-gill]] · [[realm-09]] — identity "not yet established", no story. **Game
+  style settled as [[werebeast-pack-hunt]]**: Gill leads parties of up to five hunting big monsters for
+  trophies; systems not specified. Faction classes simplified (Weresnake Commander, Werefox Medic).
+  Gill has a death mechanic (reverts to a puppy) and nothing else as a person.
+- **A second werebeast exists:** [[weresnake-taz]], the Blue's carrier of [[the-red-power]], who opened
+  09↔05 to hunt [[fey-folk]] for trophies.
 - **Two chapters already depend on realm-09.** [[chapter-05]] ends with the champions stepping through
   the gate into it; [[chapter-06]] is set there, meets Gill, and recruits him.
 - What is settled about them: they are **not at war with anyone in the present**; their gate to
@@ -50,6 +53,10 @@ _What is already written down. Link it, do not restate it._
 - The story hooks already exist and point at them hard: [[wraith-delahaye]] is trying to get home to
   realm-06 to kill [[captain-d-artigue]]; [[the-pirate-institute-war]]; [[tortuga]]; and
   [[chapter-07]] puts Delahaye one realm away.
+- **Free will protects against glitches** ([[continuity-glitches]]): [[captain-leon]] seems protected
+  and keeps more of his gameplay abroad, and a glitch forced on a character in realm-06 makes them aware
+  and protected. The Pirates' story now carries part of the end game ([[the-eleventh-realm-endgame]]).
+- The Fey Folk are being hunted by [[weresnake-taz]] through the 09↔05 gate.
 
 ## Not yet written down
 

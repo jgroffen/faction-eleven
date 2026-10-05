@@ -120,6 +120,7 @@ anyone.
 - [[the-four-gods]] — the pantheon and the argument.
 - [[the-four-developers]] — what he actually is.
 - [[xipe-totec-the-red]] — his opposite, and the other half of the answer.
+- [[weresnake-taz]] — the carrier of the Red's power chosen from his games.
 - [[the-secret-society-system]] — what he actually built.
 - [[the-guardians-of-night]] — his system's output, running unsupervised.
 - [[val]] — the instance it produced.

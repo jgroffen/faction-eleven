@@ -63,7 +63,7 @@ mechanics is outstanding.
 | [[mystics]] | [[mystics-isometric-action-rpg]] — isometric action RPG, simple 2D | settled as a style; systems specified, values not tuned |
 | [[fey-folk]] | Bullet-hell / 1941 | **unconfirmed**, explicitly not locked down |
 | [[pirates]] | [[pirates-open-exploration]] — open world with 4X elements; freedom built in | settled as a style, content not yet filled in |
-| [[werebeasts]] | RPG | **unconfirmed** |
+| [[werebeasts]] | [[werebeast-pack-hunt]] — pack hunting large monsters; semi-turn-based on the Mystics' isometric base | settled as a style; systems not specified |
 | [[the-damned]] | [[damned-undead-kingdom-rts]] — with [[wraith-memory-puzzle]] as a recruitment minigame | settled |
 | [[aliens]] | Choplifter / Metroid-like | **unconfirmed** |
 

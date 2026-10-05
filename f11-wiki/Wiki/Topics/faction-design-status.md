@@ -30,7 +30,7 @@ record.
 | 04 | [[mystics]] | **deep** | [[mystics-isometric-action-rpg]] ✅ systems, values untuned | substantial: realm, village, caves, economy, [[the-graceful-servants]] and [[the-harvesting-of-the-werebeasts]] |
 | 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | **a role, not a story**: one of the three old invader realms |
 | 06 | [[pirates]] | thin — leave | **settled** — [[pirates-open-exploration]]: open world with 4X elements, freedom built in; content unfilled | **a war**: nearly wiped out by the Institute ([[the-pirate-institute-war]]); their dead First Mate is the Damned's protagonist |
-| 09 | [[werebeasts]] | thin — leave | unconfirmed | **a role**: old defensive ally, not at war in the present, farmed by the [[mystics]]; its gargoyles are the only intact set, held in stasis — [[chapter-06]] is set in its realm |
+| 09 | [[werebeasts]] | thin — leave | [[werebeast-pack-hunt]], style only | **a role**: old defensive ally, not at war in the present, farmed by the [[mystics]]; its gargoyles are the only intact set, held in stasis — [[chapter-06]] is set in its realm |
 | 08 | [[the-damned]] | thin — leave | **settled** — [[damned-undead-kingdom-rts]], with [[wraith-memory-puzzle]] as its wraith-recruitment minigame | **substantial role**: co-made the gargoyles, [[val]] is theirs, in the waves attacking the Celestials; protagonist's arc settled, her death and unfinished business known ([[the-pirate-institute-war]]) |
 | 10 | [[aliens]] | thin — leave | unconfirmed | partial |
 

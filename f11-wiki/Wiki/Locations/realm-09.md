@@ -39,7 +39,8 @@ See [[the-wheel-of-realms]].
 **Its gate to [[realm-03]] is closed**, and realm-09 is not fighting anybody
 ([[werebeasts]]). Its gargoyles — the only intact set in the game — are in **stasis**, and the
 [[mystics]] are coming through the 04↔09 gate to capture werebeasts for Reagents
-([[the-harvesting-of-the-werebeasts]]).
+([[the-harvesting-of-the-werebeasts]]). **Its gate to [[realm-05]] is open**: [[weresnake-taz]]
+unsealed it to hunt Fey Folk, and realm-09's own barrier lets her through.
 
 ## Set Here
 

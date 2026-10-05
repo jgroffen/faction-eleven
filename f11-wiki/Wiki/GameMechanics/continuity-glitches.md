@@ -152,8 +152,8 @@ someone who has been in two places, so the mechanic that braids the ten stories 
 that makes the mystery detectable. Nothing extra needs building to surface them — they surface when
 the player does what the game already asks.
 
-**Most characters cannot see them; the player always can.** No character in any realm knows they are
-in a game, and every one of them explains what they meet through their home realm's Setting Statement
+**Most characters cannot see them; the player always can.** Ordinary characters in every realm do not
+know they are in a game, and each of them explains what they meet through their home realm's Setting Statement
 ([[the-setting-statement]]) — so ordinary inhabitants absorb a rewrite completely and behave as though
 the new continuity was always the case. The player holds ten realms
 at once. This is the same asymmetry the game already uses in [[the-smashing-of-the-gargoyles]], where
@@ -170,17 +170,27 @@ list includes a chapter-one protagonist:
 - **Object reading.** The [[wraith-delahaye]]'s [[wraith-object-reading]] sometimes returns code comments and
   commit messages instead of an object's history, and the Wraith flickers with ASCII in her eyes
   while it does — a leakage glitch carried on the protagonist's own body. She is not self-aware when
-  it happens; awareness that the glitches carry information comes slowly, and she never learns what
-  the information is.
+  it happens at first; awareness that the glitches carry information comes slowly — until
+  [[chapter-07]], when she inspects a lich and comes to see the glitches as corruption of reality
+  caused by the gods' interference. She still does not know what they mean, but she **stops
+  glitching** ([[wraith-delahaye]]).
+- **Free will.** Pirate characters carry free will as built-in code, the third code-aware exception
+  ([[the-setting-statement]]). [[captain-leon]] seems protected from glitching, even notices the
+  glitches, and keeps more of his Pirate gameplay in other realms than other characters do.
 
-**What a character does with glitch information is fit it into game logic.** The Wraith and every
-other character who receives it will explain it in their realm's own terms — most often as
+**What a character does with glitch information is fit it into game logic.** The Wraith before her
+awakening, and every other character who receives it, will explain it in their realm's own terms — most often as
 **messages from the gods.** That is [[the-setting-statement]] doing its job: a commit message read
 in-world is an oracle.
 - **The liches** are the only ones who both see *and* explain, and they present real knowledge of the
   realms' infrastructure as **ancient eldritch lore** ([[the-lich-experiment]], [[the-void]]). They
   are also the only characters a retcon cannot reach, so they are the one place the player can find
   an unedited account of anything.
+
+**The Pirate realm protects.** [[wraith-delahaye]] eventually works out that it is Pirates, and
+[[realm-06]], that protect characters from glitching — and that **forcing a glitch on a character
+while they are in realm-06**, where they inherit free-will mechanics, makes them aware of the glitches
+and protected from them.
 
 **Seeing, understanding and self-trust are three different things**, and no character has all three
 — the ladder is set out in [[a-heal-is-a-patch]]. That is what keeps the witnesses from short-circuiting

@@ -93,9 +93,18 @@ That the one demonstrably awake faction is also the game's most repellent — co
 gate-breaching, looting a neighbour — is the point and worth protecting. So is the reason they are
 repellent: a thing that has understood it is owned, and gone into the dark to avoid its owners.
 
+## Read By The Wraith
+
+**In [[chapter-07]] [[wraith-delahaye]] inspects a lich**, and it is the turning point of her story.
+A lich carries real knowledge of what the gods are and of the systems beneath the world, and her
+[[wraith-object-reading]] takes it in directly, without the eldritch costume. She comes away knowing
+that the gods are people who make and fight over the realms, and that they act on them through
+systems — and, because she carries free will, she stops glitching.
+
 ## Ties
 
 - [[tezcatlipoca-the-black]] — who built them, and does not know what they became.
+- [[wraith-delahaye]] — who reads one, and comes away awake.
 - [[the-damned]] — whose liches these are.
 - [[the-void]] — what they found while looking for somewhere to hide.
 - [[the-setting-statement]] — the rules they can read and everyone else lives inside.

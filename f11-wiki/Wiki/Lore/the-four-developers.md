@@ -94,10 +94,10 @@ company and take ownership**, and both agreed.
 
 **Nobody here was a stranger.** The studio was assembled out of existing friendships:
 
-| Pair | How |
-|---|---|
-| [[tezcatlipoca-the-black]] ↔ [[quetzalcoatl-the-white]] | worked together previously, became friends |
-| [[quetzalcoatl-the-white]] ↔ [[xipe-totec-the-red]] | worked together previously, became friends |
+| Pair                                                      | How                                        |
+| --------------------------------------------------------- | ------------------------------------------ |
+| [[tezcatlipoca-the-black]] ↔ [[quetzalcoatl-the-white]]   | worked together previously, became friends |
+| [[quetzalcoatl-the-white]] ↔ [[xipe-totec-the-red]]       | worked together previously, became friends |
 | [[tezcatlipoca-the-black]] ↔ [[huitzilopochtli-the-blue]] | worked together previously, became friends |
 
 **This is why the alignments fall the way they do.** The Red standing behind the White and the Blue
@@ -120,13 +120,13 @@ a ranking but a history. Every later fact sits on it:
 
 **The two seniors are a craft complementarity, and it is the older of the two balances:**
 
-|  | The Black | The White |
-|---|---|---|
-| Adopts | early — bleeding edge, tinkering | late — known, well-understood approaches |
-| Learns | by playing with it | deeply, patterns first |
-| Strength | **has the ideas** | deep-dives implementations, course-corrects architecture, plans complicated ideas through to completion |
-| Fails by | starting many things, stabilising and finishing none | slow to change, slow to adopt anything new |
-| Net | **would never have finished it** | **would never have started it** |
+|          | The Black                                            | The White                                                                                               |
+| -------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Adopts   | early — bleeding edge, tinkering                     | late — known, well-understood approaches                                                                |
+| Learns   | by playing with it                                   | deeply, patterns first                                                                                  |
+| Strength | **has the ideas**                                    | deep-dives implementations, course-corrects architecture, plans complicated ideas through to completion |
+| Fails by | starting many things, stabilising and finishing none | slow to change, slow to adopt anything new                                                              |
+| Net      | **would never have finished it**                     | **would never have started it**                                                                         |
 
 **Neither of them could have made this alone**, and both know it. That is the fact underneath the
 friendship, and it is why the ancient enmity the scriptures record is a misreading rather than an

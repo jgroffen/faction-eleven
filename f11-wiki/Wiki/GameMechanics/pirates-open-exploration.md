@@ -55,6 +55,13 @@ case is [[wraith-delahaye]]: a Pirate First Mate, dead a thousand years, recruit
 her. **Her "power of will" cannot fail because it is not will; it is this mechanic**, and the RTS
 **freezes** when she breaks out.
 
+**Freedom protects against glitches.** A Pirate abroad is not wholly translated into the other
+realm's terms, so a Pirate glitches less: [[captain-leon]] seems protected from glitching, notices the
+glitches, and keeps more of his Pirate gameplay in other realms than other characters keep of theirs.
+And **a glitch forced on any character while they are in [[realm-06]]**, where they inherit
+free-will mechanics, makes them aware of the glitches and protected from them
+([[continuity-glitches]]).
+
 ## Why It's Fun
 
 Not yet defined for the realm itself. For the game as a whole: it makes a Pirate the one kind of
@@ -75,7 +82,7 @@ every host game on contact is unplayable; one that never bites is not a mechanic
 - Whether freedom is a property of the *player* in realm-06 (the game permits anything) or of
   Pirate *characters* (they resist other games' control) — the material says both.
 - What freedom does to the other realms' styles when [[captain-leon]] or another Pirate visits
-  them — Delahaye is the only case so far.
+  them, beyond Leon keeping more of his own gameplay.
 - Whether it applies to the Wraith only once she has recovered enough of her Pirate self, or from
   the moment she wakes.
 

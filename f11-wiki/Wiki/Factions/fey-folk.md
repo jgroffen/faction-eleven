@@ -30,7 +30,8 @@ Not yet established — neither the game description nor the story exists.
 
 ## Standing
 
-No relationships to other factions recorded.
+No faction is at war with them. **They are being hunted**, though: [[weresnake-taz]] of the
+[[werebeasts]] opened the 09↔05 gate with [[the-red-power]] to take Fey Folk as trophies.
 
 ## Faction Classes
 

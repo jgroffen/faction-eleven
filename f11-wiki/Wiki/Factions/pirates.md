@@ -30,7 +30,9 @@ Little is established. Their protagonist is [[captain-leon]] — **Leon** — a 
 that **lets players do what they want**, and **freedom is a built-in mechanic** of the realm and of every Pirate
 character. It travels: a Pirate active in another realm's game carries a property that game may have
 no rule for, and [[wraith-delahaye]] breaking out of the Damned's recruitment — and freezing their
-RTS — is the worked case ([[damned-undead-kingdom-rts]]). What the realm's open world
+RTS — is the worked case ([[damned-undead-kingdom-rts]]). Freedom also **protects against glitches**:
+Pirates glitch less abroad, and a glitch forced on a character inside realm-06 makes them aware of
+the glitches and protected from them ([[continuity-glitches]]). What the realm's open world
 consists of beyond that is not yet established; the commander role and the 4X elements imply a
 faction played at fleet scale.
 

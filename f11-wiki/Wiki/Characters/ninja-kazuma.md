@@ -72,8 +72,8 @@ training, with lore-building and the shrine ([[chapter-based-release]]).
 
 ## Ties
 
-He carries [[the-red-power]], the same gift [[xipe-totec-the-red]] gave [[val]] and the Mystic
-[[coruscate]].
+He carries [[the-red-power]], the same gift [[xipe-totec-the-red]] gave [[val]], the Mystic
+[[coruscate]] and the Weresnake [[weresnake-taz]] — one carrier per developer.
 
 [[mifix]] is the Ninja's companion and mentor, awake and teaching the family for
 generations — and the reason the Ninja survives everything except a boss fight. In

@@ -185,6 +185,7 @@ and the paper is where the player finds every single clue.
 ## Ties
 
 - [[the-continuity-system]] — the White's first layer, which prevents rather than absorbs.
+- [[wraith-delahaye]] — who, after inspecting a lich, reads this engine as an avatar the gods spawned to act on the realms ([[chapter-07]]).
 - [[continuity-glitches]] — where the engine fails, and what the player does about it.
 - [[the-four-gods]] · [[the-four-developers]] — whose changes it is absorbing.
 - [[the-gate-guardian]] — the worked example, live from chapter one.

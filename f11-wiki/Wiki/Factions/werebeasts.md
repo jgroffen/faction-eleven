@@ -20,7 +20,8 @@ enemies:
 # The Werebeasts
 
 **Not at war with anyone in the present.** Their gate to the [[celestials]] is closed, and
-[[the-guardians-of-night]] never reached them. Their protagonist is [[werewolf-gill]].
+[[the-guardians-of-night]] never reached them. One of their own is out **hunting**: [[weresnake-taz]]
+opened the gate to the [[fey-folk]] with [[the-red-power]] to take Fey Folk as trophies. Their protagonist is [[werewolf-gill]].
 
 **And they are being robbed.** The [[mystics]] are running incursions into [[realm-09]], capturing
 werebeasts and harvesting them for Reagents, because a werebeast yields an inordinate amount
@@ -31,7 +32,9 @@ werebeasts and harvesting them for Reagents, because a werebeast yields an inord
 
 ## Identity
 
-Not yet established — neither the game description nor the story exists.
+**Game style: [[werebeast-pack-hunt]]** — pack hunting large monsters for trophies. [[werewolf-gill]]
+leads parties of up to five on the Mystics' isometric base, semi-turn-based, with every werebeast
+in a specialised role set by their faction class. The faction's story does not exist yet.
 The death mechanic is characterful: on death the Werewolf **reverts to a puppy or baby for a
 while**, which reads as a growth/regression system rather than a straight respawn.
 
@@ -71,11 +74,11 @@ website, recorded as the last written state and not as confirmed current design.
 
 | Class         | Faction class |                                                                                |
 | ------------- | ------------- | ------------------------------------------------------------------------------ |
-| Commander     | Wendigo       | Half human, half monster.                                                      |
+| Commander     | Weresnake — [[weresnake-taz]] | —                                                                     |
 | Front Liner   | [[werewolf-gill]]  | Defenders of the pack. **← protagonist**                                       |
 | Heavy Weapons | Werebear      | Unstoppable powerhouse.                                                        |
 | Infiltrator   | Werebird      | Cunning reconnaissance.                                                        |
-| Medic         | Mermaid       | Grows legs when they leave the water. Their blood is a powerful healing agent. |
+| Medic         | Werefox       | —                                                                              |
 | Specialist    | Werecat       | I can haz item? Kthxbye!                                                       |
 
 The faction's own one-line description on that site: *"Shapechanging eco-terrorists."*
@@ -88,7 +91,7 @@ The faction's own one-line description on that site: *"Shapechanging eco-terrori
 
 ## Open
 
-- **Their identity, story and game style**, none of which exist yet.
+- **Their identity and story**, neither of which exists yet.
 - Whether the stasis on their gargoyles can be undone, and by whom ([[the-graceful-servants]]).
 
 ## Notes

@@ -74,7 +74,7 @@ alliance; this is where being an alliance costs something.
 
 | Faction | Form | Game style | What they do |
 |---------|------|-----------|--------------|
-| [[werebeasts]] | **lead** | ❌ **RPG — unconfirmed and undesigned** | [[werewolf-gill]] met and recruited; the stasis discovered |
+| [[werebeasts]] | **lead** | [[werebeast-pack-hunt]] — style settled, systems undesigned | [[werewolf-gill]] met and recruited; the stasis discovered |
 | [[mystics]] | major | [[mystics-isometric-action-rpg]] ✅ | Voisin commits to the gargoyles and to finding out what the Servants want |
 | [[green-skins]] | travelling | visitor | Granite gets the answer he came for, and it is worse than the question |
 | [[institute-of-eight]] | travelling | visitor | the Ninja turns toward the Aliens with the egg he has been carrying |

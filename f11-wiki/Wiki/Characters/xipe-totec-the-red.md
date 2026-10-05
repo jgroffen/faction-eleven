@@ -40,7 +40,7 @@ innovate — and she deliberated for a thousand years while it happened. When sh
 was **right, and she was late**, and the realms she wanted to save had already been hollowed out.
 
 And what she built was characteristic: not a blunt reopening of the gates but a small, elegant,
-precisely targeted thing — [[the-red-power|one power]] placed in **three specific people** to
+precisely targeted thing — [[the-red-power|one power]] placed in **four specific people** — one in each developer's games, chosen deliberately — to
 unseal **specific** gates to compatible neighbours, and nothing more than gates — never the
 barriers behind them. Beautifully scoped. It still started a war, because an elegant change
 released into a system nobody else knew you had touched is still an unreviewed change.
@@ -87,8 +87,8 @@ balance each other instead of arguing about them.
 
 ## Her Power, Still Walking Around
 
-Three of the game's characters carry [[the-red-power|her work]], and none of them knows what it
-actually is:
+Four of the game's characters carry [[the-red-power|her work]], one per developer, and none of them is
+known to understand what it actually is:
 
 - [[ninja-kazuma]] strikes [[the-gate-guardian]] with it, fails to hurt the boss, and **cracks the gate**
   behind it — the first opening in the multiverse's silence ([[the-cracked-gate]]).
@@ -99,8 +99,10 @@ actually is:
 - [[coruscate]], a [[mystics|Mystic]], manifests it as *dispelling* a seal rather than forcing or
   unlocking one, and has opened two gates out of [[realm-04]] — one allied, as intended, and one to
   the [[werebeasts]] for a harvest ([[the-graceful-servants]]).
+- [[weresnake-taz]], a [[werebeasts|Werebeast]] from the Blue's games, has opened [[realm-09]]'s gate to
+  the [[fey-folk]] — to hunt them for trophies.
 
-**All three carry the same gift, scoped identically: it opens a sealed gate and nothing else.** None
+**All four carry the same gift, scoped identically: it opens a sealed gate and nothing else.** None
 of them can touch a [[the-realm-barriers|realm barrier]] with it — that lock belongs to a different
 key entirely. The Liches of [[the-damned]] never need one: they cross between realms without gates
 ([[the-void]]).
@@ -132,5 +134,5 @@ have since stagnated for want of anyone willing to change them.
 - [[huitzilopochtli-the-blue]] — her opposite, and the other half of the answer.
 - [[quetzalcoatl-the-white]] — the senior she aligns with, until she loses patience with him.
 - [[the-red-power]] — what she gave, and its scope.
-- [[ninja-kazuma]] · [[val]] · [[coruscate]] — the three she imbued.
+- [[ninja-kazuma]] · [[val]] · [[coruscate]] · [[weresnake-taz]] — the four she imbued, one per developer.
 - [[the-cracked-gate]] — what her power produced, by accident.

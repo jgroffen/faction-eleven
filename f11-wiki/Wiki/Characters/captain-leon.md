@@ -32,7 +32,11 @@ whether that means anything in-fiction is not established.
 
 ## Character
 
-Not yet established.
+Not yet established beyond one trait. **He seems protected from glitching** — he even notices the
+glitches — and he **keeps more of his Pirate gameplay in other realms** than other characters keep of
+theirs. That is Pirate free will at work ([[pirates-open-exploration]], [[continuity-glitches]]), and
+[[wraith-delahaye]] noticing it is how she works out that Pirates and the Pirate realm protect
+characters from glitching.
 
 **Death mechanic:** pay the ferryman, losing booty.
 

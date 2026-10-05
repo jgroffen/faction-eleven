@@ -3185,3 +3185,66 @@ them first the Guardians' system reasoning it out for her?**
 - **Val knows how gargoyles work, completely** — barriers, shields, breaches, waking. Smashing them
   before breaking the fortifications was her own informed choice, not luck or the system reasoning for
   her.
+
+### Round 69 — 2026-10-03
+
+**Notes handed over by the author (verbatim):**
+
+> - Werewolf gameplay is themed on pack hunting large monsters. Gill will organise parties of up to five including himself to plan, hunt, and battle big monsters for trophies. Will leverage the mystics isometric gameplay but will be semi-turn based where the player can pause at any time and adjust party orders. Other werebeasts will have highly specialised roles aligning with their faction class / character class.
+> - Lets simplify the werebeast faction classes. Replace Wendigo with Weresnake and Mermaid with Werefox
+> - I will update the number of characters with the Red Power to four - and it will be one per dev. White=Ninja, Black=Val, Red=Coruscate, Blue=A new NPC - a Weresnake called Tazhra the Unblinking often shortened to Taz. The Red set the power granting code to grant to one character of a game from each dev's intentionally.
+> - Taz has opened the gate to the Fey realm so she can hunt Fey Folk - mythical beasts make for great trophies.
+> - There will be a turning point in the game where Delahaye inspects a lich and discovers much more about the reality of the realms - revealing this to the player as well. She works out that the Gods are actually people that have the power to create and manipulate the realms, that they sometimes work together and sometimes fight, that there is a big fight going on about what to do about the instability of the realms that they call games - making Delahaye think that they are playthings of the gods who treat her reality as a game. Delahaye becomes aware of the glitches - not knowing what they mean but seeing them as corruption of reality caused by interferance of the gods. She also starts to understand how the gods interfere - they spawn avatars that act on the realms on the gods behalf - these are systems like the continuity system and ret--conn engine. She can't get other champions to see what she sees as they are forced to interpret reality through the lens of the game setting statements for the realm they are from, but also the realm they are currently in (which is a congruency that causes glitches). Delahaye stops glitching once she realises this - she is special because she is a pirate character with code for free will, reborn as a character from another realm which has an ability to inspect items and understand them intimately.
+> - At some point Delahaye works out that it's Pirates and the Pirate Realm that seems to protect characters from glitching. She notices that Captain Leon seems protected from glitching, even noticing the glitches ... and he seems to keep more of his Pirate gameplay when he is in other realms than other characters. They will eventually work out that forcing a glitch on a characther when they are in the Pirate realm where they inherit free-will mechanics can make the character aware of and protected from the glitches.
+> - Other end-game ideas I'm considering:
+> -- The game starts hinting at an eleventh faction that is the cause of the glitches - the champions think they must collect together and face this eleventh faction - and work out how to get to the eleventh faction realm.
+> -- This eleventh faction and realm isn't a faction at all - it's the void between games that is a representation of the infrastructure and development systems that the games run on. Inhabitants of this realm are really the systems and engines that operate across the realms, and the developers themselves.
+> -- I'm thinking the champtions will have to 'defeat' the monstrous representations of the retconn and continuity systems - defeating these beasts can only happen in the eleventh realm and equates to computer characters trying to break software subsystems those characters interact with.
+> -- Breaking those systems really gets the attention of the devs - but the good game ending (I'm not sure I'll do branching gameplay / endings) will result in the Champions proving to the devs that if they are given enough agency and free-will they will self-regulate their realms and reality, and the games will stabilise and be a far better gameplay experiecne for it.
+> -- Opening the way to the eleventh realm will require collaboration between the champtions, a Glich Lich, and multiple holders of the red power, maybe all of them. This turns the gameplay into either defeating the other holders of the red power or recruiting them.
+
+**Q(r69-1) — The wiki says no character can become aware, and that Delahaye is not a third exception.
+How should her turning point be recorded?**
+
+> Free will is the third exception - and I think I should involve Mifix, Odie, and Autofix in the path
+> to full awareness and possibly influence
+
+**Q(r69-2) — Where does the lich-inspection turning point land?**
+
+> Chapter 7
+
+**Q(r69-3) — 09↔05 is an enemy gate with realm-09's barrier standing. How does Taz get through?**
+
+> Gargoyles let her pass — realm-09's gargoyles are loyal to werebeasts and don't treat a werebeast
+> leaving as a breach; the fortifications have a way through for locals.
+
+**Q(r69-4) — The end-game ideas clash with the recorded ending. Where should they go?**
+
+> Handover only — record the ideas and the clashes; compiled notes stay as they are until settled.
+
+## Notes For The Compiler — Round 69
+
+- **Werebeast game style: pack hunting large monsters.** Gill organises parties of up to five, himself
+  included, to plan, hunt and battle big monsters for trophies. Built on the Mystics' isometric game,
+  but semi-turn-based: the player can pause at any time and adjust party orders. Other werebeasts have
+  highly specialised roles aligned to their faction class.
+- **Werebeast faction classes:** Commander is the **Weresnake** (was Wendigo); Medic is the
+  **Werefox** (was Mermaid).
+- **The Red Power has four carriers, one per developer**, by the Red's deliberate design of the
+  granting code: White → the Ninja, Black → Val, Red → Coruscate, Blue → **Tazhra the Unblinking
+  (Taz)**, a Weresnake NPC.
+- **Taz opened the 09↔05 gate to hunt Fey Folk** for trophies. Realm-09's gargoyles let her pass; the
+  barrier still stands.
+- **Delahaye's turning point, chapter 7:** she inspects a lich and learns the gods are people who
+  create and manipulate the realms, cooperate and fight, and are fighting over the instability of what
+  they call games. She sees the glitches as corruption caused by their interference, and the systems
+  (continuity system, retcon engine) as avatars acting for them. She cannot make the other champions
+  see it — they read reality through their home realm's Setting Statement and the current realm's,
+  and the clash is what glitches. She stops glitching once she realises. The player learns it with
+  her.
+- **Free-will code is the third code-aware exception**, after fixbots and liches.
+- **Pirates and the Pirate realm protect against glitching.** Leon seems protected, notices glitches,
+  and keeps more of his Pirate gameplay abroad. A glitch forced on a character inside realm-06, where
+  they inherit free will, makes them aware of and protected from glitches.
+- **Under consideration, handover only:** the eleventh-realm end game, and the fixbots' part in the
+  path to full awareness and influence.

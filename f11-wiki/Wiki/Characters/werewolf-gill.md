@@ -44,7 +44,10 @@ robbed — one of whom belongs to the faction doing the robbing.
 
 ## In-Game Role
 
-Player character. Front Liner archetype, RPG gameplay. Currency: Teeth.
+Player character. Front Liner archetype. Currency: Teeth.
+
+**Game style:** [[werebeast-pack-hunt]] — Gill organises parties of **up to five, himself included**,
+to plan, hunt and battle big monsters for trophies, pausing at any time to adjust the party's orders.
 
 ## Quests
 

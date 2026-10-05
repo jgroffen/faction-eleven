@@ -36,7 +36,8 @@ number, which is canon but is not what the people who live here call home.
 
 See [[the-wheel-of-realms]].
 
-Nothing else established.
+**Its gate to [[realm-09]] is open**, unsealed from the other side by [[weresnake-taz]], who comes
+through to hunt Fey Folk for trophies.
 
 ## Set Here
 

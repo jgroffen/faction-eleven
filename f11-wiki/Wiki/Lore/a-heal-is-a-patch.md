@@ -93,6 +93,7 @@ character has all three:
 | [[mifix]] | **yes** — code sight | partly | **no** — he has run too long and knows his own code is degraded | **failing slowly**, and has been for generations |
 | The liches | **yes** — AI self-awareness | **yes**, and they explain it | yes | indefinitely — they repair their own code ([[the-lich-experiment]]) |
 | [[gargoyle-granite]] | **yes** — an unedited memory, not code sight | no | yes | his memory is fixed; it does not decay, it only ages |
+| [[wraith-delahaye]] | **yes**, from [[chapter-07]] — free will | **partly** — the gods are people acting through systems; not what the glitches mean | yes | indefinitely — once she understands, she stops glitching |
 | Everyone else | no | — | — | — |
 
 **The last column is the one that costs something.** Every code-sighted witness in the game is

@@ -17,7 +17,7 @@ home: realm-04
 # Coruscate
 
 An **ancient Summoner** of the [[mystics]] and a member of [[the-graceful-servants]]. She is the
-**third carrier of [[the-red-power]]**, and she has used it twice — recently — to unseal two gates
+**carrier of [[the-red-power]] in the Red's own games**, and she has used it twice — recently — to unseal two gates
 out of [[realm-04]]: one to the [[werebeasts]], so her society could harvest them, and one to the
 [[celestials]].
 
@@ -25,7 +25,7 @@ out of [[realm-04]]: one to the [[werebeasts]], so her society could harvest the
 
 ## Name
 
-**Coruscate** — a flash of lightning. Female. She glows red when the power is in use, as all three
+**Coruscate** — a flash of lightning. Female. She glows red when the power is in use, as all four
 carriers do.
 
 ## Character
@@ -53,7 +53,7 @@ Both gates were unsealed **recently**. This is current business, not old history
 
 **She manifests the gift as *dispelling*** — a seal treated as a working that can be undone, rather
 than a wall to be forced ([[ninja-kazuma]]) or a lock to be turned ([[val]]). She and [[val]] have
-each used it twice; she is the only one of the three who appears to understand it as a technique.
+each used it twice; she is the only carrier known to understand it as a technique.
 
 **Her power alone was not enough.** [[the-red-power]] opens gates and has no purchase on a
 [[the-realm-barriers|barrier]]. Getting into realm-09 took a team: Coruscate for the gate, and
@@ -68,7 +68,7 @@ barrier with magic — which is why nothing was alerted — and to put the gargo
 ## Ties
 
 - [[the-graceful-servants]] — her society, and who acts on what she opens.
-- [[the-red-power]] — the gift, and the other two who carry it.
+- [[the-red-power]] — the gift, and the other three who carry it.
 - [[xipe-totec-the-red]] — its source, who gave it so that "compatible neighbours could reach each
   other again." She has used it for both things at once: **04↔03 is an allied gate**, exactly what the
   gift was for, and **04↔09 is the ring-opposite enemy gate**, exactly what it was not.

@@ -95,6 +95,7 @@ term the design has used all along turns out to be diegetic.
 ## Ties
 
 - [[quetzalcoatl-the-white]] — its author, and the first of his three stabilisation layers.
+- [[wraith-delahaye]] — who, after inspecting a lich, reads this system as an avatar the gods spawned to act on the realms ([[chapter-07]]).
 - [[tezcatlipoca-the-black]] — whose engine it exists to hold together.
 - [[the-retcon-engine]] — the second layer, and what happens when this one does not fire.
 - [[continuity-glitches]] — what the player sees when it does not hold.

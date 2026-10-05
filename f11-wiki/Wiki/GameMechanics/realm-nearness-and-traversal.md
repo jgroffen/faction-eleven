@@ -123,6 +123,9 @@ gate in the material now reads as one specific state on top of a network that wa
   recently** by [[coruscate]]'s Red Power. The 04↔09 barrier on realm-09's side is **intact and
   circumvented**; the 04↔03 gate sits inside [[celestial-tower]] under guard
   ([[the-harvesting-of-the-werebeasts]]).
+- The Werebeasts' gate to the Fey Folk (09↔05, enemy) — **unsealed** by [[weresnake-taz]]'s Red Power,
+  to hunt Fey Folk. Realm-09's barrier still stands; its gargoyles do not treat a werebeast leaving as
+  a breach, and the fortifications have a way through for locals.
 - Every other gate in the table — most of the twenty-five — has **no stated state at all** yet, and
   defaults to sealed.
 

@@ -138,11 +138,11 @@ manipulated realm is an invaded one. See [[gargoyle-granite]].
 - [[the-broken-barrier]] — what it was for.
 - [[gargoyle-granite]] — the one she failed to finish, and later tries to talk out of existing.
 - [[the-damned]] — her people, and the gargoyles' co-makers.
-- [[the-red-power]] — what she carries, and its two other carriers.
+- [[the-red-power]] — what she carries, and its three other carriers.
 - [[xipe-totec-the-red]] — whose power she carries.
 - [[huitzilopochtli-the-blue]] — whose system made her a founder.
 - [[ninja-kazuma]] — another carrier of the same power; neither knows the other carries it, though
-  they meet at the trial. A third carrier is the Mystic [[coruscate]].
+  they meet at the trial. The others are the Mystic [[coruscate]] and the Weresnake [[weresnake-taz]].
 - [[the-secret-society-system]] — what actually shaped her decisions, without her knowledge.
 - [[the-trial-of-the-last-gargoyle]] — where she hunts him down and loses the argument.
 - [[the-ambush-on-the-road]] — her assassins, and the wraith who stops them.

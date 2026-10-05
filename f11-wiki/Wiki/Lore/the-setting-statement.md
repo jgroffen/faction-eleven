@@ -92,10 +92,10 @@ player sees, the *tier* is how loudly, and the manifestation is what actually we
 Freezes and crashes are the hardest thing in the design to keep on the right side of the deniability
 rule, because they are what a real broken game does.
 
-## The Two Exceptions
+## The Three Exceptions
 
-Two kinds of entity are **code-aware** — their behaviour is not confined to what their Setting
-Statement can express. Both were built that way on purpose, and neither was built for this.
+Three kinds of entity are **code-aware** — their behaviour is not confined to what their Setting
+Statement can express. Each was built that way on purpose, and none was built for this.
 
 - **The fixbots.** Autofix and mini-fix bots repair by editing code, so they are code-aware
   underneath ([[a-heal-is-a-patch]]). It is what lets them see a retcon land, and it is what kills
@@ -106,13 +106,23 @@ Statement can express. Both were built that way on purpose, and neither was buil
   read both the engine and their own realm's Setting Statement — and they learned to bypass the
   engine's rules entirely ([[the-lich-experiment]]).
 
-**Neither exception is a way out.** One degrades and dies of what it knows; the other went and hid.
+- **Free will.** Pirate characters carry free will as built-in code ([[pirates-open-exploration]]),
+  so another realm's statement can never fully own them.
 
-**The [[wraith-delahaye]] is not a third exception.** Her [[wraith-object-reading]] sometimes returns raw code
-comments and commit messages, but she is not code-aware: her Setting Statement explains the reading
-the way it explains everything else, and she — like every character handed glitch information —
-fits it into game logic, most often as **messages from the gods.** Code reaching a character is not
-the same as a character reading code.
+**The first two are no way out.** One degrades and dies of what it knows; the other went and hid.
+**The third is the one that holds.** A character with free will who comes to understand what they are
+seeing stops glitching, and a glitch forced on a character inside [[realm-06]], where free will is
+inherited, makes them aware of the glitches and protected from them ([[continuity-glitches]]).
+
+**The [[wraith-delahaye]] is the worked case.** Her [[wraith-object-reading]] sometimes returns raw code
+comments and commit messages, and at first her Setting Statement explains them away as **messages
+from the gods.** Code reaching a character is not the same as a character reading code. Her free will
+is what lets her get past that: in [[chapter-07]] she inspects a lich, understands that the gods are
+people interfering with the realms through systems that act for them, and stops glitching.
+
+**Everyone else reads reality through two statements at once** — their home realm's and the
+realm they are standing in — and the clash between the two is a source of glitches. It is also why
+Delahaye cannot make the other champions see what she sees.
 
 ## Ties
 

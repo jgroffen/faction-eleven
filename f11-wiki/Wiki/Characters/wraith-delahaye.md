@@ -136,10 +136,40 @@ code comments, commit messages — and her power visibly glitches: an ordinary r
 This makes the Wraith one of the channels through which the reality of the four gods reaches the
 player ([[the-four-developers]]).
 
-**She does not know what she is holding.** She is not self-aware when she glitches at first;
-awareness that the glitches carry *information* comes slowly, and — like every other character
-handed glitch information — she fits it into game logic, most often as **messages from the gods**
-([[the-setting-statement]]). The player reads a commit message; the Wraith receives an oracle.
+**At first she does not know what she is holding.** She is not self-aware when she glitches;
+awareness that the glitches carry *information* comes slowly, and she fits it into game logic, most
+often as **messages from the gods** ([[the-setting-statement]]). The player reads a commit message;
+the Wraith receives an oracle.
+
+## The Turning Point
+
+**In [[chapter-07]] she inspects a lich**, and her reading goes deeper than anything she has touched
+before ([[the-lich-experiment]]). She works out — and the player learns with her — that:
+
+- **The gods are people**, with the power to create and manipulate the realms. They sometimes work
+  together and sometimes fight.
+- **There is a big fight among them** about what to do about the instability of the realms — which
+  they call **games**. So the realms are the gods' playthings, and her reality is something they treat
+  as a game.
+- **The glitches are real**, and she becomes aware of them. She does not know what they mean; she
+  sees them as **corruption of reality caused by the gods' interference** ([[continuity-glitches]]).
+- **The gods interfere through avatars** they spawn to act on the realms on their behalf — systems
+  such as [[the-continuity-system]] and [[the-retcon-engine]].
+
+**She cannot make the other champions see it.** They are forced to read reality through the Setting
+Statement of the realm they are from *and* of the realm they are currently in — and that clash is
+itself what makes glitches ([[the-setting-statement]]).
+
+**And she stops glitching once she realises it.** She is special twice over: a Pirate character
+with code for **free will** ([[pirates-open-exploration]]), reborn as a character of another realm
+whose ability is to inspect things and understand them intimately. Free-will code is the third kind
+of code-awareness in the game, after the fixbots and the liches.
+
+**Later she works out that it is Pirates, and the Pirate realm, that protect characters from
+glitching.** [[captain-leon]] seems protected, even notices the glitches, and keeps more of his
+Pirate gameplay in other realms than other characters keep of theirs. In the end they find that
+forcing a glitch on a character while they are in [[realm-06]] — where they inherit free-will
+mechanics — makes that character aware of the glitches and protected from them.
 
 ## Quests
 

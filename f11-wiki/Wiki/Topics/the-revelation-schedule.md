@@ -24,9 +24,15 @@ games and a studio's games have players ([[the-four-developers]]) — and none o
 character, a voice, or a thing the fiction refers to. The implication exists and stays out of reach.
 
 **That constraint is not a stylistic choice — it is a property of the characters.** No protagonist is
-aware they are in a game, and none can become aware: their code explains everything through their home
-realm's terms ([[the-setting-statement]]). So the ladders below are the player's, never a character's,
-and no rung on either can be delivered by someone in the fiction working it out.
+aware they are in a game, and almost none can become aware: their code explains everything through their home realm's terms, and through the terms of the
+realm they are standing in ([[the-setting-statement]]). So the ladders below are the player's.
+
+**The one exception is free will, and it delivers exactly one rung.** In [[chapter-07]]
+[[wraith-delahaye]] — a Pirate, carrying free-will code — inspects a lich and works out that the gods
+are **people** who create and manipulate the realms, who cooperate and fight, and who are fighting
+over the instability of what they call **games**. The player learns it with her. She gets to the edge
+of stage four and no further: to her the realms are the gods' playthings, not software written by four
+friends at a studio.
 
 The mystery unfolds along **two ladders at once**, and neither moves quickly.
 
@@ -95,7 +101,7 @@ of divine acts that only ever made sense as workplace disagreements.
 - [[continuity-glitches]] · [[the-ancient-language]] · [[wraith-object-reading]] — the channels the
   evidence arrives through. The last is the only one that shows a protagonist *failing* to hold the
   evidence: the [[wraith-delahaye]] reads dev-layer text and glitches, and the rule above still stands —
-  the player reads it; the Wraith slowly comes to know she is receiving *something*, and files it
+  the player reads it; the Wraith slowly comes to know she is receiving *something* — until a lich shows her where it comes from — and files it
   as messages from the gods.
 - [[the-retcon-engine]] — why the realms' own account is always coherent and always wrong.
 - [[the-setting-statement]] — why no character can reach the top of either ladder.

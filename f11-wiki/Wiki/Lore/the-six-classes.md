@@ -72,11 +72,11 @@ of *which* class each protagonist was drawn from, not of any faction lacking a r
 
 | Class | 06 [[pirates]] | 07 [[green-skins]] | 08 [[the-damned]] | 09 [[werebeasts]] | 10 [[aliens]] |
 |---|---|---|---|---|---|
-| Commander | **[[captain-leon]]** | Orc | Vampire | Wendigo | Grey |
+| Commander | **[[captain-leon]]** | Orc | Vampire | Weresnake | Grey |
 | Front Liner | Swashbuckler | Giant | Zombie | **[[werewolf-gill]]** | Thunder Lizard |
 | Heavy Weapons | Cannoneer | Minotaur | Demon | Werebear | Tripod |
 | Infiltrator | Quatermaster | **[[gargoyle-granite]]** | Mummy | Werebird | Martian |
-| Medic | Jester | Shaman | Necromancer | Mermaid | **[[squidling-calamari]]** |
+| Medic | Jester | Shaman | Necromancer | Werefox | **[[squidling-calamari]]** |
 | Specialist | First Mate | Troll | Wraith | Werecat | Feline |
 
 **Bold** = the faction's protagonist. Each faction note carries its own six with the taglines.

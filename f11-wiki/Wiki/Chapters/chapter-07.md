@@ -55,6 +55,11 @@ convincingly.
 4. **The Glitch Liches.** They see the machinery the world runs on, understand it, and present it as
    **ancient eldritch lore** — a costume rather than a lie, which makes them the game's most dangerous
    exposition ([[the-void]], [[continuity-glitches]]). *Liches cause glitches.*
+5. **[[wraith-delahaye]] inspects a lich.** The turning point of her story, and the player's: she works
+   out that the gods are people who create and manipulate the realms, are fighting over the instability
+   of what they call games, and act through systems such as [[the-continuity-system]] and
+   [[the-retcon-engine]]. She cannot make the others see it — and **she stops glitching**
+   ([[the-lich-experiment]]).
 
 ## Faction Balance
 
@@ -82,7 +87,8 @@ Tracked across all chapters in [[story-continuity-timeline]].
 **Also depends on chapter one**, which is unusual: the jar has been in the Ninja's pack since
 [[the-second-signal]] and nothing has referred to it since.
 
-**Sets up:** Delahaye's route onward to [[realm-06]] and [[captain-d-artigue]]; whatever the liches say;
+**Sets up:** Delahaye as the one champion who sees the glitches for what they are, and her later
+discovery that Pirates and [[realm-06]] protect against them; Delahaye's route onward to [[realm-06]] and [[captain-d-artigue]]; whatever the liches say;
 and the [[robots]] realm, which is still where Kazuma and [[mifix]] are trying to get.
 
 ## Open

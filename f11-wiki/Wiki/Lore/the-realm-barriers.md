@@ -99,7 +99,7 @@ started the war (03 [[celestials]], 04 [[mystics]], 05 [[fey-folk]]). The other 
 | [[realm-08]] [[the-damned]] | [[realm-04]] [[mystics]] | yes | **shield down**, every Damned gargoyle smashed; fortifications still in place, gate still sealed; guarded by the Minotaur until Val collects him, and seen by [[wraith-delahaye]] ([[the-search-of-the-frozen-map]]) |
 | [[realm-08]] | [[realm-03]] | yes | **shield down**; fortifications unstated |
 | [[realm-08]] | [[realm-02]] | no | **shield down**; fortifications unstated |
-| [[realm-09]] [[werebeasts]] | [[realm-05]] [[fey-folk]] | yes | **standing** |
+| [[realm-09]] [[werebeasts]] | [[realm-05]] [[fey-folk]] | yes | **standing** — the gate unsealed by [[weresnake-taz]], who passes because the barrier lets werebeasts through |
 | [[realm-09]] | [[realm-04]] | yes | **standing — and circumvented**, its gargoyles in stasis and its fortifications partly dismantled |
 | [[realm-09]] | [[realm-03]] | yes | **standing** — and the gate in front of it is closed ([[realm-nearness-and-traversal]]) |
 

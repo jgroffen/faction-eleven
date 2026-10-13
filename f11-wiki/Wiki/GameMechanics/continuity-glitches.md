@@ -111,6 +111,7 @@ accelerate ([[story-continuity-timeline]]). The register, in chapter order:
 | [[chapter-03]] | [[val]] notices the freeze; the engine rewrites her noticing and unfreezes the game ([[the-unfreezing-of-the-kingdom]]) | hard-retcon | the player, watching an NPC forget |
 | [[chapter-04]] | [[mifix]] tries to diagnose [[gargoyle-granite]] and glitches ([[the-diagnosis-of-the-last-gargoyle]]) | not decided | the party, who see it and name it |
 | [[chapter-04]] | The Mystics' character-creation screen refuses every class but Conjurer and picks her relic itself ([[the-ordinary-day-of-the-conjurer]]) | not decided | the player, as a refusal in the UI |
+| [[chapter-08]] | Werebeasts in [[realm-05]], combat in a realm with no combat mechanic, and Fell and Fey Beasts beheaded: zone 3's Fey and Fell Folk not knowing what to do, a lair won with no boss, a greyed select-screen slot with a corrupted portrait ([[the-beheading-of-the-fey-beasts]]) | not decided; permanent, as if Fey Beast code had been removed, and neither system can repair it | the player, as the Fey Beasts |
 
 Add to it as scenes are written; a chapter with no row is a chapter with a gap in the curve.
 

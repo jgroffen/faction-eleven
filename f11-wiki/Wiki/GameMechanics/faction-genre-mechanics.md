@@ -61,7 +61,7 @@ mechanics is outstanding.
 | [[celestials]] | [[celestials-hero-tower-defence]] | settled |
 | [[green-skins]] | [[gargoyle-stone-metroidvania]] | settled |
 | [[mystics]] | [[mystics-isometric-action-rpg]] — isometric action RPG, simple 2D | settled as a style; systems specified, values not tuned |
-| [[fey-folk]] | Bullet-hell / 1941 | **unconfirmed**, explicitly not locked down |
+| [[fey-folk]] | [[fey-ley-cleansing]] — cleansing corruption on isometric maps, no combat; on the Mystics' base | settled as a style; core loop specified, most skills and all values not |
 | [[pirates]] | [[pirates-open-exploration]] — open world with 4X elements; freedom built in | settled as a style, content not yet filled in |
 | [[werebeasts]] | [[werebeast-pack-hunt]] — pack hunting large monsters; semi-turn-based on the Mystics' isometric base | settled as a style; systems not specified |
 | [[the-damned]] | [[damned-undead-kingdom-rts]] — with [[wraith-memory-puzzle]] as a recruitment minigame | settled |

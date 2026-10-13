@@ -42,6 +42,13 @@ towards **freeing his own realm's gargoyles**, who [[the-graceful-servants]] put
 He is therefore the only protagonist recruited by people who arrived **because** his realm was being
 robbed — one of whom belongs to the faction doing the robbing.
 
+## The Fey Hunt
+
+**Gill knows [[weresnake-taz]] will hunt Fey Beasts if she can get through the gate, and he would too
+if he could.** [[conjurer-voisin]] says werebeasts hunting Fey Beasts is as bad as the Mystics
+hunting werebeasts, and they argue it out ([[chapter-08]]). He goes through the gate with the party
+anyway.
+
 ## In-Game Role
 
 Player character. Front Liner archetype. Currency: Teeth.
@@ -61,5 +68,6 @@ the only protagonist whose realm is a victim without being a combatant.
 
 - [[conjurer-voisin]] · [[gargoyle-granite]] — who he leaves realm-09 with ([[chapter-06]]).
 - [[the-graceful-servants]] — the Mystics harvesting his people.
+- [[weresnake-taz]] — the hunter he would join if he could.
 
 **Unconfirmed** — carried over from the earlier prototype.

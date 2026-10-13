@@ -36,7 +36,7 @@ consequence of one.
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | The stable eons         | Ten realms separate, reality stable, the Black's cycle **stalled**                                                                                            | —                                                                 | the condition the linking answers                                       |
 | **The Linking**         | The Black proposes connecting the realms and **wins the argument**; every gate opens ([[the-linking-of-the-realms]])                                          | **The Black**, with the room's agreement                          | [[sealed-interplane-gates]] exist to be sealed later                    |
-| [[the-war-of-the-six-realms\|The War of the Six Realms]] | [[green-skins]] and [[werebeasts]] raid; [[the-damned]] harvest the dead of other realms; [[celestials]], [[mystics]] and [[fey-folk]] ally and turn the tide | consequence                                                       | the horde every faction remembers, and nobody's account of why          |
+| [[the-war-of-the-six-realms\|The War of the Six Realms]] | [[celestials]] and [[mystics]] incur; [[werebeasts]] hunt in [[realm-05]]; [[green-skins]], [[the-damned]] and [[werebeasts]] ally; [[fey-folk]] back the Celestials and Mystics without fighting; [[the-damned]] harvest the dead | consequence                                                       | the horde every faction remembers, and nobody's account of why          |
 | The damage              | Over half the realms take permanent faults. The [[robots]]' is never repaired ([[no-machine-repairs-itself]])                                                 | consequence                                                       | the White's reason for defending what exists                            |
 | The gargoyles           | Necromancers of [[realm-08]] and shamans of [[realm-07]] build [[the-gargoyle-guardians]] out of their own dead; the war stops                                | **mortals** — the one time the four were argued out of a position | [[the-realm-barriers]], and the precedent the protagonists will need    |
 | **The Sealing**         | The White proposes closing the ways and **wins**; White, Red and Blue seal the gates together. The Black does not contest it ([[the-long-disconnection]])     | **The White, Red and Blue**                                       | the game's starting condition                                           |
@@ -66,22 +66,21 @@ Rolled up from the chapter notes. Cells are terse by design; follow the link for
 | **[[chapter-03]]** | [[green-skins]] · [[the-damned]] | [[green-skins]] lead · [[the-damned]] by story · [[institute-of-eight]] travelling · [[celestials]] small | [[the-search-of-the-frozen-map]] · [[the-stand-at-the-monastery]] (the war machine sighted) · [[the-trial-of-the-last-gargoyle]] (watched twice) · [[the-unfreezing-of-the-kingdom]] |
 | **[[chapter-04]]** | [[mystics]] | [[mystics]] ✅ · [[celestials]] · [[institute-of-eight]] · [[green-skins]] · [[robots]] by proxy · [[the-damned]] travelling | [[the-diagnosis-of-the-last-gargoyle]] · [[the-shadowing-of-the-ninja]] · [[the-ambush-on-the-road]] · [[the-ordinary-day-of-the-conjurer]] · [[the-answering-of-the-wand]] · [[the-convergence-at-the-monastery]] (the war machine arrives) |
 | **[[chapter-05]]** | [[celestials]] · [[mystics]] | [[celestials]] lead · [[mystics]] · [[institute-of-eight]], [[green-skins]], [[the-damned]] as visitors · [[robots]] by proxy | the war machine **captured** · [[the-first-meeting-of-the-realm-champions]] · the Celestials' counterattack begins · through [[celestial-tower]] and [[the-werebeast-caverns]] into [[realm-09]] |
-| **[[chapter-06]]** | [[werebeasts]] | [[werebeasts]] [[werebeast-pack-hunt]] · [[mystics]] · [[green-skins]], [[institute-of-eight]], [[the-damned]] travelling | [[werewolf-gill]] recruited · realm-09's gargoyles found in stasis · the champions split in two |
+| **[[chapter-06]]** | [[werebeasts]] | [[werebeasts]] [[werebeast-pack-hunt]] · [[mystics]] · [[green-skins]], [[institute-of-eight]], [[the-damned]] travelling | [[werewolf-gill]] recruited · realm-09's gargoyles found in stasis · the champions split in two · [[fey-ley-cleansing]] zones 1–2 open |
 | **[[chapter-07]]** | [[aliens]] | [[aliens]] ❌ no style · [[institute-of-eight]], [[the-damned]] travelling · [[robots]] by proxy | the gate to [[realm-10]] opened · the Glitch Liches · [[wraith-delahaye]] inspects a lich and stops glitching |
-| 8                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
+| **[[chapter-08]]** | [[fey-folk]] | [[fey-folk]] [[fey-ley-cleansing]] · [[werebeasts]] real-time in realm-05 · [[mystics]], [[green-skins]] travelling | [[the-beheading-of-the-fey-beasts]] · [[phoenix-ember]] guards the 09↔05 gate · Gill and Voisin argue · the Gargoyle's party follows [[weresnake-taz]] and rescues the Phoenix | TBD | TBD | none scheduled |
 | 9                  | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 | 10                 | —                      | —                                                                                                                   | — no chapter note                                                                                                         | —                                  | —      | —                                                                                 |
 
-**The target is 8–10 chapters with several faction arcs running per chapter.** Seven exist. Rows
-eight onward are placeholders for a shape, not a plan. The Templar's counterattack with the captured
+**The target is 8–10 chapters with several faction arcs running per chapter.** Eight exist. Rows
+nine onward are placeholders for a shape, not a plan. The Templar's counterattack with the captured
 war machine starts in chapter five and runs on into Damned-held land in his own realm; which chapter
 that lands in is not set ([[chapter-05]], [[damned-undead-kingdom-rts]]).
 
-**Gameplay coverage is the healthiest column.** Seven of ten styles are settled and, under
+**Gameplay coverage is the healthiest column.** Nine of ten styles are settled and, under
 [[realm-governs-game-style]], each is played by whoever visits the realm rather than by one faction
-— so [[realm-07]] is built once and played twice across chapters two and three. The chapter leads
-without a style are the [[werebeasts]] (chapter six) and the [[aliens]] (chapter seven)
-([[faction-design-status]]).
+— so [[realm-07]] is built once and played twice across chapters two and three. The one chapter
+lead without a style is the [[aliens]] (chapter seven) ([[faction-design-status]]).
 
 ## Glitch Budget
 

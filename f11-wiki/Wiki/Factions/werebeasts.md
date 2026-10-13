@@ -46,7 +46,8 @@ while**, which reads as a growth/regression system rather than a straight respaw
 
 They are the third realm of the
 old defensive alliance — with [[the-damned]] and the [[green-skins]] — invaded by the
-[[celestials]], [[mystics]] and [[fey-folk]] until [[the-gargoyle-guardians]] ended it. They have
+[[celestials]] and [[mystics]] until [[the-gargoyle-guardians]] ended it. Werebeasts were hunting in
+the [[fey-folk]]' realm from the start, which is why the Fey backed the other side. They have
 gargoyles of their own, loyal to [[realm-09]]. [[the-guardians-of-night]] meant to bring them into the war
 on the Celestials and never reached them.
 

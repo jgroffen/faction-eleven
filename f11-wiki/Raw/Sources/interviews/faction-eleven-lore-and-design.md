@@ -3248,3 +3248,282 @@ How should her turning point be recorded?**
   they inherit free will, makes them aware of and protected from glitches.
 - **Under consideration, handover only:** the eleventh-realm end game, and the fixbots' part in the
   path to full awareness and influence.
+
+### Round 70 — 2026-10-13
+
+**Grilling on the Fey Folk gameplay and history. The author's brief (verbatim):**
+
+> - Gameplay is you play as a powerful mythical creature called a Fey Beast that is a guradian of the Fey Folk using your mere presence to cleanse the world of the Fell Folk and their evil, corrupting influence called Fell Power. There are multiple zones each with a different enemy leader of the Fell Folk. Each zone has multiple maps, and each Map has a Ley Knot to clear corruption from. You don't fight so much as run around isometric maps clearing corruption. You clear corruption from a map by running over to where Fell Folk are spreading their corruption. Chasing off the Fell Folk will draw Fey Folk to spread Fey Power, pushing back the Fell Power. There are Ley Lines which overlap at Ley Knots - these Knots start corrupted as Hag Rings. Clearing a Hag Ring and occupying it will free the Ley Knot and Fey Folk will come along and fortify the Knot into a Fey Ring, winning the map. You have Health and Magic metres, Magic is restored by uncorrupted Ley Lines, and the Fey Folk will heal you slowly if you stand near them. The gameplay is balancing your health which Fell Folk will bring down with attacks, and expending Magic to clear corruption from the map, returning to your controlled area to recover. Each zone ends with a final map - A Fell Beast Lair - that is unlocked when each other map in the zone is cleared and the Ley Knots of the zone have been restored to Fey Rings. The ley lines will all lead to the lair which was placed on top of a Prime Knot. To defeat the Fell Beast that is guarding the corrupted Prime Knot the player must co-ordinate attacking the defending Fell Beast and his Fell Folk minions by keeping the ley lines clear of corruption and flowing with Fey Power to burn away the corruption, destroy the Fell Beasts' defences and finally clear corruption from a Prime Knot that the Fell Beast corrupted - feeding the Prime Knot with magic and standing on the Prime Knot once fully powered by the Ley Lines will destroy the Fell Beast. There will be six zones, and a Fell Beast that mirrors each of the Fey Beasts.
+> - We need to change the faction classes for the Fey Folk - Each faction class will now be a different Fey Beast; Unicorn, Phoenix, Hippogriff, Ent, Stag Lord, Moon Hound (based on Cŵn Annwn (white hounds): Welsh spectral hounds with red ears). Fairy's, Pixies, and Elves will become different kinds of Fey Folk that are like small, automatically controlled units. Other Fey Folk examples include Sprite, Brownie, Dryad. Fell Folk are Gremlins, Boggarts, Redcap, Bogle, Hags, Will-o'-the-wisps. Fell Beasts would be; Barghest, Banshee, Kelpie, Baobhan sith, Fomorian Ettin, Wyvern.
+> - The game will have a character selection screen. The player can pick any character and play as that character - gameplay will be pretty similar but each faction class will have different base stats like movement speed, max mana and health, mana and health regen rates, one passive and one active skill. We'll leave picking all the passive and active skills to a later grilling session, but the Phoenix will have 'Cleansing Fire' as an active skill and 'Rebirth' as a passive skill.
+> - The gameplay is intentionally simple - at some point the player will enter a zone where the Fell Beasts are barely active and there is only corruption to clear and very little Fell Folk to deal with. In the Lair of this zone the player will discover that the Fell Beast has already been killed - the head has been decapitated and taken. The player is returned to the Character Selection screen where they need to pick a different Fey Beast to play, and the one they were playing is no longer available.
+> - At some point the player will get attacked by a group of werebeasts - they will lose the fight and die due to the imablance of fighting in a game system that has no combat mechanics. The game will show a cutscene of the Fey Beasts' head being cut off and taken as a trophy by the Werebeasts. The exception will be the Phoenix who can fight back with Cleansing Fire and survive death. At some point the player will discover this and gameplay will turn to hunting the werebeasts, which will lead the player to the Gate the the Werebeast realm. I'm not sure what to do yet story-wise here, I think the Champions will come through to the Fey Folk land and the Phoenix is guarding the gate to keep Werebeast incursions from the Fey Folk realm.
+> - The presence of the Werebeasts and the death of the Fell Beasts and Fey Beasts by decapitation will cause glitches ... both are not supposed to be in direct combat or decapitated - Fell Beasts are normally overwhelmed by Fey Magic from the Prime Knot and expelled, and Fey Beasts can get overwhelmed by spreading corruption (the Ley lines are paths the Fey Beasts follow to progress in zones, if it gets corrupted all the way back to the start of the map the Fey Beast can be pushed back and need to start the map again) or run out of health where they will 'Die' but can restart from the character selection screen normally and still select that Fey Beast.
+
+**Q(r70-1) — Class slots: Stag Lord Commander, Ent Front Liner, Phoenix Heavy Weapons, Moon Hound
+Infiltrator, Unicorn Medic, Hippogriff Specialist?**
+
+> Agree
+
+**Q(r70-2) — Mirrors: Moon Hound↔Barghest, Unicorn↔Kelpie, Ent↔Fomorian Ettin, Stag Lord↔Baobhan sith,
+Hippogriff↔Wyvern, Phoenix↔Banshee?**
+
+> Agree, but the mirroring won't have an in-game concern I can think of. Any Fey Beast can clear the
+> Zone of any Fell Beast.
+
+**Q(r70-3) — Built on the Mystics' isometric base, no combat, real time?**
+
+> Agree, Werebeasts will have to content with real-time combat when in the Fey Folk Realm.
+
+**Q(r70-4) — Is the empty-lair zone and the werebeast attack one event or two?**
+
+> Different events - one zone will be overly easy to clear because the Fell Beast was dead already. The
+> Fey Beast the player is playing will die somewhere in the next zone. We may foreshadow this with
+> Werebeasts stalking the Fey Folk as they are careful hunters. I see you think each Fey Beast
+> selection also selects the Zone and Fell Beast - this is not the case. It's down to chance if the
+> player picks the Phoenix and survives the encounter with the Werebeasts or not. Once they get to that
+> zone they will die if they aren't the Phoenix.
+
+**Q(r70-5) — How does the player end up as the Phoenix?**
+
+> It's just chance, See Q4 answer. The player won't get to see a Fey Beast get beheaded if they happen
+> to be playing the Phoenix.
+
+**Q(r70-6) — The hunters are Taz and a pack she leads; Gill is not involved?**
+
+> Agree - it's a good way to introduce Taz too
+
+**Q(r70-7) — The Fey/Fell cycle is an endless loop the Red designed: Fell Beasts expelled not killed,
+Fey Beasts return at the select screen — so decapitation is the one thing it cannot undo?**
+
+> Agree
+
+**Q(r70-8) — Glitches: the lost beast's slot greyed with a corrupted portrait; the headless lair has no
+boss but can still be won; both in the Glitch Register, unrepairable?**
+
+> Agree - and the Zone with the dead Fell Beast has Fey and Fell folk behaving strangely, like they don't
+> know what to do anymore.
+
+**Q(r70-9) — Chapter 8, led by the Fey Folk; the half of the champions that didn't go to realm-10
+crosses 09→05 through Taz's gate with Gill; the Fey game plays before they arrive?**
+
+> Agree
+
+**Q(r70-10) — How did the Fey turn the tide of the War of the Six Realms with no combat?**
+
+> Even though they don't have a combat mechanic in their realm, the Fey Beasts are very powerful when in
+> other realms as they are programmed to be great powerful beasts. They are not inclined to leave their
+> realm though. Mystics work well with Fey Beasts because they can turn Fey Beast magic into reagents
+> without killinkg the Fey Beasts. The Mystics worked with the Fey Beasts to help protect their realm
+> from the Werebeasts and provide Reagent supplies to the Mystics, but didn't otherwise leave their
+> realm or engage in the war. Note that killing a Fey Beast causes corruption and destroys reagents, so
+> the Mystics were never incentivised to hunt the Fey Beasts.
+
+**Q(r70-11) — No one rules the Fey Folk; the Fey Beasts are their guardians, the Stag Lord first among
+them?**
+
+> Agree - Fey Folk are simple units with variation for flavour reasons only.
+
+**Q(r70-12) — Crystals grow at restored Fey Rings?**
+
+> Agree - A Fey Ring will generate crystals slowly over time. They are a way for Fey Folk to store and
+> move Magic. Mystics seek out these crystals as great sources of reagants as well - and is another
+> example of how the games cause imbalance between each other as the crystals are economy-breaking
+> similar to how reagents from killing Werebeasts is economy-breaking.
+
+**Q(r70-13) — The war note puts the Fey in the invader bloc. Correct it so the Fey were the raided side,
+defending at home and supplying the Mystics?**
+
+> agree - to go further, as the Fey Folk were supporting the Mystics and Celestials but don't engage in
+> combat they were seen as an easy way to curtail reagent supply to the Mystics, so Damned and Green
+> Skins joined with the Werebeasts in an incursion into the Fey Folk Realm. This is when the Damned
+> discovered that the corruption-cleansing mechanics of the Fey Folk work very effectively on The
+> Damned. Mystics and Celestials were the initial aggressors of the war with the Werebeasts performing
+> hunts into the Fey Folk realm. Once the Mystics and Celestials started attacks into the Werebeast,
+> Green Skin, and Damned realms these three realms formed an alliance. In response to this alliance the
+> Celestials and Mystics looked for allies and found the Fey Folk had good reason to support opposition
+> of the Werebeasts and so the Fey Folk started supporting the Celestials and Mystics.
+
+**Q(r70-14) — Realm-09 walled the Fey gate after a raid was routed by a Fey Beast; the Damned fear Fey
+Power because it cleanses necromancy?**
+
+> Agree, but also Celestials and Mystics could mount assaults through Fey Folk gates.
+
+**Q(r70-15) — Easy zone is zone 3 with werebeasts stalking its edges; the ambush is in zone 4, mid-map;
+after a death the player picks again and restarts zone 4?**
+
+> Agree
+
+**Q(r70-16) — After the Phoenix survives: zones 5 and 6 still cleansed, Taz's pack leaves
+glitch-corruption trails, Cleansing Fire drives them off, ending at the 09↔05 gate with the Phoenix
+guarding it?**
+
+> Agree - and the Champions including Gill will come through that gate - ultimately Ember will join the
+> champions but the details haven't been worked out yet
+
+**Q(r70-17) — The Phoenix only survives and holds the gate; Taz is seen on screen but not caught?**
+
+> Agree
+
+**Q(r70-18) — What do the champions play in realm-05?**
+
+> Realm 05 is more used for traversal between realms and as a stage for story events and encounters.
+> The Gargoyle's party will have a reason to go to the Fey Folk realm - they will have heard of Taz and
+> will discover while in the Werebeast realm that she has the Red Power - Gill knows Taz will hunt Fey
+> Beasts if she can get through the gate - Gill would hunt Fey Beasts too if he could. Gill and Voisin
+> will argue this point - Voisin states that the Werebeasts hunting the Fey Beasts is as bad as the
+> Mystics hunting the Werebeasts.
+
+**Q(r70-19) — The Phoenix attacks the champions on sight at the gate, the misunderstanding resolves, and
+Ember joins?**
+
+> Agree - I'm thinking that the Phoenix will route Taz's party back through the Werebeast gate. Taz will
+> work on a way to defeat the Phoenix - and will discover one. The Gargoyle team discuss and decide they
+> should capture Taz or otherwise stop her from using her Red Power as the Gargoyle and Voisin want to
+> ensure the old war isn't reignited and the best way to do that is to close the gates. They will
+> closely follow behind Taz's new group and will engage in the battle to rescue the Phoenix.
+
+**Q(r70-20) — The Mystics' Crystal trade was war-era and stopped with the sealing; a present risk only
+once 04↔05 reopens?**
+
+> Agree
+
+## Notes For The Compiler — Round 70
+
+- **Fey Folk game style: Ley cleansing.** Built on the Mystics' isometric base; real time; no combat.
+  The player is a **Fey Beast**, a guardian whose presence cleanses **Fell Power**. Six **zones**, each
+  with several **maps** and a **Fell Beast Lair** last. Each map has **Ley Lines** meeting at a **Ley
+  Knot** that starts corrupted as a **Hag Ring**; chase off Fell Folk, Fey Folk follow and spread Fey
+  Power; clear and occupy the Hag Ring and the Fey Folk fortify it into a **Fey Ring**, winning the map.
+  Health and Magic meters: Magic restores on clear Ley Lines, Fey Folk heal you slowly nearby. The lair
+  sits on a **Prime Knot**; keep the Ley Lines flowing to burn the Fell Beast's defences, then feed and
+  stand on the powered Prime Knot to destroy it. Normal failure: corruption pushed back along the Ley
+  Line to the map's start sends the beast back to restart the map; zero health "dies" and returns at
+  the select screen with the beast still selectable.
+- **Character select:** any Fey Beast; base stats differ (movement, max and regen of Health and Magic),
+  one passive and one active skill each. Phoenix: **Cleansing Fire** (active), **Rebirth** (passive).
+  Others deferred.
+- **Classes:** Stag Lord Commander, Ent Front Liner, Phoenix Heavy Weapons, Moon Hound (Cŵn Annwn)
+  Infiltrator, Unicorn Medic, Hippogriff Specialist.
+- **Fey Folk** are small automatic units, flavour variants only: Fairy, Pixie, Elf, Sprite, Brownie,
+  Dryad. No rulers; the Fey Beasts guard them, Stag Lord first among them. **Fell Folk:** Gremlins,
+  Boggarts, Redcap, Bogle, Hags, Will-o'-the-wisps. **Fell Beasts**, one per zone, mirroring the Fey
+  Beasts thematically only (any Fey Beast clears any zone): Barghest↔Moon Hound, Kelpie↔Unicorn,
+  Fomorian Ettin↔Ent, Baobhan sith↔Stag Lord, Wyvern↔Hippogriff, Banshee↔Phoenix.
+- **The loop is the Red's designed endless cycle**: Fell Beasts are expelled, not killed; Fey Beasts
+  return. Decapitation is the one thing it cannot undo.
+- **Crystals** grow slowly at Fey Rings — how Fey Folk store and move Magic. Mystics prize them as
+  Reagent sources; economy-breaking across games like werebeast Reagents. War-era trade; stopped with
+  the sealing; a risk again only if 04↔05 reopens.
+- **The Fey game's story:** zone 3 is overly easy — its Fell Beast already beheaded, Fey and Fell Folk
+  behaving like they don't know what to do; werebeasts stalk its edges. In zone 4, mid-map, Taz's pack
+  attacks; a non-Phoenix beast dies, a cutscene shows its head taken as a trophy, its select slot is
+  greyed with a corrupted portrait, and the player picks again and restarts zone 4. Which beast the
+  player picks is chance; only the Phoenix survives (Cleansing Fire, Rebirth) and a player who picks it
+  never sees a beheading. Then zones 5–6 continue with Taz's pack leaving glitch-corruption trails;
+  Cleansing Fire drives werebeasts off; the trail leads to the 09↔05 gate, where the Phoenix routs
+  Taz's party back through and guards the gate. Taz is seen, not caught. Glitches: werebeasts' presence,
+  combat in a no-combat realm, and beheadings.
+- **Chapter 8, Fey Folk lead.** Realm-05 is mostly for traversal and as a stage for story events. The
+  Gargoyle's party hears of Taz, learns in realm-09 she has the Red Power; Gill knows she'll hunt Fey
+  Beasts and would too; Gill and Voisin argue (Voisin: as bad as the Mystics hunting werebeasts). Taz
+  finds a way to defeat the Phoenix; the Gargoyle team decides to capture or stop her — the Gargoyle and
+  Voisin want the gates closed so the old war isn't reignited; they follow her new group through 09↔05
+  and fight to rescue the Phoenix. Ember ultimately joins the champions; details open. Werebeasts in
+  realm-05 contend with real-time combat.
+- **War of the Six Realms, corrected (the note was wrong):** Mystics and Celestials were the initial
+  aggressors; werebeasts hunted into realm-05. Mystic and Celestial attacks into 09, 07 and 08 made
+  those three ally; in response the Mystics and Celestials sought allies and found the Fey, who had
+  reason to oppose the werebeasts. The Fey supported them — protection at home, Reagent supply, and
+  Celestials and Mystics could assault through Fey gates — but never left their realm or fought. Fey
+  Beasts are very powerful in other realms but disinclined to leave. To cut the Mystics' Reagents the
+  werebeasts, Green Skins and Damned made an incursion into realm-05, and the Damned learned the Fey's
+  cleansing works very effectively on them. Killing a Fey Beast causes corruption and destroys Reagents,
+  so the Mystics never hunted them.
+
+**Q(r70-21) — How does Taz beat the Phoenix? Go after Rebirth: take the ashes before he re-forms?**
+
+> Agree, Taz retreats and plans how to defeat the Phoenix - a group that has high damage output and a
+> fast player to capture the ashes before the Phoenix can rebirth.
+
+**Q(r70-22) — Is Taz caught at the end of chapter 8?**
+
+> Agree, Taz will want the Phoenix - she interprets this as stealing her trophy that she won fairly, and
+> will start actively hunting the group once she regroups.
+
+**Q(r70-23) — Realm-09's gargoyles let werebeasts through. Closing 09↔05 hangs on Granite's question to
+them once freed, so the freeing comes after chapter 8?**
+
+> Agree
+
+**Q(r70-24) — Ember joins to see the gate closed and Taz stopped, uneasy with Gill?**
+
+> Agree - the Guardians will save Ember from Taz - if it weren't for this the Phoenix would not got trust
+> the group because of Gill.
+
+**Q(r70-25) — Chapter 8 structure: Fey game as a block, then the Gargoyle's party, meeting at the
+rescue?**
+
+> Other games can be played - switching between the various parties. Progress for the Gargoyle's group
+> in the Werebeast realm will be blocked until Taz fails to defeat the Phoenix and Ember is guarding the
+> gate. I would like to allow a little gameplay of the Fey Folk game earlier, but would need to ensure
+> the player doesn't go to the Zone with Taz's ambush somehow until it's time to play that zone in
+> Chapter 8.
+
+## Notes For The Compiler — Round 70 (continued)
+
+- **Taz's second attempt:** she retreats and plans a group with high damage output and a fast member
+  to capture the Phoenix's ashes before he can rebirth.
+- **Taz is not caught.** She wants the Phoenix, sees the rescue as stealing a trophy she won fairly,
+  and once she regroups starts actively hunting the champions' group.
+- **Closing 09↔05 hangs on realm-09's gargoyles**, who let werebeasts pass; Granite puts the question
+  to them once freed. The freeing comes after chapter 8.
+- **Ember joins because the party saved him from Taz** — otherwise he would not trust the group,
+  because of Gill. ("the Guardians will save Ember" — compiled as the Gargoyle's party, consistent with
+  Q(r70-19); to confirm.)
+- **Play structure:** the player switches between parties and their games. The Gargoyle's group's
+  progress in realm-09 is blocked until Taz has failed to defeat the Phoenix and Ember is guarding the
+  gate. Some Fey game play earlier is wanted, gated so the player cannot reach the ambush zone before
+  chapter 8 — mechanism open.
+
+**Q(r70-26) — "The Guardians" in Q24: the Gargoyle's party?**
+
+> Agree that I meant to say 'Champions' meaning the Gargoyle's party.
+
+**Q(r70-27) — Fey game zones 1–2 playable from chapter 6; zone 2 ends with zone 3's Fell Beast "gone
+quiet"; zone 3 opens in chapter 8?**
+
+> Agree
+
+**Q(r70-28) — Taz hunting the champions: across chapters, recruit-or-defeat at the end game?**
+
+> Over two chapters and three encounters I think - after the second encounter the Champions will have
+> realised they will need all members of the red power to access Realm 11 - make this a handover to
+> explore later.
+
+**Q(r70-29) — Name the other five Fey Beasts in the skills session?**
+
+> Agree - but lets do it in a later handover
+
+**Q(r70-30) — The taken heads are in Taz's trophy hall in realm-09 and cannot be put back?**
+
+> Perfect - why it's permanent as it's as if some of the Fey Beast code has been removed from the Fey
+> Folk realm.
+
+**Follow-up instruction (verbatim):**
+
+> Make Taz's trophy hall a location in the game - the players will need to go there at some point - to
+> confront / recruit Taz.
+
+## Notes For The Compiler — Round 70 (concluded)
+
+- "The Guardians" in Q(r70-24) means the champions — the Gargoyle's party.
+- **Early Fey play:** zones 1–2 of the Fey game are playable from chapter 6; clearing zone 2 ends with
+  the Fey Folk reporting zone 3's Fell Beast has gone quiet; zone 3 onward opens in chapter 8.
+- **Taz hunts the champions over two chapters and three encounters.** After the second, the champions
+  realise they need every Red Power carrier to reach realm 11 — **handover only**, to explore later.
+- **Naming the five other Fey Beasts** — a later handover, with their skills and stats.
+- **The heads are kept in Taz's trophy hall in realm-09 and cannot be restored**: it is as if some of
+  the Fey Beast code has been removed from the Fey Folk realm.
+- **Taz's trophy hall is a location** in realm-09; the players will have to go there at some point to
+  confront or recruit Taz.

@@ -63,12 +63,12 @@ of *which* class each protagonist was drawn from, not of any faction lacking a r
 
 | Class | 01 [[institute-of-eight]] | 02 [[robots]] | 03 [[celestials]] | 04 [[mystics]] | 05 [[fey-folk]] |
 |---|---|---|---|---|---|
-| Commander | Samurai | Tactical Cortex | **[[templar-will]]** | Oracle | Fairy |
-| Front Liner | Mercenary | Battlebot | [[knight-ermengarda]] | Summoner | Elf |
+| Commander | Samurai | Tactical Cortex | **[[templar-will]]** | Oracle | Stag Lord |
+| Front Liner | Mercenary | Battlebot | [[knight-ermengarda]] | Summoner | Ent |
 | Heavy Weapons | Sniper | MWP Killbot | Monk | Battle Mage | **[[phoenix-ember]]** |
-| Infiltrator | **[[ninja-kazuma]]** | Android | Reaper | Illusionist | Pixie |
+| Infiltrator | **[[ninja-kazuma]]** | Android | Reaper | Illusionist | Moon Hound |
 | Medic | Kami | **[[autofix-alto]]** | Angel | Witch Doctor | Unicorn |
-| Specialist | Secret Agent | Raptorbot | Exorcist | **[[conjurer-voisin]]** | Banshee |
+| Specialist | Secret Agent | Raptorbot | Exorcist | **[[conjurer-voisin]]** | Hippogriff |
 
 | Class | 06 [[pirates]] | 07 [[green-skins]] | 08 [[the-damned]] | 09 [[werebeasts]] | 10 [[aliens]] |
 |---|---|---|---|---|---|

@@ -90,6 +90,12 @@ allied-faction devices]] — the same class of object as [[the-wand]] in the Tem
 [[odie]]. That is why the Celestials' call reaches *her*, and she learns what she is holding only
 when she gets there ([[the-answering-of-the-wand]]).
 
+## The Fey Hunt
+
+**She holds werebeasts hunting Fey Beasts to be as bad as the Mystics hunting werebeasts**, and argues
+it with [[werewolf-gill]]. She and [[gargoyle-granite]] want the gates closed so the old war isn't
+restarted, which is why the party goes after [[weresnake-taz]] ([[chapter-08]]).
+
 ## In-Game Role
 
 Player character. Specialist archetype. Her realm plays as an **isometric action RPG**; her three

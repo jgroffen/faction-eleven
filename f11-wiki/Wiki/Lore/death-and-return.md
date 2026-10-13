@@ -33,7 +33,7 @@ game convention rather than ignoring it. **Lore only for now**, not a systems co
 | [[autofix-alto]] | A restore-bot, left outside of locations |
 | [[ninja-kazuma]] | A cut-scene: his child grows up, is trained, and replaces him |
 | [[conjurer-voisin]] | A **standby pool** of homunculi, starting at one and bought up to six. One comes and restores her where she fell; the last one instead carries her gear home and she reconstitutes at the cottage, refilling the pool ([[mystics-isometric-action-rpg]]) |
-| [[phoenix-ember]] | Reborn from ashes |
+| [[phoenix-ember]] | Reborn from ashes: **Rebirth**, his passive in [[fey-ley-cleansing]]. Every other Fey Beast "dies" back to the select screen and can be picked again, unless beheaded ([[the-beheading-of-the-fey-beasts]]) |
 | [[captain-leon]] | Pay the ferryman, losing booty |
 | [[werewolf-gill]] | Reverts to a puppy or baby for a while |
 | [[squidling-calamari]] | Beamed up and restored (unconfirmed) |

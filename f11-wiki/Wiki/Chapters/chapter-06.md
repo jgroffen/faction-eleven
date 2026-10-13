@@ -21,6 +21,7 @@ factions:
   - the-damned
   - robots
   - the-graceful-servants
+  - fey-folk
 quests: []
 ---
 
@@ -83,6 +84,8 @@ alliance; this is where being an alliance costs something.
 
 ## Content Load
 
+- **The Fey game's zones 1 and 2 open** ([[fey-ley-cleansing]]). Zone 2 ends with zone 3's Fell Beast
+  "gone quiet", the first hint of [[weresnake-taz]]'s hunt, which plays out in [[chapter-08]].
 - **[[realm-09]] and the [[werebeasts]]' game style**, which does not exist. One realm, as
   [[chapter-04]] carried one.
 - **A protagonist recruitment scene** for [[werewolf-gill]], who has no character written.
@@ -98,7 +101,8 @@ Tracked across all chapters in [[story-continuity-timeline]].
 [[templar-will]] absent with the war machine.
 
 **Sets up [[chapter-07]]:** the Ninja's party opening a gate into [[realm-10]] and finding the Glitch
-Liches. Further out: the freeing of realm-09's gargoyles and Granite's question to them; the
+Liches. **Sets up [[chapter-08]]:** the Gargoyle's party following [[weresnake-taz]] into
+[[realm-05]]. Further out: the freeing of realm-09's gargoyles and Granite's question to them; the
 investigation of the Servants' stockpile; and Delahaye's arrival in the Pirate realm, where
 [[captain-d-artigue]] is.
 

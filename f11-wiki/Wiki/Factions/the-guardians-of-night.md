@@ -117,7 +117,8 @@ around. Both are defending the realm; only one of them was allowed to choose wha
   ([[the-graceful-servants]]). Two societies, one author, no coordination.
 - [[fey-folk]] — **not attacked yet** — they are the plan's last target, and the reason is fear. The [[werebeasts]]' barrier facing them
   still stands, spared because the Guardians are commanded from [[realm-08]] and [[the-damned]] are
-  afraid of the Fey Folk. Somebody else's fear is why realm-09's gargoyles survived.
+  afraid of the Fey Folk, whose cleansing works very well on them, as they learned in the old war
+  ([[the-fey-and-the-fell]]). Somebody else's fear is why realm-09's gargoyles survived.
 - [[wraith-delahaye]] — found them. Her investigation of the frozen Damned map reveals that the
   Guardians exist and **are working on ways to reopen gates between realms** — the lead that takes
   her to [[val-s-castle]] and out of [[realm-08]] ([[the-search-of-the-frozen-map]]). What they are

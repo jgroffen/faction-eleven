@@ -84,6 +84,14 @@ green-skins blame a Celestial incursion — then uncovers [[the-guardians-of-nig
 costs him **progress** instead — he is forced back to the start of the section he is working
 through — and abilities, once earned, are permanent.
 
+## Closing The Gates
+
+**He wants to make sure the old war isn't restarted, and the best way to do that is to close the
+gates.** When [[weresnake-taz]] uses [[the-red-power]] to hunt in [[realm-05]], he and
+[[conjurer-voisin]] decide to capture her or otherwise stop her, and the party follows her through
+09↔05 to rescue [[phoenix-ember]] ([[chapter-08]]). **Shutting that gate is up to realm-09's
+gargoyles**, who let werebeasts pass: once they are freed, he will ask them whether they still should.
+
 ## In-Game Role
 
 Player character. Infiltrator archetype. Currency: Gold. His game style is

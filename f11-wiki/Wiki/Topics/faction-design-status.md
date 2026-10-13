@@ -28,7 +28,7 @@ record.
 | 03 | [[celestials]] | **deep** | **settled** — [[celestials-hero-tower-defence]] | settled through chapter two |
 | 07 | [[green-skins]] | **deep** | **settled** — [[gargoyle-stone-metroidvania]] | **settled** — origin, instructions, antagonist and story spine |
 | 04 | [[mystics]] | **deep** | [[mystics-isometric-action-rpg]] ✅ systems, values untuned | substantial: realm, village, caves, economy, [[the-graceful-servants]] and [[the-harvesting-of-the-werebeasts]] |
-| 05 | [[fey-folk]] | thin — leave | explicitly **not locked down** | **a role, not a story**: one of the three old invader realms |
+| 05 | [[fey-folk]] | medium | [[fey-ley-cleansing]] ✅ core loop; skills and values open | **substantial**: [[the-fey-and-the-fell]], [[the-beheading-of-the-fey-beasts]], the old war's supporting side; lead of [[chapter-08]] |
 | 06 | [[pirates]] | thin — leave | **settled** — [[pirates-open-exploration]]: open world with 4X elements, freedom built in; content unfilled | **a war**: nearly wiped out by the Institute ([[the-pirate-institute-war]]); their dead First Mate is the Damned's protagonist |
 | 09 | [[werebeasts]] | thin — leave | [[werebeast-pack-hunt]], style only | **a role**: old defensive ally, not at war in the present, farmed by the [[mystics]]; its gargoyles are the only intact set, held in stasis — [[chapter-06]] is set in its realm |
 | 08 | [[the-damned]] | thin — leave | **settled** — [[damned-undead-kingdom-rts]], with [[wraith-memory-puzzle]] as its wraith-recruitment minigame | **substantial role**: co-made the gargoyles, [[val]] is theirs, in the waves attacking the Celestials; protagonist's arc settled, her death and unfinished business known ([[the-pirate-institute-war]]) |
@@ -43,9 +43,9 @@ the [[mystics]] ([[realm-04]]) — so the arc stops being contiguous. Realm 07 i
 abandoned gate in [[realm-01]], one of its three enemy gates ([[realm-nearness-and-traversal]]), not by
 walking round the wheel.
 
-**Seven of ten factions have a settled style** (the Pirates' as a style, not yet as content; the
-Mystics' as systems without tuned values). The three without one include the leads of [[chapter-06]]
-([[werebeasts]]) and [[chapter-07]] ([[aliens]]) — which makes the Werebeasts the most urgent design gap.
+**Nine of ten factions have a settled style** (the Pirates' and the Werebeasts' as styles, not yet as
+content or systems; the Mystics' and the Fey Folk's as systems without tuned values). The one without
+is the lead of [[chapter-07]] ([[aliens]]), which makes the Aliens the most urgent design gap.
 
 **Settled styles are not one-per-faction.** Under [[realm-governs-game-style]] a style belongs to a
 realm and is played by whoever visits, so each settled row above is a system that will be **played
@@ -61,7 +61,8 @@ someone.
 [[the-damned]] and [[fey-folk]] each have a **position in the War of the Six Realms** and, for two of
 them, a present-day one. Those roles are **derived from someone else's story** rather than invented
 to fill a table. Their internal lives remain untouched, and should stay that way until there is real
-material. The Damned are the exception on style and protagonist: [[damned-undead-kingdom-rts]],
+material. The Fey Folk are also an exception: [[fey-ley-cleansing]] and [[the-fey-and-the-fell]] give
+them a game and a world. The Damned are the exception on style and protagonist: [[damned-undead-kingdom-rts]],
 [[wraith-memory-puzzle]] and the [[wraith-delahaye]]'s arc arrived as real material, and their faction story is still the gap.
 
 ## What "unconfirmed" means

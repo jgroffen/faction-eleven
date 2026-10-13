@@ -52,7 +52,8 @@ broken down by five specialists — and the trophy on the wall is the proof.
 
 ## Abroad
 
-Not yet defined. Gill joins [[the-realm-champions]] in [[chapter-06]], and the game's convention is
+**In [[realm-05]] werebeasts have to cope with real-time combat**: the pause stays at home
+([[fey-ley-cleansing]]). Otherwise not yet defined. Gill joins [[the-realm-champions]] in [[chapter-06]], and the game's convention is
 that the realm, not the visitor, sets the style ([[realm-governs-game-style]]).
 
 ## Tuning

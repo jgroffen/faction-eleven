@@ -4,7 +4,7 @@ tags:
 topics: []
 status: open
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-13
 expires: 2027-01-01
 sources: []
 source_count: 0
@@ -50,6 +50,11 @@ _The ideas, as the author gave them (Raw interview, Round 69)._
    carriers.
 6. **The fixbots on the path to full awareness.** [[mifix]], [[odie]] and [[autofix-alto]] are
    involved in the path to full awareness, and possibly to influence.
+7. **Taz's hunt is how the champions find out (Raw Round 70, Q r70-28).** Taz hunts the champions
+   over two chapters and three encounters after [[chapter-08]]. **After the second encounter they
+   realise they need every Red Power carrier to reach realm 11.** This is to be explored later. It
+   makes idea 5 "all four", not "maybe all". [[tazs-trophy-hall]] is compiled as the place they
+   eventually confront or recruit her.
 
 ## Clashes to resolve
 

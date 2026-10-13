@@ -42,6 +42,11 @@ See [[the-wheel-of-realms]].
 ([[the-harvesting-of-the-werebeasts]]). **Its gate to [[realm-05]] is open**: [[weresnake-taz]]
 unsealed it to hunt Fey Folk, and realm-09's own barrier lets her through.
 
+## Places
+
+- [[tazs-trophy-hall]] — where [[weresnake-taz]] keeps her trophies, and where the champions must
+  eventually confront or recruit her.
+
 ## Set Here
 
 <!-- gd:set-here:start -->

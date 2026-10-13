@@ -41,14 +41,18 @@ on its merits, and its author was trying to make things better.
 [[tezcatlipoca-the-black]] connected the ten. What followed was not war so much as **contact without
 preparation**:
 
-- The [[green-skins]] and [[werebeasts]] started most of the cross-realm conflicts — raiding and
-  pillaging rather than fighting a war, and uncoordinated with each other.
+- The [[mystics]] and [[celestials]] started it, with incursions into the green-skin, damned and
+  werebeast realms. The [[werebeasts]] hunted into the [[fey-folk]]' realm.
+- Under that pressure the [[green-skins]], [[the-damned]] and [[werebeasts]] formed an alliance.
 - [[the-damned]] used the chaos to take the dead of other realms home for reanimation, and their
   vampires built their ranks by turning the living of other factions. Among the many bodies they
   carried back was [[wraith-delahaye]]'s, taken from the other war of the era
   ([[the-pirate-institute-war]]) — which is why a Pirate First Mate has a grave in [[realm-08]].
-- The [[fey-folk]], [[mystics]] and [[celestials]] eventually allied and pushed back hard, and the
-  raiders' lack of coordination turned the tide against them.
+- The Mystics and Celestials looked for allies of their own and found the [[fey-folk]], who had every
+  reason to oppose the werebeasts. The Fey never left their realm or fought. They supplied the Mystics
+  with Reagents and let Mystic and Celestial forces strike through their gates. The alliance of the
+  three invaded realms then invaded realm-05 to cut that supply, and the Damned found out that Fey
+  cleansing works very well on them ([[the-fey-and-the-fell]]).
 
 That war is [[the-war-of-the-six-realms]] — six realms, and only six: the [[pirates]] and the
 [[institute-of-eight]] fought their own, [[the-pirate-institute-war]], alongside it.

@@ -47,8 +47,12 @@ Reagent. Realm-09 is therefore not a rival or a threat to the Mystics; it is the
 wheel. **Not every realm pays:** the [[aliens]] yield no Reagents, which is why nobody in realm-04 has
 any interest in its gate to them.
 
+**The [[fey-folk]] pay without dying.** Mystics can draw Reagents from Fey Beast magic, and from the
+Crystals that Fey Rings grow, with no kill. Killing a Fey Beast causes corruption and destroys the
+Reagents. Fey Crystals break the economy as badly as werebeast Reagents do ([[the-fey-and-the-fell]]).
+
 **This is [[the-war-of-the-six-realms]]' cause on the Mystics' side.** The Mystics were one of the
-three realms "constantly incurring" into the green-skin, damned and werebeast realms, and
+two realms "constantly incurring" into the green-skin, damned and werebeast realms, and
 [[the-gargoyle-guardians]] were the answer to it. The incursions were a harvest.
 
 ## It Is Happening Again, And It Is New

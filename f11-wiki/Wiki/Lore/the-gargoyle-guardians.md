@@ -68,8 +68,9 @@ plain sight rather than by holding still — and it is the strongest unclaimed r
 
 ## What They Were Built For
 
-They were created to defend against **[[celestials]], [[mystics]] and [[fey-folk]]**, who were
-"constantly incurring into" the green-skin, damned and werebeast realms. In the old world the three
+They were created to defend against **[[celestials]] and [[mystics]]**, who were "constantly incurring
+into" the green-skin, damned and werebeast realms, and against the [[fey-folk]] gates they could strike
+through. In the old world the three
 allied realms were **the invaded**, not the invaders.
 
 This inverts how every other faction in the game experiences the [[green-skins]] — as a horde

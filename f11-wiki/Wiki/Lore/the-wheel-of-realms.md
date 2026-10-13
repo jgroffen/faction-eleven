@@ -119,7 +119,7 @@ The War of the Six Realms ran between two **contiguous arcs** sitting opposite e
 | Bloc | Realms |
 |------|--------|
 | **The invaded** — built the gargoyles | 07 [[green-skins]] · 08 [[the-damned]] · 09 [[werebeasts]] |
-| **The invaders** — "constantly incurring" | 03 [[celestials]] · 04 [[mystics]] · 05 [[fey-folk]] |
+| **The invaders** — "constantly incurring" | 03 [[celestials]] · 04 [[mystics]] · 05 [[fey-folk]] in support, never leaving their realm |
 
 Each bloc is three neighbours in a row, and **two of the three facing pairs are exact opposites** —
 03↔08 and 04↔09, both historic enemies by position. So the wheel does not merely rank nearness;

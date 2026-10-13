@@ -40,7 +40,7 @@ faction has reduced to legend.
 | Bloc | Realms |
 |------|--------|
 | **The invaded** — built the gargoyles | 07 [[green-skins]] · 08 [[the-damned]] · 09 [[werebeasts]] |
-| **The invaders** — "constantly incurring" | 03 [[celestials]] · 04 [[mystics]] · 05 [[fey-folk]] |
+| **The invaders** — "constantly incurring" | 03 [[celestials]] · 04 [[mystics]] · 05 [[fey-folk]] in support: they never left their realm, but the others struck through its gates |
 
 **Four realms took no part:** 01 [[institute-of-eight]], 02 [[robots]], 06 [[pirates]] and 10
 [[aliens]]. The Pirates and the Institute fought their own war in the same era —
@@ -48,9 +48,21 @@ faction has reduced to legend.
 
 ## The Story
 
-Told in full at [[the-linking-of-the-realms]]: the green-skins and werebeasts raided rather than
-warred, the Damned took the dead of other realms home, the Celestials, Mystics and Fey Folk allied
-and pushed back hard, and the invaded built the gargoyle guardians. The barriers those gargoyles
+Told in full at [[the-linking-of-the-realms]]:
+
+1. **The Mystics and Celestials were the aggressors**, with incursions into the green-skin, damned and
+   werebeast realms. The werebeasts, for their part, **hunted into the Fey Folk's realm**.
+2. **The three invaded realms allied.**
+3. **The Mystics and Celestials looked for allies and found the [[fey-folk]]**, who had good reason to
+   oppose the werebeasts. The Fey never left their realm or fought. They supplied the Mystics with
+   Reagents, Mystics helped protect realm-05, and Mystic and Celestial forces could strike through Fey
+   gates.
+4. **The werebeasts, green-skins and Damned invaded realm-05** to cut the Mystics' Reagent supply. It
+   looked easy, since the realm has no combat. The Damned found out instead that Fey cleansing works
+   very well on them, which is why they still fear the Fey ([[the-fey-and-the-fell]]).
+
+All along, the Damned took the dead of other realms home. In the end the invaded built the gargoyle
+guardians. The barriers those gargoyles
 raised ([[the-realm-barriers]]) walled every enemy gate into their three realms, and the sealing
 that followed ([[the-long-disconnection]]) froze the war's last shape for a thousand years.
 

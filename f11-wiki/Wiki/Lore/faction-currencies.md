@@ -36,7 +36,7 @@ faction's own notes own it and this table only points at them.
 | [[institute-of-eight]] | Tablets |
 | [[celestials]] | Relics |
 | [[mystics]] | **Reagents** — _one currency for everything: gear, skills and the cost of casting; the only monster drop. All gear is crafted from them, by NPCs ([[mystics-isometric-action-rpg]])_ |
-| [[fey-folk]] | Crystals |
+| [[fey-folk]] | Crystals — grown slowly by Fey Rings; how the Fey store and move Magic ([[the-fey-and-the-fell]]) |
 | [[pirates]] | Booty |
 | [[werebeasts]] | Teeth |
 | [[green-skins]] | Gold |

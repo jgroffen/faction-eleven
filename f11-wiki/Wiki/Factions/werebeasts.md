@@ -38,6 +38,9 @@ in a specialised role set by their faction class. The faction's story does not e
 The death mechanic is characterful: on death the Werewolf **reverts to a puppy or baby for a
 while**, which reads as a growth/regression system rather than a straight respawn.
 
+Werebeasts have natural regerenerative abilities - the werefox has a deep pool of regenerative
+energy that it can share with other werebeasts to speed healing.
+
 **Currency:** Teeth · **Role archetype:** Front Liner
 
 ## Standing
@@ -73,16 +76,16 @@ alongside the green-skins and the Damned ([[the-guardians-of-night]]).
 Its six faction classes, one per role in [[the-six-classes]] — legacy material from the labs
 website, recorded as the last written state and not as confirmed current design.
 
-| Class         | Faction class |                                                                                |
-| ------------- | ------------- | ------------------------------------------------------------------------------ |
-| Commander     | Weresnake — [[weresnake-taz]] | —                                                                     |
-| Front Liner   | [[werewolf-gill]]  | Defenders of the pack. **← protagonist**                                       |
-| Heavy Weapons | Werebear      | Unstoppable powerhouse.                                                        |
-| Infiltrator   | Werebird      | Cunning reconnaissance.                                                        |
-| Medic         | Werefox       | —                                                                              |
-| Specialist    | Werecat       | I can haz item? Kthxbye!                                                       |
+| Class         | Faction class                 |                                            |
+| ------------- | ----------------------------- | ------------------------------------------ |
+| Commander     | Weresnake — [[weresnake-taz]] | Cold and tactical.                         |
+| Front Liner   | [[werewolf-gill]]             | Defenders of the pack. **← protagonist**   |
+| Heavy Weapons | Werebear                      | Unstoppable powerhouse.                    |
+| Infiltrator   | Werebird                      | Cunning reconnaissance.                    |
+| Medic         | Werefox                       | Empathic healers - can speed regeneration. |
+| Specialist    | Werecat                       | I can haz item? Kthxbye!                   |
 
-The faction's own one-line description on that site: *"Shapechanging eco-terrorists."*
+The faction's own one-line description on that site: *"Shape-changing pack hunters."*
 
 ## Members
 
